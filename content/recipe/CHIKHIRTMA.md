@@ -8,10 +8,10 @@ tags = [
     "dinner",
     "healthy",
 ]
-thumbnail= "images/banana-bread.jpg"
+thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
-Servings: 2 Loaves <!--more-->
+Servings: 6 <!--more-->
 
 #### INGREDIENTS 
 
