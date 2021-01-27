@@ -14,7 +14,7 @@ tags = [
 #thumbnail= "images/kedjenou.jpg"
 +++
 
-Servings: 4<!--more-->
+Servings: 4-6 <!--more-->
 
 #### INGREDIENTS 
 
