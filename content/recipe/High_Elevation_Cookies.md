@@ -7,10 +7,10 @@ tags = [
     "chocolate",
     "dessert",
 ]
-thumbnail= "#images/cookies.jpg"
+#thumbnail="images/cookies.jpg"
 +++
 
-Servings: 18 <!--more-->
+Servings: About 18 Cookies <!--more-->
 
 #### INGREDIENTS 
 
