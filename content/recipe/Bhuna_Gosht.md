@@ -52,7 +52,7 @@ For Whole Spices:
 3. Add garlic cloves and ginger slices. Saute until golden.
 4. Mix in the onions and fry until they are soft and translucent. At this point you can add the goat when it is finished cooking.
 5. Add in yogurt and salt and let it cook on high heat until the yogurt leaves water on the sides.
-6. Cover the pan and allow mixture to simmer, about 5 min.
+6. Turn down the heat to medium- high and cover the pan. Allow mixture to simmer, about 5 min.
 7. Stir in the coriander powder, turmeric, red chilli powder and mix together.
 8. Adjust to high heat again and fry until oil leaves from the sides. Keep adding ghee while frying (about 4 Tbsp.).
 9. Once the oil seperates, check the salt and adjust if needed.
