@@ -6,7 +6,7 @@ tags = [
     "chicken",
     "lunch",
     "dinner",
-    "jamacian",
+    "Jamaican",
 ]
 #thumbnail= "images/jerkchicken.jpg"
 +++
