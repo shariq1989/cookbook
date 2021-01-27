@@ -32,6 +32,7 @@ For the Meat Mixture:
 * 1 Package Carrots, Julienne
 
 For the Bowl: 
+
 * 4 Scallions, sliced, greens and whites reserved separately
 * 1 Package Edamame 
 * 1 Tsp. Toasted Sesame Seeds
