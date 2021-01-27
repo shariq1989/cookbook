@@ -17,7 +17,8 @@ Adapted From: Milkstreet
 
 #### INGREDIENTS 
 
-* For the Jerk Seasoning
+For the Jerk Seasoning
+
 * 1 Tbsp. Onion Powder
 * 1 Tbsp. Garlic Powder
 * 2 Tsp. Cayenne Pepper
@@ -31,7 +32,8 @@ Adapted From: Milkstreet
 * 1 Tsp. Thyme, dried
 * 1 Tbsp. Parsley, dried
 
-* For the Fricassee
+For the Fricassee
+
 * 4 Tbsp. Jamaican Jerk Seasoning, divided 
 * Kosher Salt and Black Pepper (to taste) 
 * 3 Lbs. Bone-in, Skin-on Chicken Thigh, trimmed and patted dry
