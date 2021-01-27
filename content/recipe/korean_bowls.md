@@ -32,6 +32,7 @@ For the Meat Mixture:
 * 1 Package Carrots, Julienne
 
 For the Bowl: 
+
 * 2 Cups Cooked Jasmine Rice
 * 4 Scallions, sliced, greens and whites reserved separately
 * 1 Package Edamame 
