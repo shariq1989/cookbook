@@ -1,5 +1,5 @@
 +++
-title = "Birthday Waffles"
+title = "Crispy Belgium Waffles"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -13,17 +13,17 @@ Servings: 4 <!--more-->
 
 #### INGREDIENTS 
 
-* ¾ CUP Flour 
-* ¼ CUP Cornstarch 
-* ½ TSP. Baking Powder 
-* ½ TSP. Salt 
-* 1 CUP Milk 
-* ½ CUP Oil 
+* ¾ Cup Flour 
+* ¼ Cup Cornstarch 
+* ½ Tsp. Baking Powder 
+* ½ Tsp. Salt 
+* 1 Cup Milk 
+* ½ Cup Vegetable Oil 
 * 1 Egg 
-* 1 ½ TSP. Sugar 
-* ¾ TSP. Vanilla Extract 
+* 1 ½ Tsp. Sugar 
+* ¾ Tsp. Vanilla Extract 
 
 #### DIRECTIONS 
 1. Mix ingredients well. Let stand for 30 min. 
 2. Preheat the waffle iron. 
-3. Add ¼ CUP mix to the waffle iron. 
+3. Add ¼ Cup mix to the waffle iron. 
