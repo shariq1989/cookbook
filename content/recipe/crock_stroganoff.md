@@ -1,5 +1,5 @@
 +++
-title = " Quick Stroganoff"
+title = " Easy Stroganoff"
 date = "2020-01-19"
 description = ""
 tags = [
