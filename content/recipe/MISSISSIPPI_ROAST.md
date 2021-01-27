@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Mississippi Roast"
+title = "Mississippi Roast"
 date = "2020-01-27"
 description = ""
 tags = [
