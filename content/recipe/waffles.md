@@ -1,5 +1,5 @@
 +++
-title = "Crispy Belgium Waffles"
+title = "Crispy Belgium Waffle"
 date = "2020-01-18"
 description = ""
 tags = [
