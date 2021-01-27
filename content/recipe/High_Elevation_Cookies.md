@@ -14,8 +14,6 @@ Servings: About 18 Cookies <!--more-->
 
 #### INGREDIENTS 
 
-For the Broth: 
-
 * 1 Cup Softened Butter 
 *	1 Cup Sugar 
 *	1 Cup Brown Sugar 
