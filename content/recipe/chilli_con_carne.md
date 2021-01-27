@@ -1,5 +1,5 @@
 +++
-title = "Chilli Con Carne"
+title = "Chili Con Carne"
 date = "2020-01-27"
 description = ""
 tags = [
@@ -20,7 +20,7 @@ Servings: 6-8 <!--more-->
 * 2 Ancho Chilis, dried
 * 1 Can Chipotles En Adobo (Use only 2 Chilis and 2 Tbsp. Chipotle Sauce) 
 * 2 Qts. Chicken Broth  
-* 4 Lbs. Beef chuck, cut into 1 in. pieces. 
+* 4 Lbs. Beef Chuck, cut into 1 in. pieces. 
 * 2 Tbsp. Olive Oil 
 * 1 Large Yellow Onion, diced 
 * ½ Tsp. Cinnamon, ground 
