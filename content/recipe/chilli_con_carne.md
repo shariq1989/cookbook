@@ -9,49 +9,48 @@ tags = [
     "tex-mex",
     "stew"
 ]
-#thumbnail= "images/carnitas.jpg"
+#thumbnail= "images/chiliconcarne.jpg"
 +++
 
 Servings: 6-8 <!--more-->
 
 #### INGREDIENTS 
 
-* 2 Arbol Chilis 
-* 2 Ancho Chilis
-* Chipotles en Adobo, 2 Chilis and 2 TBSP. Chipotle Sauce 
-* 2 Quarts Chicken Broth 
-* 4 LBS. Beef chuck, cut into 1in. Pieces. 
-* 2 TBSP. Oil 
-* 1 Large Onion, diced 
-* ½ TSP. Cinnamon 
-* 1 TBSP. Cumin 
-* ¼ TSP. All Spice 
-* 2 TSP. Oregano 
-* 2 TBSP. Fish Sauce 
-* 2 TBSP. Apple Cider Vinegar 
+* 2 Arbol Chilis, dried 
+* 2 Ancho Chilis, dried
+* 1 Can Chipotles En Adobo (Use only 2 Chilis and 2 Tbsp. Chipotle Sauce) 
+* 2 Qts. Chicken Broth  
+* 4 Lbs. Beef chuck, cut into 1 in. pieces. 
+* 2 Tbsp. Olive Oil 
+* 1 Large Yellow Onion, diced 
+* ½ Tsp. Cinnamon, ground 
+* 1 Tbsp. Cumin, ground
+* ¼ Tsp. All Spice, ground 
+* 2 Tsp. Oregano, dried 
+* 2 Tbsp. Fish Sauce 
+* 2 Tbsp. Apple Cider Vinegar 
 * 4 Garlic Cloves, minced 
-* 2 Cans of black beans 
-* 1 TSP. Worcestershire Sauce 
+* 2 Cans of black beans, drained and rinsed 
+* 1 Tsp. Worcestershire Sauce 
 * ½ Can of Tomato Paste
 
-For garnish
+For Garnish
 
-* Diced onion
-* Cilantro
-* Cheese
-* Avocado
-* Corn tortillas
+* Yellow Onion, Diced
+* Cilantro, Chopped
+* Shredded Cheese
+* Avocado, cubed 
+* Corn tortillas, warmed 
 
   
 #### DIRECTIONS 
 
-1. Add all the chilis to the instant pot and let saute, 1 min. 
-2. Remove the chilis and add them to a blender with the chicken broth. 
-3. Season the chuck with salt and pepper. 
-4. Oil the Instant Pot and add some of the chuck to brown. Repeat this until all the meat has had a chance to brown. Set the meat aside. 
-5. Add the onions to the Instant Pot and cook until soft. 
+1. Add chilis to the instant pot or pressure cooke and cook until somewhat blistered, 1 min. 
+2. Remove chilis and add them to a blender with the chicken broth, mix completely. 
+3. Season chuck with salt and pepper. 
+4. Oil the Instant Pot and add a layer of chuck and allow it to sear. Repeat this until all the meat has had a chance to brown. Set the meat aside. 
+5. Add onions to the Instant Pot and cook until translucent and softened. 
 6. Combine the garlic, cinnamon, cumin, all spice, and oregano. Let cook for 1-2 min. 
-7. Add the meat, blender chili puree, worcestershire sauce, apple cider vinegar, fish sauce, black beans and tomato. 
-8. Set the Instant Pot to the soup setting and cook for 25 min. 
-9. Service with corn tortillas and garnish with diced onion, cilantro, cheese, avocado. 
-
+7. Add meat, blender chili puree, worcestershire sauce, apple cider vinegar, fish sauce, black beans and tomato. 
+8. Set the Instant Pot to high pressure 40 min. 
+9. Service with warm corn tortillas and garnish with onion, cilantro, cheese, and avocado. 
