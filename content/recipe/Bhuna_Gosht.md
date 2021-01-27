@@ -48,7 +48,7 @@ For Whole Spices:
 #### DIRECTIONS 
 
 1. To begin, wash the goat and add it to an Instant Pot or pressure cooker with 1 Cup Water and 1 Tsp. of Salt. Cook on high pressure for 40 min. with a quick release (This is for high-elevation. You can reduce cooking time for lower elevation). 
-2. While meat is cooking, heat oil (1/2 Cup) in a heavy bottomed pan and add whole spices until they begin to crackle.
+2. While meat is cooking, heat oil (1/3 Cup) in a heavy bottomed pan and add whole spices until they begin to crackle.
 3. Add garlic cloves and ginger slices. Saute until golden.
 4. Mix in the onions and fry until they are soft and translucent. At this point you can add the goat when it is finished cooking.
 5. Add in yogurt and salt and let it cook on high heat until the yogurt leaves water on the sides.
