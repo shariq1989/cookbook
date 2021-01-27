@@ -5,7 +5,7 @@ description = ""
 tags = [
     "dinner",
     "vegetarian",
-    "indian"
+    "indian",
     "soup"
 ]
 thumbnail= "images/goa-daal.jpg"
