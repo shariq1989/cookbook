@@ -22,28 +22,28 @@ Adapted from: Archanas Kitchen
 For Gosht: 
 
 * 1 1/2 Lb. Goat, cut into 1-2in. pieces (rinse the meat before cooking) 
-* 2 Yellow Onions, thinly sliced
-* 1/2 Cup Garlic Cloves
+* 2 Medium Yellow Onions, thinly sliced
+* 1/4 Cup Garlic Cloves
 * 4 in. Ginger, sliced
 * 3/4 Cup Full-Fat Yogurt 
 * 2-1/2 Tbsp. Coriander Powder 
 * 2 Tsp. Red Chilli Powder (Not American Chili Powder) 
 * 1/2 Tsp. Turmeric Powder
 * Salt, to taste
-* 1/2 Cup Ghee
+* 1/3 Cup Ghee
 * 4 Tbsp. Ghee 
 * 2 Tbsp. Cilantro, chopped
 
-For Whole Spices
+For Whole Spices:
 
-6 Dry Red Chilis
-2 Bay Leaves
-1-1/2 in. Cinnamon Stick
-5 Cloves
-5 Whole Black Peppercorns
-5 Green Cardamom Pods
-2 Black Cardamom Pods
-1/2 Tsp. Nutmeg, ground
+* 6 Dry Red Chilis
+* 2 Bay Leaves
+* 1-1/2 in. Cinnamon Stick
+* 5 Cloves
+* 5 Whole Black Peppercorns
+* 5 Green Cardamom Pods
+* 2 Black Cardamom Pods
+* 1/2 Tsp. Nutmeg, ground
 
 #### DIRECTIONS 
 
