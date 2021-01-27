@@ -1,5 +1,5 @@
 +++
-title = "Crockpot Stroganoff"
+title = "Stroganoff"
 date = "2020-01-19"
 description = ""
 tags = [
@@ -10,20 +10,20 @@ tags = [
 thumbnail= "images/stroganoff.jpg"
 +++
 
-Servings: 4 <!--more-->
+Servings: 6 <!--more-->
 
 #### INGREDIENTS 
 * 1 Package of Egg Noodles 
-* 2 LBS. Beef Stew Meat 
+* 2 Lbs. Beef Stew Meat 
 * 2 Cans of Cream of Mushroom 
 * 1 Package Onion Soup Mix
-* ½ Onion, diced 
+* ½ Yellow Onion, diced 
 * 3 Garlic Cloves, diced 
-* ½ CUP of Mushrooms, sliced 
+* ½ Cup Button Mushrooms, sliced 
 
 * Optional: 
 * 1 Spoon of Sour Cream 
-* 4 OZ. Cream Cheese 
+* 4 Oz. Cream Cheese 
 
 
 #### DIRECTIONS 
