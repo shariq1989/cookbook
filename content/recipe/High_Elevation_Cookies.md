@@ -5,7 +5,8 @@ description = ""
 tags = [
     "cookies",
     "chocolate",
-    "dessert"
+    "dessert", 
+    "baking"
 ]
 #thumbnail="images/cookies.jpg"
 +++
@@ -23,7 +24,7 @@ Servings: About 18 Cookies <!--more-->
 * 1 tsp Baking Soda 
 * 2 tsp Hot Water 
 * ½ tsp Salt 
-* 2 cup Chocolate Chips 
+* 2 cup Unsweetened Chocolate Chips 
 
 #### DIRECTIONS 
 
@@ -33,4 +34,4 @@ Servings: About 18 Cookies <!--more-->
 4. Dissolve baking soda into hot water and add it to the mixture along with the salt. 
 5. Stir in the flour in one cup at a time followed by the chocolate chips. 
 6. Drop by large spoonfuls onto an ungreased baking pan. 
-7. Bake for 15 min. until the outside is brown. 
+7. Bake for 15 minutes until the outside is brown. 
