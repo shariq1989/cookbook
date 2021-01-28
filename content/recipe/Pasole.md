@@ -24,12 +24,12 @@ For the Pasole:
 * 1 tbsp Oregano
 * 3 Bay Leaves 
 * 1 tbsp Avocado Oil 
-* ½ Ancho Chili Powder or ½ can of Chipotle in Adobo Sauce 
-* 2½ lb Pork Butt cut into 1 in. pieces
+* ½ Ancho Chili Powder or ½ can Chipotle in Adobo Sauce 
+* 2½ lb Pork Butt cut into 1 inch pieces
 * 1 large White Onion, diced 
 * 6 Garlic Cloves, minced 
 * 4 cup of Chicken Stock or 4 cup of Water and 2 tbsp Chicken Better Than Bouillon
-* 2 cans Hominy, drained and rinsed 
+* 2 large cans Hominy, drained and rinsed 
 
 For the Garnish: 
 
@@ -40,14 +40,12 @@ For the Garnish:
 * Avocado, cubed 
 * Chili Flakes 
 * Oregano 
-
   
 #### DIRECTIONS 
 
 1. Oil the Instant Pot or pressure cooker on saute mode until the oil begins to smoke. 
-2. Add a layer of pork to the bottom of the pan and let it brown, 3-4 min. Repeat this until all the meat has had a chance to brown. Set aside. 
+2. Add a layer of pork to the bottom of the pan and let it brown, 3-4 minutes. Repeat this until all the meat has had a chance to brown. Set aside. 
 3. Add onions to the Instant Pot and cook until translucent and softened. 
-4. Combine remaining ingredients and the meat. Cook on high pressure for 30-40 min. 
+4. Combine remaining ingredients and return the meat to the pot. Cook on high pressure for 30-40 minutes. 
 5. Before serving, add salt to taste. 
-6. Garnish with radishes, cabbage, cilantro, lime wedges, avocado, chili flakes, and oregano. 
-    
+6. Garnish with radishes, cabbage, cilantro, lime wedges, avocado, chili flakes, and oregano.    
