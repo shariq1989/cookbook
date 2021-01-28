@@ -24,7 +24,7 @@ Servings: 10-12 <!--more-->
 * 1 tsp Ancho Chili Powder or 1 tbsp Chipotle in Adobo (just the sauce)
 * ½ tsp Black Pepper 
 * 1 tsp Ground Cinnamon
-* 1 Red Onion, diced 
+* 1 Large Red Onion, diced, plus more for garnish
 * 3 Garlic Cloves
 * 2 tsp Oregano 
 * 1½ cup Orange Juice (no pulp)
