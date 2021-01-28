@@ -1,7 +1,7 @@
 baseURL = "https://upbeat-hopper-465de6.netlify.app/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "The Jamil Ghar"
+title = "Jamil Ghar"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -19,7 +19,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "The Jamil Ghar"
+#title = "The Jamil Ghar"
 #author = "Tressa Jamil"
 #copyright = "2020-2021"
 description = "From Our Table to Yours"
