@@ -9,7 +9,7 @@ tags = [
     "healthy",
     "mediterranean"
 ]
-# thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/PXL_20201214_001129729.MP_2.jpg"
 +++
 
 Servings: 4 <!--more-->
