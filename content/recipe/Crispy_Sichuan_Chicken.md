@@ -8,7 +8,7 @@ tags = [
     "chicken",
     "chinese"
 ]
-thumbnail= "images/crispy-chicken.jpg"
+thumbnail= "images/"
 +++
 
 Servings: 4 <!--more-->
