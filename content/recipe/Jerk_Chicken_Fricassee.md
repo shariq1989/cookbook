@@ -8,7 +8,7 @@ tags = [
     "dinner",
     "Jamaican",
 ]
-#thumbnail= "images/jerkchicken.jpg"
+thumbnail= "images/PXL_20210121_235127580.MP.jpg"
 +++
 
 Servings: 6 <!--more-->
