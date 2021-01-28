@@ -14,13 +14,13 @@ thumbnail= "images/banana-bread.jpg"
 Servings: 2 Loaves <!--more-->
 
 #### INGREDIENTS 
-* 2 Cups Sugar 
-* 2 Sticks of Butter 
+* 2 cup Sugar 
+* 2 sticks of Butter 
 * 5 Eggs 
-* 2 Cups of flour 
-* 6 Tbsp. Milk 
-* 2 Tsp. Baking Soda
-* 5 Small Bananas 
+* 2 cup of Flour 
+* 6 tbsp Milk 
+* 2 tsp Baking Soda
+* 5 small Bananas 
 * Optional: Add chocolate chips or walnuts to taste
 
 #### DIRECTIONS 

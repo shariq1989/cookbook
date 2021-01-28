@@ -5,7 +5,7 @@ description = ""
 tags = [
     "cookies",
     "chocolate",
-    "dessert",
+    "dessert"
 ]
 #thumbnail="images/cookies.jpg"
 +++
@@ -14,16 +14,16 @@ Servings: About 18 Cookies <!--more-->
 
 #### INGREDIENTS 
 
-* 1 Cup Softened Butter 
-*	1 Cup Sugar 
-*	1 Cup Brown Sugar 
-*	2 Eggs 
-*	2 Tsp. Vanilla Extract 
-*	3 Cups Flour 
-*	1 Tsp. Baking Soda 
-*	2 Tsp. Hot Water 
-*	½ Tsp. Salt 
-* 2 Cups Chocolate Chips 
+* 1 cup Softened Butter 
+* 1 cup Sugar 
+* 1 cup Brown Sugar 
+* 2 Eggs 
+* 2 tsp Vanilla Extract 
+* 3 cup Flour 
+* 1 tsp Baking Soda 
+* 2 tsp Hot Water 
+* ½ tsp Salt 
+* 2 cup Chocolate Chips 
 
 #### DIRECTIONS 
 

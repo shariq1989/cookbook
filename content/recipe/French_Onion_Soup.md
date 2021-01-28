@@ -18,18 +18,18 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 
 #### INGREDIENTS 
 
-* 6 Tbsp. Unsalted Butter, plus more for toast 
-* 3 lbs. Yellow Onion, sliced thinly
-* ½ Tsp. Baking Soda 
+* 6 tbsp Unsalted Butter, plus more for toast 
+* 3 lb Yellow Onion, sliced thinly
+* ½ tsp Baking Soda 
 * Kosher Salt and Ground Pepper, to taste  
-* ½ Cup Dry Sherry 
-* 2 Qts. Chicken Broth     
+* ½ cup Dry Sherry 
+* 2 qt Chicken Broth     
 * 2 Thyme Sprigs 
 * 1 Bay Leaf 
-* 1 Tsp. Fish Sauce 
-* 1 Tsp. Apple Cider Vinegar 
+* 1 tsp Fish Sauce 
+* 1 tsp Apple Cider Vinegar 
 * 1 Medium Garlic Clove 
-* 1 Lb. Gruyere Cheese, grated 
+* 1 lb Gruyere Cheese, grated 
 
 
 #### DIRECTIONS 

@@ -15,26 +15,26 @@ Servings: 4 <!--more-->
 
 #### INGREDIENTS 
 
-* ⅓ Cup Soy Sauce 
-* 3 Tbsp. Rice Wine Vinegar 
-* 4 Tbsp. White Sugar, divided 
-* 2 Large Eggs Whites, lightly beaten 
-* 2 Lbs. Chicken Thighs, skinless and cut into 1 in. pieces 
-* 2 Cups Corn Starch
-* ½ Cup Sichuan Peppers, toasted and finely ground 
-* 2 Tsp. Kosher Salt 
-* 2 Qts. Peanut Oil 
+* ⅓ cup Soy Sauce 
+* 3 tbsp Rice Wine Vinegar 
+* 4 tbsp White Sugar, divided 
+* 2 large Eggs Whites, lightly beaten 
+* 2 lb Chicken Thighs, skinless and cut into 1 in. pieces 
+* 2 cup Corn Starch
+* ½ cup Sichuan Peppers, toasted and finely ground 
+* 2 tsp Kosher Salt 
+* 2 qt Peanut Oil 
 * 8 Scallion, thinly sliced at an angle 
-* 1 Cup Cilantro Leaves, chopped 
-* 6 Tbsp. Sichuan Oil 
-* 1 Tbsp. Sichuan Seasoning Salt 
+* 1 cup Cilantro Leaves, chopped 
+* 6 tbsp Sichuan Oil 
+* 1 tbsp Sichuan Seasoning Salt 
 
 
 #### DIRECTIONS 
-1. In a large bowl, combine soy sauce, vinegar, 2 Tbsp. sugar, and the egg whites. Stir until sugar dissolves. 
+1. In a large bowl, combine soy sauce, vinegar, 2 tbsp sugar, and the egg whites. Stir until sugar dissolves. 
 2. Add chicken to the mixture and stir to coat, cover and let marinate for 20-30 min. 
 3. Meanwhile, set a wire rack in a rimmed baking sheet. 
-4. In a large bowl, stir together 2 Tbsp. sugar, cornstarch, sichuan peppers, and salt. 
+4. In a large bowl, stir together 2 tbsp sugar, cornstarch, sichuan peppers, and salt. 
 5. Drain chicken in a colander. 
 6. Add ⅓ of the chicken to the cornstarch and toss to coat completely, pressing the pieces into the mixture. 
 7. Transfer coated chicken to a mesh strainer and shake to remove excess cornstarch. Transfer to the prepared rack in a single layer and repeat with the remaining chicken and cornstarch mixture. 

@@ -3,11 +3,15 @@ title = "Easy Chicken Biriyani"
 date = "2020-01-18"
 description = ""
 tags = [
-    "rick",
     "lunch",
     "dinner",
     "indian",
-    "pakistani"
+    "pakistani",
+    "chicken",
+    "rice",
+    "international",
+    "pressure cooker",
+    "instant pot"
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
@@ -16,17 +20,17 @@ Servings: 8 <!--more-->
 
 #### INGREDIENTS 
 
-* 2 Tbsp. Ghee 
-* 1 1/2 Red Onion, thinly sliced, plus more for garnish 
-*	1 Tsp. Ginger Paste 
-*	1 Tsp. Garlic Paste 
-*	Biriyani Masala: 1 Package Laziza Karahi Masala Mix or 1/2 Package Shan Chicken Biriyani Mix 
-* 1 Tsp. Red Chili Powder (Not American Red Chili Powder) 
-* 1 Tsp. Salt 
+* 2 tbsp Ghee 
+* 1½ Red Onion, thinly sliced, plus more for garnish 
+* 1 tsp Ginger Paste 
+* 1 tsp Garlic Paste 
+* Biriyani Masala: 1 Package Laziza Karahi Masala Mix or 1/2 Package Shan Chicken Biriyani Mix 
+* 1 tsp Red Chili Powder (Not American Red Chili Powder) 
+* 1 tsp Salt 
 * 3-4 Tomatoes, blended in food processor
-* 2 Tbsp. Full-Fat Yogurt 
-* 1 1/2 Cup Long-Grain Basmati Rice, pre-soaked and divided. 
-* 2 Lbs. Chicken Thighs and Legs 
+* 2 tbsp Full-Fat Yogurt 
+* 1½ Cup Long-Grain Basmati Rice, pre-soaked and divided. 
+* 2 lb Chicken Thighs and Legs 
 * Garnish: Red Onion, thinly sliced and Cilantro, chopped
 
 

@@ -19,30 +19,30 @@ Adapted from: Milkstreet
 
 For the Broth: 
 
-* 1 Bunch Cilantro, ends reserved
-* 1 Bunch Dill, ends reserved
+* 1 bunch Cilantro, ends reserved
+* 1 bunch Dill, ends reserved
 * 1 Garlic Head 
-* 2 1/2 - 3 Lbs. Bone-in, Skin-on Chicken 
-* 10 Cups of Water 
-* 1 Large White Onion, quartered 
-* 2 Tsp. Kosher Salt 
-* 1 Tsp. Peppercorns 
-* ½ Tsp. Coriander Seeds 
-* ½ Tsp. Red Pepper Flakes 
+* 2½ - 3 Lbs. Bone-in, Skin-on Chicken 
+* 10 cups of Water 
+* 1 large White Onion, quartered 
+* 2 tsp Kosher Salt 
+* 1 tsp Peppercorns 
+* ½ tsp Coriander Seeds 
+* ½ tsp Red Pepper Flakes 
 * 1 Cinnamon Stick 
 * 2 Bay Leaves 
 
 For the Soup: 
 
-* 5 Medium Carrots, Chopped 
-* 1 Large White Onion, Finely Diced 
-* 3 Tbsp. Salted Butter 
-* ½ Tsp. Kosher Salt*  
+* 5 medium Carrots, Chopped 
+* 1 large White Onion, Finely Diced 
+* 3 tsp Salted Butter 
+* ½ tsp Kosher Salt*  
 * ½ Dry Vermouth 
-* 1 Tbsp. Flour 
-* 6 Large Egg Yolks 
-* ½ Cup Lemon Juice (1-2 Lemons) 
-* Ground Black Pepper (To taste)
+* 1 tsp Flour 
+* 6 large Egg Yolks 
+* ½ cup Lemon Juice (1-2 Lemons) 
+* Black Pepper, ground (to taste)
 
 
 #### DIRECTIONS 

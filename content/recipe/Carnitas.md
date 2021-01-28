@@ -7,7 +7,9 @@ tags = [
     "lunch",
     "dinner",
     "mexican",
-    "tacos"
+    "tacos",
+    "pressure cooker",
+    "instant pot"
 ]
 #thumbnail= "images/carnitas.jpg"
 +++
@@ -16,24 +18,24 @@ Servings: 10-12 <!--more-->
 
 #### INGREDIENTS 
 
-* 2 Tbsp. Avocado Oil 
-* 2 Tsp. Salt 
-* 1 Tsp. Ground Cumin 
-* 1 Tsp. Ancho Chili Powder or 1 Tbsp Chilis En Adobo (just the sauce)
-* ½ Tsp. Black Pepper 
-* 1 Tsp. Ground Cinnamon
+* 2 tbsp Avocado Oil 
+* 2 tsp Salt 
+* 1 tsp Ground Cumin 
+* 1 tsp Ancho Chili Powder or 1 tbsp Chipotle in Adobo (just the sauce)
+* ½ tsp Black Pepper 
+* 1 tsp Ground Cinnamon
 * 1 White Onion, diced 
 * 3 Garlic Cloves
-* 2 Tsp. Oregano 
-* 1 ½ Cup Orange Juice (No Pulp)
-* ½ Cup  Lime Juice (2-3 Limes) 
+* 2 tsp Oregano 
+* 1½ cup Orange Juice (no pulp)
+* ½ cup Lime Juice (2-3 limes) 
 * 1 Jalapeno (stems and seeds removed), diced 
 * 2 Bay Leaves 
 * 1 Cinnamon Stick 
-* 5 LBS. Pork Butt 
+* 5 lb Pork Butt 
 * Liquid Smoke (to taste) 
 * Serve on Corn Tortilla
-* Garnish Taco with chopped onion and cilantro 
+* Garnish taco with Chopped Onion and Cilantro 
   
 #### DIRECTIONS 
 

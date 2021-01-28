@@ -5,7 +5,9 @@ description = ""
 tags = [
     "dinner",
     "beef",
-    "italian"
+    "italian",
+    "crockpot",
+    "slow cooker"
 ]
 thumbnail= "images/stroganoff.jpg"
 +++
@@ -13,17 +15,17 @@ thumbnail= "images/stroganoff.jpg"
 Servings: 6 <!--more-->
 
 #### INGREDIENTS 
-* 1 Package of Egg Noodles 
-* 2 Lbs. Beef Stew Meat 
-* 2 Cans of Cream of Mushroom 
-* 1 Package Onion Soup Mix
+* 1 package of Egg Noodles 
+* 2 lb Beef Stew Meat 
+* 2 cans of Cream of Mushroom 
+* 1 package Onion Soup Mix
 * ½ Yellow Onion, diced 
 * 3 Garlic Cloves, diced 
-* ½ Cup Button Mushrooms, sliced 
+* ½ cup Button Mushrooms, sliced 
 
 * Optional: 
-* 1 Spoon of Sour Cream 
-* 4 Oz. Cream Cheese 
+* 1 spoon of Sour Cream 
+* 4 oz Cream Cheese 
 
 
 #### DIRECTIONS 

@@ -18,29 +18,29 @@ Servings: 6-8 <!--more-->
 
 * 2 Arbol Chilis, dried 
 * 2 Ancho Chilis, dried
-* 1 Can Chipotles En Adobo (Use only 2 Chilis and 2 Tbsp. Chipotle Sauce) 
-* 2 Qts. Chicken Broth  
-* 4 Lbs. Beef Chuck, cut into 1 in. pieces. 
-* 2 Tbsp. Olive Oil 
-* 1 Large Yellow Onion, diced 
-* ½ Tsp. Cinnamon, ground 
-* 1 Tbsp. Cumin, ground
-* ¼ Tsp. All Spice, ground 
-* 2 Tsp. Oregano, dried 
-* 2 Tbsp. Fish Sauce 
-* 2 Tbsp. Apple Cider Vinegar 
+* 1 can Chipotles En Adobo (Use only 2 Chilis and 2 tbsp Chipotle Sauce) 
+* 2 qt Chicken Broth  
+* 4 lb Beef Chuck, cut into 1 in. pieces. 
+* 2 tbsp Olive Oil 
+* 1 large Yellow Onion, diced 
+* ½ tsp Cinnamon, ground 
+* 1 tbsp Cumin, ground
+* ¼ tsp All Spice, ground 
+* 2 tsp Oregano, dried 
+* 2 tbsp Fish Sauce 
+* 2 tbsp Apple Cider Vinegar 
 * 4 Garlic Cloves, minced 
-* 2 Cans of black beans, drained and rinsed 
-* 1 Tsp. Worcestershire Sauce 
-* ½ Can of Tomato Paste
+* 2 cans of Black Beans, drained and rinsed 
+* 1 tsp Worcestershire Sauce 
+* ½ can of Tomato Paste
 
 For Garnish
 
-* Yellow Onion, Diced
-* Cilantro, Chopped
-* Shredded Cheese
+* Yellow Onion, diced
+* Cilantro, chopped
+* Shredded cheese
 * Avocado, cubed 
-* Corn tortillas, warmed 
+* Corn Tortillas, warmed 
 
   
 #### DIRECTIONS 

@@ -15,14 +15,14 @@ Servings: 5 <!--more-->
 #### INGREDIENTS 
 
 * 3 Red Potatoes, peeled and cubed 
-* 1 Tbsp. Avocado Oil 
-* 1 Lb. Chorizo 
+* 1 tbsp Avocado Oil 
+* 1 lb Chorizo 
 * 4 Scallions, green parts chopped 
 * 6 Eggs 
 * 5 Flour Tortillas 
-* ½ Cup Shredded Cheese 
+* ½ cup Shredded Cheese 
 * ½ Yellow Onion, diced 
-* 1 Tsp. Garlic Powder 
+* 1 tsp Garlic Powder 
 * Salt (to taste)
 
 #### DIRECTIONS 

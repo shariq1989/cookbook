@@ -7,6 +7,7 @@ tags = [
     "lunch",
     "snack",
     "healthy",
+    "keto"
 ]
 #thumbnail= "images/deviledegg.jpg"
 +++
@@ -15,10 +16,10 @@ Servings: 12 <!--more-->
 
 #### INGREDIENTS 
 * 6 Eggs 
-* 2 Tbsp. Spicy Mustard
-* 2 1/2 Tbsp. Mayonnaise
-* 1/2 Tsp. Smoked Paprika (Regular Paprika is fine) 
-* 1 Tsp. Fresh Dill, chopped
+* 2 tbsp Spicy Mustard
+* 2½ tbsp Mayonnaise
+* ½ tsp Smoked Paprika (Regular Paprika is fine) 
+* 1 tsp Fresh Dill, chopped
 * Salt (to taste)  
 
 #### DIRECTIONS 

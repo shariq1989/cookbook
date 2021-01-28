@@ -7,6 +7,9 @@ tags = [
     "lunch",
     "dinner",
     "hearty",
+    "beef",
+    "instant pot",
+    "pressure cooker"
 ]
 # thumbnail= "images/beefbarleystew.jpg"
 +++
@@ -15,21 +18,21 @@ Servings: 6-8 <!--more-->
 
 #### INGREDIENTS 
 
-* 2 lbs. Boneless Short Ribs (Cut into 1 in. pieces) 
-* Salt and Pepper (to taste) 
-* 2 Tbsp. Olove Oil 
-*	2 Medium Carrots, diced 
-*	2 Medium Celery Stalks, diced 
-*	2 Yellow Onion, diced 
-*	½ tsp. Marmite or Fish Sauce (for Umami) 
-*	1 tsp. Soy Sauce 
-*	2 Garlic Cloves, minced 
-*	1 tbsp. Tomato Paste
-*	1 Qt. Chicken Stock or 1 Qt. Water and 1 Tbsp. Better Than Bouillon
-*	1 Medium Tomato, quartered 
-*	1 Cup Pearl Barley 
-*	2 Bay Leaves 
-*	1 Cup Kale (Stems removed) 
+* 2 lb Boneless Short Ribs (Cut into 1 in. pieces)   
+* 2 tbsp Olive Oil 
+* 2 medium Carrots, diced 
+* 2 medium Celery Stalks, diced 
+* 2 Yellow Onion, diced 
+* ½ tsp Marmite or Fish Sauce (for Umami) 
+* 1 tsp Soy Sauce 
+* 2 Garlic Cloves, minced 
+* 1 tbsp Tomato Paste
+* 1 qt Chicken Stock or 1 Qt. Water and 1 Tbsp. Better Than Bouillon
+* 1 medium Tomato, quartered 
+* 1 cup Pearl Barley 
+* 2 Bay Leaves 
+* 1 cup Kale (Stems removed) 
+* Salt and Pepper (to taste)
 
 #### DIRECTIONS 
 

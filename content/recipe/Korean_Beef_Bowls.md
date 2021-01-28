@@ -20,23 +20,23 @@ Servings: 4<!--more-->
 
 For the Meat Mixture: 
 
-* ¼ Cup Soy Sauce 
-* 5 Tsp. Brown Sugar 
-* 1½ Tsp. Rice Wine Vinegar 
-* ¼ Tsp. Pepper 
-* 2 Tsp. Sesame Oil 
-* 1 Tsp. Fish Sauce 
+* ¼ cup Soy Sauce 
+* 5 tsp Brown Sugar 
+* 1½ tsp Rice Wine Vinegar 
+* ¼ tsp Pepper 
+* 2 tsp Sesame Oil 
+* 1 tsp Fish Sauce 
 * 1 Garlic Cloves, minced 
-* 1½ Tsp. Ginger, thinly sliced 
-* 1 lb. Ground Beef or Short Ribs 
+* 1½ tsp Ginger, thinly sliced 
+* 1 lb Ground Beef or Short Ribs 
 * 1 Package Carrots, Julienne
 
 For the Bowl: 
 
-* 2 Cups Cooked Jasmine Rice
+* 2 cup Cooked Jasmine Rice
 * 4 Scallions, sliced, greens and whites reserved separately
-* 1 Package Edamame 
-* 1 Tsp. Toasted Sesame Seeds
+* 1 package Edamame 
+* 1 tsp Toasted Sesame Seeds
 
   
 #### DIRECTIONS 

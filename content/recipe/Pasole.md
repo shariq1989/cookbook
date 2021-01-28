@@ -7,6 +7,7 @@ tags = [
     "lunch",
     "dinner",
     "instant pot",
+    "pressure cooker",
     "stew",
     "mexican"
 ]
