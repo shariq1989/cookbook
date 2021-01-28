@@ -18,13 +18,13 @@ Servings: 2-4<!--more-->
 #### INGREDIENTS 
 
 * Full or Half Rack of Ribs 
-* Kansas Style Rub 
-* BBQ Sauce of choice 
+* Kansas Style Rub of your choice
+* BBQ Sauce of your choice 
 
 #### DIRECTIONS 
 
 1. Remove membrane from the ribs. 
-2. Rub meat and cover thoroughly with the spices. 
+2. Rub meat and cover thoroughly with the spice rub. 
 3. On a rimmed baking sheet, cover the ribs with heavy aluminium foil and place in the fridge for 1 hour. 
 4. Preheat oven to 250 degrees. 
 5. Remove the ribs from foil and microwave for 1 min. 
