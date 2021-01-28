@@ -11,7 +11,7 @@ tags = [
     "stew",
     "mexican"
 ]
-thumbnail= "images/Pasole.jpg"
+#thumbnail= "images/"
 +++
 
 Servings: 6-8 <!--more-->
