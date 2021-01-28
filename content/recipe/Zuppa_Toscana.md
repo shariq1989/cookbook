@@ -16,14 +16,14 @@ Servings: 6 <!--more-->
 
 #### INGREDIENTS 
 
-* 1 Lb. Spicy Ground Italian Sausage (You can use original) 
-*	1 Medium Yellow Onion, diced 
-*	4 Garlic Cloves, minced 
-*	4 Cups Chicken Stock or 1 Tbsp. Chicken Better than Bouillon and 4 Cups Water
-*	3 Red Potatoes, quartered or 1 Head of Cauliflower, cut into pieces
-*	6 Slices of Bacon
-*	2 Cups Heavy Cream 
-*	4 Kale Leaves, stem removed andchopped 
+* 1 lb Spicy Ground Italian Sausage (You can use original) 
+* 1 medium Yellow Onion, diced 
+* 4 Garlic Cloves, minced 
+* 4 cup Chicken Stock or 1 Tbsp. Chicken Better than Bouillon and 4 Cups Water
+* 3 Red Potatoes, quartered or 1 Head of Cauliflower, cut into pieces
+* 6 slices of Bacon
+* 2 cup Heavy Cream 
+* 4 Kale Leaves, stem removed andchopped 
 
 #### DIRECTIONS 
 

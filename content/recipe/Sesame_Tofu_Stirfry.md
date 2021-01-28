@@ -17,21 +17,21 @@ Servings: 4-5<!--more-->
 
 #### INGREDIENTS 
 
-* 1 Package Firm Tofu 
-* 1 Package of Mushroom of your choice, quartered 
+* 1 package Firm Tofu 
+* 1 package of Mushroom of your choice, quartered 
 * 5 Scallions, sliced
-* ½ Medium Yellow Onion, diced 
+* ½ medium Yellow Onion, diced 
 * 2 Garlic Cloves, minced
 * 2 Arbol Chilis, dried 
-* 4 Tbsp. Sesame Oil
-* 3 Tbsp. Soy Sauce 
-* 1 Tbsp. Rice Wine Vinegar 
-* 1 Tsp. Fish Oil 
-* 1 Cup water 
-* ½ Tsp. Flour 
-* ¼ Tsp. Pepper, ground 
-* ¼ Tsp. Toasted Sesame Seeds 
-* Optional 1 Cup Toasted Cashews or Peanuts 
+* 4 tbsp Sesame Oil
+* 3 tbsp Soy Sauce 
+* 1 tbsp Rice Wine Vinegar 
+* 1 tsp Fish Oil 
+* 1 cup water 
+* ½ tsp Flour 
+* ¼ tsp Pepper, ground 
+* ¼ tsp Toasted Sesame Seeds 
+* Optional 1 cup Toasted Cashews or Peanuts 
 * Serve with rice or on a bed of greens  
 
 #### DIRECTIONS 

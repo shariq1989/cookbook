@@ -41,12 +41,12 @@ Adapted from: Milkstreet
 1. Season the beef with 1 tbsp sweet paprika, 2 tsp salt, 1 tsp pepper. 
 2. Toss the meat to coat and set aside. 
 3. In a small bowl, mix together broth and tomato paste. 
-4. In the Instant Pot or pressure cooker, melt the butter on the saute setting. Add onion and 1 tsp salt. Cook until the onions become translucent and soften. 
+4. In the Instant Pot or pressure cooker, melt the butter on the saute setting. Add onion and 1 tsp salt. Cook until onions become translucent and softened. 
 5. Stir in caraway seeds and flour, cooking until flour begins to brown. 
 6. Stir in hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant. 
 7. Slowly whisk in the broth mixture and bring it to a simmer, stirring frequently. 
-8. Add beef and bay leaves. Place the lid on the Instant Pot and cook on high pressue for 80 min. (this is for high elevation. You can reduce the cooking time for lower elevation).  
-9. Quick release, stir, and let stand for 15 min. 
+8. Add beef and bay leaves. Place the lid on the Instant Pot and cook on high pressure for 80 minutes (this is for high elevation. You can reduce the cooking time for lower elevation).  
+9. Quick release, stir, and let stand for 15 minutes. 
 10. Stir in the dill and vinegar. 
-11. Taste and season with salt and pepper. 
-12. Garnish with Sour Cream and serve egg noodles or eat as a stew. 
+11. Taste and season with salt and pepper accordingly. 
+12. Garnish with sour cream and serve with egg noodles or eat as a stew. 

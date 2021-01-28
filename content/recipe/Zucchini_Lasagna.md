@@ -16,16 +16,16 @@ Servings: 6-8 <!--more-->
 
 #### INGREDIENTS 
 
-* 1 Lb. Ground Beef
-*	3 Garlic Cloves, minced 
-*	½ Large Yellow Onion, diced 
-* 1 Tbsp. Olive Oil, divided
-*	4 Large Tomatoes, blended in a food processor. 
-*	3 Medium Zucchinis, sliced length-wise 
-*	1 Container of Cottage Cheese, drained
-*	2 TBSP. Fresh Basil, sliced julienne, divided 
-*	1 Egg 
-*	Shredded Mozzarella Cheese 
+* 1 lb Ground Beef
+* 3 Garlic Cloves, minced 
+* ½ large Yellow Onion, diced 
+* 1 tbsp Olive Oil, divided
+* 4 large Tomatoes, blended in a food processor. 
+* 3 medium Zucchinis, sliced length-wise 
+* 1 container of Cottage Cheese, drained
+* 2 tbsp Fresh Basil, sliced julienne, divided 
+* 1 Egg 
+* Shredded Mozzarella Cheese 
 
 #### DIRECTIONS 
 

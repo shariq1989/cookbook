@@ -20,16 +20,16 @@ Servings: 6-8 <!--more-->
 
 For the Pasole: 
 
-* 1 Tsp. Cumin, ground 
-* 1 Tbsp. Oregano
+* 1 tsp Cumin, ground 
+* 1 tbsp Oregano
 * 3 Bay Leaves 
-* 1 Tbsp. Avocado Oil 
-* ½ Ancho Chili Powder or ½ Can of Chipotle in Adobo Sauce 
-* 2 ½ Lb. Pork Butt cut into 1 in. pieces
-* 1 Large White Onion, diced 
+* 1 tbsp Avocado Oil 
+* ½ Ancho Chili Powder or ½ can of Chipotle in Adobo Sauce 
+* 2½ lb Pork Butt cut into 1 in. pieces
+* 1 large White Onion, diced 
 * 6 Garlic Cloves, minced 
-* 4 Cups of Chicken Stock or 4 Cups of Water and 2 Tbsp Chicken Better Than Bouillon
-* 2 Cans Hominy, drained and rinsed 
+* 4 cup of Chicken Stock or 4 cup of Water and 2 tbsp Chicken Better Than Bouillon
+* 2 cans Hominy, drained and rinsed 
 
 For the Garnish: 
 

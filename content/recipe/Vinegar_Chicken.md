@@ -20,13 +20,13 @@ Adapted from: New York Times, Alison Roman
 #### INGREDIENTS 
 
 * 5 Chicken, Bone-in & Skin-on Thighs -or- 3 Lbs. Thighs and Legs 
-* 1 Tsp. Ground Turmeric 
-* 6 Tbsp. Olive Oil, divided
+* 1 tsp Ground Turmeric 
+* 6 tbsp Olive Oil, divided
 * Kosher Salt and Pepper, to taste 
 * ½ White Wine Vinegar 
-* 1 ½ Cup Green Olives, crushed 
+* 1½ cup Green Olives, crushed 
 * 2 Garlic Cloves, minced 
-* 1 Tbsp. Parsley, dried 
+* 1 tbsp Parsley, dried 
 
 #### DIRECTIONS 
 
@@ -35,6 +35,6 @@ Adapted from: New York Times, Alison Roman
 3. In a prepared baking dish, add the chicken and season with salt and pepper. 
 4. Make sure chicken is skin side up, then pour vinegar over and around the chicken and place it in the oven. 
 5. Bake chicken without flipping for 25-30 min. 
-6. In a small bowl, combine olives, garlic, parsley, and the remaining olive oil (3 Tbsp.), and 2 Tbsp. of water. Season the mixture with salt and pepper. 
+6. In a small bowl, combine olives, garlic, parsley, and the remaining olive oil (3 tbsp), and 2 tbsp of water. Season the mixture with salt and pepper. 
 7. Once the chicken is cooked, remove the baking dish and transfer the chicken to a serving tray, leaving behind the juices. 
 8. Pour the olive mixture into the baking dish. Using a wooden spoon, gently scrape up the bits of chicken left behind, letting the olive oil mixture mingle with the rendered fat. When mixed, pour the dressing over the chicken to serve.  

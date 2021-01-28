@@ -17,34 +17,34 @@ Adapted from: Serious Eats, Shao Z.
 
 #### INGREDIENTS 
 
-* 1/4 lb. Shrimp, shelled, deveined, and rinsed under cold water
-* 2 Tbsp, plus 4 Tsp. Canola Oil, divided
-* 2 1/2 Tsp. Fish Sauce, divided
-* 1 Bundle Rice Stick Noodles 
+* ¼ lb. Shrimp, shelled, deveined, and rinsed under cold water
+* 2 tbsp, plus 4 tsp Canola Oil, divided
+* 2½ tsp Fish Sauce, divided
+* 1 bundle Rice Stick Noodles 
 * 2 Garlic Cloves, minced
-* 1 Tsp. Soy Sauce
-* 1 Tsp. Shaoxing Wine
-* 1/4 Tsp. White Pepper, Ground
-* 1/4 Tsp. Sugar
+* 1 tsp Soy Sauce
+* 1 tsp Shaoxing Wine
+* ¼ tsp White Pepper, Ground
+* ¼ tsp Sugar
 * 2 Eggs, beaten with two pinches Kosher Salt
-* 1/2 Medium White Onion, thinly sliced
-* 1/2 Medium Red Bell Pepper, stemmed, seeded, julienned
+* ½ medium White Onion, thinly sliced
+* ½ medium Red Bell Pepper, stemmed, seeded, julienned
 * 12 Snow Peas, stemmed, tough strings removed, and slice thinly on the bias
-* 1/2 Medium Carrot, julienned
-* 1 Tbsp. Yellow Curry Powder, divided
+* ½ medium Carrot, julienned
+* 1 tbsp Yellow Curry Powder, divided
 * Kosher Salt, to taste 
 * 2 Scallions, sliced very thinly on the bias
-* 2 Tsp. Toasted Sesame Oil
+* 2 tsp Toasted Sesame Oil
 
 #### DIRECTIONS 
 
-1. Pat shrimp dry and place in a small bowl. Add 1 Tsp. canola oil and 1/2 Tsp. fish sauce. Mix well and set aside in the refrigerator.
+1. Pat shrimp dry and place in a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and set aside in the refrigerator.
 2. Place rice noodles in a large bowl and cover with boiling water. Let stand for 5 minutes. Drain noodles in a colander, rinse with cold running water, then drain until dry. Using scissors, cut the bundle of noodles in half.
-3. Combine garlic, soy sauce, Shaoxing wine, white pepper, sugar, and remaining 2 Tsp. fish sauce. Mix well and set aside.
-4. Heat 1 Tsp. canola oil in a wok or nonstick skillet over high heat, tilting to swirl oil, until smoking. Add eggs and let cook undisturbed for about 10 second, then gently move the eggs back and forth with a spatula until they start to firm up. Break the eggs into small pieces, then set aside in a large bowl.
-5. Wipe wok clean. Return wok to high heat, add 2 Tsp. oil and heat until smoking. Add shrimp and stir-fry for 30 seconds. Add onion and continue to stir-fry for another 30 seconds. Add red bell pepper and snow peas and stir for another 30 seconds, then add carrots. 
-6. Add 1 Tsp. curry powder and salt. Cook, tossing, until curry is evenly distributed. Scrape wok contents into bowl with eggs.
-7. Wipe wok clean again. Heat remaining 2 Tbsp. canola oil over high heat until smoking. Add the rice-stick noodles and stir-fry for 30 seconds. Add the sauce and remaining 2 Tsp. curry powder. Stir until the curry powder is evenly distributed. 
+3. Combine garlic, soy sauce, Shaoxing wine, white pepper, sugar, and remaining 2 tsp fish sauce. Mix well and set aside.
+4. Heat 1 tsp canola oil in a wok or nonstick skillet over high heat, tilting to swirl oil, until smoking. Add eggs and let cook undisturbed for about 10 second, then gently move the eggs back and forth with a spatula until they start to firm up. Break the eggs into small pieces, then set aside in a large bowl.
+5. Wipe wok clean. Return wok to high heat, add 2 tsp oil and heat until smoking. Add shrimp and stir-fry for 30 seconds. Add onion and continue to stir-fry for another 30 seconds. Add red bell pepper and snow peas and stir for another 30 seconds, then add carrots. 
+6. Add 1 tsp curry powder and salt. Cook, tossing, until curry is evenly distributed. Scrape wok contents into bowl with eggs.
+7. Wipe wok clean again. Heat remaining 2 tbsp canola oil over high heat until smoking. Add the rice-stick noodles and stir-fry for 30 seconds. Add the sauce and remaining 2 tsp curry powder. Stir until the curry powder is evenly distributed. 
 8. Return egg, shrimp, and vegetables to wok and stir-fry until everything is evenly combined, about 30 seconds. Season with salt (if needed) and remove from heat. 
 9. To serve, add scallions and drizzle with sesame oil, mix well, and transfer to a large serving bowl. 
  

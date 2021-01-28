@@ -17,23 +17,23 @@ Servings: 4-6<!--more-->
 
 For the Roll: 
 
-* 1 Cup Canola Oil 
+* 1 cup Canola Oil 
 * 4 Eggs 
-* 2 Cups Pumpkin Puree 
-* 2 Cups Sugar 
-* 2 Cups Flour 
-* 2 Tsp. Baking Powder 
-* 1 Tsp. Baking Soda 
-* ½ Tsp. Salt 
-* ¼ Tsp. Cloves, ground 
-* 2 Tsp. Cinnamon, ground 
+* 2 cup Pumpkin Puree 
+* 2 cup Sugar 
+* 2 cup Flour 
+* 2 tsp Baking Powder 
+* 1 tsp Baking Soda 
+* ½ tsp Salt 
+* ¼ tsp Cloves, ground 
+* 2 tsp Cinnamon, ground 
 
 For the Frosting: 
 
-* 3 Oz. Cream Cheese, room temperature
-* ¼ Cup Butter, softened
-* ½ Tsp. Vanilla Extract 
-* 1 Tsp. Milk 
+* 3 oz Cream Cheese, room temperature
+* ¼ cup Butter, softened
+* ½ tsp Vanilla Extract 
+* 1 tsp Milk 
 * Sprinkle with Powdered Sugar 
 
 #### DIRECTIONS 

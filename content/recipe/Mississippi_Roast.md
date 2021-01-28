@@ -21,22 +21,22 @@ Adapted from: New York Times, Sam Sifton
 
 For the Roast: 
 
-* 3 Lbs. Chuck Roast 
-* 2 Tsp. Kosher Salt 
-* 1½ Tsp. Pepper, ground 
-* ¼ Cup Flour
-* 3 Tbsp. Canola Oil 
-* 4 Tbsp. Unsalted Butter 
+* 3 lb Chuck Roast 
+* 2 tsp Kosher Salt 
+* 1½ tsp Pepper, ground 
+* ¼ cup Flour
+* 3 tbsp Canola Oil 
+* 4 tbsp Unsalted Butter 
 * 8-12 Pepperoncinis 
 * Optional: 1 Package Egg Noodles or 5 Red Potatoes, quartered and roasted in the oven. 
 * Garnish: Fresh Parsley, choppped
 
 For the Ranch Dressing: 
 
-* 2 Tbsp. Mayonnaise 
-* 2 Tsp. Apple Cider Vinegar 
-* ½ Tsp. Dried Dill 
-* ¼ Tsp. Sweet Paprika 
+* 2 tbsp Mayonnaise 
+* 2 tsp Apple Cider Vinegar 
+* ½ tsp Dried Dill 
+* ¼ tsp Sweet Paprika 
 
 #### DIRECTIONS 
 
