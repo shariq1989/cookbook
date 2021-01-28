@@ -7,6 +7,7 @@ tags = [
     "lunch",
     "dinner",
     "healthy",
+    "chicken noodle soup"
 ]
 thumbnail= "images/georgian_chicken_soup.jpg"
 +++
@@ -22,8 +23,8 @@ For the Broth:
 * 1 bunch Cilantro, ends reserved
 * 1 bunch Dill, ends reserved
 * 1 Garlic Head 
-* 2½ - 3 Lbs. Bone-in, Skin-on Chicken 
-* 10 cups of Water 
+* 2½ - 3 lbs Bone-in, Skin-on Chicken 
+* 10 cup of Water 
 * 1 large White Onion, quartered 
 * 2 tsp Kosher Salt 
 * 1 tsp Peppercorns 
@@ -34,15 +35,15 @@ For the Broth:
 
 For the Soup: 
 
-* 5 medium Carrots, Chopped 
-* 1 large White Onion, Finely Diced 
+* 5 medium Carrots, chopped 
+* 1 large White Onion, finely diced 
 * 3 tsp Salted Butter 
-* ½ tsp Kosher Salt*  
-* ½ Dry Vermouth 
+* ½ tsp Kosher Salt  
+* ½ cup Dry Vermouth 
 * 1 tsp Flour 
 * 6 large Egg Yolks 
-* ½ cup Lemon Juice (1-2 Lemons) 
-* Black Pepper, ground (to taste)
+* ½ cup Lemon Juice, about 1-2 lemons
+* Black Pepper, ground, to taste
 
 
 #### DIRECTIONS 
