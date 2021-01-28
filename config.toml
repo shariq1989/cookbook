@@ -19,10 +19,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "The Jamily Ghar"
+title = "The Jamil Ghar"
 #author = "Tressa Jamil"
 #copyright = "2020-2021"
-description = "Eat Pray Love"
+description = "Where Lovers of Food Come Together"
 profilePicture = "images/profile_pic.jpg"
 keywords = ""
 favicon = "favicons/"
