@@ -6,6 +6,7 @@ tags = [
     "noodles",
     "lunch",
     "dinner",
+    "singapore"
     
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
