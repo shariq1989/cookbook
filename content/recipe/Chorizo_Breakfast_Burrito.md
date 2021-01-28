@@ -6,8 +6,9 @@ tags = [
     "lunch",
     "dinner",
     "mexican",
+    "breakfast"
 ]
-thumbnail= "images/burrito.jpg"
+#thumbnail= "images/burrito.jpg"
 +++
 
 Servings: 5 <!--more-->
@@ -16,7 +17,7 @@ Servings: 5 <!--more-->
 
 * 3 Red Potatoes, peeled and cubed 
 * 1 tbsp Avocado Oil 
-* 1 lb Chorizo 
+* 1 lb Fresh Chorizo 
 * 4 Scallions, green parts chopped 
 * 6 Eggs 
 * 5 Flour Tortillas 
@@ -28,9 +29,9 @@ Servings: 5 <!--more-->
 #### DIRECTIONS 
 
 1. Oil the pan over medium heat and add onions and potatoes. Cover and cook until tender. 
-2. Remove lid and cook the potatoes until golden brown. 
-3. Add scallions and stir for 30 secs. 
+2. Remove lid and cook until potatoes turn golden brown. 
+3. Add scallions and stir for 30 seconds. 
 4. In a small bowl, combline eggs, salt, and garlic powder. 
 4. Add chorizo and egg mixture to the skillet and bring to a soft scramble. 
-5. Warm tortillas on a pan, 30 sec. on both sides. 
+5. Warm tortillas on a pan, 30 seconds on both sides. 
 6. Divide the chorizo mixture into each tortilla, sprinkle with cheese, and serve. 
