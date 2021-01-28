@@ -8,7 +8,8 @@ tags = [
     "dinner",
     "indian",
     "pakistani",
-    "instant pot" 
+    "instant pot", 
+    "curry"
 ]
 #thumbnail= "images/bhunagosht.jpg"
 +++
@@ -21,24 +22,23 @@ Adapted from: Archanas Kitchen
 
 For Gosht: 
 
-* 1½ lb Goat, cut into 1-2in. pieces (rinse the meat before cooking) 
+* 1½ lb Goat, cut into 1-2 inch pieces (rinse meat before cooking) 
 * 2 medium Yellow Onions, thinly sliced
 * ¼ cup Garlic Cloves
-* 4 in. Ginger, sliced
+* 4 inch Fresh Ginger, sliced
 * ¾ cup Full-Fat Yogurt 
 * 2½ tbsp Coriander Powder 
-* 2 tsp Red Chilli Powder (Not American Chili Powder) 
+* 2 tsp Red Chili Powder (Not American Chili Powder) 
 * ½ tsp Turmeric Powder
 * Salt, to taste
-* ⅓ cup Ghee
-* 4 tbsp Ghee 
+* ⅓ cup Ghee, plus 4 tbsp Ghee 
 * 2 tbsp Cilantro, chopped
 
 For Whole Spices:
 
 * 6 Dry Red Chilis
 * 2 Bay Leaves
-* 1½ in. Cinnamon Stick
+* 1½ inch Cinnamon Stick
 * 5 Cloves
 * 5 Whole Black Peppercorns
 * 5 Green Cardamom Pods
@@ -47,15 +47,16 @@ For Whole Spices:
 
 #### DIRECTIONS 
 
-1. To begin, wash the goat and add it to an Instant Pot or pressure cooker with 1 cup Water and 1 tsp of Salt. Cook on high pressure for 40 min. with a quick release (This is for high-elevation. You can reduce cooking time for lower elevation). 
-2. While meat is cooking, heat oil (1/3 cup) in a heavy bottomed pan and add whole spices until they begin to crackle.
-3. Add garlic cloves and ginger slices. Saute until golden.
-4. Mix in the onions and fry until they are soft and translucent. At this point you can add the goat when it is finished cooking.
-5. Add in yogurt and salt and let it cook on high heat until the yogurt leaves water on the sides.
-6. Turn down the heat to medium- high and cover the pan. Allow mixture to simmer, about 5 min.
-7. Stir in the coriander powder, turmeric, red chilli powder and mix together.
-8. Adjust to high heat again and fry until oil leaves from the sides. Keep adding ghee while frying (about 4 tbsp).
-9. Once the oil seperates, check the salt and adjust if needed.
-10. Slowly the goat will thicken and turn deep brown in color. 
-11. Garnish with cilantro and fresh ginger slices. 
-12. Serve with naan or rice. 
+1. To begin, wash goat and add it to an Instant Pot or pressure cooker with 1 cup water and 1 tsp of salt. Cook on high pressure for 40 minutes with a quick release (This cook time is for high-elevation. You can reduce cooking time for lower elevation). 
+2. Gather the whole spices and stir in the nutmeg, set aside. 
+3. While meat is cooking, heat oil (1/3 cup) in a heavy bottomed pan and add whole spices until they begin to crackle.
+4. Add garlic cloves and ginger slices. Saute until golden.
+5. Mix in the onions and fry until they are soft and translucent. At this point you can add the goat when it is finished cooking.
+6. Add yogurt and salt and let it cook on high heat until the yogurt leaves water on the sides.
+7. Turn down the heat to medium- high and cover the pan. Allow mixture to simmer, about 3-5 min.
+8. Stir in the coriander powder, turmeric, red chili powder and mix well.
+9. Adjust to high heat again and fry until oil leaves from the sides. Add ghee as needed while frying (up to 4 tbsp).
+10. Once the oil seperates, check the salt and adjust if needed.
+11. Allow the mixture to continue to cook on high, stirring regularly. Slowly the goat will thicken and turn deep brown in color. 
+12. Garnish with cilantro and fresh ginger slices. 
+13. Serve with naan or rice. 
