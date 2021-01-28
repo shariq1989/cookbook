@@ -40,8 +40,7 @@ For the Frosting:
 
 1. Preheat oven to 350 degrees. 
 2. Beat ingredients for the roll together and pour into a greased jelly roll. 
-3. Bake for 25 min. 
+3. Bake for 25 minutes. 
 4. In a small bowl, mix together the ingredients for the frosting and set aside at room temperature. 
-5. Remove the roll from the oven and let it stand 15-20 min. 
+5. Remove the roll from the oven and let it stand 15-20 minutes. 
 6. When the roll is cooled, cover it with frosting and sprinkle with powdered sugar to serve. 
-
