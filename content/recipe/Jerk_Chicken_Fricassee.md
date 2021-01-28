@@ -35,15 +35,15 @@ For the Jerk Seasoning
 For the Fricassee
 
 * 4 tbsp Jamaican Jerk Seasoning, divided 
-* Kosher Salt and Black Pepper (to taste) 
+* Kosher Salt and Black Pepper, to taste 
 * 3 lb Bone-in, Skin-on Chicken Thigh, trimmed and patted dry
 * 1 tbsp Avocado Oil 
-* 1 medium, yellow onion, halved and thinly sliced 
+* 1 medium Yellow Onion, thinly sliced 
 * 4 Scallions, thinly sliced, whites and greens reserved seperately 
-* 1/3 Gochujang Sauce
+* 1/3 cup Gochujang Sauce
 * 1 tbsp Soy Sauce 
 * 1 tbsp Lime Juice 
-* Optional: Lime Wedges for garnish 
+* Lime Wedges for garnish 
 
 #### DIRECTIONS 
 
@@ -53,8 +53,8 @@ For the Fricassee
 4. Transfer the chicken, skin-up, to a plate and repeat until all of the chicken is browned. 
 5. Pour off and discard all but 2 tbsp fat from the skillet. 
 6. Add onion, scallion whites, Gochujang Sauce, and remaining jerk seasoning to the pan. Cook over medium, stirring until onion is lightly browned. 
-7. Stir in soy sauce, lime juice, and 1 Cup water, then bring to a simmer, scraping up any brown bits. 
-8. Return the chicken to the skillet, cover and reduce to medium-low heat. Simmer for about 20 min. 
+7. Stir in soy sauce, lime juice, and 1 cup water, then bring to a simmer, scraping up any brown bits. 
+8. Return the chicken to the skillet, cover and reduce to medium-low heat. Simmer for about 20 minutes. 
 9. Transfer the chicken to a serving platter. Cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes. 
-10. Remove from heat, then taste and season with salt and pepper. Pour the mixture over the chicken and sprinkle with scallion greens. 
+10. Remove from heat, taste and season with salt and pepper. Pour the mixture over the chicken and sprinkle with scallion greens. 
 11. Serve with lime wedges. 
