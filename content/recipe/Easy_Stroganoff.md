@@ -7,9 +7,10 @@ tags = [
     "beef",
     "italian",
     "crockpot",
-    "slow cooker"
+    "slow cooker", 
+    "noodles"
 ]
-thumbnail= "images/stroganoff.jpg"
+#thumbnail= "images/stroganoff.jpg"
 +++
 
 Servings: 6 <!--more-->
@@ -20,16 +21,14 @@ Servings: 6 <!--more-->
 * 2 cans of Cream of Mushroom 
 * 1 package Onion Soup Mix
 * ½ Yellow Onion, diced 
-* 3 Garlic Cloves, diced 
+* 3 Garlic Cloves, minced 
 * ½ cup Button Mushrooms, sliced 
 
 * Optional: 
 * 1 spoon of Sour Cream 
 * 4 oz Cream Cheese 
 
-
 #### DIRECTIONS 
 1. Add beef and the rest of the ingredients to the crockpot. 
-2. Cook on low for 6 hours 
-3. Cook on high for 4 hours
-4. Stir in optional ingredients and serve. 
+2. Cook on low for 6 hours or high for 4 hours, depending on your preference.
+3. Stir in optional ingredients and serve. 
