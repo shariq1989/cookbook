@@ -5,8 +5,9 @@ description = ""
 tags = [
     "waffles",
     "breakfast",
+    "belgium"
 ]
-thumbnail= "images/waffles.jpg"
+#thumbnail= "images/waffles.jpg"
 +++
 
 Servings: 4 <!--more-->
@@ -24,6 +25,6 @@ Servings: 4 <!--more-->
 * ¾ tsp Vanilla Extract 
 
 #### DIRECTIONS 
-1. Mix ingredients well. Let stand for 30 min. 
+1. Mix ingredients well. Let stand for 30 minutes. 
 2. Preheat the waffle iron. 
 3. Add ¼ cup mix to the waffle iron. 
