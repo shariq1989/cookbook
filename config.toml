@@ -87,8 +87,8 @@ url = "mailto:thejamilghar@gmail.com"
   identifier = "about"
   url = "/about/"
 
-  [[menu.main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
+##  [[menu.main]]
+##  name = "Contact"
+##  weight = 400
+##  identifier = "contact"
+##  url = "/contact/"
