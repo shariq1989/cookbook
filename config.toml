@@ -55,7 +55,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
 
-#[[params.socialIcons]]
+[[params.socialIcons]]
 #icon = "fab fa-instagram"
 #title = "instagram"
 #url = "https://www.instagram.com/thejamilghar"
