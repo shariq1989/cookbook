@@ -19,6 +19,8 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
+disableThemeSwitcher = true # Theme switcher is enabled by default
+displayMode = "light"
 #title = "The Jamil Ghar"
 #author = "Tressa Jamil"
 #copyright = "2020-2021"
