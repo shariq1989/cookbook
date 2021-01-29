@@ -20,7 +20,7 @@ Servings: 4-6 <!--more-->
 
 For the Stew: 
 
-* 1 lb Chicken or Lamb, cut into 1-2 inch pieces
+* 1 lb Chicken or Lamb, cut into 1-2-inch pieces
 * 4 large Tomatoes, diced 
 * 2 Onions, diced 
 * 4 Garlic Cloves 
@@ -45,6 +45,6 @@ For the Kedjenou Spice Mix:
 1. In a small bowl, mix together the ingredients for the Kedjenou Spice Mix. Use 2 tbsp to cover the chicken or lamb. 
 2. Heat oil in Instant Pot on saute mode. Add the lamb or chicken and saute for 4 minutes, moving around so all sides are seared. 
 3. Add in the tomatoes, onion, garlic, and other vegetables, and 1-2 tbsp of Kedjenou Spice Mix (leftover spice mix can last for 3 months if stored in a seeled mason jar). 
-4. Add ½ CUP water. 
+4. Add ½ cup water. 
 5. Close the Instant Pot and cook on high pressure for 50 minutes with a natural release.
 6. Serve with rice or eat as a stew. 
