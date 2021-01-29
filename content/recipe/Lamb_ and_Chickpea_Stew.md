@@ -21,7 +21,7 @@ Servings: 4<!--more-->
 * 1 tsp Green Cardamom, ground
 * 1 tsp Cinnamon, ground
 * Kosher Salt and Ground Black Pepper, to taste
-* 1 lb Boneless Lamb Shoulder, trimmed of fat and cut into ¾ inch pieces (or 1 lb Beef Chuck) 
+* 1 lb Boneless Lamb Shoulder, trimmed of fat and cut into ¾-inch pieces 
 * 1 Garlic Head 
 * 2 tbsp Salted Butter
 * 1 Large Yellow Onion, diced 
