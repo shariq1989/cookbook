@@ -37,7 +37,6 @@ For the Bowl:
 * 4 Scallions, sliced, greens and whites reserved separately
 * 1 package Edamame 
 * 1 tsp Toasted Sesame Seeds
-
   
 #### DIRECTIONS 
 
