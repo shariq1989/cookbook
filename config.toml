@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 #title = "The Jamil Ghar"
 #author = "Tressa Jamil"
 #copyright = "2020-2021"
-description = "What our world needs most are more meals around the table, so have a seat at ours."
+description = "What our world needs most are more meals around the dinner table. Have a seat at ours."
 profilePicture = "images/20210128_122604_0000.png"
 keywords = ""
 favicon = "favicons/"
@@ -61,7 +61,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:thejamilghar@gmail.com"
 
 ## Menu items
 
