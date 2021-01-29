@@ -34,7 +34,7 @@ Adapted from: Serious Eats, Shao Z.
 * ½ medium Carrot, julienned
 * 1 tbsp Yellow Curry Powder, divided
 * Kosher Salt, to taste 
-* 2 Scallions, sliced very thinly on the bias
+* 2 Scallions, thinly sliced
 * 2 tsp Toasted Sesame Oil
 
 #### DIRECTIONS 
