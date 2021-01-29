@@ -1,5 +1,5 @@
 +++
-title = "Red Lentil Soup- Goa Red Daal"
+title = "Goa Lentil Soup- Goa Red Dal"
 date = "2020-01-19"
 description = ""
 tags = [
