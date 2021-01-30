@@ -1,5 +1,5 @@
 +++
-title = "CHIKHIRTMA (Georgian Chicken Soup)"
+title = "Peruvian Roasted Chicken"
 date = "2020-01-29"
 description = ""
 tags = [
@@ -15,6 +15,8 @@ thumbnail= "images/PeruvianChicken (1).jpg"
 +++
 
 Servings: 4 <!--more-->
+
+Adapted from: The Food Lab 
 
 #### INGREDIENTS 
 
