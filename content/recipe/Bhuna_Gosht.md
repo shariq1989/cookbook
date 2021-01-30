@@ -1,6 +1,6 @@
 +++
 title = "Dry Masala Goat- Bhuna Gosht"
-date = "2020-01-18"
+date = "2020-01-29"
 description = ""
 tags = [
     "goat",
