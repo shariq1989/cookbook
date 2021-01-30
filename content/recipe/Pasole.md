@@ -1,6 +1,6 @@
 +++
 title = "Pasole"
-date = "2020-01-27"
+date = "2020-01-29"
 description = ""
 tags = [
     "chicken",
