@@ -9,7 +9,7 @@ tags = [
     "healthy",
     "chicken noodle soup"
 ]
-thumbnail= "images/georgian_chicken_soup.jpg"
+#thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
 Servings: 6 <!--more-->
