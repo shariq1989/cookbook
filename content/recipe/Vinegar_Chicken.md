@@ -9,7 +9,7 @@ tags = [
     "healthy",
     "mediterranean"
 ]
-thumbnail= "VinegarChicken.jpg"
+thumbnail= "images/VinegarChicken.jpg"
 +++
 
 Servings: 4 <!--more-->
