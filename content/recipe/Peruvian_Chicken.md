@@ -10,14 +10,52 @@ tags = [
     "keto",
     "roasted"
 ]
-thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/PeruvianChicken (1).jpg"
 +++
 
-Servings: 6 <!--more-->
+Servings: 4 <!--more-->
 
 #### INGREDIENTS 
+
+For the Serrano Sauce: 
+
+* 2 Serrano Chilis, chopped 
+* 1/2 cup cilantro leaves 
+* 2 Garlic Cloves, minced 
+* 1/2 cup Full-Fat Yogurt 
+* 1/4 cup Sour Cream 
+* 2 tsp Lime Juice, 1 Lime 
+* 2 tbsp Olive Oil 
+* Kosher Salt and Pepper, to taste 
+
+For the Chicken: 
+* 1 Whole Chicken, 3-4 lbs, butterflied
+* 1 tbsp cumin, ground 
+* 1 1/2 tbsp Paprika 
+* 5 Garlic Cloves, minced 
+* 2 tsp kosher salt 
+* 1 tsp black pepper 
+* 1 tbsp distilled white vinegar 
+* 1 tbsp olive oil 
 
 
 
 #### DIRECTIONS 
+
+For the Serrano Sauce: 
+
+1. Combine serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice in a blender until smooth. Add olive oil and blend.
+2. Season with salt and pepper, to taste.
+
+For the Chicken: 
+
+1. Adjust oven rack to the upper-middle position and preheat the oven to 450 degrees. 
+2. Prepare a wire rack on a rimmed baking sheet lined with aluminium foil.  
+3. Dry chicken thoroughly with paper towels or a cloth. 
+4. Combine cumin, paprika, garlic, vinegar, salt, pepper, and oil in a small bowl and mix well. 
+5. Spread mixture evenly all over the chicken and under the skin.
+6. Place the chicken in the middle of the wire rack and roast, about 35 to 45 minutes.
+7. Transfer chicken to a cutting board and tent loosely with foil for 10 minutes. 
+8. Garnish with Serrano Sauce. 
+
 
