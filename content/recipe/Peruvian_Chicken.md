@@ -11,7 +11,7 @@ tags = [
     "keto",
     "roasted"
 ]
-thumbnail= "images/PeruvianChicken (1).jpg"
+thumbnail= "images/PeruvianChicken (2).jpg"
 +++
 
 Servings: 4 <!--more-->
