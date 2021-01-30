@@ -1,21 +1,24 @@
 +++
-title = "CHIKHIRTMA (Georgian Chicken Soup)"
-date = "2020-01-18"
+title = "Goat Karahi"
+date = "2020-01-29"
 description = ""
 tags = [
-    "soup",
+    "curry",
     "lunch",
     "dinner",
-    "healthy",
+    "goat",
+    "indian", 
+    "pakistani", 
+    "international" 
 ]
-thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/GoatKarahi.jpg"
 +++
 
 Servings: 3-4 <!--more-->
 
 #### INGREDIENTS 
 * 1/2 cup Ghee, divided
-* 1 1/2 lb Goat, bone- in, cut in 1 to 2-inch pieces
+* 1 1/2 lb Goat, bone- in, cut into 1 to 2-inch pieces
 * 1/2 medium Yellow Onion, chopped
 * 4-5 medium Tomatoes, pureed in a blender
 * 2 Garlic Cloves, minced
