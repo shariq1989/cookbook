@@ -11,7 +11,7 @@ tags = [
     "instant pot", 
     "curry"
 ]
-thumbnail= "images/PXL_20210126_172542661.MP.jpg"
+thumbnail= "images/BhunaGosht.jpg"
 +++
 
 Servings: 5 <!--more-->
