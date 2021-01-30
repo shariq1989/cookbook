@@ -6,6 +6,12 @@ aliases = ["about-us", "about-jamilghar"]
 author = "Jamil Ghar"
 +++
 
-Sushi Breaking Bad you should message me foodie. Not looking for a penpal nothing too complicated extrovert share a new experience going back to school, my friends tell me they don't get why I'm single The Daily Show strong and confident fixing up my house not looking for a penpal. I'm really good at working on my body and my mind I love the smell of no drama amazing women I've met shoot me a message.
+Welcome to our table; let's break bread together. 
+We'll start, we are Tressa and Shariq, the husband and wife team behind The Jamil Ghar. We live in beautiful Colorado alongside our two little ones. 
+Amidst the chaos and division of the last few years an idea was birthed. While we as people, are usually known more for our differences than our commonalities, we are firm believers that there isn't much that couldn't be solved through conversation centered around a good meal. 
 
-I'm a good listener family is very important to me parallel parking strong and confident. Thinking about trying yoga my smartphone exploring the city feminism going to shows, Kurosawa Indian food On The Road as friends Myers-Briggs. Coffee whatever topic is on NPR snowboarding I hate lists I value art I'm just a regular guy.
+Shariq was born and raised in a bustling city in Pakistan, whereas Tressa hails from a small town in Utah. Born two worlds away, there is very little we share in common in terms of our upbringing. Yet, the appreciation for food and delight in meals shared with family and friends translates to all cultures and people.  Thus, this site was born. We may not be able to physically invite you into our home to share a meal, but it is our hope that through the recipes and stories we share, that this big old world will feel just a bit smaller and little more familiar.     
+
+Now that you have gotten to know our heart, thank you for joining us. 
+We hope you find delight in the meals our family loves and makes for those who do visit our home. We want to share with you as well. Get in touch with us by visiting our Instagram page @thejamilghar or through writing a quick email thejamilghar@gmail.com. We appreciate your questions and feedback as we get this site off the ground. Don't forget to share the love and tag us when you try one of our recipes. We also have our very own hashtag #thejamilghar. We cannot wait to see what you have made and hear about the conversations you have had around your dinner table. 
+
