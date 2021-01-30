@@ -11,7 +11,7 @@ tags = [
     "pressure cooker",
     "coconut"
 ]
-thumbnail= "images/goa-daal.jpg"
+#thumbnail= "images/goa-daal.jpg"
 +++
 
 Servings: 6 <!--more-->
