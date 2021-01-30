@@ -8,7 +8,7 @@ tags = [
     "dessert",
     "banana",
 ]
-thumbnail= "images/banana-bread.jpg"
+#thumbnail= "images/banana-bread.jpg"
 +++
 
 Servings: 2 Loaves <!--more-->
