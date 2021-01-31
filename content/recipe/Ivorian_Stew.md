@@ -1,5 +1,5 @@
 +++
-title = "Spicy Ivorian Stew-Kedjenou"
+title = "Kedjenou"
 date = "2020-01-27"
 description = ""
 tags = [
