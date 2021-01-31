@@ -1,5 +1,5 @@
 +++
-title = "Yellow Lentil Soup-Moong Dal"
+title = "Moong Dal"
 date = "2020-01-18"
 description = ""
 tags = [
