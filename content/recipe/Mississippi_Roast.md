@@ -15,8 +15,6 @@ tags = [
 
 Servings: 4-6<!--more-->
 
-Adapted from: New York Times, Sam Sifton 
-
 #### INGREDIENTS 
 
 For the Roast: 
