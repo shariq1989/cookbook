@@ -1,6 +1,6 @@
 +++
 title = "Mississippi Roast"
-date = "2020-01-27"
+date = "2020-01-31"
 description = ""
 tags = [
     "beef",
@@ -10,7 +10,7 @@ tags = [
     "lunch",
     "dinner"
 ]
-#thumbnail= "images/mississippiroast.jpg"
+#thumbnail= "images/MissippiRoast.jpg"
 +++
 
 Servings: 4-6<!--more-->
