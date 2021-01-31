@@ -23,13 +23,13 @@ For the Roast:
 * 2 tsp Kosher Salt 
 * 1½ tsp Coarse Pepper, ground 
 * ¼ cup Flour
-* 3 tbsp Canola Oil 
+* 1 1/2 tbsp Canola Oil 
 * 4 tbsp Unsalted Butter 
 * 8-12 Pepperoncinis 
 * 1 cup Baby Carrots
 * 1/2 Yellow Onions, finely sliced
-* 5 Red Potatoes, quartered and roasted in the oven with olive oil, salt, and dried parsley. 
-* Fresh Parsley, chopped, to garnish
+* 5 Red Potatoes, quartered and roasted in the oven with 1/2 tbsp olive oil, 1 tsp minced garlic, salt, and dried parsley. 
+* Fresh Parsley, finely chopped, to garnish
 
 For the Ranch Dressing: 
 
