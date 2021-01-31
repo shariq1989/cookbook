@@ -1,5 +1,5 @@
 +++
-title = "Crispy Sichuan Chicken"
+title = "Crispy Sichuan Fried Chicken"
 date = "2020-01-29"
 description = ""
 tags = [
