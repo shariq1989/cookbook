@@ -1,5 +1,5 @@
 +++
-title = "Goa Lentil Soup- Goa Red Dal"
+title = "Goa Red Lentil Soup- Goa Red Dal"
 date = "2020-01-19"
 description = ""
 tags = [
@@ -9,7 +9,8 @@ tags = [
     "soup",
     "instant pot",
     "pressure cooker",
-    "coconut"
+    "coconut", 
+    "dal"
 ]
 #thumbnail= "images/goa-daal.jpg"
 +++
@@ -27,21 +28,21 @@ Adapted from: Milkstreet
 * 2 tsp Turmeric, ground  
 * 1 tsp Coriander, ground
 * 1 tsp Fennel, ground
-* 3-4 Boriya Mirch, Circle Red Chilis
+* 3-4 Boriya Chili (Boriya Mirch)
 * 3½ cup Water 
-* 1 can of Coconut Milk, Arroy-D is our favorite
-* 1 cup Red Lentils, Masoor Daal
+* 1 can Full-Fat Coconut Milk (Arroy-D is our favorite)
+* 1 cup Red Lentils (Masoor Daal) 
 * 6 cup Spinach 
 * 2 tsp Lime Juice 
 * Kosher Salt to taste 
 * Lime Wedges for garnish
 
-
 #### DIRECTIONS 
-1. In a large skillet, (or Instant Pot), combine oil, onion, garlic, and kosher salt on medium heat (saute in Instant Pot) until onions soften. 
-2. Stir in ginger (half), mustard seed, turmeric, coriander, fennel, and chilis. Stir for 1 minute. 
+1. In a large skillet, (or Instant Pot), combine oil, onion, garlic, and kosher salt on medium heat (saute in Instant Pot) until onions become translucent and soften. 
+2. Stir in half of the ginger half, mustard seed, turmeric, coriander, fennel, and chilis. Stir for 1 minute. 
 3. Add water, coconut milk, and lentils. Bring to a boil (Leave on saute until it begins to boil in the Instant Pot).
-4. Cover and reduce heat. Cook for 30-40 minutes (Set to Manuel for 15 minutes in the Instant Pot).  
-5. Stir in spinach and return to a simmer. 
+4. Cover and reduce heat. Cook for 30-40 minutes (Set to high pressure for 15 minutes in the Instant Pot).  
+5. Stir in spinach and return to a simmer, about 3-4 minutes. 
 6. Off heat, add the last 1 tbsp of ginger, lime juice, and kosher salt to taste. 
-7. Garnish with lime wedges. 
+7. Garnish with lime wedges.
+8. Serve with long-grain basmati rice
