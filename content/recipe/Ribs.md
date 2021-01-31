@@ -35,11 +35,11 @@ For the BBQ:
 
 #### DIRECTIONS 
 
-1. Remove membrane from the ribs. 
-2. Rub meat and cover thoroughly with the spice rub. 
+1. Remove the membrane from the ribs. 
+2. Rub meat thoroughly with the spice rub. 
 3. On a rimmed baking sheet, cover the ribs with heavy aluminium foil and place in the fridge for 1 hour. 
-4. Preheat oven to 250 degrees. 
-5. Remove the ribs from foil and microwave for 1 minute. 
-6. Place the ribs back onto the baking sheet and re-cover with aluminium foil. Allow ribs to cook for 4 hours on the lower rack. 
-7. Cover ribs in BBQ Sauce to your desired amount. 
-8. Broil for 15 minutes. on the highest rack. 
+4. Preheat the oven to 250 degrees. 
+5. Remove the ribs from the foil and place in a microwave-safe dish, microwave for 1 minute. 
+6. Place the ribs back onto the baking sheet and re-cover with aluminium foil. Allow the ribs to cook for 4 hours on the lowest rack. 
+7. Cover the ribs in BBQ Sauce of your choice to your preferred amount. 
+8. Broil for 15 minutes on the highest rack. 
