@@ -16,7 +16,6 @@ Servings: 4 <!--more-->
 
 Adapted from: New York Times, Alison Roman 
 
-
 #### INGREDIENTS 
 
 * 3 lbs. Chicken Thighs, bone-in, skin-on
@@ -31,10 +30,9 @@ Adapted from: New York Times, Alison Roman
 #### DIRECTIONS 
 
 1. Preheat oven to 450 degrees. 
-2. Place chicken in a bag with olive oil and turmeric. Mix well. 
-3. In a prepared baking dish, add chicken and season with salt and pepper. 
-4. Make sure chicken is skin side up, then pour vinegar over and around the chicken and place it in the oven. 
-5. Bake chicken without flipping for 25-30 minutes. 
-6. In a small bowl, combine olives, garlic, parsley, and the remaining olive oil (3 tbsp), and 2 tbsp of water. Season mixture with salt and pepper. 
-7. Once chicken is cooked, remove the baking dish and transfer the chicken to a serving tray, leaving behind the juices. 
-8. Pour the olive mixture into the baking dish. Using a wooden spoon, gently scrape up the bits of chicken left behind, letting the olive oil mixture mingle with the rendered fat. When mixed, pour dressing over the chicken to serve.  
+2. Place chicken into a bag with olive oil and turmeric. Mix well. 
+3. In a prepared baking dish, add the chicken and season with salt and pepper. 
+4. Place the chicken is skin-side up, then pour vinegar over and around the chicken and put it in the oven. Bake chicken without flipping for 25-30 minutes. 
+5. In a small bowl, combine olives, garlic, parsley, and the remaining olive oil (3 tbsp), and 2 tbsp of water. Season mixture with salt and pepper, to taste. 
+6. Once chicken is cooked, remove the baking dish and transfer the chicken to a serving tray, leaving behind the juices. 
+7. Pour the olive mixture into the baking dish. Using a wooden spoon, gently scrape up the bits of chicken left behind, letting the olive oil mixture mingle with the rendered fat. When mixed, pour the dressing over the chicken to serve.  
