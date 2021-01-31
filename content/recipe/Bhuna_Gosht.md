@@ -1,5 +1,5 @@
 +++
-title = "Dry Masala Goat- Bhuna Gosht"
+title = "Masala Goat- Bhuna Gosht"
 date = "2020-01-29"
 description = ""
 tags = [
@@ -28,15 +28,15 @@ For Gosht:
 * 4 inch Fresh Ginger, sliced
 * ¾ cup Full-Fat Yogurt 
 * 2½ tbsp Coriander Powder 
-* 2 tsp Red Chili Powder (Not American Chili Powder) 
+* 2 tsp Kashmiri Chili Powder
 * ½ tsp Turmeric Powder
 * Salt, to taste
-* ⅓ cup Ghee, plus 4 tbsp Ghee 
+* ⅓ cup Ghee, plus 3-4 tbsp Ghee 
 * 2 tbsp Cilantro, chopped
 
 For Whole Spices:
 
-* 6 Dry Red Chilis
+* 6 Boriya Chilis, dry (Boriya Mirch) 
 * 2 Bay Leaves
 * 1½ inch Cinnamon Stick
 * 5 Cloves
@@ -51,12 +51,12 @@ For Whole Spices:
 2. Gather the whole spices and stir in the nutmeg, set aside. 
 3. While meat is cooking, heat oil (1/3 cup) in a heavy bottomed pan and add whole spices until they begin to crackle.
 4. Add garlic cloves and ginger slices. Saute until golden.
-5. Mix in the onions and fry until they are soft and translucent. At this point you can add the goat when it is finished cooking.
+5. Mix in the onions and fry until they are soft and translucent. At this point you can add the goat once it has finished cooking.
 6. Add yogurt and salt and let it cook on high heat until the yogurt leaves water on the sides.
-7. Turn down the heat to medium- high and cover the pan. Allow mixture to simmer, about 3-5 min.
-8. Stir in the coriander powder, turmeric, red chili powder and mix well.
+7. Turn down the heat to medium-high and cover the pan. Allow mixture to simmer, about 3-5 minutes.
+8. Stir in the coriander powder, turmeric, kahmiri chili powder and mix well.
 9. Adjust to high heat again and fry until oil leaves from the sides. Add ghee as needed while frying (up to 4 tbsp).
 10. Once the oil seperates, check the salt and adjust if needed.
-11. Allow the mixture to continue to cook on high, stirring regularly. Slowly the goat will thicken and turn deep brown in color. 
+11. Allow mixture to cook on high, stirring regularly. Slowly the goat will thicken and turn deep brown in color. 
 12. Garnish with cilantro and fresh ginger slices. 
 13. Serve with naan or rice. 
