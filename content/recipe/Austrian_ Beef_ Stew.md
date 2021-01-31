@@ -1,5 +1,5 @@
 +++
-title = "Austrian Beef Stew-Rindsgulasch"
+title = "Rindsgulasch"
 date = "2020-01-27"
 description = ""
 tags = [
@@ -9,7 +9,9 @@ tags = [
     "lunch",
     "dinner",
     "instant pot",
-    "pressure cooker"
+    "pressure cooker",
+    "soup",
+    "hearty"
 ]
 #thumbnail= "images/rindsgulasch.jpg"
 +++
