@@ -1,5 +1,5 @@
 +++
-title = "Pasole"
+title = "Pazole"
 date = "2020-01-29"
 description = ""
 tags = [
@@ -9,7 +9,8 @@ tags = [
     "instant pot",
     "pressure cooker",
     "stew",
-    "mexican"
+    "mexican",
+    "soup"
 ]
 thumbnail= "images/Pasole (1).jpg"
 +++
@@ -22,14 +23,15 @@ For the Pasole:
 
 * 1 tsp Cumin, ground 
 * 1 tbsp Oregano
-* 3 Bay Leaves 
+* 2 Bay Leaves 
 * 1 tbsp Avocado Oil 
 * ½ Ancho Chili Powder or ½ can Chipotle in Adobo Sauce 
-* 2½ lb Pork Butt cut into 1 inch pieces
+* 1-2 Guajillo Chilis, dred
+* 2½ lb Pork Butt cut into 1-inch pieces
 * 1 large White Onion, diced 
 * 6 Garlic Cloves, minced 
-* 4 cup of Chicken Stock or 4 cup of Water and 2 tbsp Chicken Better Than Bouillon
-* 2 large cans Hominy, drained and rinsed 
+* 4 cup of Water and 2 tbsp Chicken- Better Than Bouillon
+* 1 29 oz can of Hominy, drained and rinsed 
 
 For the Garnish: 
 
@@ -43,9 +45,8 @@ For the Garnish:
   
 #### DIRECTIONS 
 
-1. Oil the Instant Pot or pressure cooker on saute mode until the oil begins to smoke. 
+1. Heat the oil in the Instant Pot or pressure cooker on saute mode until it begins to smoke. 
 2. Add a layer of pork to the bottom of the pan and let it brown, 3-4 minutes. Repeat this until all the meat has had a chance to brown. Set aside. 
-3. Add onions to the Instant Pot and cook until translucent and softened. 
-4. Combine remaining ingredients and return the meat to the pot. Cook on high pressure for 30-40 minutes. 
-5. Before serving, add salt to taste. 
-6. Garnish with radishes, cabbage, cilantro, lime wedges, avocado, chili flakes, and oregano.    
+3. Add the onions to the Instant Pot and cook until they become translucent and soften. 
+4. Combine the remaining ingredients and add them to the pot along with the meat. Cook on high pressure for 50 minutes with a quick release. (This cooking time is for high-elevation. Reduce the cooking time for lower elevation). 
+5. Garnish with radishes, cabbage, cilantro, lime wedges, avocado, chili flakes, and oregano.    
