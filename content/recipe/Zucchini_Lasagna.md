@@ -25,20 +25,20 @@ Servings: 6-8 <!--more-->
 * 1 container of Cottage Cheese, drained
 * 3 tbsp Fresh Basil, sliced julienne, divided 
 * 1 Egg 
-* Shredded Mozzarella Cheese 
+* 1 Package Shredded Mozzarella Cheese 
 
 #### DIRECTIONS 
 
-1. Slice zucchinis into length-wise strips, microwave for 3 minutes and drain the excess fluid. 
-2. Lightly salt the strips and lay them out on paper towels or a cloth to dry. 
-3. In a large skillet, warm half the oil on medium heat. 
-4. Add beef and cook until browned. Drain the excess fluid and set the meat aside. 
-5. Return pan to medium heat and add the remaining oil. Combine onions, tomato puree, basil, salt and pepper. Bring mixture to a simmer and add meat. 
+1. Slice zucchinis length-wise, microwave in a dish for 3 minutes and drain the excess fluid. 
+2. Lightly salt the strips and lay them out on a cloth to dry. 
+3. In a large skillet, warm half the oil over medium heat. 
+4. Add the beef and cook until brown. Drain the excess fluid and set the meat aside. 
+5. Return the pan to medium heat and add the remaining oil. Combine onions, tomato puree, basil, salt and pepper. Bring mixture to a simmer and add meat. 
 6. Preheat oven to 375 degrees. 
-7. In a small bowl, mix cottage cheese and 1 egg. 
+7. In a small bowl, mix the cottage cheese and 1 egg. 
 8. Prepare a casserole dish with oil. 
-9. Blot dry the zucchini strips once more and place a layer at the bottom of the casserole dish. 
-10. Layer the meat and sauce mixture overtop, followed by a layer of the cottage cheese mixture, and sprinkle with mozzarella cheese. Repeat until the ingredients are gone. 
+9. Blot dry the zucchini once more and place a layer at the bottom of the casserole dish. 
+10. Layer the cottage cheese mixture overtop, followed by meat and sauce mixture, and sprinkle with mozzarella cheese. Repeat until all the ingredients are gone. 
 11. Finish the dish with mozzarella cheese (and more basil leaves if desired). 
 12. Cover the casserole dish with aluminium foil. Bake for 45 minutes. 
 13. Uncovered, bake for another 15 minutes. 
