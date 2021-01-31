@@ -6,7 +6,8 @@ tags = [
     "noodles",
     "lunch",
     "dinner",
-    "singapore"
+    "singapore",
+    "pescatarian"
     
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
@@ -30,22 +31,21 @@ Adapted from: Serious Eats, Shao Z.
 * 2 Eggs, beaten with two pinches Kosher Salt
 * ½ medium White Onion, thinly sliced
 * ½ medium Red Bell Pepper, stemmed, seeded, julienned
-* 12 Snow Peas, stemmed, tough strings removed, and slice thinly on the bias
+* 12 Snow Peas, stemmed, tough strings removed, and thinly sliced
 * ½ medium Carrot, julienned
 * 1 tbsp Yellow Curry Powder, divided
 * Kosher Salt, to taste 
-* 2 Scallions, thinly sliced
+* 2 Scallions, greens thinly sliced
 * 2 tsp Toasted Sesame Oil
 
 #### DIRECTIONS 
 
-1. Pat shrimp dry and place in a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and set aside in the refrigerator.
+1. Pat shrimp dry and place them in a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and set aside in the refrigerator.
 2. Place rice noodles in a large bowl and cover with boiling water. Let stand for 5 minutes. Drain noodles in a colander, rinse with cold running water, then drain until dry. Using scissors, cut the bundle of noodles in half.
 3. Combine garlic, soy sauce, Shaoxing wine, white pepper, sugar, and remaining 2 tsp fish sauce. Mix well and set aside.
-4. Heat 1 tsp canola oil in a wok or nonstick skillet over high heat, tilting to swirl oil, until smoking. Add eggs and let cook undisturbed for about 10 second, then gently move the eggs back and forth with a spatula until they start to firm up. Break the eggs into small pieces, then set aside in a large bowl.
-5. Wipe wok clean. Return wok to high heat, add 2 tsp oil and heat until smoking. Add shrimp and stir-fry for 30 seconds. Add onion and continue to stir-fry for another 30 seconds. Add red bell pepper and snow peas and stir for another 30 seconds, then add carrots. 
-6. Add 1 tsp curry powder and salt. Cook, tossing, until curry is evenly distributed. Scrape wok contents into bowl with eggs.
-7. Wipe wok clean again. Heat remaining 2 tbsp canola oil over high heat until smoking. Add the rice-stick noodles and stir-fry for 30 seconds. Add the sauce and remaining 2 tsp curry powder. Stir until the curry powder is evenly distributed. 
-8. Return egg, shrimp, and vegetables to wok and stir-fry until everything is evenly combined, about 30 seconds. Season with salt (if needed) and remove from heat. 
-9. To serve, add scallions and drizzle with sesame oil, mix well, and transfer to a large serving bowl. 
- 
+4. Heat 1 tsp canola oil in a wok or nonstick skillet over high heat, tilting to swirl oil, until smoking. Add eggs and let cook undisturbed for about 10 seconds. Gently move the eggs back and forth with a spatula until they firm up. Break the eggs into small pieces and set aside. 
+5. Wipe pan clean and return to high heat, add 2 tsp oil and warm until smoking. Add shrimp and stir-fry for 30 seconds. Add onion and continue to stir-fry for another 30 seconds. Add red bell pepper and snow peas and stir for another 30 seconds, then add carrots. 
+6. Add 1 tsp curry powder and salt. Cook, tossing, until curry is evenly distributed. Scrape the pan contents into a bowl with eggs.
+7. Wipe the pan clean again. Heat remaining 2 tbsp canola oil over high heat until smoking. Add the rice-stick noodles and stir-fry for 30 seconds. Add the sauce mixture and remaining 2 tsp curry powder. Stir until evenly distributed. 
+8. Return egg, shrimp, and vegetables to pan and stir-fry until everything is evenly combined, about 30 seconds. Season with salt (if needed) and remove from heat. 
+9. Garnish with scallions and drizzle with sesame oil. 
