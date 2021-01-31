@@ -19,7 +19,7 @@ For the Roll:
 
 * 1 cup Canola Oil 
 * 4 Eggs 
-* 2 cup Pumpkin Puree 
+* 2 cup Canned Pumpkin Puree 
 * 2 cup Sugar 
 * 2 cup Flour 
 * 2 tsp Baking Powder 
@@ -38,9 +38,9 @@ For the Frosting:
 
 #### DIRECTIONS 
 
-1. Preheat oven to 350 degrees. 
+1. Preheat the oven to 350 degrees. 
 2. Beat ingredients for the roll together and pour into a greased jelly roll. 
 3. Bake for 25 minutes. 
-4. In a small bowl, mix together the ingredients for the frosting and set aside at room temperature. 
+4. While baking, mix together the ingredients for the frosting in a small bowl and set aside at room temperature. 
 5. Remove the roll from the oven and let it stand 15-20 minutes. 
-6. When the roll is cooled, cover it with frosting and sprinkle with powdered sugar to serve. 
+6. When the roll has cooled, drizzle with frosting and sprinkle with powdered sugar to serve. 
