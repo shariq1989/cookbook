@@ -1,5 +1,5 @@
 +++
-title = "Goa Red Lentil Soup- Goa Red Dal"
+title = "Goa Red Dal"
 date = "2020-01-19"
 description = ""
 tags = [
@@ -10,7 +10,8 @@ tags = [
     "instant pot",
     "pressure cooker",
     "coconut", 
-    "dal"
+    "dal", 
+    "lentils"
 ]
 #thumbnail= "images/goa-daal.jpg"
 +++
