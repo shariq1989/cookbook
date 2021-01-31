@@ -8,7 +8,9 @@ tags = [
     "instant pot",
     "pressure cooker",
     "lunch",
-    "dinner"
+    "dinner", 
+    "soup",
+    "pulled meat" 
 ]
 thumbnail= "images/MissippiRoast.jpg"
 +++
@@ -25,9 +27,9 @@ For the Roast:
 * ¼ cup Flour
 * 1 1/2 tbsp Canola Oil 
 * 4 tbsp Unsalted Butter 
-* 8-12 Pepperoncinis 
+* 12-14 Pepperoncinis 
 * 1 cup Baby Carrots
-* 1/2 Yellow Onions, finely sliced
+* 1/2 Yellow Onion, finely sliced
 * 5 Red Potatoes, quartered and roasted in the oven with 1/2 tbsp olive oil, 1 tsp minced garlic, salt, and dried parsley. 
 * Fresh Parsley, finely chopped, to garnish
 
