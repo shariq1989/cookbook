@@ -24,7 +24,7 @@ For the Broth:
 * 1 bunch Dill, ends reserved
 * 1 Garlic Head 
 * 2½ - 3 lbs Bone-in, Skin-on Chicken 
-* 10 cup of Water 
+* 10 cup Water 
 * 1 large White Onion, quartered 
 * 2 tsp Kosher Salt 
 * 1 tsp Peppercorns 
@@ -41,26 +41,26 @@ For the Soup:
 * ½ tsp Kosher Salt  
 * ½ cup Dry Vermouth 
 * 1 tsp Flour 
-* 6 large Egg Yolks 
+* 6 Egg Yolks 
 * ½ cup Lemon Juice, about 1-2 lemons
-* Black Pepper, ground, to taste
+* Coarse Black Pepper, to taste
 
 
 #### DIRECTIONS 
 
-To Make the Broth: 
+For the Broth: 
 
 1. Tie the stems of the cilantro and dill bundles, then trim the leaves, reserving ¼ cup of each for garnish. Cut off and discard the top third of the garlic head, leaving the head intact. 
 2. In a large pot, combine the stems, garlic, chicken and remaining broth ingredients. Bring to a boil and reduce to medium-low. Simmer until chicken is tender, about 45 minutes.
 3. Remove and set aside the garlic head. 
 4. Transfer the chicken to a plate and cool. Shred the chicken into bite-sized pieces, discarding the skin, bones and cartilage. 
 
-To Make the Soup: 
+For the Soup: 
 
-1. Strain the broth into another pot, discarding the solid. Using tongs, squeeze the garlic head into the broth; the tender cloves should pop out of their skins. Whisk into the broth. 
-2. Wipe out the empty pot, add butter, carrots, onions, and salt. Set over medium heat and cook, stir occasionally, until the onion is brown, 10-12 minutes. Add the vermouth, scraping up the brown bits and cook until evaporated, 1-2 minutes. 
-3. Add the flour and cook, stirring constantly for 1 minute. 
+1. Strain the broth into another pot, discarding the solids. Using tongs, squeeze the garlic head into the broth; the tender cloves should pop out of their skins. Whisk into the broth. 
+2. Wipe out the empty pot, add butter, carrots, onions, and salt. Set over medium heat and cook, stir occasionally, until the onions begin to brown, 10-12 minutes. Add the vermouth, scraping up any brown bits and cook, 1-2 minutes. 
+3. Add flour and stir constantly for 1 minute. 
 4. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
 5. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the pot and whisk to combine. 
 6. Add the chicken and any accumulated juices. Cook until heated through (do not simmer once the eggs are in the mixture). Taste and season with salt and pepper.
-7. Serve with reserved cilantro and dill as garnish. 
+7. Garnish the soup with cilantro and dill.  
