@@ -25,7 +25,7 @@ Servings: 6-8 <!--more-->
 * 1 1/2 cup water 
 * 1 tsp Kosher salt, to taste
 * 2 tbsp turmeric, ground 
-* 1 tbsp red chili powder (Not American red chili powder) 
+* 1 tbsp Ka chili powder (Not American red chili powder) 
 * 1/2 tsp Garam Masala
 * 1 large Tomato, chopped and pureed in food processor 
 * 1 tbsp Ginger, freshly grated 
@@ -35,7 +35,7 @@ Servings: 6-8 <!--more-->
 For the Tadka: 
 * 1 tbsp Ghee 
 * 2 Green Chilis, split 
-* 2-3 Red Chilis, dried 
+* 2-3 Boriya Chilis, dried (Boriya Mirch) 
 * 1 tsp Cumin Seeds 
 * 1/2 tsp Mustard Seeds 
 * 3-4 Curry Leaves 
