@@ -1,5 +1,5 @@
 +++
-title = "Masala Goat- Bhuna Gosht"
+title = "Bhuna Gosht"
 date = "2020-01-29"
 description = ""
 tags = [
