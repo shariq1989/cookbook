@@ -10,7 +10,7 @@ tags = [
     "lunch",
     "dinner"
 ]
-#thumbnail= "images/MissippiRoast.jpg"
+thumbnail= "images/MissippiRoast.jpg"
 +++
 
 Servings: 4-6<!--more-->
