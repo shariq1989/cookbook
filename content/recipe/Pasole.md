@@ -12,7 +12,7 @@ tags = [
     "mexican",
     "soup"
 ]
-thumbnail= "images/Pasole (1).jpg"
+thumbnail= "images/Pasole.jpg"
 +++
 
 Servings: 6-8 <!--more-->
