@@ -42,3 +42,7 @@ Servings: 3-4 <!--more-->
 8. Let karahi cook for about 1 hour, stirring occasionally to ensure nothing sticks to the bottom of the pan. Check the goat for tenderness (attempt to seperate the meat from the bone using a fork. Meat should easily pull). If not, allow the meat to simmer longer until it has reached desired tenderness.  
 9. Garnish with ginger sticks, cilantro, and extra green chilis. 
 10. Serve with naan or long-grain basmati rice. 
+
+#### THE STORY BEHIND THE MEAL 
+
+Before meeting Shariq, I (Tressa) had no experience with eating or making Desi food. In fact, if you asked me the difference between an Indian or a Thai Curry I couldn't have told you. I am incredibly honored to be able to study Desi cooking under my mother-in-law, who is a phenomenal cook. She cooks off script so you have to observe carefully as she buzzes through the kitchen or you miss it all. I am amazed by her ability to build upon flavors to create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even more tasty. 
