@@ -26,7 +26,7 @@ Servings: 4-6 <!--more-->
 * 1 inch Ginger, minced 
 * 1 large Tomato, pureed in a food processor
 * 1/2 cup Water 
-* 2 tbsp Gree
+* 2 tbsp Ghee 
 * 1 tsp Turmeric Powder
 * 2 tsp Kashmiri Chili Powder
 * 1 tsp Garam Masala
