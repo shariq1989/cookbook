@@ -35,3 +35,7 @@ Servings: 6 <!--more-->
 5. Add the tomatoes and turn up the heat until the mixture begins to bubble. Reduce the heat and simmer for 10 minutes. 
 6. Stir in 1/2 cup cilantro and salt, to taste, if needed.
 7. Garnish with cilantro and serve with long-grain basmati rice. 
+
+#### THE STORY BEHIND THE MEAL 
+
+Before meeting Shariq, I (Tressa) had no experience with eating or making Desi food. In fact, if you asked me the difference between an Indian or a Thai Curry I couldn't have told you. I am incredibly honored to be able to study Desi cooking under my mother-in-law, who is a phenomenal cook. She cooks off script so you have to observe carefully as she buzzes through the kitchen or you miss it all. I am amazed by her ability to build upon flavors to create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even more tasty. 
