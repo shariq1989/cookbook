@@ -9,7 +9,7 @@ tags = [
     "instant pot",
     "pressure cooker",
     "ivorian",
-    "stew"
+    "stew",
     "west africa" 
 ]
 #thumbnail= "images/kedjenou.jpg"
