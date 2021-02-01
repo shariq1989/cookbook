@@ -49,3 +49,7 @@ Servings: 4-6 <!--more-->
 8. Cook, stirring occasionally, until liquid has reduced into a thick stew, about 30 minutes.
 9. Garnish with cilantro and serve with long-grain basmati rice or naan. 
 
+#### THE STORY BEHIND THE MEAL 
+
+Before meeting Shariq, I (Tressa) had no experience with eating or making Desi food. In fact, if you asked me the difference between an Indian or a Thai Curry I couldn't have told you. I am incredibly honored to be able to study Desi cooking under my mother-in-law, who is a phenomenal cook. She cooks off script so you have to observe carefully as she buzzes through the kitchen or you miss it all. I am amazed by her ability to build upon flavors to create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even more tasty. 
+
