@@ -26,7 +26,7 @@ Servings: 3-4 <!--more-->
 * 1 small Zucchini, quartered
 * 2 tsp Fresh Ginger, minced
 * 4 Garlic Cloves, minced
-* 1- 14 oz Aroy-D Coconut Milk 
+* 1- 14 oz Aroy-D Coconut Milk, plus more if you prefer less spicy 
 * 1 tbsp Fish Sauce
 * Kosher Salt, to taste 
 * Lime Wedges, for garnish 
