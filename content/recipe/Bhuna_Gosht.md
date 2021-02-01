@@ -39,7 +39,7 @@ For Whole Spices:
 * 6 Boriya Chilis, dry (Boriya Mirch) 
 * 2 Bay Leaves
 * 1½ inch Cinnamon Stick
-* 5 Cloves
+* 3 Whole Cloves
 * 5 Whole Black Peppercorns
 * 5 Green Cardamom Pods
 * 2 Black Cardamom Pods
