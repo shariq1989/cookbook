@@ -8,8 +8,8 @@ tags = [
     "austrian",
     "lunch",
     "dinner",
-    "instant pot",
-    "pressure cooker",
+    "instantpot",
+    "pressurecooker",
     "soup",
     "hearty"
 ]
