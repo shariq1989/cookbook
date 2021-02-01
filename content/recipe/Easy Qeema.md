@@ -1,5 +1,5 @@
 +++
-title = " BeefQeema"
+title = "Beef Qeema"
 date = "2020-01-18"
 description = ""
 tags = [
