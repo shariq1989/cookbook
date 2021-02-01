@@ -10,7 +10,7 @@ tags = [
     "vegetarian", 
     "indian",
     "pakistani",
-    "international" 
+    "international",
     "garbanzo bean"
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
