@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Thai Red Curry"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -14,7 +14,7 @@ tags = [
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
-Servings: 6 <!--more-->
+Servings: 3-4 <!--more-->
 
 #### INGREDIENTS 
 
