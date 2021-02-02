@@ -33,12 +33,12 @@ For the Wrap:
 
 For the Homemade Hoisin: 
 
-3 tbsp Soy Sauce 
-1/2 tsp Ginger Paste 
-1 tbsp Sesame Oil 
-1 tbsp Rice Wine Vinegar 
-1 tbsp Monkfruit Sweetener or Honey 
-1 tbsp Natural Almond Butter 
+* 3 tbsp Soy Sauce 
+* 1/2 tsp Ginger Paste 
+* 1 tbsp Sesame Oil 
+* 1 tbsp Rice Wine Vinegar 
+* 1 tbsp Monkfruit Sweetener or Honey 
+* 1 tbsp Natural Almond Butter 
 
 #### DIRECTIONS 
 
@@ -46,6 +46,6 @@ For the Homemade Hoisin:
 2. In a medium skillet, warm 1 tbsp sesame oil over medium heat. 
 3. Add the ground beef and cook thoroughly, breaking up the meat until it is finely minced. 
 4. While the meat is cooking, mix together the garlic, ginger, soy sauce, white wine vinegar, and siracha. Stir the mixture into the meat, along with the hoisin sauce until thoroughly combined. 
-5. Cover the mixture with a lid and simmer, about 5 minutes.  
-6. Garnish with reserved scallions and drizzle with sesame oil and homemade hoisin. 
+5. Cover the mixture with a lid and simmer, about 5 minutes. If you like your meat to have a stickier texture, you can add 1 tbsp of water at this time. 
+6. Garnish with the green scallions and drizzle with sesame oil and homemade hoisin, to taste. 
 7. Serve on butter or romaine lettuce. 
