@@ -14,7 +14,7 @@ tags = [
     "noodles", 
     "spinach"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/StuffedShells.jpg"
 +++
 
 Servings: 5 <!--more-->
