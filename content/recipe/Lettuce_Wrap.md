@@ -7,8 +7,10 @@ tags = [
     "lunch",
     "dinner",
     "healthy",
-    "low carb", 
-    "keto" 
+    "lowcarb", 
+    "keto", 
+    "asian",
+    "lettuce"
 ]
 #thumbnail= "images/pfchangslettucewrap.jpg"
 +++
@@ -26,12 +28,12 @@ For the Wrap:
 * 2 tsp Ginger, minced 
 * 1 tbsp Rice Wine Vinegar 
 * 3 tsp Sriracha 
-* 1/4 cup store-bought or homemade hoisen, plus some for garnish
+* 1/4 cup store-bought or homemade hoisen, plus more for garnish
 * 4 Scallions, sliced and white and greens seperated 
 * Butter or Romaine Lettuce, washed and patted dry 
-* Toasted Peanuts, to garnish 
+* Optional: Toasted Peanuts, to garnish 
 
-For the Homemade Hoisin: 
+For the Homemade Hoisin Sauce: 
 
 * 3 tbsp Soy Sauce 
 * 1/2 tsp Ginger Paste 
@@ -47,5 +49,6 @@ For the Homemade Hoisin:
 3. Add the ground beef and cook thoroughly, breaking up the meat until it is finely minced. 
 4. While the meat is cooking, mix together the garlic, ginger, soy sauce, white wine vinegar, and siracha. Stir the mixture into the meat, along with the hoisin sauce until thoroughly combined. 
 5. Cover the mixture with a lid and simmer, about 5 minutes. If you like your meat to have a stickier texture, you can add 1 tbsp of water at this time. 
-6. Garnish with the green scallions and drizzle with sesame oil and homemade hoisin, to taste. 
-7. Serve on butter or romaine lettuce. 
+6. Remove the lid and lower the heat, allow the beef mixture to reduce, about 2-5 minutes. 
+7. Garnish with the green scallions and peanuts and drizzle with sesame oil and homemade hoisin, to taste. 
+8. Serve on butter or romaine lettuce. 
