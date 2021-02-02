@@ -41,5 +41,6 @@ Servings: 5 <!--more-->
 5. Divide the cheese mixture among cooked pasta shells, stuffing each shell with about 2 tbsp of the cheese mixture. 
 6. Align shells in the baking dish side by side, with the opening of shells facing upright. 
 7. Drizzle more of the basil pesto sauce overtop and then sprinkle parmesan cheese in an even layer.  
-8. Cover the baking dish with aluminum foil and bake, 30 minutes.
-9. Garnish with toasted pine nuts, optional. 
+8. Cover the baking dish with aluminum foil and bake, 50 minutes.
+9. Remove the foil and cook for 5 minutes more. 
+10. Garnish with toasted pine nuts and fresh basil and serve
