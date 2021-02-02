@@ -14,7 +14,7 @@ tags = [
     "noodles", 
     "spinach"
 ]
-thumbnail= "images/StuffedShells.jpg"
+thumbnail= "images/StuffedShells.jpg "
 +++
 
 Servings: 5 <!--more-->
@@ -26,7 +26,7 @@ Servings: 5 <!--more-->
 * 2 cups Fresh Spinach, steamed and wilted, blotted dry with cloth
 * 15 oz Ricotta Cheese
 * 1 Egg
-* 3 Garlic Cloves, minced
+* 3-5 Garlic Cloves, minced
 * Course Black Pepper, to taste
 * 1/2 cup Parmesan Cheese, shredded, plus more to garnish
 * tbsp Basil, dried 
@@ -40,7 +40,7 @@ Servings: 5 <!--more-->
 4. Prepare a baking dish and spread basil pesto sauce into an even layer along bottom. 
 5. Divide the cheese mixture among cooked pasta shells, stuffing each shell with about 2 tbsp of the cheese mixture. 
 6. Align shells in the baking dish side by side, with the opening of shells facing upright. 
-7. Drizzle more of the basil pesto sauce overtop and then sprinkle parmesan cheese in an even layer.  
-8. Cover the baking dish with aluminum foil and bake, 50 minutes.
-9. Remove the foil and cook for 5 minutes more. 
+7. Drizzle more of the basil pesto sauce overtop, then sprinkle parmesan cheese in an even layer.  
+8. Cover the baking dish with aluminum foil, bake 50 minutes.
+9. Remove foil and cook for 5 minutes. If you prefer cheese to be browned, broil for 1-2 minutes. 
 10. Garnish with toasted pine nuts and fresh basil and serve
