@@ -8,7 +8,7 @@ tags = [
     "dessert", 
     "baking"
 ]
-#thumbnail="images/ChipCookies.jpg "
+thumbnail="images/ChipCookies.jpg "
 +++
 
 Servings: About 18 Cookies <!--more-->
