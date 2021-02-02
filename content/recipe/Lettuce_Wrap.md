@@ -12,7 +12,7 @@ tags = [
     "asian",
     "lettuce"
 ]
-thumbnail= "images/LettucWrap.jpg "
+thumbnail= "images/LettuceWrap.jpg "
 +++
 
 Servings: 4-6 <!--more-->
