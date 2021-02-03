@@ -11,7 +11,7 @@ tags = [
     "pakistani", 
     "international" 
 ]
-thumbnail= "images/GoatKarahi.png"
+thumbnail= "images/GoatKarahi.jpg"
 +++
 
 Servings: 3-4 <!--more-->

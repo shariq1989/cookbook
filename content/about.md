@@ -6,7 +6,7 @@ aliases = ["about-us", "about-jamilghar"]
 author = "Jamil Ghar"
 +++
 
-{{< figure src="/images/about.png" alt="Shariq and Tressa" class="aboutFigure">}}
+{{< figure src="/images/about.jpg" alt="Shariq and Tressa" class="aboutFigure">}}
 
 Welcome to our table; let's break bread together. 
 We'll start, we are Shariq and Tressa, the husband and wife team behind The Jamil Ghar. We live in beautiful Colorado alongside our two little ones. 

@@ -25,7 +25,7 @@ displayMode = "light"
 #author = "Tressa Jamil"
 #copyright = "2020-2021"
 description = "Our world needs more meals around the table. Have a seat at ours."
-profilePicture = "images/profile_pic.png"
+profilePicture = "images/profile_pic.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -33,7 +33,7 @@ customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["recipe"]
-images = ["images/site-feature-image.png"]
+images = ["images/site-feature-image.jpg"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
