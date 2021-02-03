@@ -31,7 +31,7 @@ Servings: About 18 Cookies <!--more-->
 1. Preheat oven to 375 degrees. 
 2. Mix together butter, sugar, and brown sugar until smooth. 
 3. Beat in one egg at a time, then stir in the vanilla extract. 
-4. Dissolve baking soda into hot water and add it to the mixture along with the salt. 
-5. Stir in the flour one cup at a time and then fold in the chocolate chips. 
+4. Dissolve baking soda into hot water and add it to the mixture along with the salt, mix well. 
+5. Mix in the flour one cup at a time and fold in the chocolate chips. 
 6. Drop by large spoonfuls onto an ungreased baking pan. 
-7. Bake for 15 minutes until the outside is brown. 
+7. Bake for 8-10 minutes until the outside is golden brown. 
