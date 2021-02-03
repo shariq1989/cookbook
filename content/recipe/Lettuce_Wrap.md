@@ -52,3 +52,7 @@ For the Homemade Hoisin Sauce:
 6. Remove the lid and lower the heat, allow the beef mixture to reduce, about 2-5 minutes. 
 7. Garnish with the green scallions and peanuts and drizzle with sesame oil and homemade hoisin, to taste. 
 8. Serve on butter or romaine lettuce. 
+
+THE STORY BEHIND THE MEAL 
+These lettuce wraps are healthy and most importantly, they are easy to make! There are very few recipes that make it to the regular rotation in our home, and this is one of them. Best of all, they are both adult and child approved. A quick note about the recipe, while store-bought hoisin is super tasty, it is high in sugar content. For those concerned about sugar intake, like our family, we recommend making our homemade hoisin instead (see directions above). 
+
