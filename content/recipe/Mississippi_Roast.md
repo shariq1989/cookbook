@@ -49,3 +49,6 @@ For the Ranch Dressing:
 5. Remove the lid and add the dressing, carrots, and onions. Secure the lid and set the Instant Pot to high pressure, cook for 70 minutes with a quick release. (This is for high elevation. You can reduce the cooking time for lower elevation). Let it rest, about 5 minutes. 
 6. Remove the roast and shred it, then mix it with the liquid from inside the Instant Pot. 
 7. Garnish with parsley and serve with roasted potatoes. 
+
+
+Slow Cooker Mississippi Pork Roast is a savory, sweet and spicy pork roast that is tender to the touch and falls apart with ease. 
