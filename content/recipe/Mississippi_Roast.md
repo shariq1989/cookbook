@@ -51,4 +51,7 @@ For the Ranch Dressing:
 7. Garnish with parsley and serve with roasted potatoes. 
 
 
-Slow Cooker Mississippi Pork Roast is a savory, sweet and spicy pork roast that is tender to the touch and falls apart with ease. 
+#### THE STORY BEHIND THE MEAL 
+
+It's midweek and you need a quick and easy meal, reach for this Mississippi Roast; you won't be disappointed. It has both sweet and savory notes that will make your mouth water. Eat it as a roast or throw it on a hoagie with provolone cheese and a side of au jus. 
+
