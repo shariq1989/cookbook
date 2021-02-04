@@ -53,9 +53,6 @@ For the Homemade Hoisin Sauce:
 7. Garnish with the greens from the scallions, peanuts, and drizzle with sesame oil. Use the reserved homemade hoisin and serve as a dipping sauce alongside the wraps.  
 8. Serve on butter or romaine lettuce. 
 
-
-
-
 #### THE STORY BEHIND THE MEAL 
 
 These lettuce wraps are healthy and most importantly, they are easy to make! There are very few recipes that make it to the regular rotation in our home, and this is one of them. Best of all, they are both adult and child approved. A quick note about the recipe, while store-bought hoisin is super tasty, it is high in sugar content. For those concerned about sugar intake, like our family, we recommend making our homemade hoisin instead (see directions above). 
