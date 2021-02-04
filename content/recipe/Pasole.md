@@ -3,14 +3,17 @@ title = "Pazole"
 date = "2020-01-29"
 description = ""
 tags = [
-    "chicken",
+    "pork",
     "lunch",
     "dinner",
-    "instant pot",
-    "pressure cooker",
+    "instantpot",
+    "pressurecooker",
     "stew",
     "mexican",
-    "soup"
+    "soup",
+    "lowcarb",
+    "lchf",
+    "vegetarian"
 ]
 thumbnail= "images/Pasole.jpg"
 +++
@@ -26,12 +29,12 @@ For the Pasole:
 * 2 Bay Leaves 
 * 1 tbsp Avocado Oil 
 * ½ Ancho Chili Powder or ½ can Chipotle in Adobo Sauce 
-* 1-2 Guajillo Chilis, dred
-* 2½ lb Pork Butt cut into 1-inch pieces
+* 1-2 Guajillo Chilis, dried
+* 2½ lb Pork Butt, cut into 1-inch pieces (or skip to make vegetarian) 
 * 1 large White Onion, diced 
 * 6 Garlic Cloves, minced 
 * 4 cup of Water and 2 tbsp Chicken- Better Than Bouillon
-* 1 29 oz can of Hominy, drained and rinsed 
+* 1-29 oz can of Hominy, drained and rinsed (double if doing vegetarian) 
 
 For the Garnish: 
 
