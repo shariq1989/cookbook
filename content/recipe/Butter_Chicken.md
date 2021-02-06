@@ -43,3 +43,8 @@ Servings: 4 <!--more-->
 6. Return mixture to the pan over a medium heat. Stir well and gradually add the heavy cream, stirring continuously. Allow the mixture simmer for 2-3 minutes. 
 7. Lower the heat and nestle chicken thighs into the pan, cover with a lid and let it cook, about 25-30 minutes. 
 8. Garnish with cilantro and green chilis and serve with basmati rice or naan. 
+
+
+#### THE STORY BEHIND THE MEAL
+
+Butter chicken or murgh makhani originated in North India as a curry, but later spread through the western world. It's popularity grew mainly because of how easy it is to make, but it also offers and gentle introduction to some of the more flavorful and spicy dishes known in India. We don't make this too often in our home for just us, but when we have guests over, this is a go-to crowd pleaser. 
