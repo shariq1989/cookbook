@@ -1,5 +1,5 @@
 +++
-title = "Channa Masala- Chole"
+title = "Channa Masala"
 date = "2021-02-05"
 description = ""
 tags = [
@@ -53,7 +53,7 @@ Servings: 4-6 <!--more-->
 10. Taste with salt, if needed and garnish with cilantro. Serve with long-grain basmati rice or naan. 
 
 #### THE STORY BEHIND THE MEAL 
-Chana masala is so incredibly flavorful and happens to be one of the most popular North Indian and Pakistani vegetarian dishes. It’s a simple, healthy meal to make that caters to vegetarians, vegans, and those who are gluten-free. 
+Chana masala, also called Chole is so incredibly flavorful and happens to be one of the most popular North Indian and Pakistani vegetarian dishes, which is where Shariq's family orginates. It’s a simple, healthy meal to make that caters to vegetarians, vegans, and those who are gluten-free. 
 
 Before meeting Shariq, I (Tressa) had no experience with eating or making Desi food. In fact, if you asked me the difference between an Indian or a Thai Curry I couldn't have told you. I am incredibly honored to be able to study Desi cooking under my mother-in-law, who is a phenomenal cook. She cooks off script so you have to observe carefully as she buzzes through the kitchen or you miss it all. I am amazed by her ability to build upon flavors to create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even more tasty. 
 
