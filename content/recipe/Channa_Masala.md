@@ -12,7 +12,9 @@ tags = [
     "pakistani",
     "international",
     "garbanzo bean",
-    "vegan"
+    "vegan",
+    "recipe",
+    "desi"
 ]
 thumbnail= "images/ChannaMasala.jpg "
 +++
