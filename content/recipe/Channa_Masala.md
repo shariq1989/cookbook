@@ -14,7 +14,7 @@ tags = [
     "garbanzo bean",
     "vegan"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/ChannaMasala.jpg "
 +++
 
 Servings: 4-6 <!--more-->
@@ -26,7 +26,7 @@ Servings: 4-6 <!--more-->
 * 1 Red Onion, finely chopped
 * 3 Garlic Cloved, minced
 * 1-inch Ginger piece, minced 
-* 1 large Tomato, chopped
+* 1-2 large Tomatoes, chopped, use more if you prefer more salan 
 * 1/2 cup Water 
 * 1 tsp Turmeric Powder
 * 1-2 tsp Kashmiri Chili Powder, depending on your prefered heat
