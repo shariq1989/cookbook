@@ -44,3 +44,6 @@ Servings: 5 <!--more-->
 8. Cover the baking dish with aluminum foil, bake 50 minutes.
 9. Remove foil and cook for 5 minutes. If you prefer cheese to be browned, broil for 1-2 minutes. 
 10. Garnish with toasted pine nuts and fresh basil and serve
+
+
+Butter chicken or murgh makhani originated in North India as a curry, but later spread through the western world. It's popularity grew mainly because of how easy it is to make, but it also offers and gentle introduction to some of the more flavorful and spicy dishes known in India. We don't make this too often in our home for just us, but when we have guests over, this is a go-to crowd pleaser. 
