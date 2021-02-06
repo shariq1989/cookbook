@@ -1,5 +1,5 @@
 +++
-title = "Channa Masala"
+title = "Channa Masala- Chole"
 date = "2021-02-05"
 description = ""
 tags = [
@@ -36,7 +36,7 @@ Servings: 4-6 <!--more-->
 * 1 tsp Coriander, ground 
 * 1-3 Thai Green Chili or Serrani Chilis, split lengthwise 
 * 1 tsp Cumin Seeds
-* 1 tsp Kolongi Seeds (Black Mustard Seed), plus more to sprinkle 
+* 1 tsp Kolongi Seeds (Black Onion Seed), plus more to sprinkle 
 * 1/2 cup Cilantro, chopped 
 * Salt, to taste
 
