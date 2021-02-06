@@ -6,7 +6,9 @@ tags = [
     "cookies",
     "chocolate",
     "dessert", 
-    "baking"
+    "baking",
+    "sweet",
+    "chocolatechip"
 ]
 thumbnail="images/ChipCookies.jpg "
 +++
@@ -34,4 +36,4 @@ Servings: About 18 Cookies <!--more-->
 4. Dissolve baking soda into hot water and add it to the mixture along with the salt, mix well. 
 5. Mix in the flour one cup at a time and fold in the chocolate chips. 
 6. Drop by large spoonfuls onto an ungreased baking pan. 
-7. Bake for 8-10 minutes until the outside is golden brown. 
+7. Bake for 8-10 minutes until the outside becomes golden brown. 
