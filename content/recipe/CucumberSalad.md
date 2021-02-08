@@ -11,7 +11,7 @@ tags = [
     "keto", 
     "japanese"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/PXL_20210207_193637142.MP_2.jpg "
 +++
 
 Servings: 2-3 <!--more-->
