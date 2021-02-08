@@ -16,6 +16,8 @@ thumbnail= "images/PXL_20210207_193637142.MP_2.jpg "
 
 Servings: 2-3 <!--more-->
 
+Adapted From: Outdoor Chef Life 
+
 #### INGREDIENTS 
 
 * 1 tsp Kosher Salt, divided 
