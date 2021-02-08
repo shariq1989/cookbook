@@ -21,9 +21,9 @@ Servings: 2-3 <!--more-->
 * 1 tsp Kosher Salt, divided 
 * 4 tbsp Rice Wine Vinegar
 * 1/2 tsp Sesame Oil 
-* ½ tsp Soy Sauce 
+* 1/2 tsp Soy Sauce 
 * 1 Cucumber, thinly sliced lengthwise
-* ½ tbsp Toasted White Sesame Seeds
+* 1/2 tbsp Toasted White Sesame Seeds
 
 #### DIRECTIONS 
 
