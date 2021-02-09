@@ -1,6 +1,6 @@
 +++
 title = "Thai Red Curry"
-date = "2021-02-8"
+date = "2021-02-08"
 description = ""
 tags = [
     "curry",
