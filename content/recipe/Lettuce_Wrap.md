@@ -44,7 +44,7 @@ For the Homemade Hoisin Sauce:
 
 #### DIRECTIONS 
 
-1. Before cooking, prepare the ingredients in a small bowl for the homemade hoisin sauce, set aside. 
+1. Before cooking, prepare the ingredients in a small bowl for the homemade hoisin sauce, set them aside. 
 2. In a medium skillet, warm the sesame oil over medium heat. 
 3. Add the ground beef and cook thoroughly, breaking up the meat until it is finely minced. 
 4. While the meat is cooking, mix together the garlic, ginger, soy sauce, white wine vinegar, and siracha. Stir the mixture into the meat, along with the homemade hoisin  until thoroughly combined. 
@@ -55,5 +55,5 @@ For the Homemade Hoisin Sauce:
 
 #### THE STORY BEHIND THE MEAL 
 
-There are versions of this dupe all over the internet, but here is the Jamil Family take on it. These lettuce wraps are healthy and most importantly, they are easy to make! There are very few recipes that make it to the regular rotation in our home, but this is one of them. Best of all, they are both and kid approved. A quick note about the recipe, while store-bought hoisin is super tasty, it is high in sugar content. For those concerned about sugar intake, like our family, we recommend making our homemade hoisin instead (see directions above). 
+There are versions of this dupe all over the internet, but here is the Jamil Family take on it. These lettuce wraps are healthy and most importantly, they are easy to make! There are very few recipes that make it to the regular rotation in our home, but this is one of them. Best of all, they are both and kid-approved. A quick note about the recipe, while store-bought hoisin is super tasty, it is high in sugar content. For those concerned about sugar intake, like our family, we recommend making our homemade hoisin instead (see directions above). 
 
