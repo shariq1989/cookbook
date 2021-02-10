@@ -1,14 +1,16 @@
 +++
-title = "CHIKHIRTMA (Georgian Chicken Soup)"
-date = "2020-01-18"
+title = "Peanut and Lime Shrimp "
+date = "2021-02-09"
 description = ""
 tags = [
     "shrimp",
     "lunch",
     "dinner",
     "healthy",
+    "peanuts",
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/peanutshrimp.jpg
+"
 +++
 
 Servings: 4 <!--more-->
