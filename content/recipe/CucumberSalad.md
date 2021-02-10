@@ -11,7 +11,7 @@ tags = [
     "keto", 
     "japanese"
 ]
-thumbnail= "images/PXL_20210207_193637142.MP_2.jpg "
+thumbnail= "images/pickled_cucumber.jpg "
 +++
 
 Servings: 2-3 <!--more-->

@@ -11,7 +11,7 @@ tags = [
     "spicy", 
     "international"
 ]
-thumbnail= "images/PXL_20210209_003358678.MP.jpg"
+thumbnail= "images/thai_red_curry.jpg"
 +++
 
 Servings: 3-4 <!--more-->
