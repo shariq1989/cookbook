@@ -34,5 +34,5 @@ Adapted from: New York Times, Alison Roman
 3. In a prepared baking dish, add the chicken and season with salt and pepper. 
 4. Place the chicken is skin-side up, then pour vinegar over and around the chicken and put it in the oven. Bake chicken without flipping for 25-30 minutes. 
 5. In a small bowl, combine olives, garlic, parsley, and the remaining olive oil (3 tbsp), and 2 tbsp of water. Season mixture with salt and pepper, to taste. 
-6. Once chicken is cooked, remove the baking dish and transfer the chicken to a serving tray, leaving behind the juices. 
+6. Once the chicken is cooked, remove the baking dish and transfer the chicken to a serving tray, leaving behind the juices. 
 7. Pour the olive mixture into the baking dish. Using a wooden spoon, gently scrape up the bits of chicken left behind, letting the olive oil mixture mingle with the rendered fat. When mixed, pour the dressing over the chicken to serve.  
