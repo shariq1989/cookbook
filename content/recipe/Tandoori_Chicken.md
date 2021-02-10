@@ -14,7 +14,7 @@ tags = [
     "indian", 
     "pakistani" 
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/tandoorichicken.jpg"
 +++
 
 Servings: 7 <!--more-->
