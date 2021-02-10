@@ -31,7 +31,7 @@ Servings: About 18 Cookies <!--more-->
 #### DIRECTIONS 
 
 1. Preheat oven to 375 degrees. 
-2. Mix together butter, sugar, and brown sugar until smooth. 
+2. Mix butter, sugar, and brown sugar until smooth. 
 3. Beat in one egg at a time, then stir in the vanilla extract. 
 4. Dissolve baking soda into hot water and add it to the mixture along with the salt, mix well. 
 5. Mix in the flour one cup at a time and fold in the chocolate chips. 
