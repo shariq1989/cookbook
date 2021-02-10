@@ -48,15 +48,14 @@ For the Fricassee
 
 #### DIRECTIONS 
 
-1. In a small bowl, combine ingredients for the jerk seasoning and set aside (any leftovers will store for up to 3 months in a sealed mason jar). 
-2. In another bowl, combine 2 tbsp jerk seasoning with salt and pepper to taste. Season the chicken with the mixture. 
-3. In a large skillet over medium-high heat, heat the oil until shimmering. Add half of the chicken, skin down and cook until golden brown, 7-10 minutes. 
-4. Transfer the chicken, skin-up, to a plate and repeat until all of the chicken is browned. 
-5. Pour off and discard all but 2 tbsp fat from the skillet. 
-6. Add the onion, scallion whites, Gochujang Sauce, and remaining jerk seasoning to the pan. Cook over medium, stirring until onion is lightly browned. 
-7. Stir in soy sauce, lime juice, and 1 cup of water, bring to a simmer, scraping up any brown bits at this time. 
-8. Return the chicken to the skillet, cover and reduce heat to medium-low. Simmer for about 20 minutes. 
-9. Transfer the chicken to a serving platter. Cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes. 
-10. Remove from heat, taste and season with salt and pepper. 
-11. Pour the mixture over the chicken and garnish with scallion greens. 
-12. Serve with lime wedges. 
+1. In a small bowl, combine ingredients for the jerk seasoning and set aside (any leftovers will store for up to 3 months in a sealed mason jar).
+2. In another bowl, combine 2 tbsp jerk seasoning with salt and pepper to taste. Season the chicken with the mixture.
+3. In a large skillet over medium-high heat, heat the oil until shimmering. Add half of the chicken, skin down, and cook until golden brown, 7-10 minutes.
+4. Transfer the chicken, skin-up, to a plate, and repeat until all of the chicken is browned.
+5. Pour off and discard all but 2 tbsp fat from the skillet.
+6. Add the onion, scallion whites, Gochujang Sauce, and remaining jerk seasoning to the pan. Cook over medium, stirring until onion is lightly browned.
+7. Stir in soy sauce, lime juice, and 1 cup of water, bring to a simmer, scraping up any brown bits at this time.
+8. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 20 minutes.
+9. Transfer the chicken to a serving platter. Cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes.
+10. Remove from heat, taste, and season with salt and pepper.
+11. Pour the mixture over the chicken, garnish it with the scallion greens, and serve with lime wedges.
