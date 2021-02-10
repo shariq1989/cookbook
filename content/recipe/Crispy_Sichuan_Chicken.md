@@ -6,7 +6,10 @@ tags = [
     "lunch",
     "dinner",
     "chicken",
-    "chinese"
+    "chinese", 
+    "fried",
+    "asain",
+    "Sichuan"
 ]
 thumbnail= "images/SichuanChicken.jpg "
 +++
@@ -34,13 +37,13 @@ Servings: 4 <!--more-->
 1. In a large bowl, combine soy sauce, vinegar, 2 tbsp sugar, and the egg whites. Stir until sugar dissolves. 
 2. Add chicken to the mixture and stir to coat, cover and let marinate for 20-30 minutes.  
 3. Meanwhile, set 2 wire racks into 2 rimmed baking sheets. 
-4. In a large bowl, stir together 2 tbsp sugar, cornstarch, sichuan peppers, and salt. 
+4. In a large bowl, stir together 2 tbsp sugar, cornstarch, Sichuan peppers, and salt. 
 5. Drain chicken in a colander. 
 6. Add ⅓ of the chicken to the cornstarch and toss to coat completely, pressing the pieces into the mixture. 
 7. Transfer coated chicken to a mesh strainer and shake to remove excess cornstarch. Transfer to the prepared rack in a single layer and repeat with the remaining chicken and cornstarch mixture. 
 8. In a large dutch oven, over medium heat, heat the oil to 350 degrees. Add half of the coated chicken and cook, stirring occasionally to prevent sticking, until well browned, about 5 minutes. Using a slotted spoon, transfer the chicken to the other wire rack. 
 9. Allow the oil to reach 350 degrees again and repeat with the remaining chicken. 
-10. In a small bowl, microwave the sichuan chili oil for 30 seconds.
-11. Combine the hot fried chicken and scallions in a large bowl, sprinkle with sichuan seasoning salt and drizzle with the warm chili oil, then toss to coat. 
+10. In a small bowl, microwave the Sichuan chili oil for 30 seconds.
+11. Combine the hot fried chicken and scallions in a large bowl, sprinkle with Sichuan seasoning salt, and drizzle with the warm chili oil, then toss to coat. 
 12. Add cilantro and toss again. 
 13. Serve with additional chili oil. 
