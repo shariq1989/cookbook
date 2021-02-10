@@ -7,7 +7,9 @@ tags = [
     "lunch",
     "dinner",
     "healthy",
-    "peanuts",
+    "peanut",
+    "lime",
+    "panseared"
 ]
 thumbnail= "images/peanutshrimp.jpg "
 +++
