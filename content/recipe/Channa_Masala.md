@@ -44,18 +44,18 @@ Servings: 4-6 <!--more-->
 
 #### DIRECTIONS 
 
-1. Heat the ghee in a heavy bottomed saucepan over medium-high heat. Add the black mustard seed, cumin seed, and chilis until they begin to sputter.
-2. Add the onion, stirring frequently, until onions brown and caramalize (not burn or char). This step may take a while, that's okay. You are building flavor for the dish. 
-3. Add the garlic and ginger and stir to combine. 
-4. In a small bowl, add the chili powder, turmeric, and garam masala. Stir into the mixture until fragrant, about 30 seconds. 
-5. Add the tomatoes and simmer, about 5 minutes.
-6. Remove the green chilis, set aside, and then remove the entire mixture from heat and place in a food processor, blend until smooth. 
-7. Reture the mixture to the pan, along with the reserved chilis and add the chickpeas and cilantro, along with 1/2 cup water, bring to a simmer. 
-8. Sprinkle the masala lightly with kolongi seeds and cover with lid slightly ajar, and reduce heat to maintain a gentle bubbling. Cook, stirring occasionally, until liquid has reduced into a thick stew, about 12-15 minutes.
-10. Taste with salt, if needed and garnish with cilantro. Serve with long-grain basmati rice or naan. 
+1. Heat the ghee in a heavy-bottomed saucepan over medium-high heat. Add the black mustard seed, cumin seed, and chilis until they begin to sputter.
+2. Add the onion, stirring frequently, until onions brown and caramelize (not burn or char). This step may take a while, that’s okay. You are building flavor for the dish.
+3. Add the garlic and ginger and stir to combine.
+4. In a small bowl, add the chili powder, turmeric, and garam masala. Stir into the mixture until fragrant, about 30 seconds.
+5. Add the tomatoes and simmer for about 5 minutes.
+6. Remove the green chilis, set aside, and then remove the entire mixture from heat and place in a food processor, blend until smooth.
+7. Return the mixture to the pan, along with the reserved chilis and add the chickpeas and cilantro, along with 1/2 cup water, bring to a simmer.
+8. Sprinkle the masala lightly with kalonji seeds and cover with lid slightly ajar, and reduce heat to maintain a gentle bubbling. Cook, stirring occasionally until liquid has reduced into a thick stew, about 12-15 minutes.
+9. Taste with salt, if needed, and garnish with cilantro. Serve with long-grain basmati rice or naan.
 
 #### THE STORY BEHIND THE MEAL 
-Chana masala, also called Chole is so incredibly flavorful and happens to be one of the most popular North Indian and Pakistani vegetarian dishes, which is where Shariq's family orginates. It’s a simple, healthy meal to make that caters to vegetarians, vegans, and those who are gluten-free. 
+Chana masala, also called Chole is so incredibly flavorful and happens to be one of the most popular North Indian and Pakistani vegetarian dishes, which is where Shariq's family originates. It’s a simple, healthy meal to make that caters to vegetarians, vegans, and those who are gluten-free. 
 
-Before meeting Shariq, I (Tressa) had no experience with eating or making Desi food. In fact, if you asked me the difference between an Indian or a Thai Curry I couldn't have told you. I am incredibly honored to be able to study Desi cooking under my mother-in-law, who is a phenomenal cook. She cooks off script so you have to observe carefully as she buzzes through the kitchen or you miss it all. I am amazed by her ability to build upon flavors to create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even more tasty. 
+Before meeting Shariq, I (Tressa) had no experience with eating or making Desi food. If you asked me the difference between an Indian or a Thai Curry I couldn't have told you. I am incredibly honored to be able to study Desi cooking under my mother-in-law, who is a phenomenal cook. She cooks off-script so you have to observe as she buzzes through the kitchen or you miss it all. I am amazed by her ability to build upon flavors to create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even tastier. 
 
