@@ -1,5 +1,5 @@
 +++
-title = "Peanut and Lime Shrimp "
+title = "Peanut and Lime Shrimp"
 date = "2021-02-09"
 description = ""
 tags = [
@@ -9,8 +9,7 @@ tags = [
     "healthy",
     "peanuts",
 ]
-thumbnail= "images/peanutshrimp.jpg
-"
+thumbnail= "images/peanutshrimp.jpg "
 +++
 
 Servings: 4 <!--more-->
