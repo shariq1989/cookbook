@@ -11,7 +11,7 @@ tags = [
     "bbq", 
     "drumsticks"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/bbqchicken.jpg"
 +++
 
 Servings: 8 <!--more-->
