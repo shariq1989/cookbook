@@ -1,5 +1,5 @@
 +++
-title = "Pazole"
+title = "Pasole"
 date = "2020-01-29"
 description = ""
 tags = [
