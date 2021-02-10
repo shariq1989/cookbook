@@ -1,5 +1,5 @@
 +++
-title = "Goat Karahi"
+title = "Karahi Gosht"
 date = "2020-01-29"
 description = ""
 tags = [
