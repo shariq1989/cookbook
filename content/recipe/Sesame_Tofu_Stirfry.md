@@ -39,7 +39,7 @@ Servings: 4-5<!--more-->
 
 1. Preheat oven to 350 degrees and lightly oil a rimmed sheet pan. 
 2. Prepare the tofu, pat it dry with a cloth to remove as much moisture as possible. 
-3. Cut tofu into bite size cubes and lightly season with salt and pepper. 
+3. Cut tofu into bite-size cubes and lightly season with salt and pepper. 
 4. Spread out the tofu onto the rimmed baking sheet and cook for 15-20 minutes, turning tofu pieces midway to cook thoroughly. Cook until lightly browned. 
 5. In a large skillet, warm sesame oil over medium heat and add the already baked tofu. Fry until golden brown. Set aside. 
 6. Using the same oil, add more if needed, add the chilis, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
