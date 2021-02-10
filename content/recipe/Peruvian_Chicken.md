@@ -54,7 +54,7 @@ For the Serrano Crema:
 For the Chicken: 
 
 1. Adjust oven rack to the upper-middle position and preheat the oven to 450 degrees. 
-2. Prepare a wire rack on a rimmed baking sheet lined with aluminium foil.  
+2. Prepare a wire rack on a rimmed baking sheet lined with aluminum foil.  
 3. Dry chicken thoroughly with a cloth. 
 4. Combine cumin, paprika, garlic, vinegar, salt, pepper, and oil in a small bowl and mix well. 
 5. Spread mixture evenly over the whole chicken and under the skin.
