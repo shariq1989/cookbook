@@ -3,15 +3,15 @@ title = "BBQ Chicken Drumsticks"
 date = "2021-02-09"
 description = ""
 tags = [
-    "grill",
+    "grilled",
     "chicken",
     "dinner",
-    "healthy", 
-    "lowcarb", 
-    "bbq", 
+    "healthy",
+    "lowcarb",
+    "bbq",
     "drumsticks"
 ]
-thumbnail= "images/bbqchicken.jpg"
+thumbnail= "images/bbqchicken.jpg "
 +++
 
 Servings: 8 <!--more-->
@@ -26,14 +26,15 @@ Servings: 8 <!--more-->
 * 1/2 tsp Pepper
 * 1/4 tsp Cayenne Pepper
 * 8 Chicken Drumsticks, skin-on, bone-in 
+* Bowl of BBQ Sauce, we like Sweet Baby Rays 
 
 #### INSTRUCTIONS
 
-1. In a large bowl, mix together the brown sugar, paprika, chili powder, salt, pepper, and cayenne powder.  
-2. Toss the chicken with the sprices until fully coated. Let it marinate in the fridge for 6-12 hours. 
-3. Preheat the grill by setting all burners to high. 
-4. Turn off one burner and maintain 325-350 degrees. 
-5. Oil the grates, cook the drumsticks on the hot side of the the grill, brush the chicken with BBQ sauce before placing it skin-down until it becomes brown and blistered, about 5 minutes. 
-6. Coat the bottom side of the chicken with BBQ sauce and then flip the drumsticks to cook the other side, about 4-6 minutes. 
-7. Move the chicken drumsticks to the cool side of the grill and cook skin-up for 25 minutes, until chicken has reached over 170 degrees. 
+1. In a large bowl, mix brown sugar, paprika, chili powder, salt, pepper, and cayenne powder.  
+2. Toss the chicken with the spices until fully coated. Let it marinate in the fridge for 6-12 hours. 
+3. Preheat the grill by setting all burners to high, about 3-5 minutes. 
+4. Turn off one burner and maintain a grill temperature of 325-350 degrees. 
+5. Oil the grates and cook the drumsticks on the hottest side of the the grill, brush the drumsticks with the BBQ sauce before placing it skin-down. Cook until they become brown and blistered, about 5 minutes. 
+6. Coat the bottom side of the chicken with BBQ sauce and flip the drumsticks to cook, about 4-6 minutes. 
+7. Move the drumsticks to the cool side of the grill and cook skin-up for 25 minutes, until chicken has reached over 170 degrees. 
 8. Let the chicken rest for 10 minutes before serving. 
