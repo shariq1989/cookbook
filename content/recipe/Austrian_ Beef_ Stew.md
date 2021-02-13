@@ -23,19 +23,19 @@ Adapted from: Milkstreet
 #### INGREDIENTS 
 
 * 5 lb Chuck Roast, cut into 1 ½ inch pieces and patted dry 
-* 6 tbsp Sweet Paprika 
+* 6 tbsp [Sweet Paprika](https://amzn.to/3jJjOGx) 
 * Kosher Salt and Pepper, to taste 
 * 2 cup Beef Broth, or 2 cups Water and 1 tbsp Beef Better Than Bouillon 
 * ½ cup Tomato Paste 
 * 4 tbsp Salted Butter
 * 1 large Yellow Onion, finely diced 
-* 2 tbsp Caraway Seeds 
+* 2 tbsp [Caraway Seeds](https://amzn.to/3b6l7Ls) 
 * ⅓ cup Flour 
-* 1 tbsp Hot Paprika 
-* 3 Bay Leaves 
+* 1 tbsp [Hot Paprika](https://amzn.to/2ZeqanW) 
+* 3 [Bay Leaves](https://amzn.to/3tUxsLA)
 * ¼ cup Fresh Dill, Chopped 
-* 1 tbsp Apple Cider Vinegar 
-* Optional: 1 Package Egg Noodles 
+* 1 tbsp [Apple Cider Vinegar](https://amzn.to/37dBDs5)
+* Optional: 1 Package [Egg Noodles](https://amzn.to/2Zf7O60) 
 * Garnish with Sour Cream  
 
 #### DIRECTIONS 
