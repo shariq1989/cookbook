@@ -11,7 +11,7 @@ tags = [
     "asain",
     "Sichuan"
 ]
-thumbnail= "images/SichuanChicken.jpg "
+thumbnail= "images/SichuanChilli.jpg "
 +++
 
 Servings: 4 <!--more-->
