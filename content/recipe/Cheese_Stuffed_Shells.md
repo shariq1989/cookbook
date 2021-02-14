@@ -12,7 +12,9 @@ tags = [
     "baked",
     "cheese", 
     "noodles", 
-    "spinach"
+    "spinach", 
+    "vegetarian", 
+    "meatless"
 ]
 thumbnail= "images/StuffedShells.jpg "
 +++
