@@ -18,6 +18,8 @@ tags = [
 thumbnail= "images/Pasole.jpg"
 +++
 
+MEXICAN STEW 
+
 Servings: 6-8 <!--more-->
 
 #### INGREDIENTS 
