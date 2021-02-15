@@ -9,23 +9,25 @@ tags = [
     "indian",
     "pakistani",
     "instant pot", 
-    "curry"
+    "curry", 
+    "fried", 
+    "recipes"
 ]
 thumbnail= "images/BhunaGosht.jpg "
 +++
 
-Servings: 5 <!--more-->
+Pan Fried Goat 
 
-Adapted from: Archanas Kitchen
+Servings: 5 <!--more-->
 
 #### INGREDIENTS 
 
 For Gosht: 
 
-* 1½ lb Goat, cut into 1-2 inch pieces (rinse meat before cooking) 
+* 1½ lb Goat, cut into 1-inch pieces (rinse meat before cooking) 
 * 2 medium Yellow Onions, thinly sliced
 * ¼ cup Garlic Cloves
-* 4 inch Fresh Ginger, sliced
+* 4-inch Fresh Ginger, julienne
 * ¾ cup Full-Fat Yogurt 
 * 2½ tbsp Coriander Powder 
 * 2 tsp Kashmiri Chili Powder
@@ -36,9 +38,9 @@ For Gosht:
 
 For Whole Spices:
 
-* 6 Boriya Chilis, dry (Boriya Mirch) 
+* 6 Boriya Chilis, dry 
 * 2 Bay Leaves
-* 1½ inch Cinnamon Stick
+* 1½ - inch Cinnamon Stick
 * 3 Whole Cloves
 * 5 Whole Black Peppercorns
 * 5 Green Cardamom Pods
@@ -62,4 +64,4 @@ For Whole Spices:
 
 #### THE STORY BEHIND THE MEAL 
 
-Before meeting Shariq, I (Tressa) had no experience with eating or making Desi food. If you asked me the difference between an Indian or a Thai Curry I couldn't have told you. I am incredibly honored to be able to study Desi cooking under my mother-in-law, who is a phenomenal cook. She cooks off-script so you have to observe as she buzzes through the kitchen or you miss it all. I am amazed by her ability to build upon flavors to create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even tastier. 
+Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me the difference between an Indian or a Thai Curry I couldn't have told you. Now, I am incredibly honored to be able to study Desi cooking under my mother-in-law. She cooks off-script so I have to carefully observe her as she buzzes through the kitchen or I  miss it all. I am amazed by her ability to build flavor and create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even tastier. 
