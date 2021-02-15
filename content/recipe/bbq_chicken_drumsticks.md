@@ -26,7 +26,7 @@ Servings: 8 <!--more-->
 * 1/2 tsp Pepper
 * 1/4 tsp Cayenne Pepper
 * 8 Chicken Drumsticks, skin-on, bone-in 
-* Bowl of BBQ Sauce, we like Sweet Baby Rays 
+* Bowl of BBQ Sauce, we like [Sweet Baby Rays](https://amzn.to/2NsxauJ) or the [sugar free](https://amzn.to/2MYvhWR) version
 
 #### INSTRUCTIONS
 
