@@ -8,7 +8,8 @@ tags = [
     "pressure cooker",
     "lunch",
     "dinner",
-    "french"
+    "french",
+    "hearty"
 ]
 thumbnail= "images/FrenchOnion.jpg "
 +++
@@ -22,8 +23,8 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 #### INGREDIENTS 
 
 * 4 tbsp Unsalted Butter, plus more to butter toast 
-* 4 small Toast pieces, small enough to fit in a oven-safe bowl. 
-* 3 lb Sweet Onion, very sliced thinly, about 5-6 large onions
+* 4 small Baguette Slices
+* 3 lb Sweet Onion, very thinly sliced, about 5-6 large onions
 * ½ tsp Baking Powder 
 * Kosher Salt and Coarse Ground Pepper, to taste  
 * ½ cup Dry Sherry 
