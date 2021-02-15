@@ -14,7 +14,7 @@ Servings: 4 <!--more-->
 
 #### INGREDIENTS 
 
-* ¾ cup Flour 
+* ¾ cup All-Purpose Flour 
 * ¼ cup Cornstarch 
 * ½ tsp Baking Powder 
 * ½ tsp Salt 
