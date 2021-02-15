@@ -3,7 +3,7 @@ title = "Rindsgulasch"
 date = "2020-01-27"
 description = ""
 tags = [
-	"beef",
+    "beef",
     "stew",
     "austrian",
     "lunch",
@@ -15,6 +15,8 @@ tags = [
 ]
 #thumbnail= "images/rindsgulasch.jpg"
 +++
+
+AUSTRIAN BEEF STEW 
 
 Servings: 6<!--more-->
 
