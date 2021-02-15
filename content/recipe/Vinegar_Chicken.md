@@ -7,7 +7,9 @@ tags = [
     "lunch",
     "dinner",
     "healthy",
-    "mediterranean"
+    "mediterranean",
+    "bakedchicken",
+    "roastedchicken",
 ]
 thumbnail= "images/Vin_Chick.jpg "
 +++
@@ -24,15 +26,19 @@ Adapted from: New York Times, Alison Roman
 * Kosher Salt and Pepper, to taste 
 * ½ cup White Wine Vinegar 
 * 1½ cup Green Olives, crushed 
-* 2 Garlic Cloves, minced 
-* 1 tbsp Parsley, dried 
+* 2-4 Garlic Cloves, minced 
+* 1 tbsp Fresh Parsley, chopped 
 
 #### DIRECTIONS 
 
-1. Preheat oven to 450 degrees. 
-2. Place chicken into a bag with olive oil and turmeric. Mix well. 
-3. In a prepared baking dish, add the chicken and season with salt and pepper. 
-4. Place the chicken is skin-side up, then pour vinegar over and around the chicken and put it in the oven. Bake chicken without flipping for 25-35 minutes. 
-5. In a small bowl, combine olives, garlic, parsley, and the remaining olive oil (3 tbsp), and 2 tbsp of water.
-6. Once the chicken is cooked, remove the baking dish and transfer the chicken to a serving tray, leaving behind the juices. 
+1. Preheat the oven to 450 degrees. 
+2. Place chicken into a bag with olive oil and turmeric and mix well. 
+3. In a prepared baking dish, add the chicken and season the thighs with salt and pepper. 
+4. Place the chicken in skin-side up, then pour vinegar over and around the chicken and put it in the oven. Bake the chicken without flipping for 25-35 minutes. 
+5. In a small bowl, combine the crushed olives, garlic, parsley, and the remaining olive oil (3 tbsp), as well as 2 tbsp of water.
+6. Once the chicken is cooked, remove the baking dish and transfer the chicken thighs to a serving tray, leaving behind the juices. 
 7. Pour the olive mixture into the baking dish. Using a wooden spoon, gently scrape up the bits of chicken left behind, letting the olive oil mixture mingle with the rendered fat. When mixed, pour the dressing over the chicken to serve.  
+
+#### THE STORY BEHIND THE MEAL
+
+This recipe is inspired by Alison Roman’s Vinegar Chicken with Crushed Olive Dressing. Her recipe was so bright and flavorful that I wanted to create my own version of that. Eat this chicken with the dressing or without, either way, I know you will leave the table with a smile on your face. 
