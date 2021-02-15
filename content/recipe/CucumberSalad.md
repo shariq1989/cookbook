@@ -8,11 +8,14 @@ tags = [
     "healthy",
     "fresh",
     "lowcarb",
-    "keto", 
-    "japanese"
+    "keto",
+    "japanese",
+    "pickled"
 ]
 thumbnail= "images/pickled_cucumber.jpg "
 +++
+
+JAPANESE CUCUMBER SALAD 
 
 Servings: 2-3 <!--more-->
 
