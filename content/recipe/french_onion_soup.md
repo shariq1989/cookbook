@@ -13,6 +13,7 @@ tags = [
 thumbnail= "images/FrenchOnion.jpg "
 +++
 
+FRENCH ONION SOUP
 Servings: 4<!--more-->
 
 Adapted from: Serious Eats, J. Kenji Lopez-Alt
@@ -25,7 +26,7 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 * ½ tsp Baking Powder 
 * Kosher Salt and Coarse Ground Pepper, to taste  
 * ½ cup Dry Sherry 
-* 2 qt Water and 2 tbsp Chicken Better Than Bouillion or "Chicken Stock"[https://www.seriouseats.com/2014/10/how-to-make-rich-flavorful-easy-chicken-stock.html]
+* 2 qt Water and 2 tbsp Beef Better Than Bouillion or "Chicken Stock"[https://www.seriouseats.com/2014/10/how-to-make-rich-flavorful-easy-chicken-stock.html]
 * 2 Thyme Sprigs 
 * 1 Bay Leaf 
 * 1 tsp Fish Sauce 
@@ -56,4 +57,4 @@ To Serve:
 
 #### THE STORY BEHIND THE MEAL 
 
-French Onion soup is a timeless classic that originated in France in the 18th century. It also happens to be one of my (Tressa) favorite comfort foods of all time and perfect for a cold or snowy day. 
+French Onion Soup is a timeless classic and also happens to be one of my most favorite comfort foods of all time. It is the perfect meal for those cold and snowy days, which is common during our Colorado winters. 
