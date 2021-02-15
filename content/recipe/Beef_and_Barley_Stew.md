@@ -23,7 +23,7 @@ Servings: 6-8 <!--more-->
 * 2 medium Carrots, diced 
 * 2 medium Celery, diced 
 * 2 Yellow Onion, diced 
-* ½ tsp Marmite or Fish Sauce (for Umami) 
+* ½ tsp Marmite or [Fish Sauce](https://amzn.to/3jMYZdj) (for Umami) 
 * 1 tsp Soy Sauce 
 * 2 Garlic Cloves, minced 
 * 1 tbsp Tomato Paste

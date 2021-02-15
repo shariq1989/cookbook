@@ -24,7 +24,7 @@ Servings: 6-8 <!--more-->
 * 1 1/2 cup water 
 * 1 tsp Kosher salt, to taste
 * 2 tbsp turmeric, ground 
-* 1 tbsp Kashmiri Chili Powder 
+* 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
 * 1/2 tsp Garam Masala
 * 1 large Tomato, pureed in food processor 
 * 1 tbsp Ginger, freshly grated 
@@ -32,7 +32,7 @@ Servings: 6-8 <!--more-->
 * Cilantro, chopped, for garnish 
 
 For the Tadka: 
-* 1 tbsp Ghee 
+* 1 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
 * 2 Green Chilis, split lengthwise 
 * 2-3 Boriya Chilis, dried (Boriya Mirch) 
 * 1 tsp Cumin Seeds 

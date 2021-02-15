@@ -21,7 +21,7 @@ Adapted from: Serious Eats, Shao Z.
 
 * ¼ lb. Shrimp, shelled, deveined, and rinsed under cold water
 * 2 tbsp, plus 4 tsp Canola Oil, divided
-* 2½ tsp Fish Sauce, divided
+* 2½ tsp [Fish Sauce](https://amzn.to/3jMYZdj), divided
 * 1 bundle Rice Stick Noodles 
 * 2 Garlic Cloves, minced
 * 1 tsp Soy Sauce
@@ -33,7 +33,7 @@ Adapted from: Serious Eats, Shao Z.
 * ½ medium Red Bell Pepper, stemmed, seeded, julienned
 * 12 Snow Peas, stemmed, tough strings removed, and thinly sliced
 * ½ medium Carrot, julienned
-* 1 tbsp Yellow Curry Powder, divided
+* 1 tbsp [Yellow Curry Powder](https://amzn.to/3rTXdcZ), divided
 * Kosher Salt, to taste 
 * 2 Scallions, greens thinly sliced
 * 2 tsp Toasted Sesame Oil

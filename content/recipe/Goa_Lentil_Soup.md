@@ -32,7 +32,7 @@ Adapted from: Milkstreet
 * 3-4 Boriya Chili (Boriya Mirch)
 * 3½ cup Water 
 * 1 can Full-Fat Coconut Milk (Arroy-D is our favorite)
-* 1 cup Red Lentils (Masoor Daal) 
+* 1 cup [Red Lentils](https://amzn.to/3qmuduc) (Masoor Daal) 
 * 6 cup Spinach 
 * 2 tsp Lime Juice 
 * Kosher Salt to taste 

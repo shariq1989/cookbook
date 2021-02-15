@@ -19,14 +19,14 @@ Servings: 4 <!--more-->
 #### INGREDIENTS 
 
 * 1 ½ tbsp Unsalted Butter
-* 5 Green Cardamom Pods, lightly crushed
+* 5 [Green Cardamom Pods](https://amzn.to/3tZaNOd), lightly crushed
 * 1 Cinnamon Stick
 * 4 Garlic Cloves, minced
 * 1 small Yellow Onion, chopped
 * 1 tbsp Ginger, grated
 * 2 Green Chilis, slit lengthwise
-* 1 tsp Kashmiri Chili Powder 
-* ½ tsp Garam Masala Powder
+* 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
+* ½ tsp [Garam Masala](https://amzn.to/3u0tvEX)
 * 3 medium Tomatoes, chopped 
 * 1/2 cup Heavy Cream
 * 3-5 Chicken Thighs, skinless, bone-in

@@ -17,7 +17,7 @@ Servings: 6 <!--more-->
 
 #### INGREDIENTS 
 
-* 1/2 tbsp Ghee 
+* 1/2 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
 * 1 lb Ground Beef 
 * 1/2 Yellow Onion, finely chopped 
 * 1-inch piece Ginger, peeled and finely minced

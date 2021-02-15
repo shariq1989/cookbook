@@ -27,7 +27,7 @@ Servings: 6-8 <!--more-->
 * 1 tbsp Cumin, ground
 * ¼ tsp All Spice, ground 
 * 2 tsp Oregano, dried 
-* 2 tbsp Fish Sauce 
+* 2 tbsp [Fish Sauce](https://amzn.to/3jMYZdj) 
 * 2 tbsp Apple Cider Vinegar 
 * 4 Garlic Cloves, minced 
 * 2 cans of Black Beans, drained and rinsed 

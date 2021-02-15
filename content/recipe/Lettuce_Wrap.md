@@ -21,14 +21,14 @@ Servings: 4-6 <!--more-->
 
 For the Wrap: 
 
-* 2 tbsp Sesame Oil, divided, plus more to garnish
+* 2 tbsp [Sesame Oil](https://amzn.to/3b72o2v), divided, plus more to garnish
 * 1 lb Ground Beef 
 * 2 tbsp Garlic, minced 
 * 1 tbsp Soy Sauce 
 * 2 tsp Ginger, minced 
 * 1 tbsp Rice Wine Vinegar 
 * 3 tsp Sriracha 
-* 1/4 cup Homemade Hoisin, plus more for garnish
+* 1/4 cup Homemade [Hoisin](https://amzn.to/37aqicn), plus more for garnish
 * 4 Scallions, sliced and white and greens seperated 
 * Butter or Romaine Lettuce, washed and patted dry 
 * Optional: Toasted Peanuts, to garnish 

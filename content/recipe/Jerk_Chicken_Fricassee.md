@@ -41,7 +41,7 @@ For the Fricassee
 * 1 tbsp Avocado Oil 
 * 1 medium Yellow Onion, thinly sliced 
 * 4 Scallions, thinly sliced, whites and greens reserved seperately 
-* 1/3 cup Gochujang Sauce
+* 1/3 cup [Gochujang](https://amzn.to/3al2a8Y)
 * 1 tbsp Soy Sauce 
 * 1 tbsp Lime Juice 
 * Lime Wedges for garnish 

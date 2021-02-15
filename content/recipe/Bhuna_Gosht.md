@@ -30,10 +30,10 @@ For Gosht:
 * 4-inch Fresh Ginger, julienne
 * ¾ cup Full-Fat Yogurt 
 * 2½ tbsp Coriander Powder 
-* 2 tsp Kashmiri Chili Powder
+* 2 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
 * ½ tsp Turmeric Powder
 * Salt, to taste
-* ⅓ cup Ghee, plus 3-4 tbsp Ghee 
+* ⅓ cup [Ghee](https://amzn.to/2ZkJkrW), plus 3-4 tbsp Ghee 
 * 2 tbsp Cilantro, chopped
 
 For Whole Spices:

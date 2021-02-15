@@ -23,8 +23,8 @@ Servings: 5 <!--more-->
 
 #### INGREDIENTS 
 
-* 10-15 Jumbo Pasta Shells, cooked al dente
-* 1/2 cup Basil Pesto Sauce, plus more to garnish
+* 10-15 [Jumbo Pasta Shells](https://amzn.to/3rUskFr), cooked al dente
+* 1/2 cup [Basil Pesto Sauce](https://amzn.to/3qmNs6S), plus more to garnish
 * 2 cups Spinach, steamed and wilted, blotted dry with a cloth
 * 15 oz package Ricotta Cheese
 * 1 Egg
@@ -32,7 +32,7 @@ Servings: 5 <!--more-->
 * Course Black Pepper, to taste
 * 1/2 cup Parmesan Cheese, shredded, plus more to garnish
 * 1 cup Basil
-* 2 tbsp Pine Nuts, toasted 
+* 2 tbsp [Pine Nuts](https://amzn.to/3amamWp), toasted 
 
 #### DIRECTIONS 
 

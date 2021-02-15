@@ -17,15 +17,15 @@ thumbnail= "images/GoatKarahi.jpg"
 Servings: 3-4 <!--more-->
 
 #### INGREDIENTS 
-* 1/2 cup Ghee, divided
+* 1/2 cup [Ghee](https://amzn.to/2ZkJkrW), divided
 * 1 1/2 lb Goat, bone- in, cut into 1 to 2-inch pieces
 * 1/2 medium Yellow Onion, chopped
 * 4-5 medium Tomatoes, pureed in a blender
 * 2 tsp Ginger Paste
 * 2 Garlic Cloves, minced
-* 1/2 Package Laziza Karahi Masala 
-* 1 tsp Kashmiri Chili Powder
-* 1 tsp Kalonji Seeds 
+* 1/2 Package Laziza [Karahi Masala](https://amzn.to/2MYzcmx) 
+* 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
+* 1 tsp [Kolongi Seeds](https://amzn.to/3jMZUuh) 
 * 2 Green Chilis, split lengthwise
 * 1 cup Cilantro, chopped, divided, for garnish 
 * 1/4 cup Fresh Ginger, cut into sticks, for garnish
