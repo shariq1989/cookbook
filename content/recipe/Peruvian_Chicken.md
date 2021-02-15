@@ -1,5 +1,5 @@
 +++
-title = "Peruvian Roasted Chicken"
+title = "Peruvian Roasted Chicken with Serrano Crema"
 date = "2020-01-29"
 description = ""
 tags = [
@@ -9,7 +9,7 @@ tags = [
     "dinner",
     "lowcarb",
     "keto",
-    "roasted"
+    "roastedchicken"
 ]
 thumbnail= "images/PeruvianChicken.jpg"
 +++
@@ -20,9 +20,10 @@ Adapted from: The Food Lab
 
 #### INGREDIENTS 
 
-For the Serrano Crema: 
+For the Crema: 
 
-* 2 Serrano Chilis, chopped, plus more for garnish
+* 2 Serrano Chilis, stems and seeds removed, chopped. 
+* 1 Serrano Chili, sliced to garnish
 * 1/2 cup Cilantro, chopped 
 * 2 Garlic Cloves, minced 
 * 1/2 cup Full-Fat Yogurt 
@@ -42,23 +43,21 @@ For the Chicken:
 * 1 tbsp Distilled White Vinegar 
 * 1 tbsp Olive Oil 
 
-
-
 #### DIRECTIONS 
 
-For the Serrano Crema: 
+For the Crema: 
 
-1. Combine serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice in a blender until smooth. Add olive oil and stir.
+1. Combine the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice in a blender until smooth. Add olive oil and stir.
 2. Season with salt and pepper, to taste.
 
 For the Chicken: 
 
-1. Adjust oven rack to the upper-middle position and preheat the oven to 450 degrees. 
-2. Prepare a wire rack on a rimmed baking sheet lined with aluminum foil.  
-3. Dry chicken thoroughly with a cloth. 
-4. Combine cumin, paprika, garlic, vinegar, salt, pepper, and oil in a small bowl and mix well. 
-5. Spread mixture evenly over the whole chicken and under the skin.
-6. Place chicken in the middle of the prepared wire rack and roast for about 35 to 45 minutes.
+1. Adjust the oven rack to the upper-middle position and preheat the oven to 450 degrees. 
+2. Prepare a wire rack in a rimmed baking sheet lined with aluminum foil.  
+3. Dry the chicken thoroughly with a cloth. 
+4. Combine the cumin, paprika, garlic, vinegar, salt, pepper, and oil in a small bowl and mix well. 
+5. Spread the mixture evenly over the whole chicken and under the skin.
+6. Place the chicken in the middle of the prepared wire rack and roast for about 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with Serrano Crema and thinly slices serrano chilis. 
+8. Garnish with Serrano Crema and thinly sliced serrano chilis. 
 9. Serve with cilantro-lime rice. 
