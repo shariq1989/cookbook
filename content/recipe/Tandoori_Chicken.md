@@ -25,7 +25,7 @@ Servings: 7 <!--more-->
 * 1 tsp Cumin, ground
 * 1 tsp Turmeric
 * 1 tsp Cayenne Pepper
-* 1 tbsp Garam Masala
+* 1 tbsp [Garam Masala](https://amzn.to/3u0tvEX)
 * 1 tbsp Paprika
 * 1 tsp Red Food Powder
 * 1 cup Plain Full Fat Yogurt 

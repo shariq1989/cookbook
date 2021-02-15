@@ -27,7 +27,7 @@ Servings: 6-8 <!--more-->
 * 1 tsp Kosher salt, to taste
 * 2 tbsp turmeric, ground 
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1/2 tsp Garam Masala
+* 1/2 tsp [Garam Masala](https://amzn.to/3u0tvEX)
 * 1 large Tomato, pureed in food processor 
 * 1 tbsp Ginger, freshly grated 
 * 2-3 Garlic Cloves, minced 
