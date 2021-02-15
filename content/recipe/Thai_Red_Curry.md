@@ -18,14 +18,14 @@ Servings: 3-4 <!--more-->
 
 #### INGREDIENTS 
 
-* 1- 4 oz Maesri Thai Red Curry Paste, whole can for spicy, 1/2 can for mild
+* 1- 4 oz [Maesri Thai Red Curry Paste](https://amzn.to/2NmwVBf), whole can for spicy, 1/2 can for mild
 * 1/2 tsp Ginger Paste
 * 1/3 White Onion, thinly sliced
 * 3-4 Chicken thighs, boneless, skinless, cut into 1-inch pieces 
 * 1/2 Red Bell Pepper, thinly sliced 
 * 1 small Zucchini, thinly sliced into rounds 
-* 1- 14 oz can Arroy-D Coconut Milk, plus more if you prefer less spicy 
-* 1 tbsp Fish Sauce
+* 1- 14 oz can [Aroy-D Coconut Milk](https://amzn.to/2Zjwtq0), plus more if you prefer less spicy 
+* 1 tbsp [Fish Sauce](https://amzn.to/2Zi2peI)
 * 1/2 cup Mushrooms of your choice, quartered
 * Thai Basil, for garnish 
 

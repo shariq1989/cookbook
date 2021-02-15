@@ -30,10 +30,10 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 * 2 qt Water and 2 tbsp Beef Better Than Bouillion or [Chicken Stock](https://www.seriouseats.com/2014/10/how-to-make-rich-flavorful-easy-chicken-stock.html)
 * 2 Thyme Sprigs 
 * 1 Bay Leaf 
-* 1 tsp Fish Sauce 
-* 1 tsp Apple Cider Vinegar 
+* 1 tsp [Fish Sauce](https://amzn.to/3jMYZdj) 
+* 1 tsp Apple Cider Vinegar
 * 1 Medium Garlic Clove 
-* 1 lb Gruyere Cheese, grated 
+* 1 lb [Gruyere Cheese](https://amzn.to/3aZfe2E), grated 
 
 #### INSTRUCTIONS 
 

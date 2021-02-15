@@ -25,7 +25,7 @@ Servings: 4-6 <!--more-->
 
 #### INGREDIENTS 
 
-* 2 tbsp Ghee (if making vegan, use canola) 
+* 2 tbsp [Ghee](https://amzn.to/2ZkJkrW) (if making vegan, use canola) 
 * 2- 15 oz can Chickpeas (Garbanzo Beans), drained and rinced 
 * 1 Red Onion, finely chopped
 * 3 Garlic Cloved, minced
@@ -33,12 +33,12 @@ Servings: 4-6 <!--more-->
 * 1-2 large Tomatoes, chopped, use more if you prefer more salan 
 * 1/2 cup Water 
 * 1 tsp Turmeric Powder
-* 1-2 tsp Kashmiri Chili Powder, depending on your prefered heat
-* 1 tsp Garam Masala
+* 1-2 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC), depending on your prefered heat
+* 1 tsp [Garam Masala](https://amzn.to/3u0tvEX)
 * 1 tsp Coriander, ground 
 * 1-3 Thai Green Chili or Serrani Chilis, split lengthwise 
 * 1 tsp Cumin Seeds
-* 1 tsp Kolongi Seeds (Black Onion Seed), plus more to sprinkle 
+* 1 tsp [Kolongi Seeds](https://amzn.to/3jMZUuh) (Black Onion Seed), plus more to sprinkle 
 * 1/2 cup Cilantro, chopped 
 * Salt, to taste
 
