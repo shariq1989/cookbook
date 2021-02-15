@@ -15,7 +15,7 @@ Servings: 4-6<!--more-->
 
 #### INGREDIENTS 
 
-For the Roll: 
+For the Pumpkin Bar: 
 
 * 1 cup Canola Oil 
 * 4 Eggs 
@@ -28,7 +28,7 @@ For the Roll:
 * ¼ tsp Cloves, ground 
 * 2 tsp Cinnamon, ground 
 
-For the Frosting: 
+For the Cream Cheese Frosting: 
 
 * 3 oz Cream Cheese, room temperature
 * ¼ cup Butter, softened
@@ -39,8 +39,8 @@ For the Frosting:
 #### DIRECTIONS 
 
 1. Preheat the oven to 350 degrees. 
-2. Beat ingredients for the roll together and pour into a greased jelly roll. 
+2. Beat ingredients for the bars together and pour them into a greased jelly roll. 
 3. Bake for 25 minutes. 
-4. While baking, mix together the ingredients for the frosting in a small bowl and set aside at room temperature. 
-5. Remove the roll from the oven and let it stand 15-20 minutes. 
-6. When the roll has cooled, drizzle with frosting and sprinkle with powdered sugar to serve. 
+4. While baking, mix the ingredients for the frosting in a small bowl and set aside at room temperature. 
+5. Remove the bars from the oven and let stand for 15-20 minutes. 
+6. When the bar has cooled, drizzle with frosting and sprinkle with powdered sugar to serve. 
