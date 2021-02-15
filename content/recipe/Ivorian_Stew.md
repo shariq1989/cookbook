@@ -15,6 +15,8 @@ tags = [
 #thumbnail= "images/kedjenou.jpg"
 +++
 
+IVORIAN LAMB STEW 
+
 Servings: 4-6 <!--more-->
 
 #### INGREDIENTS 
