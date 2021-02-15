@@ -14,6 +14,7 @@ thumbnail= "images/FrenchOnion.jpg "
 +++
 
 FRENCH ONION SOUP
+
 Servings: 4<!--more-->
 
 Adapted from: Serious Eats, J. Kenji Lopez-Alt
