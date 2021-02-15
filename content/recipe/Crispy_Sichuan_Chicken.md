@@ -10,7 +10,8 @@ tags = [
     "fried",
     "Sichuanlizi",
     "Sichuan",
-    "asian"
+    "asian",
+    "spicy"
 ]
 thumbnail= "images/SichuanChilli.jpg "
 +++
