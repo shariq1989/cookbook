@@ -16,6 +16,8 @@ tags = [
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
+Yellow Lentil Soup 
+
 Servings: 6-8 <!--more-->
 
 #### INGREDIENTS 
