@@ -28,7 +28,7 @@ Servings: 4-5<!--more-->
 * 4 tbsp Sesame Oil
 * 3 tbsp Soy Sauce 
 * 1 tbsp Rice Wine Vinegar 
-* 1 tsp Fish Oil, use Marmite if making vegan  
+* 1 tsp Fish Oil, use [Marmite](https://amzn.to/2Ovg8wi) if making vegan  
 * 1 tsp Honey 
 * 1 cup Water 
 * ½ tsp Flour 

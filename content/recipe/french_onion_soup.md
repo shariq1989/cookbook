@@ -27,7 +27,7 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 * ½ tsp Baking Powder 
 * Kosher Salt and Coarse Ground Pepper, to taste  
 * ½ cup Dry Sherry 
-* 2 qt Water and 2 tbsp Beef Better Than Bouillion or "Chicken Stock"[https://www.seriouseats.com/2014/10/how-to-make-rich-flavorful-easy-chicken-stock.html]
+* 2 qt Water and 2 tbsp Beef Better Than Bouillion or [Chicken Stock](https://www.seriouseats.com/2014/10/how-to-make-rich-flavorful-easy-chicken-stock.html)
 * 2 Thyme Sprigs 
 * 1 Bay Leaf 
 * 1 tsp Fish Sauce 
