@@ -16,7 +16,7 @@ tags = [
 thumbnail= "images/BhunaGosht.jpg "
 +++
 
-Pan Fried Goat 
+PAN-FRIED GOAT 
 
 Servings: 5 <!--more-->
 
