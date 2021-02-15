@@ -7,10 +7,14 @@ tags = [
     "lunch",
     "dinner",
     "healthy",
-    "chicken noodle soup"
+    "chicken noodle soup", 
+    "hearty",
+    "stew"
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
+
+GEORGIAN CHICKEN STEW 
 
 Servings: 6 <!--more-->
 
