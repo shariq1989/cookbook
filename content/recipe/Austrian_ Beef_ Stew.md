@@ -24,10 +24,10 @@ Adapted from: Milkstreet
 
 #### INGREDIENTS 
 
-* 5 lb Chuck Roast, cut into 1 ½ inch pieces and patted dry 
+* 5 lb Chuck Roast, cut into 1 ½- inch pieces 
 * 6 tbsp [Sweet Paprika](https://amzn.to/3jJjOGx) 
 * Kosher Salt and Pepper, to taste 
-* 2 cup Beef Broth, or 2 cups Water and 1 tbsp Beef Better Than Bouillon 
+* 2 cups Water and 1 tbsp Beef Better Than Bouillon 
 * ½ cup Tomato Paste 
 * 4 tbsp Salted Butter
 * 1 large Yellow Onion, finely diced 
@@ -42,15 +42,14 @@ Adapted from: Milkstreet
 
 #### DIRECTIONS 
 
-1. Season the beef with 1 tbsp sweet paprika, 2 tsp salt, 1 tsp pepper. 
-2. Toss the meat to coat and set aside. 
-3. In a small bowl, mix together broth and tomato paste. 
-4. In an Instant Pot or pressure cooker, melt the butter on the saute setting. Add onion and 1 tsp salt. Cook until onions become translucent and soften. 
-5. Stir in caraway seeds and flour, cooking until flour browns. 
-6. Stir in hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant. 
-7. Slowly whisk in the broth mixture and bring it to a simmer, stirring frequently. 
-8. Add beef and bay leaves. Secure the lid on the Instant Pot and cook on high pressure for 80 minutes (This is for high elevation. You can reduce the cooking time for lower elevation).  
-9. Quick release, stir, and let stand for 15 minutes. 
-10. Stir in the fresh dill and vinegar. 
-11. Taste and season with salt and pepper. 
-12. Garnish with sour cream and serve with egg noodles or eat as a stew. 
+1. Season the beef with 1 tbsp sweet paprika, 2 tsp salt, 1 tsp pepper. Toss the meat to coat and set aside. 
+2. Mix the broth and tomato paste in a small bowl. 
+3. In an Instant Pot, melt the butter on saute mode. Add the onion and 1 tsp salt. Cook until onions become translucent and soften. 
+4. Stir in the caraway seeds and flour, cooking until flour browns. 
+5. Add the hot paprika and remaining 5 tbsp of sweet paprika. Cook until fragrant. 
+6. Slowly whisk in the broth mixture and bring it to a simmer, stirring frequently. 
+7. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on high pressure for 80 minutes (This is for high elevation. You can reduce the cooking time for lower elevation).  
+8. Quick release, stir, and let stand for 15 minutes. 
+9. Stir in the fresh dill and vinegar. 
+10. Taste and season with salt and pepper. 
+11. Garnish with sour cream and serve with egg noodles or eat as a stew. 
