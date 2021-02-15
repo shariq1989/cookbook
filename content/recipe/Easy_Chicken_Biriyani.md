@@ -24,7 +24,7 @@ Servings: 8 <!--more-->
 * 1½ Red Onion, thinly sliced, plus more for garnish 
 * 1 tsp Ginger Paste 
 * 1 tsp Garlic Paste 
-* Biriyani Masala: 1 Package Laziza Karahi Masala Mix or 1/2 Package Shan Chicken Biriyani Mix 
+* Biriyani Masala: 1 Package Laziza Karahi Masala 
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
 * 1 tsp Salt 
 * 3-4 Tomatoes, pureed in a food processor
