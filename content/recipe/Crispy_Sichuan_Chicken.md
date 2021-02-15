@@ -15,6 +15,8 @@ tags = [
 thumbnail= "images/SichuanChilli.jpg "
 +++
 
+SPICY FRIED CHICKEN
+
 Servings: 4 <!--more-->
 
 #### INGREDIENTS 
@@ -37,8 +39,9 @@ For the Dish:
 
 * 1 tbsp Chili Oil 
 * 1 tbsp Canola Oil
-* 1 cup Red Arbol Chilis, dried, to taste
-* 1 Ginger, 1-inch piece, julienne
+* 1 tsp Sichuan Chili, dried
+* 1 cup Red Arbol Chilis, dried
+* 1-inch Ginger, julienne
 * 4 Garlic Cloves, julienne
 * 1/2 tsp Sugar 
 * 1 tsp Rice Wine Vinegar
@@ -51,8 +54,10 @@ For the Dish:
 2. Meanwhile, set 2 wire racks into 2 rimmed baking sheets. 
 3. In another large bowl, stir together the cornstarch and salt. 
 4. Get the marinated chicken and leave it to drain in a colander, about 1-2 minutes. 
-5. Add ⅓ of the chicken to the cornstarch and toss to coat completely, pressing the pieces into the mixture. Shake the pieces to remove any excess cornstarch and transfer them to the prepared rack in a single layer and repeat with the remaining chicken and cornstarch mixture. 
-6. In a large dutch oven, over medium heat, heat the oil to 350 degrees. Add half of the coated chicken in a single layer and cook until it becomes brown, about 5 minutes.  Using a slotted spoon, transfer the chicken to the other prepared wire rack. 
+5. Add ⅓ of the chicken to the cornstarch and toss to coat completely, pressing the pieces into the mixture. Shake the pieces to remove any excess cornstarch and transfer them to one of the prepared racks and repeat with the remaining chicken and cornstarch mixture. 
+6. In a large dutch oven, over medium heat, warm the oil to 350 degrees. Add half of the coated chicken in a single layer and cook until it becomes brown for about 3-5 minutes. Using a slotted spoon, transfer the chicken to the other prepared wire rack. 
 7. Allow the oil to reach 350 degrees again and repeat with the remaining chicken. 
-8. In a heavy-bottomed pan, heat the chili oil, canola oil, Arbol chilis, garlic, ginger, sugar, and rice wine vinegar for about 3 minutes. Add the chicken to the mixture and toss to combine. 
-10. Finish the dish with scallions and serve with jasmine rice. 
+8. In a heavy-bottomed pan, heat the chili oil, canola oil, Arbol chilis, and Sichuan chilis until they begin to sputter. 
+9. Next add the garlic, ginger, sugar, and rice wine vinegar and cook for about 3 minutes. 
+10. Add the chicken to the mixture and toss to combine. 
+11. Garnish the dish with scallions and serve with jasmine rice. 
