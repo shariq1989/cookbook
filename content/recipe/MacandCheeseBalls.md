@@ -8,7 +8,7 @@ tags = [
     "macandcheese",
     "snack",
     "appetizer",
-    "gameday"
+    "gameday",
     "fried", 
     "vegetarian"
 ]
