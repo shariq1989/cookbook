@@ -17,7 +17,7 @@ Servings: 5 <!--more-->
 
 #### INGREDIENTS 
 
-* 1 lbs small Red Potatoes, cut into rounds 
+* 1 lbs small Red or Yellow Potatoes, cut into rounds 
 * 1 lb Kielbasa, cut into rounds 
 * 1/2 Yellow Bell Pepper, julienne 
 * 1/2 Orange Bell Pepper, julienne
