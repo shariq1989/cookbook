@@ -14,15 +14,18 @@ tags = [
 #thumbnail= "images/carnitas.jpg"
 +++
 
-Servings: 10-12 <!--more-->
+BRAISED PORK TACOS 
+
+Servings: 12 <!--more-->
 
 #### INGREDIENTS 
 
-* 2 tbsp Avocado Oil 
 * 2 tsp Salt 
 * 1 tsp Ground Cumin 
-* 1 tsp Ancho Chili Powder or 1 tbsp Chipotle in Adobo (just the sauce)
+* 1 tbsp Chipotle in Adobo (just the sauce)
 * ½ tsp Black Pepper 
+* 5 lb Pork Shoulder  
+* 2 tbsp Avocado Oil 
 * 1 tsp Ground Cinnamon
 * 1 Large Red Onion, diced, plus more for garnish
 * 3 Garlic Cloves
@@ -32,17 +35,16 @@ Servings: 10-12 <!--more-->
 * 1 Jalapeno, stems and seeds removed, diced 
 * 2 Bay Leaves 
 * 1 Cinnamon Stick 
-* 5 lb Pork Butt 
 * Liquid Smoke, to taste 
-* Serve on warm Corn Tortillas
-* Garnish with Chopped Onion and Cilantro 
+* 12 Corn Tortillas
+
   
 #### DIRECTIONS 
 
 1. In a small bowl, combine salt, cumin, ancho chili, and black pepper to create a rub. 
 2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Add rub mixture to the meat. 
-3. Select saute mode on the Instant Pot and add the meat to brown. Repeat this until all the meat has had a chance to saute and brown. 
-4. Place all of the meat back into the Instant Pot along with onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps). 
+3. Heat the oil on saute mode in an Instant Pot and add the meat to brown. Repeat until all the meat is browned. 
+4. Place all of the meat back into the Instant Pot along with the onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps). 
 5. Cook on High Pressure for 40 minutes and allow 20 minutes natural release. 
 6. Shred meat and spread onto a rimmed baking sheet. 
 7. Preheat the oven to 400 degrees.
