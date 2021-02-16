@@ -7,7 +7,7 @@ tags = [
     "lunch",
     "onesheetmeal",
     "hearty",
-    "potatoes", 
+    "potatoes",
     "polish"
 ]
 thumbnail= "images/KielbasaandPotatoes.jpg "
