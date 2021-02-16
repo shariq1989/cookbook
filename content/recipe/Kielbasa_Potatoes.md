@@ -9,7 +9,7 @@ tags = [
     "hearty",
     "potatoes"
 ]
-thumbnail= "images/PXL_20210213_234404686.MP.jpg "
+#thumbnail= "images/ "
 +++
 
 Servings: 5 <!--more-->
