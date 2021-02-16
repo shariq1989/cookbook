@@ -1,5 +1,5 @@
 +++
-title = " Tandoori Raita"
+title = "Raita"
 date = "2020-01-18"
 description = ""
 tags = [
