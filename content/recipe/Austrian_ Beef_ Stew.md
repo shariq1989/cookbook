@@ -10,7 +10,7 @@ tags = [
     "dinner",
     "instantpot",
     "pressurecooker",
-    "soup",
+    "gulash",
     "hearty"
 ]
 #thumbnail= "images/rindsgulasch.jpg"
@@ -24,7 +24,7 @@ Adapted from: Milkstreet
 
 #### INGREDIENTS 
 
-* 5 lb Chuck Roast, cut into 1 ½- inch pieces 
+* 5 lb Chuck Roast, cut into 1 ½ -inch pieces 
 * 6 tbsp [Sweet Paprika](https://amzn.to/3jJjOGx) 
 * Kosher Salt and Pepper, to taste 
 * 2 cups Water and 1 tbsp Beef Better Than Bouillon 
@@ -37,8 +37,8 @@ Adapted from: Milkstreet
 * 3 [Bay Leaves](https://amzn.to/3tUxsLA)
 * ¼ cup Fresh Dill, Chopped 
 * 1 tbsp [Apple Cider Vinegar](https://amzn.to/37dBDs5)
-* Optional: 1 Package [Egg Noodles](https://amzn.to/2Zf7O60) 
-* Garnish with Sour Cream  
+* 1 Package [Egg Noodles](https://amzn.to/2Zf7O60) 
+* Sour Cream, to garnish  
 
 #### DIRECTIONS 
 
@@ -52,4 +52,4 @@ Adapted from: Milkstreet
 8. Quick release, stir, and let stand for 15 minutes. 
 9. Stir in the fresh dill and vinegar. 
 10. Taste and season with salt and pepper. 
-11. Garnish with sour cream and serve with egg noodles or eat as a stew. 
+11. Garnish with sour cream and serve with egg noodles
