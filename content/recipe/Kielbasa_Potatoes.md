@@ -9,7 +9,7 @@ tags = [
     "hearty",
     "potatoes"
 ]
-#thumbnail= "images/ "
+thumbnail= "images/KielbasaandPotatoes.jpg "
 +++
 
 Servings: 5 <!--more-->
