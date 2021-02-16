@@ -5,11 +5,13 @@ description = ""
 tags = [
     "grilled",
     "chicken",
+    "chickenrecipes",
     "dinner",
     "healthy",
     "lowcarb",
     "bbq",
-    "drumsticks"
+    "drumsticks",
+    "keto"
 ]
 thumbnail= "images/bbqchicken.jpg "
 +++
@@ -30,12 +32,12 @@ For the Rub:
 
 For the Chicken: 
 
-* 8 Chicken Drumsticks, skin-on, bone-in 
-* 1 small bowl of BBQ Sauce, we like [Sweet Baby Rays](https://amzn.to/2NsxauJ) or the [sugar free](https://amzn.to/2MYvhWR) version
+* 8 Chicken Drumsticks, skin-on and bone-in 
+* BBQ Sauce of your choice, we like [Sweet Baby Rays](https://amzn.to/2NsxauJ) or the [sugar free](https://amzn.to/2MYvhWR) version
 
 #### INSTRUCTIONS
 
-1. Mix the spices for the rub and massage them into the drumsticks. Cover and let the meat marinate in the fridge for 6-24 hours.
+1. Mix the spices for the rub and massage them into the drumsticks. Cover and let the meat marinate in the fridge for 6 hours.
 2. Preheat the grill by setting all burners to high, about 15 minutes.
 3. Turn off the rightmost burner and always maintain a grill temperature of 325-350 degrees.
 4. Oil the grates and cook the drumsticks on the hottest side of the grill, skin-down. Cook until they become blistered, about 5 minutes.
