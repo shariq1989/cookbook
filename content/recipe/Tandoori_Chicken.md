@@ -45,4 +45,4 @@ Servings: 7 <!--more-->
 7. Move the drumsticks to the rightmost side of the grill and cook skin-up for 25 minutes
 8. Flip and continue cooking until chicken has reached over 170 degrees, for 20-30 minutes.  
 9. Let the chicken rest for 10 minutes before serving. 
-10. Garnish with lemon wedges and serve with riata. 
+10. Garnish with lemon wedges and serve with [raita](https://www.jamilghar.com/recipe/raita/). 
