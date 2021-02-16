@@ -11,7 +11,7 @@ tags = [
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
-Servings: 6 <!--more-->
+Servings: 5 <!--more-->
 
 #### INGREDIENTS 
 
@@ -20,7 +20,7 @@ Servings: 6 <!--more-->
 * 2 tsbp Fresh Cilantro
 * ½ tsp Cumin, ground 
 * ¼ tsp Salt
-* ¾ cup Cucumber, chopped
+* 1/4 Cucumber, chopped
 
 #### DIRECTIONS 
 
