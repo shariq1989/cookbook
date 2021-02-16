@@ -7,8 +7,9 @@ tags = [
     "lunch",
     "onesheetmeal",
     "hearty",
+    "potatoes"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/PXL_20210213_234404686.MP.jpg "
 +++
 
 Servings: 5 <!--more-->
