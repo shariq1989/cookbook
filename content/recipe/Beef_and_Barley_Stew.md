@@ -30,7 +30,7 @@ Servings: 6-8 <!--more-->
 * 1 tbsp Tomato Paste
 * 1 qt Water
 * 1 tbsp. Chicken Better Than Bouillon
-* 1 medium Tomato, quartered 
+* 1 Tomato, quartered 
 * 1 cup Pearl Barley 
 * 2 Bay Leaves 
 * 1 cup Kale, chopped and stems removed 
@@ -41,7 +41,7 @@ Servings: 6-8 <!--more-->
 1. Season the short ribs with salt and pepper. 
 2. Heat the oil in an Instant Pot on saute mode until smoking. 
 3. Add a layer of the meat and brown, repeat until all the beef has had a chance to brown. Set meat aside. 
-4. Next, add the carrots, celery, and onion. Cook until they have turned brown. 
+4. Next, add the carrots, celery, and onion. Cook until they have browned. 
 5. Combine the marmite or fish sauce, soy sauce, and tomato paste into the Instant Pot. Cook until fragrant. 
 6. Add the broth and scrape up the brown bits from the bottom of the pan left by the meat. Add in the beef, tomatoes, garlic, barley, and bay leaves. 
 7. Cook on high pressure for 50 min. (This cooking time is for high elevation. You can reduce cooking time for lower elevation). 
