@@ -12,7 +12,7 @@ tags = [
     "pressurecooker",
     "barley"
 ]
-thumbnail= "images/beefbarleystew.jpg"
+thumbnail= "images/BeefandBarley.jpg "
 +++
 
 Servings: 6-8 <!--more-->
