@@ -19,6 +19,8 @@ thumbnail= "images/BeefandBarley.jpg "
 
 Servings: 6-8 <!--more-->
 
+Adapted from: Serious Eats, Daniel Gritzer
+
 #### INGREDIENTS 
 
 * 2 lb Boneless Short Ribs, cut into 1-inch pieces  
