@@ -31,7 +31,7 @@ Adapted from: Serious Eats, Daniel Gritzer
 * ½ tsp Marmite or [Fish Sauce](https://amzn.to/3jMYZdj)
 * 1 tsp Soy Sauce 
 * 2 tsp Worcestershire Sauce
-* 3 Garlic Cloves, minced 
+* 4 Garlic Cloves, minced 
 * 2 tbsp Tomato Paste
 * 1 qt Water
 * 1 tbsp. Chicken Better Than Bouillon
