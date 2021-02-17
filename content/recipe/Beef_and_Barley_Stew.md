@@ -10,7 +10,9 @@ tags = [
     "beef",
     "instantpot",
     "pressurecooker",
-    "barley"
+    "barley",
+    "rich",
+    "savory"
 ]
 thumbnail= "images/BeefandBarley.jpg "
 +++
@@ -26,8 +28,8 @@ Servings: 6-8 <!--more-->
 * 2 Yellow Onion, diced 
 * ½ tsp Marmite or [Fish Sauce](https://amzn.to/3jMYZdj)
 * 1 tsp Soy Sauce 
-* 2 Garlic Cloves, minced 
-* 1 tbsp Tomato Paste
+* 3 Garlic Cloves, minced 
+* 2 tbsp Tomato Paste
 * 1 qt Water
 * 1 tbsp. Chicken Better Than Bouillon
 * 1 Tomato, quartered 
