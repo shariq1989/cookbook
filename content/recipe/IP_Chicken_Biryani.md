@@ -14,7 +14,7 @@ tags = [
     "rice",
     "basmati"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/IP_Biryani.jpg"
 +++
 
 Servings: 8 <!--more-->
