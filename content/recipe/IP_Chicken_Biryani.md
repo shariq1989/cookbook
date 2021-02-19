@@ -25,11 +25,11 @@ For the Paste:
 
 * 1/2 cup Full-Fat Yogurt 
 * 2 tbsp Lemon Juice
-* 2 tsp Garam Masala 
-* 1 tbsp Kashmiri Chili Powder
+* 2 tsp [Garam Masala](https://amzn.to/3u0tvEX) 
+* 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
 * 1/2 tsp Turmeric
 * 2 tsp Kosher Salt 
-* 1 tbsp Laziza Karahi Masala
+* 1 tbsp Laziza [Karahi Masala](https://amzn.to/2MYzcmx)
 * 2 tbsp Garlic and Ginger Paste 
 * 1/4 cup Cilantro, chopped, plus more for garnish
 * 2 lb Chicken Thighs and Legs, bone-in and skinless 
