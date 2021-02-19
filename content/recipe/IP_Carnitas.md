@@ -1,5 +1,5 @@
 +++
-title = "Carnitas"
+title = "Instant Pot Carnitas"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -8,8 +8,8 @@ tags = [
     "dinner",
     "mexican",
     "tacos",
-    "pressure cooker",
-    "instant pot"
+    "pressurecooker",
+    "instantpot"
 ]
 #thumbnail= "images/carnitas.jpg"
 +++
@@ -20,14 +20,16 @@ Servings: 12 <!--more-->
 
 #### INGREDIENTS 
 
+For the Carnitas: 
+
 * 2 tsp Salt 
 * 1 tsp Ground Cumin 
-* 1 tbsp Chipotle in Adobo (just the sauce)
+* 1 tbsp Chipotle in Adobo (just the sauce,not the chilis)
 * ½ tsp Black Pepper 
 * 5 lb Pork Shoulder  
 * 2 tbsp Avocado Oil 
 * 1 tsp Ground Cinnamon
-* 1 Large Red Onion, diced, plus more for garnish
+* 1 Large Red Onion, diced
 * 3 Garlic Cloves
 * 2 tsp Oregano 
 * 1½ cup Orange Juice (no pulp)
@@ -36,14 +38,17 @@ Servings: 12 <!--more-->
 * 2 Bay Leaves 
 * 1 Cinnamon Stick 
 * Liquid Smoke, to taste 
-* 12 Corn Tortillas
 
+To Serve: 
+* 12 Corn Tortillas
+* 1 cup Cilantro, chopped 
+* 1/2 Red Onion, chopped 
   
 #### DIRECTIONS 
 
 1. In a small bowl, combine salt, cumin, ancho chili, and black pepper to create a rub. 
 2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Add rub mixture to the meat. 
-3. Heat the oil on saute mode in an Instant Pot and add the meat to brown. Repeat until all the meat is browned. 
+3. Heat the oil on saute mode in an Instant Pot. Add the meat and let it cook until it begins to brown, about 5 minutes. Repeat . 
 4. Place all of the meat back into the Instant Pot along with the onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps). 
 5. Cook on High Pressure for 40 minutes and allow 20 minutes natural release. 
 6. Shred meat and spread onto a rimmed baking sheet. 
