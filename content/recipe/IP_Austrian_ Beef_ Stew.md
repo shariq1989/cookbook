@@ -1,5 +1,5 @@
 +++
-title = "Rindsgulasch"
+title = " Instant Pot Rindsgulasch"
 date = "2020-01-27"
 description = ""
 tags = [
@@ -24,7 +24,7 @@ Adapted from: Milkstreet
 
 #### INGREDIENTS 
 
-* 5 lb Chuck Roast, cut into 1 ½ -inch pieces 
+* 5 lb Chuck Roast, cut into 1 ½-inch pieces 
 * 6 tbsp [Sweet Paprika](https://amzn.to/3jJjOGx) 
 * Kosher Salt and Pepper, to taste 
 * 2 cups Water and 1 tbsp Beef Better Than Bouillon 
@@ -48,8 +48,6 @@ Adapted from: Milkstreet
 4. Stir in the caraway seeds and flour, cooking until flour browns. 
 5. Add the hot paprika and remaining 5 tbsp of sweet paprika. Cook until fragrant. 
 6. Slowly whisk in the broth mixture and bring it to a simmer, stirring frequently. 
-7. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on high pressure for 80 minutes (This is for high elevation. You can reduce the cooking time for lower elevation).  
-8. Quick release, stir, and let stand for 15 minutes. 
+7. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on high pressure for 80 minutes (This is for high elevation. You can reduce the cooking time for lower elevation). Quick release, stir, and let stand for 15 minutes. 
 9. Stir in the fresh dill and vinegar. 
-10. Taste and season with salt and pepper. 
-11. Garnish with sour cream and serve with egg noodles
+9. Taste and season with salt and pepper and garnish with sour cream and serve with egg noodles
