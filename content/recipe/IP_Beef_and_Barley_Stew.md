@@ -1,5 +1,5 @@
 +++
-title = "Beef and Barley Stew"
+title = "Instant Pot Beef and Barley Stew"
 date = "2021-02-16"
 description = ""
 tags = [
