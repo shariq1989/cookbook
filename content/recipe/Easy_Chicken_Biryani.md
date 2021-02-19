@@ -1,6 +1,6 @@
 +++
 title = "Instant Pot Chicken Biryani"
-date = "2020-01-18"
+date = "2021-02-18"
 description = ""
 tags = [
     "lunch",
@@ -25,10 +25,11 @@ For the Paste:
 
 * 1/2 cup Full-Fat Yogurt 
 * 2 tbsp Lemon Juice
-* 2 tsp Garam Masala
+* 2 tsp Garam Masala 
 * 1 tbsp Kashmiri Chili Powder
 * 1/2 tsp Turmeric
 * 2 tsp Kosher Salt 
+* 1 tbsp Laziza Karahi Masala
 * 2 tbsp Garlic and Ginger Paste 
 * 1/4 cup Cilantro, chopped, plus more for garnish
 * 2 lb Chicken Thighs and Legs, bone-in and skinless 
@@ -45,12 +46,12 @@ For the Biryani:
 
 #### DIRECTIONS 
 
-1. Mix the ingredients together for the paste. Stir in the chicken, coat evenly, and then refrigerate, 30 minutes. 
+1. In a large bowl, mix the ingredients together for the paste. Stir in the chicken, coat evenly, and then refrigerate, 30 minutes. 
 2. Wash and soak the rice in water and set aside, 20 minutes. 
 3. Warm the ghee (2 tbsp) in an Instant Pot using saute mode. Add the onion, stirring frequently, until the onions brown (not burn or charr). Remove half of the onion and set aside for garnish.  
 4. Add the chicken and all of the remaining paste to the Instant Pot. Allow the mixture to fry for 3 minutes. 
-5. Press cancel on the Instant Pot and add the remaining ghee and bay leaves.
+5. Press cancel on the Instant Pot and add the remaining ghee, bay leaves, and Thai chilis, if using.
 6. Secure the lid and cook on high pressure for 4 minutes with a quick release. 
-7. Drain the rice and add 1 cup to a rice cooker to cook seperately (this is just my preference). Add the remaining 2 cups of rice, salt, and 2 cups of water to the Instant Pot. Secure the lid and cook on high pressure for 7 minutes with a quick release. 
-8. To serve, set out a large serving bowl or plate and layer the biryani mixture from the instant pot on the bottom, followed by a layer of the plain rice from the rice cooker (you can add rice coloring for texture and brightness if you would like). Repeat until all the rice is on the serving dish. 
-9. Garnish with the reserved onion, cilantro and lime wedges. Serve with raita and enjoy. 
+7. Drain the rice and add 1 cup to a rice cooker to cook seperately. Add the remaining 2 cups of rice, salt, and 2 cups of water to the Instant Pot. Secure the lid and cook on high pressure for 8 minutes with a quick release (this cook time is for high elevation). 
+8. To serve, set out a large serving bowl or plate and layer the biryani mixture from the instant pot on the bottom, followed by a layer of the plain rice from the rice cooker (you can add rice coloring to this for texture and brightness). Repeat until ingredients are gone. 
+9. Garnish the dish with the reserved onion, cilantro and lime wedges. Serve with raita and enjoy. 
