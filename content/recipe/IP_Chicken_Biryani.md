@@ -46,12 +46,12 @@ For the Biryani:
 
 #### DIRECTIONS 
 
-1. In a large bowl, mix the ingredients together for the paste. Stir in the chicken, coat evenly, and then refrigerate, 30 minutes. 
+1. In a large bowl, mix the ingredients for the paste. Stir in the chicken, coat evenly, and then refrigerate, 30 minutes. 
 2. Wash and soak the rice in water and set aside, 20 minutes. 
 3. Warm the ghee (2 tbsp) in an Instant Pot using saute mode. Add the onion, stirring frequently, until the onions brown (not burn or charr). Remove half of the onion and set aside for garnish.  
 4. Add the chicken and all of the remaining paste to the Instant Pot. Allow the mixture to fry for 3 minutes. 
-5. Press cancel on the Instant Pot and add the remaining ghee, bay leaves, and Thai chilis, if using.
+5. Press "Cancel" on the Instant Pot and add the remaining ghee, bay leaves, and Thai chilis if using.
 6. Secure the lid and cook on high pressure for 4 minutes with a quick release. 
-7. Drain the rice and add 1 cup to a rice cooker to cook seperately. Add the remaining 2 cups of rice, salt, and 2 cups of water to the Instant Pot. Secure the lid and cook on high pressure for 8 minutes with a quick release (this cook time is for high elevation). 
+7. Drain the rice and add 1 cup to a rice cooker to cook separately. Add the remaining 2 cups of rice, salt, and 2 cups of water to the Instant Pot. Secure the lid and cook on high pressure for 8 minutes with a quick release (this cooking time is for high elevation). 
 8. To serve, set out a large serving bowl or plate and layer the biryani mixture from the instant pot on the bottom, followed by a layer of the plain rice from the rice cooker (you can add rice coloring to this for texture and brightness). Repeat until ingredients are gone. 
-9. Garnish the dish with the reserved onion, cilantro and lime wedges. Serve with raita and enjoy. 
+9. Garnish the dish with the reserved onion, cilantro, and lime wedges. Serve with raita and enjoy. 
