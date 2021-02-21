@@ -68,4 +68,4 @@ For the Biryani:
 Craving biryani, but don't have all day to make it? Reach for this quick and easy biryani recipe. You still get all the flavor and brightness of this popular dish, but you cut the cook time in half. 
 
 Quick Note About the Recipe- If you're in a hurry, you don't need to seperate the rice into a rice cooker. This is just a personal preference for our family. If you wanted to combine all of the rice into the Instant Pot, do step #7, but add all of the rice, plus three cups of water to the Instant Pot before cooking. Here is why I like to reserve some rice seperatelY: Because this recipe is made in an Instant Pot, the rice at the bottom can end up a bit mushy so I like to counteract that by reserving rice that is light and fluffy because that is what Shariq grew up with and tends to appreciate more. 
-- Tressa
+Tressa
