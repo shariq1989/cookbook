@@ -1,5 +1,5 @@
 +++
-title = "Pasole"
+title = "Instant Pot Pasole"
 date = "2020-01-29"
 description = ""
 tags = [
