@@ -10,6 +10,8 @@ tags = [
     "chinesefood",
     "americanasianfood", 
     "asiancooking",
+    "recipes",
+    "thejamilghar"
 ]
 thumbnail= "images/orangechicken.jpg "
 +++
