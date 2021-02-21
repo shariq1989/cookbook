@@ -14,7 +14,7 @@ tags = [
 thumbnail= "images/orangechicken.jpg "
 +++
 
-Servings: 6 <!--more-->
+Servings: 4-5 <!--more-->
 
 #### INGREDIENTS 
 
