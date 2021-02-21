@@ -20,7 +20,7 @@ tags = [
 thumbnail= "images/IP_Biryani.jpg"
 +++
 
-Servings: 8 <!--more-->
+Servings: 8-10 <!--more-->
 
 #### INGREDIENTS 
 
