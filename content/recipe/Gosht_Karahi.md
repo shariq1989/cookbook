@@ -11,8 +11,9 @@ tags = [
     "pakistani", 
     "international" 
 ]
-thumbnail= "images/GoatKarahi.jpg"
+thumbnail= "images/karahigosht.jpg"
 +++
+GOAT CURRY
 
 Servings: 3-4 <!--more-->
 
