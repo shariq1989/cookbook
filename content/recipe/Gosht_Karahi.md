@@ -9,7 +9,8 @@ tags = [
     "goat",
     "indian", 
     "pakistani", 
-    "international" 
+    "international", 
+    "thejamilghar"
 ]
 thumbnail= "images/karahigosht.jpg"
 +++
