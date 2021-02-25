@@ -1,6 +1,6 @@
 +++
 title = "Karahi Gosht"
-date = "2020-01-29"
+date = "2021-02-25"
 description = ""
 tags = [
     "curry",
@@ -18,12 +18,12 @@ Servings: 3-4 <!--more-->
 
 #### INGREDIENTS 
 * 1/2 cup [Ghee](https://amzn.to/2ZkJkrW), divided
-* 1 1/2 lb Goat, bone- in, cut into 1 to 2-inch pieces
-* 1/2 medium Yellow Onion, chopped
-* 4-5 medium Tomatoes, pureed in a blender
+* 1 1/2 lb Goat, bone- in, cut into 1-inch pieces
+* 1 medium Yellow Onion, sliced
+* 3 latge Tomatoes, pureed 
 * 2 tsp Ginger Paste
 * 2 Garlic Cloves, minced
-* 1/2 Package Laziza [Karahi Masala](https://amzn.to/2MYzcmx) 
+* 1/2 Package Laziza [Karahi Masala](https://amzn.to/2MYzcmx), this makes for a mild spice. 
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
 * 1 tsp [Kolongi Seeds](https://amzn.to/3jMZUuh) 
 * 2 Green Chilis, split lengthwise
