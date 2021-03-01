@@ -16,6 +16,10 @@ tags = [
 
 Servings:5 <!--more-->
 
+Cook Time: 1 hour, 30 minutes
+
+Cuisine: Italian American
+
 #### INGREDIENTS 
 
 * 1 lb Spicy ground Italian Sausage
