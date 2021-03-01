@@ -11,7 +11,7 @@ tags = [
     "asian",
     "cantonese",
     "hongkong",
-    shrimp",
+    "shrimp",
     "indochinese",
     "international",
     "food",
