@@ -5,7 +5,11 @@ description = ""
 tags = [
     "waffles",
     "breakfast",
-    "belgium"
+    "belgium",
+    "food",
+    "foodie",
+    "thejamilghar",
+    "brunch"
 ]
 #thumbnail= "images/waffles.jpg"
 +++
