@@ -16,6 +16,10 @@ thumbnail= "images/ButterChicken.jpg"
 
 Servings: 4 <!--more-->
 
+Preparation Time: 24 hours
+
+Cuisine: Indian, British
+
 #### INGREDIENTS 
 
 * 1 ½ tbsp Unsalted Butter
@@ -46,4 +50,4 @@ Servings: 4 <!--more-->
 
 #### THE STORY BEHIND THE MEAL
 
-Butter chicken or murgh makhani originated in North India as a curry but later spread through the western world. Its popularity grew mainly because of how easy it is to make, but it also offers and gentle introduction to some of the more flavorful and spicy dishes known in India. We don't make this too often in our home for just us, but when we have guests over, this is a go-to crowd-pleaser. 
+Butter chicken or murgh makhani originated in Delhi, India as a curry that was heavily influenced by British colonization. It later spread throughout the western world. Its popularity grew mainly because of how easy it is to make, but it also offers and gentle introduction to some of the more flavorful and spicy dishes of India. We don't make this too often in our home for just our family, but this is one of our go-to's when we have guests over. 
