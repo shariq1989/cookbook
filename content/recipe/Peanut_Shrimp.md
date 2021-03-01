@@ -16,9 +16,13 @@ thumbnail= "images/peanutshrimp.jpg "
 
 Servings: 4 <!--more-->
 
+Preparation Time: 30 minutes
+
+Cuisine: American
+
 #### INGREDIENTS 
 
-* 1 ½ lbs extra-large Shrimp (21 to 25 per pound), peeled and deveined, tails removed
+* 1 ½ lbs extra-large Shrimp, peeled and deveined, tails removed
 * ½ teaspoon Kosher Salt, divided
 * 1 tsp Black Peppercorns
 * 2 tsp Coriander Seeds
