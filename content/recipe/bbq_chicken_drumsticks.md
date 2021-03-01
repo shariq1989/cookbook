@@ -1,5 +1,5 @@
 +++
-title = "BBQ Chicken Drumsticks"
+title = "Grilled Chicken Drumsticks"
 date = "2021-02-09"
 description = ""
 tags = [
@@ -21,7 +21,7 @@ Servings: 4 <!--more-->
 
 Marinating Time: 6 hours
 
-Time: 1 hour 30 minutes
+Cook Time: 1 hour 30 minutes
 
 Cuisine: American
 
