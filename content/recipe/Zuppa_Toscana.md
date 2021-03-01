@@ -1,5 +1,5 @@
 +++
-title = "Olive Garden Zuppa Toscana Dupe"
+title = "Olive Garden Zuppa Toscana Copycat"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -8,12 +8,13 @@ tags = [
     "dinner",
     "healthy",
     "Italian",
-    "pfchangs"
+    "olivegarden", 
+    "lowcarb",
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
-Servings: 4-5 <!--more-->
+Servings:5 <!--more-->
 
 #### INGREDIENTS 
 
@@ -21,22 +22,26 @@ Servings: 4-5 <!--more-->
 * 1 medium Yellow Onion, finely diced 
 * 4 Garlic Cloves, minced 
 * 1 tbsp Chicken Better than Bouillon and 4 cup water
-* 3 Red Potatoes, quartered 
+* 4 small Red Potatoes, quartered 
 * 6 slices of Nitrate-Free Bacon, crumbled
 * 2 cup Heavy Cream 
 * 4 Kale Leaves, stem removed and chopped 
+* Coarse Black Pepper, to taste
+* Top the soup with fresh Parmesan Cheese
 
 #### DIRECTIONS 
 
-1. Cook the ground sausage over medium heat until brown. Remove from heat and set aside to drain. 
-2. Next, cook bacon until it becomes crispy. Remove from heat and set aside to drain. 
-3. In the same oil, saute the onions and garlic over medium heat until onions become translucent and soften. 
-4. In a dutch oven, add 4 Cups of water and 1 tbsp Chicken Better Than Bouillon. 
-5. Add the sausage, bacon (crumble before adding), onions, garlic, and potatoes to the dutch oven. 
-6. Cook the soup over medium heat for 1-2 hours, stirring occasionally.  
-7. Add the kale and heavy cream 10 minutes before serving. 
-8. Season with salt, and pepper to taste. 
+1. In a dutch oven, cook the sausage over medium heat until it becomes brown and cooked through. Remove from heat and set aside to drain. 
+2. Next, cook the bacon in the same pan until it becomes crispy. Remove from heat and set aside to drain. 
+3. In the same oil, saute the onions and garlic over medium heat until then onions become translucent and soften. 
+4. Add 4 cups of water and 1 tbsp chicken flavored Better Than Bouillon to the cooked onions and then add in the sausage, bacon (crumble before adding), garlic, and potatoes. 
+5. Cook the soup on low-medium heat for 1 hour, stirring occasionally.  
+6. Stir in the kale and heavy cream 10 minutes before serving. 
+7. Generously season the soup with coarse ground pepper, to taste. You can also add a bit of salt if necessary. 
 
-#### THE STORY BEHIND THE MEAL 
+#### ABOUT THE MEAL
 
-There are so many versions of this recipe floating around the interweb and that makes sense. Zuppa Toscana is tasty! Honestly, that's all I ever ordered at Olive Garden, so instead of spending $10 for a soup, we decided to make our own. Here is our family's version; we hope you enjoy it. 
+There are so many versions of this recipe floating around the internet and honestly, it makes sense. Zuppa Toscana is tasty! Honestly, before learning how to make it at home, this soup was the sole reason I ever went to Olive Garden. That, and the breadsticks of course.
+
+Are you counting macros or eating low-carb? One simple swap makes all the difference- all you have to do is replace the red potatoes with the utility vegetable of the century, cauliflower. When cooked, cauliflower takes on a potato-like texture, but you don't lose any of the flavor. 
+Tressa
