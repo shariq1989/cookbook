@@ -6,12 +6,20 @@ tags = [
     "dessert",
     "fall",
     "holiday",
-    "pumpkin"
+    "pumpkin",
+    "basic",
+    "sweets",
+    "sweettooth",
+    "thejamilghar"
 ]
 #thumbnail= "images/pumpkin bars.jpg"
 +++
 
 Servings: 5 <!--more-->
+
+Cook Time: 1 hour
+
+Cuisine: American
 
 #### INGREDIENTS 
 
