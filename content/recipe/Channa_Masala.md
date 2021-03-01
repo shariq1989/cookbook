@@ -25,6 +25,10 @@ SPICED CHICKPEAS
 
 Servings: 4-6 <!--more-->
 
+Preparation Time: 1 hour
+
+Cuisine: Indian, Pakistani
+
 #### INGREDIENTS 
 
 * 2 tbsp [Ghee](https://amzn.to/2ZkJkrW) (if making vegan, use canola) 
@@ -56,8 +60,10 @@ Servings: 4-6 <!--more-->
 8. Sprinkle the masala lightly with kalonji seeds and cover with lid slightly ajar. Reduce the heat to maintain a gentle bubbling. Cook, stirring occasionally until liquid has reduced into a thick stew, about 12-15 minutes.
 9. Taste with salt, if needed, and garnish with cilantro. Serve with long-grain basmati rice or naan.
 
-#### THE STORY BEHIND THE MEAL 
-Chana masala, also called Chole is a bright and flavorful dish. It also happens to be one of the most popular North Indian and Pakistani vegetarian dishes, which is where Shariq's family originates. It’s a simple, healthy meal to make that caters to vegetarians, vegans, and those who are gluten-free. 
+#### ABOUT THE MEAL
+
+Chana masala, also called Chole is a bright and flavorful dish. It also happens to be one of the most popular vegetarian dishes in Northern India and Pakistan, which is also where Shariq's family originates. It’s a simple, healthy meal to make that caters to vegetarians, vegans, and those who are gluten-free. 
 
 Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me the difference between an Indian or a Thai Curry I couldn't have told you. Now, I am incredibly honored to be able to study Desi cooking under my mother-in-law. She cooks off-script so I have to carefully observe her as she buzzes through the kitchen or I  miss it all. I am amazed by her ability to build flavor and create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even tastier. 
+Tressa
 
