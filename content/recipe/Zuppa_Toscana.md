@@ -1,5 +1,5 @@
 +++
-title = "Olive Garden Zuppa Toscana Copycat"
+title = "Zuppa Toscana Copycat"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -10,6 +10,7 @@ tags = [
     "Italian",
     "olivegarden", 
     "lowcarb",
+    "zuppatoscana"
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
