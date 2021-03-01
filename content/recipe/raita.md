@@ -18,7 +18,7 @@ tags = [
 
 YOGURT SAUCE 
 
-Servings: 5 <!--more-->
+Servings: 4 <!--more-->
 
 Time: 10 minutes
 
@@ -27,11 +27,10 @@ Cuisine: Indian, Pakistani
 #### INGREDIENTS 
 
 * ¾ cup Full-Fat Yogurt
-* 1 tbsp Fresh Mint
-* 2 tsbp Fresh Cilantro
+* 3 tsbp Fresh Cilantro
 * ½ tsp Cumin, ground 
 * ¼ tsp Salt
-* 1 Garlic Clove, minced
+* 1/2 Garlic Clove, minced
 * 1/4 Cucumber, finely chopped
 * Optional: 1/2 Serrano, chopped 
 
