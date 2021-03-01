@@ -56,3 +56,7 @@ For the Ribs:
 6. Return the ribs to the baking sheet and re-cover with the aluminum foil. Allow the ribs to cook for 4 hours on the lowest rack. 
 7. Cover the ribs in BBQ Sauce of your choice. 
 8. Broil for 15 minutes on the highest rack. 
+
+#### ABOUT THE MEAL 
+
+These ribs come out perfectly every time and there are never leftovers. If you don't have the time to prepare the spice rub suggested in the recipe, we recommend trying Montreal Seasoning. 
