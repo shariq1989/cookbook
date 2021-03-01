@@ -10,7 +10,11 @@ tags = [
 #thumbnail= "images/waffles.jpg"
 +++
 
-Servings: 4 <!--more-->
+Servings: 4 Waffles <!--more-->
+
+Marinating Time: 30 minutes
+
+Cook Time: 10 minutes
 
 #### INGREDIENTS 
 
@@ -25,6 +29,6 @@ Servings: 4 <!--more-->
 * ¾ tsp Vanilla Extract 
 
 #### DIRECTIONS 
-1. Mix ingredients well. Let stand for 30 minutes. 
+1. Add the ingredients, one at a time, to a large bowl, and then mix well. Let the mixture stand at room temperature for 30 minutes. 
 2. Preheat the waffle iron. 
 3. Add ¼ cup mix to the waffle iron. 
