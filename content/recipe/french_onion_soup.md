@@ -1,5 +1,5 @@
 +++
-title = " Instant Pot Soupe à L'Oignon"
+title = " Instant Pot Soupe à L'Oignon- French Onion Soup "
 date = "2021-02-14"
 description = ""
 tags = [
@@ -21,11 +21,9 @@ tags = [
 thumbnail= "images/FrenchOnion.jpg "
 +++
 
-FRENCH ONION SOUP
-
 Servings: 4 <!--more-->
 
-Time: 2 hours 
+Cook Time: 2 hours 
 
 Cuisine: French 
 
@@ -70,5 +68,3 @@ To Serve:
 French Onion Soup is a timeless classic and also happens to be one of my go-to comfort foods. It's a perfect meal for those cold and snowy days, which are common here in Colorado during the winter. You can use any onions for this soup, but I recommend using sweet onions because of the flavor they release and the ease with which they caramelize. 
 
 By the way, did I tell you about that one time I saved a little girl's life from a flying bowl of steaming hot french onion soup? I may have received some second-degree burns to my forearm by jumping in front of her, but I sure felt like a superhero that day. I think about this moment every time I eat french onion soup.
-
-Tressa
