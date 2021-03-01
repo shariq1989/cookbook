@@ -15,7 +15,7 @@ tags = [
     "thejamilghar"
     
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/joojehkabon.jpg"
 +++
 
 GRILLED CHICKEN KABOBS
