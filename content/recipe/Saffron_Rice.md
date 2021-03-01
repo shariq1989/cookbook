@@ -13,7 +13,7 @@ tags = [
     "thejamilghar"
     
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/SaffronRice.jpg"
 +++
 
 Servings: 4-5 <!--more-->
