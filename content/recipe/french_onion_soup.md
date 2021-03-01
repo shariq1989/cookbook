@@ -25,6 +25,10 @@ FRENCH ONION SOUP
 
 Servings: 4 <!--more-->
 
+Time: 2 hours 
+
+Cuisine: French 
+
 Adapted from: Serious Eats, J. Kenji Lopez-Alt
 
 #### INGREDIENTS 
@@ -61,7 +65,10 @@ To Serve:
 4. Cover with the remaining Gruyère and set bowls onto a rimmed baking sheet. 
 5. Broil the soup until the cheese is melted and brown spots begin to appear, if you can wait that long.  
 
-#### THE STORY BEHIND THE MEAL 
+#### ABOUT THE MEAL
 
-French Onion Soup is a timeless classic and it also happens to be one of my most favorite comfort foods of all time. It is the perfect meal for those cold and snowy days, which are common during our Colorado winters. This recipe is much less eventful than the one time I saved a little girl's life from a steaming bowl of french onion soup that went flying in her direction. I may have received some second-degree burns to my forearm, but I sure felt like a hero that day. 
--Tressa
+French Onion Soup is a timeless classic and also happens to be one of my go-to comfort foods. It's a perfect meal for those cold and snowy days, which are common here in Colorado during the winter. You can use any onions for this soup, but I recommend using sweet onions because of the flavor they release and the ease with which they caramelize. 
+
+By the way, did I tell you about that one time I saved a little girl's life from a flying bowl of steaming hot french onion soup? I may have received some second-degree burns to my forearm by jumping in front of her, but I sure felt like a superhero that day. I think about this moment every time I eat french onion soup.
+
+Tressa
