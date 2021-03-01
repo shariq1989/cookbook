@@ -48,5 +48,5 @@ Cuisine: American
 
 #### THE STORY BEHIND THE MEAL 
 
-Ever get bored making the same thing over and over again? During quarantine, the kids and I most certainly did. We decided to give mac and cheese balls and try and camp up with this yummy meal. The kids and I hope you enjoy. 
+Ever get bored making the same thing over and over again? During quarantine, the kids and I most certainly did. We decided to give mac and cheese balls and try and camp up with this yummy meal. The kids and I hope you enjoy it. 
 Tressa
