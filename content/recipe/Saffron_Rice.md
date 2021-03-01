@@ -10,6 +10,7 @@ tags = [
     "saffron",
     "iranianfood", 
     "foodie",
+    "food",
     "thejamilghar"
     
 ]
@@ -18,7 +19,7 @@ thumbnail= "images/SaffronRice.jpg"
 
 Servings: 4-5 <!--more-->
 
-Preparation Time: 30 minutes 
+Cook Time: 30 minutes 
 
 Cuisine: Persian 
 
@@ -45,4 +46,4 @@ Cuisine: Persian
 
 #### ABOUT THE MEAL 
 
-Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. While it is expensive, a little goes a long way. I tend to use ½ teaspoon of saffron for every 1 cup of rice. The floral fragrance of the saffron is brought out when mixed with hot fluid, like water, or milk, making the rice rich and savory. 
+Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. While it's expensive, a little goes a long way. I tend to use ½ teaspoon of saffron for every 1 cup of rice as a rule of thumb. To bring out the floral fragrance of the saffron we encourage you to mix it with hot fluid, like water, or milk, to bring richness and flavor to the dish. 
