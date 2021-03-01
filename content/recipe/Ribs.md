@@ -59,4 +59,4 @@ For the Ribs:
 
 #### ABOUT THE MEAL 
 
-These ribs come out perfectly every time and there are never leftovers. If you don't have the time to prepare the spice rub suggested in the recipe, we recommend trying Montreal Seasoning. 
+These ribs come out perfectly every time and there are never leftovers. If you don't have the time to prepare the spice rub suggested in the recipe, we recommend using Montreal Seasoning. 
