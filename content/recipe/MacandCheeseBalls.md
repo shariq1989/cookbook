@@ -19,6 +19,12 @@ thumbnail= "images/macballs.jpg"
 
 Servings: 10-12 <!--more-->
 
+Preparation Time: 20 minutes
+
+Cooling Time: 24 hours
+
+Cuisine: American
+
 #### INGREDIENTS 
 
 * 2 Boxes of Macaroni and Cheese, cooked and chilled
@@ -31,15 +37,16 @@ Servings: 10-12 <!--more-->
 
 #### DIRECTIONS 
 
-1. Make the boxed macaroni and cheese and refrigerate overnight.
-2. Prepare a wire rack over a rimmed baking sheet covered with aluminium foil. 
-3. Scoop 2 tablespoons of macaroni and cheese and shape into a 2-inch ball. Set aside and repeat until all of the mixture is gone. 
-4. On a plate, mix the panko, garlic power, cayenne powder, and chili flakes. 
+1. Make the boxed macaroni and cheese and refrigerate for 24 hours.
+2. Prepare a wire rack over a rimmed baking sheet covered with aluminum foil. 
+3. Scoop 2 tablespoons of macaroni and cheese and shape into a 2-inch ball. Set aside and repeat until the mixture is gone. 
+4. On a plate, mix the panko, garlic powder, cayenne powder, and chili flakes. 
 5. In a small bowl, whisk together the eggs until smooth. 
-6. Dip the balls into the egg mixture and roll in the panko, creating a solid crust. Repeat until each one of the balls are covered. 
-7. Heat the oil in a pot until the oil registers 350 degrees. Fry 6 cheese balls at a time for about 3 minutes each or until golden. Move to the wire rack to drain and cool before serving. 
+6. Dip the balls into the egg mixture and roll in the panko, creating a solid crust. Repeat until each one of the balls is covered. 
+7. Heat the oil in a pot until it reaches 350 degrees. Fry about 6 cheese balls at a time for about 3 minutes each until golden. Move to the wire rack to drain and cool before serving. 
+8. Serve with Sriracha Aioli (2 tbsp mayonnaise and 1 tbsp Sriracha) 
 
 #### THE STORY BEHIND THE MEAL 
 
-Ever get bored making the same thing over and over again? During quarantine, the kids and I most certainly did. We decided this yummy meal was the result. 
+Ever get bored making the same thing over and over again? During quarantine, the kids and I most certainly did. We decided to give mac and cheese balls and try and camp up with this yummy meal. The kids and I hope you enjoy. 
 Tressa
