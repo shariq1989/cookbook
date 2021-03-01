@@ -13,7 +13,7 @@ tags = [
     "indian",
     "pakistani",
     "desi",
-    tandoor",
+    "tandoor",
     "thejamilghar"
 ]
 thumbnail= "images/tandoorichicken.jpg"
