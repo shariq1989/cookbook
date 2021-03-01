@@ -6,7 +6,7 @@ tags = [
     "ribs",
     "grill",
     "bbq",
-    "bbqribs"
+    "bbqribs",
     "lunch",
     "dinner",
     "oven",
