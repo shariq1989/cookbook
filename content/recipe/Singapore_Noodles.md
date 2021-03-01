@@ -1,5 +1,5 @@
 +++
-title = "Singapore Noodles"
+title = "Singapore Noodles "
 date = "2020-01-18"
 description = ""
 tags = [
@@ -11,7 +11,8 @@ tags = [
     "asian",
     "cantonese",
     "hongkong",
-    shrmp",
+    shrimp",
+    "indochinese",
     "international",
     "food",
     "foodie",
@@ -63,7 +64,7 @@ Adapted from: Serious Eats, Shao Z.
 
 #### ABOUT THE MEAL 
 
-It's not entirely clear where Singapore noodles originate, but many sources say Hong Kong, despite its name. Regardless, what I love about this dish is that the flavors have been heavily influenced by so many people groups: The Cantonese and British, as well as the Chinese-Indo cuisine made popular in Singapore. 
+It's not entirely clear where Singapore noodles originate, but many sources say Hong Kong, despite its name. Regardless, what I love about this dish is that the flavors have been heavily influenced by so many people groups: The Cantonese and British, as well as the Indo-Chinese cuisine made popular in Singapore. 
 
 This is another dish we tried at a restaurant for the first time and decided we needed to find a way to make it at home. While the traditional dish includes flavorful fried fried pork, we remove it from our recipe so that my husband's parents could enjoy the dish with us. Feel free to add fried pork to yours if you want a version of this dish that is closer to the way it is made in other countries. 
  
