@@ -15,7 +15,7 @@ tags = [
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
-Servings:5 <!--more-->
+Servings: 5 <!--more-->
 
 Cook Time: 1 hour, 30 minutes
 
