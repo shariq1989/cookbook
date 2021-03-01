@@ -9,16 +9,21 @@ tags = [
     "thai",
     "redcurry",
     "spicy",
-    "international"
+    "international",
+    "coconut"
 ]
 thumbnail= "images/thai_red_curry.jpg"
 +++
 
-Servings: 3-4 <!--more-->
+Servings: 4 <!--more-->
+
+Cook Time: 40 minutes
+
+Cuisine: Thai
 
 #### INGREDIENTS 
 
-* 1- 4 oz [Thai Red Curry Paste](https://amzn.to/2NmwVBf), whole can for spicy, 1/2 can for more mild
+* 1 -4 oz [Thai Red Curry Paste](https://amzn.to/2NmwVBf), the whole can for spicy, 1/2 can for milder
 * 1/2 tsp Ginger Paste
 * 1/3 White Onion, thinly sliced
 * 3-4 Chicken thighs, boneless and skinless, cut into 1-inch pieces 
@@ -32,8 +37,7 @@ Servings: 3-4 <!--more-->
 #### DIRECTIONS 
 
 1. Warm the red curry paste and ginger paste in a heavy-bottomed pan over medium heat, stirring occasionally until fragrant, about 2 minutes.
-2. Add the onions and chicken to the pan and stir to coat, fry for 3-5 minutes. Add the bell peppers and zucchini and saute for another minute.
+2. Add the onions and chicken to the pan and stir to coat. Fry for 3-5 minutes, then add the bell peppers and zucchini, saute for another minute.
 3. Stir in half of the coconut milk and bring the curry to a boil.
-4. Reduce the heat to a simmer and add the remaining coconut milk and fish sauce, along with the mushrooms. Allow the mixture to cook, stirring occasionally, for about 10 minutes. The sauce should thicken and the vegetables will reach a crisp-tenderness. If curry does not thicken, add 2 tbsp cold water and stir to mix.
-5. Garnish the curry with Thai basil leaves and serve with jasmine rice.
-
+4. Reduce the heat to a light simmer and add the remaining coconut milk and fish sauce, along with the mushrooms. Allow the mixture to cook, stirring occasionally, for 10 minutes. The curry should thicken and the vegetables will reach a crisp-tenderness. If the curry does not thicken, add 2 tbsp cold water and stir to mix.
+5. Garnish with Thai basil leaves and serve with jasmine rice.
