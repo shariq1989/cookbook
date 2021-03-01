@@ -11,7 +11,7 @@ tags = [
 #thumbnail= "images/pumpkin bars.jpg"
 +++
 
-Servings: 4-6<!--more-->
+Servings: 5 <!--more-->
 
 #### INGREDIENTS 
 
@@ -44,3 +44,8 @@ For the Cream Cheese Frosting:
 4. While baking, mix the ingredients for the frosting in a small bowl and set aside at room temperature. 
 5. Remove the bars from the oven and let stand for 15-20 minutes. 
 6. When the bar has cooled, drizzle with frosting and sprinkle with powdered sugar to serve. 
+
+
+#### ABOUT THE MEAL 
+
+Let it be known, I am not a fan of pumpkin!! Usually, I turn the other way when presented with anything of the pumpkin variety. However, a few Christmases ago our sweet neighbor delivered a similar sweet treat and I gave it a try. She drew me in with that cream cheese frosting. Here is one pumpkin dessert that even pumpkin-haters like myself may enjoy. 
