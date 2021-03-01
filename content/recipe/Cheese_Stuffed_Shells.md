@@ -21,6 +21,10 @@ thumbnail= "images/StuffedShells.jpg "
 
 Servings: 5 <!--more-->
 
+Preparation Time: 1 hour
+
+Cuisine: Sicilian 
+
 #### INGREDIENTS 
 
 * 10-15 [Jumbo Pasta Shells](https://amzn.to/3rUskFr), cooked al dente
@@ -45,6 +49,6 @@ Servings: 5 <!--more-->
 7. Drizzle more of the basil pesto sauce over top, then sprinkle parmesan cheese in an even layer. 
 8. Cover the baking dish with aluminum foil, bake for 50 minutes. 9. Remove foil and cook for 5 minutes. If you prefer cheese to be browned, broil for 1-2 minutes.
 
-#### THE STORY BEHIND THE MEAL
+#### ABOUT THE MEAL
 
-Stuffed shells are a popular Italian dish made in many homes and for good reason; they seem elegant and fancy, yet they are incredibly easy to make. We deviated from the classic stuffed shell dish for this recipe, bringing you shells stuffed full of cheese and spinach and topped with that yummy pesto flavor.
+Who doesn't love stuffed shells? This meal finds its origin in Sicily but they are ever popular in American homes, and for good reason. They give elegant and fancy vibes but are quite easy to make. We chose to deviate from the classic stuffed shell with marinara in favor of shells stuffed full of cheese and spinach and topped with pesto and pine nuts. We love the versatility of stuffed shells being that they can be made vegetarian or meatless. 
