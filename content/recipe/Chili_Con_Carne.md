@@ -14,6 +14,10 @@ tags = [
 
 Servings: 6-8 <!--more-->
 
+Preparation Time: 45 minutes
+
+Cuisine: American
+
 #### INGREDIENTS 
 
 * 2 Arbol Chilis, dried 
@@ -36,21 +40,21 @@ Servings: 6-8 <!--more-->
 
 For Garnish
 
-* Yellow Onion, diced
-* Cilantro, chopped
-* Shredded cheese
-* Avocado, cubed 
+* 1 Yellow Onion, diced
+* 1 bunch Cilantro, chopped
+* 2 cups Shredded cheese
+* 1 Avocado, cubed 
 * Corn Tortillas, warmed 
 
   
 #### DIRECTIONS 
 
-1. Add chilis to an Instant Pot or pressure cooke and cook until somewhat blistered, 1 minute.  
-2. Remove chilis and add them to a blender with the chicken broth, mix thoroughly. 
-3. Season chuck with salt and pepper. 
-4. Oil Instant Pot and add a layer of chuck and allow it to sear. Repeat this until all the meat has had a chance to brown. Set meat aside. 
-5. Add onions to the Instant Pot and cook until translucent and softened. 
-6. Combine the garlic, cinnamon, cumin, all spice, and oregano, about 1-2 minutes.  
-7. Add meat, blender chili puree, worcestershire sauce, apple cider vinegar, fish sauce, black beans, and tomato. 
-8. Set Instant Pot to high pressure 40 minutes. 
-9. Serve with warm corn tortillas and garnish with onion, cilantro, cheese, and avocado. 
+1. Add the chilis to an Instant Pot and cook until blistered, 1 minute.  
+2. Remove the chilis and add them to a blender along with the chicken broth, mix thoroughly. 
+3. Season the chuck with salt and pepper. 
+4. Oil the Instant Pot and add a layer of the chuck. Allow it to sear and form a crust. Repeat until all the meat has had a chance to brown. Set meat aside. 
+5. Add onions to the Instant Pot and cook until translucent.
+6. Next, add the garlic, cinnamon, cumin, allspice, and oregano to the Instant Pot. Stir to combine and allow it to cook until it becomes fragrant about 1-2 minutes.  
+7. Add the meat, blender chili puree, Worcestershire sauce, apple cider vinegar, fish sauce, black beans, and tomato into the Instant Pot. 
+8. Secure the lid and cook on manual high pressure for 40 minutes (this cooking time is for high elevation. You can reduce the cooking time for lower elevation). 
+9. Garnish with onion, cilantro, cheese, and avocado. Serve with warm corn tortillas. 
