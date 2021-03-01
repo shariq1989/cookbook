@@ -13,6 +13,10 @@ tags = [
 
 Servings: 2 Loaves <!--more-->
 
+Preparation Time: 2 hours, 20 minutes
+
+Cuisine: American
+
 #### INGREDIENTS 
 * 2 cup Sugar 
 * 2 sticks Butter 
