@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Pasole"
+title = "Instant Pot Pasole- Mexican Stew"
 date = "2020-01-29"
 description = ""
 tags = [
@@ -18,9 +18,11 @@ tags = [
 thumbnail= "images/Pasole.jpg"
 +++
 
-MEXICAN STEW 
+Servings: 8 <!--more-->
 
-Servings: 6-8 <!--more-->
+Cook Time:
+
+Cuisine: Mexican
 
 #### INGREDIENTS 
 
@@ -30,15 +32,15 @@ For the Pasole:
 * 1 tbsp Oregano
 * 2 Bay Leaves 
 * 1 tbsp Avocado Oil 
-* ½ Ancho Chili Powder or ½ can Chipotle in Adobo Sauce 
+* ½ can Chipotle in Adobo Sauce 
 * 1-2 Guajillo Chilis, dried
-* 2½ lb Pork Butt, cut into 1-inch pieces (or skip this step to make the dish vegetarian) 
+* 2½ lb Pork Butt, cut into 1-inch pieces 
 * 1 large White Onion, diced 
 * 6 Garlic Cloves, minced 
-* 4 cup of Water and 2 tbsp Chicken Better Than Bouillon (or vegetable)
-* 1-29 oz can of Hominy, drained and rinsed (double if making the dish vegetarian) 
+* 4 cup of Water and 2 tbsp [Chicken Better Than Bouillon](https://amzn.to/3uFvZt3) 
+* 1-29 oz can of Hominy, drained and rinsed 
 
-For the Garnish: 
+To Serve: 
 
 * Radishes, thinly sliced
 * Cabbage, shredded     
@@ -50,8 +52,14 @@ For the Garnish:
   
 #### DIRECTIONS 
 
-1. Heat the oil in an Instant Pot on saute mode until it begins to smoke. 
+1. Heat the oil in an [Instant Pot]( on saute mode until it begins to smoke. 
 2. Add a layer of pork to the bottom of the pan and let it brown, 3-4 minutes. Repeat this until all the meat has had a chance to brown. Set aside. 
 3. Next, add the onions to the Instant Pot and cook until they become translucent and soften. 
-4. Combine the remaining ingredients in the Instant Pot, along with the meat. Secure the lid and cook on high pressure for 50 minutes with a quick release. (This cooking time is for high-elevation. Reduce the cooking time for lower elevation). 
-5. Garnish with radishes, cabbage, cilantro, lime wedges, avocado, chili flakes, and oregano.    
+4. Combine the remaining ingredients into the Instant Pot, along with the meat. Seal the lid and cook on high pressure for 50 minutes with a quick release. (This cooking time is for high-elevation. Reduce the cooking time for lower elevation). 
+5. Serve with radishes, cabbage, cilantro, lime wedges, avocado, chili flakes, and oregano.    
+
+#### ABOUT THE MEAL 
+
+My family makes pasole pretty much any time we are together as a family. Since my sisters are vegetarian, that is how we choose to make it. Here are some adjustments you can make to this recipe in order to make it vegetarian-friendly. 
+1. Replace the Chicken Better than Bouillon with [Vegetable Better than Bouillion](https://amzn.to/3dZTYx1)
+2. Double the hominy. 
