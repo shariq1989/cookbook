@@ -1,5 +1,5 @@
 +++
-title = "Chikhirtma"
+title = "Chikhirtma- Georgian Chicken Soup"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -13,8 +13,6 @@ tags = [
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
-
-GEORGIAN CHICKEN STEW 
 
 Servings: 6 <!--more-->
 
