@@ -33,6 +33,6 @@ Cook Time: 10 minutes
 * ¾ tsp Vanilla Extract 
 
 #### DIRECTIONS 
-1. Add the ingredients, one at a time, to a large bowl, and then mix well. Let the mixture stand at room temperature for 30 minutes. 
-2. Preheat the waffle iron. 
+1. Mix the ingredients together, one at a time, in a large bowl, then mix well. Let the mixture stand at room temperature for 30 minutes. 
+2. Preheat the [waffle iron](https://amzn.to/3kII2kI). 
 3. Add ¼ cup mix to the waffle iron. 
