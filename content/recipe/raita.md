@@ -26,13 +26,13 @@ Cuisine: Indian, Pakistani
 
 #### INGREDIENTS 
 
-* ¾ cup Full-Fat Yogurt
+* ¾ cup [Full-Fat Yogurt](https://amzn.to/30348EW)
 * 3 tsbp Fresh Cilantro
 * ½ tsp Cumin, ground 
 * ¼ tsp Salt
 * 1/2 Garlic Clove, minced
 * 1/4 Cucumber, finely chopped
-* Optional: 1/2 Serrano, chopped 
+* Optional: 1/2 Serrano Chili, chopped 
 
 #### DIRECTIONS 
 
