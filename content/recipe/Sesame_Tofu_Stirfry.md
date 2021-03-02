@@ -33,7 +33,7 @@ Cuisine: Chinese American
 * 4 tbsp Sesame Oil
 * 3 tbsp Soy Sauce 
 * 1 tbsp Rice Wine Vinegar 
-* 1 tsp Fish Oil, use [Marmite](https://amzn.to/2Ovg8wi) if making vegan  
+* 1 tsp [Fish Sauce](https://amzn.to/3sDAu5f), If making vegan, use [Marmite](https://amzn.to/2Ovg8wi) 
 * 1 tsp Honey 
 * 1 cup Water 
 * ½ tsp Flour 
@@ -55,4 +55,4 @@ Cuisine: Chinese American
 
 #### ABOUT THE MEAL 
 
-My sister, who is a fabulous cook, made a similar dish for us after we had our first child. We loved it so much, we decided to make our own. Originally made to be meatless and vegetarian, this dish could easily be made vegan by simply replacing the fish sauce with marmite; this will still at the umami flavor we are going for. 
+My sister, who is a fabulous cook, made a similar dish for us after we had our first child. We loved it so much, we decided to make our own. Originally made to be meatless and vegetarian, this dish could easily be made vegan by simply replacing the fish sauce with marmite; this still adds the umami flavor we are going for. 
