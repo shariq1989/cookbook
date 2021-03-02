@@ -1,5 +1,5 @@
 +++
-title = "P.F. Changs Lettuce Wrap Dupe"
+title = "P.F. Changs Lettuce Wrap Copycat"
 date = "2021-02-02"
 description = ""
 tags = [
