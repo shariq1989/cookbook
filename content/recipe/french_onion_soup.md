@@ -48,7 +48,7 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 
 For the Soup:  
 
-1. Melt the butter in an Instant Pot on saute mode. Add the onions and baking powder, stir to combine. Season with salt and pepper. Cook, stirring, until onions soften and begin to release liquid, about 3 minutes. 
+1. Melt the butter in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the onions and baking powder, stir to combine. Season with salt and pepper. Cook, stirring, until onions soften and begin to release liquid, about 3 minutes. 
 2. Seal the Instant Pot lid and cook on high pressure for 20 minutes with a quick release. 
 3. Continue cooking with the lid off, stirring constantly, until the liquid inside is reduced and the onions become brown and sticky, about 5 minutes.
 4. Add the sherry and bring the mixture to a simmer, scraping up any brown bits left behind by the onion. Cook until the alcohol smell is mostly gone, about 3 minutes.
@@ -67,4 +67,4 @@ To Serve:
 
 French Onion Soup is a timeless classic and also happens to be one of my go-to comfort foods. It's a perfect meal for those cold and snowy days, which are common here in Colorado during the winter. You can use any onions for this soup, but I recommend using sweet onions because of the flavor they release and the ease with which they caramelize. 
 
-By the way, did I tell you about that one time I saved a little girl's life from a flying bowl of steaming hot french onion soup? I may have received some second-degree burns to my forearm by jumping in front of her, but I sure felt like a superhero that day. I think about this moment every time I eat french onion soup.
+By the way, did I tell you about that one time I saved a little girl's life from a flying bowl of steaming hot french onion soup? I may have received some second-degree burns to my forearm by jumping in front of her, but I sure felt like a superhero that day. I think about this every time I make french onion soup.
