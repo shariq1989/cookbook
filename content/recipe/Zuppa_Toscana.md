@@ -46,6 +46,6 @@ Cuisine: Italian American
 
 #### ABOUT THE MEAL
 
-There are so many versions of this recipe floating around the internet and honestly, it makes sense. Zuppa Toscana is tasty! Honestly, before learning how to make it at home, this soup was the sole reason I ever went to Olive Garden. That, and the breadsticks of course.
+There are so many versions of this recipe floating around the internet and honestly, it makes sense. Zuppa Toscana is tasty! Honestly, before learning how to make it at home, this soup was the only reason I ever went to Olive Garden. Oh, and the breadsticks of course.
 
-Are you counting macros or eating low-carb? One simple swap makes all the difference- all you have to do is replace the red potatoes with the utility vegetable of the century, cauliflower. When cooked, cauliflower takes on a potato-like texture, but you don't lose any of the flavor. 
+Are you counting macros or eating low-carb? One simple swap makes all the difference- just replace the red potatoes with the utility vegetable of the century, cauliflower. When cooked, cauliflower takes on a potato-like texture, and you still get all the flavor of the original dish. 
