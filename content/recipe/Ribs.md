@@ -44,7 +44,7 @@ For the Rub:
 For the Ribs: 
 
 * Full or Half Rack of Ribs 
-* BBQ Sauce of your choice, we like Sweet Baby Rays or their Sugar-Free
+* BBQ Sauce of your choice, we like [Sweet Baby Rays](https://amzn.to/37Zajyd) or the [Sugar-Free](https://amzn.to/3dZQydF) version
 
 #### DIRECTIONS 
 
@@ -59,4 +59,4 @@ For the Ribs:
 
 #### ABOUT THE MEAL 
 
-These ribs come out perfectly every time and there are never leftovers. If you don't have the time to prepare the spice rub suggested in the recipe, we recommend using Montreal Seasoning. 
+These ribs come out perfectly every time and there are never leftovers. If you don't have the time to prepare the spice rub suggested in the recipe, we recommend using [Montreal Seasoning](https://amzn.to/3r6PQiA). 
