@@ -1,5 +1,5 @@
 +++
-title = " Instant Pot Rindsgulasch"
+title = " Instant Pot Rindsgulasch- Austrian Beef Stew"
 date = "2020-01-27"
 description = ""
 tags = [
@@ -15,8 +15,6 @@ tags = [
 ]
 #thumbnail= "images/rindsgulasch.jpg"
 +++
-
-AUSTRIAN BEEF STEW 
 
 Servings: 6<!--more-->
 
@@ -49,5 +47,5 @@ Adapted from: Milkstreet
 5. Add the hot paprika and remaining 5 tbsp of sweet paprika. Cook until fragrant. 
 6. Slowly whisk in the broth mixture and bring it to a simmer, stirring frequently. 
 7. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on high pressure for 80 minutes (This is for high elevation. You can reduce the cooking time for lower elevation). Quick release, stir, and let stand for 15 minutes. 
-9. Stir in the fresh dill and vinegar. 
+8. Stir in the fresh dill and vinegar. 
 9. Taste and season with salt and pepper and garnish with sour cream and serve with egg noodles
