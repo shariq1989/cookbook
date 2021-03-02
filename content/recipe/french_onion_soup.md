@@ -31,13 +31,13 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 
 #### INGREDIENTS 
 
-* 4 tbsp Unsalted Butter, plus more to butter the baguette slices
+* 4 tbsp [Unsalted Butter](https://amzn.to/2NK7WbO), plus more for the baguette slices
 * 4 small Baguette slices
 * 3 lb Sweet Onion, very thinly sliced, about 5-6 large onions
 * ½ tsp Baking Powder 
 * Kosher Salt and Coarse Ground Pepper, to taste  
 * ½ cup Dry Sherry 
-* 2 qt Water and 2 tbsp Beef, Better Than Bouillion 
+* 2 qt Water and 2 tbsp Beef Flavored Better Than Bouillion 
 * 2 Thyme Sprigs 
 * 1 Bay Leaf 
 * 1 tsp [Fish Sauce](https://amzn.to/3jMYZdj) 
