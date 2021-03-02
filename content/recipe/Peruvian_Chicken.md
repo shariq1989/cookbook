@@ -9,12 +9,19 @@ tags = [
     "dinner",
     "lowcarb",
     "keto",
-    "roastedchicken"
+    "roastedchicken",
+    "food",
+    "foodie",
+    "thejamilghar"
 ]
 thumbnail= "images/PeruvianChicken.jpg"
 +++
 
 Servings: 4 <!--more-->
+
+Cook Time: 1 hour, 30 minutes
+
+Cuisine: Peruvian
 
 Adapted from: The Food Lab 
 
@@ -47,7 +54,7 @@ For the Chicken:
 
 For the Crema: 
 
-1. Combine the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice in a blender until smooth. Add olive oil and stir.
+1. Combine the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice into a blender until smooth. Add olive oil and stir.
 2. Season with salt and pepper, to taste.
 
 For the Chicken: 
@@ -55,9 +62,9 @@ For the Chicken:
 1. Adjust the oven rack to the upper-middle position and preheat the oven to 450 degrees. 
 2. Prepare a wire rack in a rimmed baking sheet lined with aluminum foil.  
 3. Dry the chicken thoroughly with a cloth. 
-4. Combine the cumin, paprika, garlic, vinegar, salt, pepper, and oil in a small bowl and mix well. 
+4. Combine the cumin, paprika, garlic, vinegar, salt, pepper, and oil into a small bowl and mix well. 
 5. Spread the mixture evenly over the whole chicken and under the skin.
-6. Place the chicken in the middle of the prepared wire rack and roast for about 35 to 45 minutes.
+6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with Serrano Crema and thinly sliced serrano chilis. 
+8. Garnish with the Serrano Crema and serrano chilis. 
 9. Serve with cilantro-lime rice. 
