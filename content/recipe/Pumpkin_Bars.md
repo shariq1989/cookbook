@@ -56,4 +56,4 @@ For the Cream Cheese Frosting:
 
 #### ABOUT THE MEAL 
 
-Let it be known, I am not a fan of pumpkin. Usually, I turn the other way when offered anything of the pumpkin variety. However, a few Christmases ago our sweet neighbor delivered a similar sweet treat and I gave it a try. She drew me in with that cream cheese frosting. Here is one pumpkin dessert that even pumpkin-haters like myself may enjoy. 
+Let it be known, I am not a fan of pumpkin. Usually, I turn the other way when offered anything of the pumpkin variety. However, a few Christmases ago our sweet neighbor delivered a pumpkin sweet treat like this and I gave it a try. She got me with that cream cheese frosting. So here is a pumpkin dessert that even pumpkin-haters like myself can enjoy. 
