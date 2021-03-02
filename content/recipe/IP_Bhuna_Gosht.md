@@ -1,5 +1,5 @@
 +++
-title = "Bhuna Gosht"
+title = "Bhuna Gosht- Pan Fried Goat"
 date = "2020-01-29"
 description = ""
 tags = [
