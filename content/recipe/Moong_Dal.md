@@ -1,5 +1,5 @@
 +++
-title = "Moong Dal"
+title = "Moong Dal-Yellow Lentil Soup"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -15,8 +15,6 @@ tags = [
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
-
-YELLOW LENTIL SOUP 
 
 Servings: 6-8 <!--more-->
 
