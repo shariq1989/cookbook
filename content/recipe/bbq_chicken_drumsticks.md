@@ -52,4 +52,3 @@ For the Chicken:
 6. Move the drumsticks to the cool side of the grill (rightmost burner that you turned off) and cook the skin-side up for 25 minutes.
 7. Flip the drumsticks and continue cooking, until the chicken has reached over 170 degrees, about 20-30 minutes. 
 8. Let the chicken rest for 10 minutes before serving.
-
