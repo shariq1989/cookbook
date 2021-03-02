@@ -26,7 +26,7 @@ Cuisine: Italian American
 * 1 lb Spicy ground Italian Sausage
 * 1 medium Yellow Onion, finely diced 
 * 4 Garlic Cloves, minced 
-* 1 tbsp Chicken Better than Bouillon and 4 cup water
+* 1 tbsp [Chicken Better than Bouillon](https://amzn.to/38081yU) and 4 cup water
 * 4 small Red Potatoes, quartered 
 * 6 slices of Nitrate-Free Bacon, crumbled
 * 2 cup Heavy Cream 
@@ -36,7 +36,7 @@ Cuisine: Italian American
 
 #### DIRECTIONS 
 
-1. In a dutch oven, cook the sausage over medium heat until it becomes brown and cooked through. Remove from heat and set aside to drain. 
+1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until it becomes brown and cooked through. Remove from heat and set aside to drain. 
 2. Next, cook the bacon in the same pan until it becomes crispy. Remove from heat and set aside to drain. 
 3. In the same oil, saute the onions and garlic over medium heat until then onions become translucent and soften. 
 4. Add 4 cups of water and 1 tbsp chicken flavored Better Than Bouillon to the cooked onions and then add in the sausage, bacon (crumble before adding), garlic, and potatoes. 
