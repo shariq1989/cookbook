@@ -31,13 +31,13 @@ Cuisine: American
 * 1 ⅛ tsp Sugar, divided
 * ⅛ tsp Red Pepper Flakes
 * 4 tsp Avocado Oil, divided
-* ½ cup Cilantro Leaves and Stems, chopped
+* ½ cup Cilantro Leaves, chopped
 * 1 tbsp Lime Juice, plus lime wedges to garnish
 * 3 tbsp Peanuts, coarsely chopped
 
 #### DIRECTIONS 
 
-1.Toss the shrimp and 1/4 tsp of salt in a bowl and set aside for 15 minutes.
+1. Toss the shrimp and 1/4 tsp of salt in a bowl and set aside for 15 minutes.
 2. Grind the peppercorns and coriander seeds until coarsely ground. Transfer to a small bowl and stir in the paprika, garlic, 1 teaspoon sugar, remaining ¼ teaspoon salt, and red pepper flakes.
 3. Pat the shrimp dry with a cloth to remove excess moisture. Add 1 tablespoon oil and the remaining 1/8 teaspoon sugar to the bowl with shrimp and toss to coat.
 4. In a large skillet, add the shrimp in a single layer and cook over high heat until the undersides of shrimp are spotty brown and the edges turn pink about 3 minutes.
