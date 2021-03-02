@@ -1,5 +1,5 @@
 +++
-title = "Kedjenou"
+title = "Kedjenou- Ivorian Lamb Stew"
 date = "2020-01-27"
 description = ""
 tags = [
@@ -14,8 +14,6 @@ tags = [
 ]
 #thumbnail= "images/kedjenou.jpg"
 +++
-
-IVORIAN LAMB STEW 
 
 Servings: 4-6 <!--more-->
 
