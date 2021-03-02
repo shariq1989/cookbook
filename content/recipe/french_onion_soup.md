@@ -37,7 +37,7 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 * ½ tsp Baking Powder 
 * Kosher Salt and Coarse Ground Pepper, to taste  
 * ½ cup Dry Sherry 
-* 2 qt Water and 2 tbsp Beef Flavored Better Than Bouillion 
+* 2 qt Water and 2 tbsp [Beef Better Than Bouillion](https://amzn.to/2Pk82Hf)
 * 2 Thyme Sprigs 
 * 1 Bay Leaf 
 * 1 tsp [Fish Sauce](https://amzn.to/3jMYZdj) 
