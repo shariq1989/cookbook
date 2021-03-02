@@ -17,7 +17,7 @@ tags = [
 thumbnail= "images/SaffronRice.jpg"
 +++
 
-Servings: 4-5 <!--more-->
+Servings: 5 <!--more-->
 
 Cook Time: 30 minutes 
 
@@ -37,7 +37,7 @@ Cuisine: Persian
 
 1. Rinse the rice until the water runs clear. Then soak for 20 minutes. Drain and rinse once more. 
 2. While waiting for the rice, add saffron to a small bowl. Using the back of a spoon, gently break down the stems into smaller pieces. Add boiling hot water or milk to the bowl (whichever you prefer), stir, and let it sit for 5 minutes. 
-3. Combine the rice, water, salt, and cardamom pods into the Instant Pot. Secure the lid and seal. Cook on manual for 5 minutes at high pressure.
+3. Combine the rice, water, salt, and cardamom pods into the [Instant Pot](https://amzn.to/37WzcdO). Secure the lid and seal. Cook on manual for 5 minutes at high pressure.
 4. Allow the Instant Pot to naturally release for 4 minutes before releasing the rest of the pressure. 
 5. Open the lid and pour the saffron mixture over the rice. Secure the lid once more and cook on manual high pressure for 1 minute with quick release. 
 6. Open the lid and layer tabs of butter overtop the rice. Cover with the lid, but do not seal. Let the rice sit until the butter infuses with the rice. 
@@ -46,4 +46,4 @@ Cuisine: Persian
 
 #### ABOUT THE MEAL 
 
-Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. While it's expensive, a little goes a long way. I tend to use ½ teaspoon of saffron for every 1 cup of rice as a rule of thumb. To bring out the floral fragrance of the saffron we encourage you to mix it with hot fluid, like water, or milk, to bring richness and flavor to the dish. 
+Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. While it's expensive, a little goes a long way. I tend to use ½ teaspoon of saffron for every 1 cup of rice as a rule of thumb. To bring out the floral fragrance of the saffron we encourage you to mix it with hot fluid, like water, or milk, to draw out the richness and flavor of the spice. 
