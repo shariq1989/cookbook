@@ -30,7 +30,7 @@ Adapted from: New York Times, Alison Roman
 
 #### INGREDIENTS 
 
-* 3 lbs Chicken Thighs, bone-in, skin-on
+* 3 lbs Chicken Thighs, bone-in and skin-on
 * 1 1/2 tsp Turmeric, ground 
 * 6 tbsp Olive Oil, divided
 * Kosher Salt and Pepper, to taste 
@@ -51,4 +51,4 @@ Adapted from: New York Times, Alison Roman
 
 #### ABOUT THE MEAL
 
-This recipe is inspired by Alison Roman’s Vinegar Chicken with Crushed Olive Dressing. Her recipe was so bright and flavorful that I wanted to create a version that worked for our family. Eat this chicken with or without the dressing, though we highly recommend the dressing. Either way, we know you will leave the table with a smile on your face. 
+This recipe is inspired by Alison Roman’s Vinegar Chicken with Crushed Olive Dressing. Her recipe was so bright and flavorful that I wanted to create a version that worked well for our family. You can eat this chicken with or without the dressing, though we highly recommend the dressing. Either way, you will leave the table with a smile on your face. 
