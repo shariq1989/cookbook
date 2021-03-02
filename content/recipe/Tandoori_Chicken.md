@@ -36,7 +36,7 @@ Cuisine: Indian, Pakistani
 * 1 tsp Cayenne Pepper
 * 1 tbsp [Garam Masala](https://amzn.to/3u0tvEX)
 * 1 tbsp Paprika
-* 1/2 tsp Red Food Powder, optional
+* 1/2 tsp [Red Food Powder](https://amzn.to/3b6L8vF), optional
 * 1 cup Plain Full-Fat Yogurt 
 * 2 tbsp Lemon Juice, plus lemon wedges to garnish
 * 2 tbsp Garlic and Ginger Paste 
