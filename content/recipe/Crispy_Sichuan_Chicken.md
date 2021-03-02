@@ -1,5 +1,5 @@
 +++
-title = "Chongqing Laziji"
+title = "Chongqing Laziji- Spicy Fried Chicken"
 date = "2021-02-13"
 description = ""
 tags = [
@@ -11,14 +11,19 @@ tags = [
     "Sichuanlizi",
     "Sichuan",
     "asian",
-    "spicy"
+    "spicy",
+    "food",
+    "foodie",
+    "thejamilghar"
 ]
 thumbnail= "images/SichuanChilli.jpg "
 +++
 
-SPICY FRIED CHICKEN
-
 Servings: 4 <!--more-->
+
+Cook Time: 40 minutes
+
+Cuisine: Chinese 
 
 #### INGREDIENTS 
 
