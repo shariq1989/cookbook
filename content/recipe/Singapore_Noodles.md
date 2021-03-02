@@ -35,7 +35,7 @@ Adapted from: Serious Eats, Shao Z.
 * ¼ lb. Shrimp, shelled, deveined, and rinsed under cold water
 * 2 tbsp, plus 4 tsp Canola Oil, divided
 * 2½ tsp [Fish Sauce](https://amzn.to/3jMYZdj), divided
-* 1 bundle Rice Stick Noodles 
+* 1 bundle [Rice Noodles](https://amzn.to/3dWFNsr)
 * 2 Garlic Cloves, minced
 * 1 tsp Soy Sauce
 * 1 tsp Rice Wine Vinegar
@@ -64,7 +64,7 @@ Adapted from: Serious Eats, Shao Z.
 
 #### ABOUT THE MEAL 
 
-It's not entirely clear where Singapore noodles originate, but many sources say Hong Kong, despite its name. Regardless, what I love about this dish is that the flavors have been heavily influenced by so many people groups: The Cantonese and British, as well as the Indo-Chinese cuisine made popular in Singapore. 
+It's not entirely clear where Singapore noodles originate, but many sources say Hong Kong, despite its name. Regardless, what I love about this dish is that the flavors have been heavily influenced by so many different people groups: The Cantonese and British, as well as the Indo-Chinese flavors made popular by Singapore. 
 
-This is another dish we tried at a restaurant for the first time and decided we needed to find a way to make it at home. While the traditional dish includes flavorful fried fried pork, we remove it from our recipe so that my husband's parents could enjoy the dish with us. Feel free to add fried pork to yours if you want a version of this dish that is closer to the way it is made in other countries. 
+This is another dish we tried at a restaurant for the first time and decided we needed to find a way to make it at home. While the traditional dish includes flavorful fried fried pork slices, we removed it from our recipe so my husband's parents could enjoy the dish with us. We did not miss it with all of that shrimp and curry flavor though. Feel free to add fried pork to yours if you want a version of this dish that is closer to the way it is made in other countries. 
  
