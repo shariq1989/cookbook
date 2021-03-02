@@ -1,5 +1,5 @@
 +++
-title = "Beef Qeema"
+title = "Beef Qeema- Spiced Minced Beef"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -14,8 +14,6 @@ tags = [
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
-
-SPICED MINCED BEEF 
 
 Servings: 6 <!--more-->
 
