@@ -18,6 +18,12 @@ thumbnail= "images/orangechicken.jpg "
 
 Servings: 4-5 <!--more-->
 
+Marinating Time: 40 minutes 
+
+Cook Time: 40 minutes
+
+Cuisine: Chinese American
+
 #### INGREDIENTS 
 
 For the Marinade:
