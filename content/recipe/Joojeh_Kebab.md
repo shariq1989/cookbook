@@ -1,5 +1,5 @@
 +++
-title = "Joojeh Kebab"
+title = "Joojeh Kebab- Grilled Chicken Kebab"
 date = "2021-02-28"
 description = ""
 tags = [
@@ -18,11 +18,9 @@ tags = [
 thumbnail= "images/joojehkabon.jpg"
 +++
 
-GRILLED CHICKEN KABOBS
-
 Servings: 3-4 <!--more-->
 
-Preparation Time: 10 minutes 
+Cook Time: 10 minutes 
 
 Marinating Time: 24 hours
 
@@ -42,7 +40,7 @@ For the Marinade:
 
 For the Kabob: 
 
-* 3-4 small Tomatoes, cut in half 
+* 3-4 small Tomatoes, whole 
 * 3-4 small Red Onions, cut in half  
 * 3-4 Mini Peppers, whole 
 * 2-3 Serrano Peppers, whole 
@@ -56,7 +54,7 @@ For the Marinade:
 2. Next, add the onion slices, lemon juice, saffron, salt, and pepper to the bowl. Toss to coat, ensuring all chicken pieces take on the rich saffron color. Then stir in the olive oil to combine.
 4. Cover the bowl and allow the chicken to marinate in the refrigerator for 24 hours. Remove the chicken from the refrigerator 30 minutes before grilling. 
 
-For the Kabob: 
+For the Kebab: 
 
 1. Prepare the grill by removing the grate and setting it to high heat. 
 2. Using narrow skewers, skewer the tomatoes, onions, peppers, and serrano. Brush them lightly with olive oil and season with salt and pepper, to taste. 
@@ -67,4 +65,4 @@ For the Kabob:
 
 #### ABOUT THE MEAL
 
-After eating at a Persian restaurant in San Diego for our daughter's first birthday several years ago, we have been attempting to make a joojeh kabob that does that one justice. We are always making adjustments to our dishes, but this one is pretty close to the one we had and so very delicious.  
+After eating at a Persian restaurant for our daughter's first birthday several years ago, we have attempted to make a joojeh kebab recipe that does theirs justice. While we will never reach their level of expertise, this version of the popular dish is absolutely delicious. 
