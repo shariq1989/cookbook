@@ -83,7 +83,7 @@ You will need an Instant Pot, though you could easily make it on the stovetop wi
 
 #### Is French onion soup vegetarian? Is French onion soup vegan? 
 
-Made traditionally, no. However, you can make some easy substitutions that won't take away from the classic flavor of the soup: 
+Made traditionally, no. However, you can make these easy substitutions that won't take away from the classic flavor of the soup: 
 
 * Butter: Use olive oil or vegan butter to caramelize the onions. 
 
