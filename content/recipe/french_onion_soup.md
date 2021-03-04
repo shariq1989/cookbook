@@ -77,6 +77,10 @@ French onion soup is a timeless classic and also happens to be on my list of my 
 
 * Cheese: The classic choice is Gruyere and I personally do not deviate from that. It is the more expensive alternative, but so worth it when making this soup. However, if you're looking for a more budget-friendly cheese, you can substitute it with swiss, asiago, or parmesan.
 
+#### What equiptment do I need to make this recipe? 
+
+You will need an Instant Pot, though you could easily make it on the stovetop with longer cook-times. You will also need 4 oven-safe bowls and a rimmed baking sheet to set them on. 
+
 #### Is French onion soup vegetarian? Is French onion soup vegan? 
 
 Made traditionally, no. However, you can make some easy substitutions that won't take away from the classic flavor of the soup: 
