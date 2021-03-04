@@ -65,27 +65,31 @@ To Serve:
 
 #### ABOUT THE MEAL
 
-French onion soup is a timeless classic and also happens to be on the list of my favorite comfort foods. It's the perfect meal for those chilly days that make you want to curl up with a warm bowl of soup. 
+French onion soup is a timeless classic and also happens to be on my list of my favorite comfort foods. It's the perfect meal for those chilly days that make you want to curl up with a warm bowl of soup. 
 
 #### What main ingredients are needed for this meal? 
 
-* Onions: You can use any onion, but I highly recommend using the Vidalia variety. I prefer the sweetness they release and the ease with which they caramelize. Classically, French onion soup is made with yellow onion. 
+* Onions: You can use any onion for this soup, but I highly recommend using the Vidalia variety. I prefer the sweetness they release and the ease with which they caramelize. Classically, French onion soup is made with thinly sliced yellow onions. 
 
-* Butter: This is the testiest and most French way to carmelize your onions. Because caramelization is the most important step in building the flavor of French onion soup, I encourage you to splurge for higher quality butter like Kerrygold. You won't regret it. 
+* Butter: This is the tastiest and most French way to carmelize your onions. Because caramelization is the most important step in building the flavor of French onion soup, I encourage you to splurge for higher quality butter, like Kerrygold. You won't regret it. 
 
-* Bread: Again, you can use any bread, but I recommended slicing up a delicious baguette, buttering that thing up, and using it to top your soup. 
+* Bread: Again, you can use any bread, but I recommended slicing up a delicious baguette, buttering that thing up, rubbing it with a garlic clove, and using that to top your soup. 
 
-* Cheese: The classic choice for French onion soup is Gruyere and I do not deviate from that. However, you could substitute asiago or parmesan.
+* Cheese: The classic choice is Gruyere and I personally do not deviate from that. It is the more expensive alternative, but so worth it when making this soup. However, if you're looking for a more budget-friendly cheese, you can substitute it with swiss, asiago, or parmesan.
 
 #### Is French onion soup vegetarian? Is French onion soup vegan? 
 
-Made the traditional way, no. However, you can make some easy substitutions that will not take away the classic flavor of the soup: 
+Made traditionally, no. However, you can make some easy substitutions that won't take away from the classic flavor of the soup: 
 
-* Butter: Use olive oil or vegan butter to caramelize the onions instead. 
+* Butter: Use olive oil or vegan butter to caramelize the onions. 
+
 * Beef Broth: Substitute with a vegetarian broth. I highly recommend using a mushroom-based broth or the vegetable flavored Better than Bouillion. 
-* Fish Sauce: You can use either Worcestershire or marmite. 
-* Cheese: If making vegan, reach for a block of vegan cheese and use that to top the soup. 
+
+* Fish Sauce: You can use either Worcestershire sauce or marmite. 
+
+* Cheese: If making vegan, reach for a block of vegan cheese and use that instead. 
 
 #### Can I freeze French onion soup? 
-Yes, you sure can. First, let the soup completely cool, then add it to a freezer-safe container. It's as easy as that and it can freeze for up to 3 months. When you're ready to at, pull it out of the freezer and let it defrost in the refrigerator overnight. When you're ready to serve, warm up the soup on a stovetop and skip to the, to serve, part of the instructions. 
+
+Yes, you sure can. First, let the soup completely cool, then add it to a freezer-safe container. It's as easy as that and it can freeze for up to 3 months. When you're ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and skip to the, to serve, part of our instructions. 
 
