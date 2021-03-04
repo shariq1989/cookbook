@@ -33,7 +33,7 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 
 * 4 tbsp [Unsalted Butter](https://amzn.to/2NK7WbO), plus more for the baguette slices
 * 4 small Baguette slices
-* 3 lb Sweet Onion, very thinly sliced, about 5-6 large onions
+* 3 lb Vadalia Onion, very thinly sliced, about 5-6 large onions
 * ½ tsp Baking Powder 
 * Kosher Salt and Coarse Ground Pepper, to taste  
 * ½ cup Dry Sherry 
@@ -41,30 +41,49 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 * 2 Thyme Sprigs 
 * 1 Bay Leaf 
 * 1 tsp [Fish Sauce](https://amzn.to/3jMYZdj) 
-* 1 medium Garlic Clove, punctured
+* 1 medium Garlic Clove, punctured, for the toast
 * 1 lb [Gruyere Cheese](https://amzn.to/3aZfe2E), grated 
 
 #### INSTRUCTIONS 
 
 For the Soup:  
 
-1. Melt the butter in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the onions and baking powder, stir to combine. Season with salt and pepper. Cook, stirring, until onions soften and begin to release liquid, about 3 minutes. 
-2. Seal the Instant Pot lid and cook on high pressure for 20 minutes with a quick release. 
-3. Continue cooking with the lid off, stirring constantly, until the liquid inside is reduced and the onions become brown and sticky, about 5 minutes.
+1. Melt the butter in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the onions and baking powder, stir to combine. Season with salt and pepper. Cook, stirring, until onions soften and release liquid, about 3 minutes. 
+2. Seal the Instant Pot lid and cook on manual high pressure for 20 minutes with a quick release. 
+3. Continue cooking with the lid off, stirring constantly, until the liquid inside reduces and the onions become brown and sticky about 5 minutes.
 4. Add the sherry and bring the mixture to a simmer, scraping up any brown bits left behind by the onion. Cook until the alcohol smell is mostly gone, about 3 minutes.
-5. Next, add the water and Better Than Bouillion, thyme sprigs, and bay leaf. Bring to a simmer for 10 minutes.
+5. Next, add the water, Better Than Bouillion, thyme sprigs, and bay leaf. Bring to a simmer for 10 minutes.
 6. Stir in the fish sauce and season with salt and pepper, to taste. Discard thyme sprigs and bay leaf before serving.
 
 To Serve: 
 
-1. Move the oven rack to the top position and preheat the broiler to high.  
-2. Butter the baguette slices and rub them with the garlic clove until fragrant. 
+1. Move the oven rack to the top position and preheat the broiler on high.  
+2. Butter the baguette slices and rub them with the punctured garlic clove. 
 3. Spoon broth into the bottom of 4 oven-safe bowls, sprinkle with Gruyère, and then top with the baguette slices. Spoon a bit more broth overtop. 
-4. Cover with the remaining Gruyère and set bowls onto a rimmed baking sheet. 
-5. Broil the soup until the cheese is melted and brown spots begin to appear, if you can wait that long.  
+4. Cover with the remaining Gruyère and set bowls onto a rimmed baking sheet. Place the sheet into the oven.
+5. Broil until the cheese is melted and brown spots begin to appear if you can wait that long. I usually cannot.   
 
 #### ABOUT THE MEAL
 
-French Onion Soup is a timeless classic and also happens to be one of my go-to comfort foods. It's a perfect meal for those cold and snowy days, which are common here in Colorado during the winter. You can use any onions for this soup, but I recommend using sweet onions because of the flavor they release and the ease with which they caramelize. 
+French onion soup is a timeless classic and also happens to be on the list of my favorite comfort foods. It's the perfect meal for those chilly days that make you want to curl up with a warm bowl of soup. 
 
-By the way, did I tell you about that one time I saved a little girl's life from a flying bowl of steaming hot french onion soup? I may have received some second-degree burns to my forearm by jumping in front of her, but I sure felt like a superhero that day. I think about this every time I make french onion soup.
+WHAT MAIN INGREDIENTS ARE NEEDED FOR THIS DISH? 
+Onions: You can use any onion, but I highly recommend using the Vidalia variety. I prefer the sweetness they release and the ease with which they caramelize. Classically, French onion soup is made with yellow onion. 
+
+Butter: This is the testiest and most French way to carmelize your onions. Because caramelization is the most important step in building the flavor of French onion soup, I encourage you to splurge for higher quality butter like Kerrygold. You won't regret it. 
+
+Bread: Again, you can use any bread, but I recommended slicing up a delicious baguette, buttering that thing up, and using it to top your soup. 
+
+Cheese: The classic choice for French onion soup is Gruyere and I do not deviate from that. However, you could substitute asiago or parmesan.
+
+IS FRENCH ONION SOUP VEGETARIAN? IS FRENCH ONION SOUP VEGAN? 
+Made the traditional way, no. However, you can make some easy substitutions that will not take away the classic flavor of the soup: 
+
+Butter: Use olive oil or vegan butter to caramelize the onions instead. 
+Beef Brother: Substitute with a vegetarian broth. I highly recommend using a mushroom-based broth or the vegetable flavored Better than Bouillion. 
+Fish Sauce: You can use either Worcestershire or marmite. 
+Cheese: If making vegan, reach for a block of vegan cheese and use that to top the soup. 
+
+CAN I FREEZE FRENCH ONION SOUP? 
+Yes, you sure can. First, let the soup completely cool, then add it to a freezer-safe container. It's as easy as that and it can freeze for up to 3 months. When you're ready to at, pull it out of the freezer and let it defrost in the refrigerator overnight. When you're ready to serve, warm up the soup on a stovetop and skip to the, to serve, part of the instructions. 
+
