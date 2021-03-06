@@ -10,7 +10,10 @@ tags = [
     "stew",
     "instantpot",
     "chiliconcarne",
-    "chili"
+    "chili",
+    "texas",
+    "soup",
+    "thejamilghar"
 ]
 thumbnail= "images/IMG_20210305_131905_151.jpg"
 +++
