@@ -23,9 +23,9 @@ Cuisine: American
 
 #### INGREDIENTS 
 
-* 2 Arbol Chilis, dried 
-* 2 Ancho Chilis, dried
-* 1 can Chipotles En Adobo, use only 2 chilis and 2 tbsp chipotle sauce 
+* 2 [Arbol Chilis](https://amzn.to/3c4M7M9), dried 
+* 2 [Ancho Chilis](https://amzn.to/2PGeg4A), dried
+* 1 can [Chipotles En Adobo](https://amzn.to/3cc1y5j), use only 2 chilis and 2 tbsp chipotle sauce 
 * 2 qt Chicken Broth  
 * 4 lb Beef Chuck, cut into 1-inch pieces. 
 * 2 tbsp Olive Oil 
