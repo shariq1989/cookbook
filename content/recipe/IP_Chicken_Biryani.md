@@ -47,8 +47,7 @@ For the Biryani:
 * 1 Star Anise
 * 2 tsp Kosher Salt 
 * 3 cup Long-Grain Basmati Rice, pre-soaked and divided. 
-* Optional: 2-3 Thai Green Chilis
-* Lime wedges for garnish
+* Optional: 2-3 Thai Green Chilis, to serve 
 
 #### DIRECTIONS 
 
@@ -63,9 +62,10 @@ For the Biryani:
 9. Garnish the dish with the reserved fried onion, cilantro, and lime wedges. Serve with [raita](https://www.jamilghar.com/recipe/raita/) and enjoy. 
 
 
-#### THE STORY BEHIND THE MEAL
+#### ABOUT THE MEAL
 
 Craving biryani, but don't have all day to make it? Reach for this quick and easy biryani recipe. You still get all the flavor and brightness of this popular dish, but you cut the cook time in half. 
 
-Quick Note About the Recipe- If you're in a hurry, you don't need to seperate the rice into a rice cooker. This is just a personal preference for our family. If you wanted to combine all of the rice into the Instant Pot, do step #7, but add all of the rice, plus three cups of water to the Instant Pot before cooking. Here is why I like to reserve some rice seperatelY: Because this recipe is made in an Instant Pot, the rice at the bottom can end up a bit mushy so I like to counteract that by reserving rice that is light and fluffy because that is what Shariq grew up with and tends to appreciate more. 
-Tressa
+#### Why do I separate the rice in this recipe? 
+
+Since this biryani is made in an Instant Pot, the rice at the bottom can end up a bit sticky so I like to counteract that by reserving rice that is both light and fluffy to mix with it, since that is what Shariq grew up with and tends to appreciate more. If you're in a hurry, you don't need to separate the rice into a rice cooker. If you decide to do this, simply add all of the rice into the Instant Pot and do step #7, but be sure to add all three cups of water to the Instant Pot before cooking. 
