@@ -43,7 +43,7 @@ For the Tadka:
 
 #### DIRECTIONS 
 
-1. Set an Instant Pot to saute mode and warm the ghee. 
+1. Set an [Instant Pot](https://amzn.to/3qfNYCZ) to saute mode and warm the ghee. 
 2. Add the boriya chili, cumin seed, mustard seed, and curry leaves. 
 3. Once the ingredients begin to sputter, add the onion and green chilis. Fry, stirring regularly, until the onions brown, not burned or charred. Reserve half of the onion mixture and set aside at room temperature. 
 4. Add the ginger, garlic, turmeric, chili powder, and garam masala to the Instant Pot, give it a quick stir, and then add the tomatoes. Let the mixture simmer, about 2 minutes. 

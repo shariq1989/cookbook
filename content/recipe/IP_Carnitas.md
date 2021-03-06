@@ -48,7 +48,7 @@ To Serve:
 
 1. In a small bowl, combine salt, cumin, ancho chili, and black pepper to create a rub. 
 2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Add rub mixture to the meat. 
-3. Heat the oil on saute mode in an Instant Pot. Add the meat and let it cook until it begins to brown, about 5 minutes. Repeat . 
+3. Heat the oil on saute mode in an [Instant Pot](https://amzn.to/3qfNYCZ). Add the meat and let it cook until it begins to brown, about 5 minutes. Repeat . 
 4. Place all of the meat back into the Instant Pot along with the onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps). 
 5. Cook on High Pressure for 40 minutes and allow 20 minutes natural release. 
 6. Shred meat and spread onto a rimmed baking sheet. 

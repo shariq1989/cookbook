@@ -71,7 +71,7 @@ French onion soup is a timeless classic and also happens to be on my list of my 
 
 * Onions: You can use any onion for this soup, but I highly recommend using the Vidalia variety. I prefer the sweetness they release and the ease with which they caramelize. Classically, French onion soup is made with thinly sliced yellow onions. 
 
-* Butter: This is the tastiest and most French way to carmelize your onions. Because caramelization is the most important step in building the flavor of French onion soup, I encourage you to splurge for higher quality butter, like Kerrygold. You won't regret it. 
+* Butter: This is the tastiest and most French way to carmelize your onions. Because caramelization is the most important step in building the flavor of French onion soup, I encourage you to splurge for higher quality butter, like [Kerrygold](https://amzn.to/3c5Q433). You won't regret it. 
 
 * Bread: Again, you can use any bread, but I recommended slicing up a delicious baguette, buttering that thing up, rubbing it with a garlic clove, and using that to top your soup. 
 

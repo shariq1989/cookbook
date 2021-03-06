@@ -43,7 +43,7 @@ For the Ranch Dressing:
 #### DIRECTIONS 
 
 1. In a small bowl, mix the flour, salt, and pepper. Rub the roast with the mixture, massaging it in.
-2. Add oil to an Instant Pot on saute mode until it begins to smoke. Add the roast and brown the meat on all sides, 4-5 minutes per side to create a crust.
+2. Add oil to an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. Add the roast and brown the meat on all sides, 4-5 minutes per side to create a crust.
 3. Add butter and pepperoncinis and place the lid on the pot- do not seal. Let it cook for 5 minutes.
 4. Prepare the ranch dressing. Combine the mayonnaise, vinegar, dill, and paprika in a small bowl and whisk to emulsify.
 5. Remove the lid and add the dressing, carrots, and onions. Secure the lid and set the Instant Pot to high pressure, cook for 70 minutes with a quick release. (This is for high elevation. You can reduce the cooking time for lower elevation). Let it rest, about 5 minutes.

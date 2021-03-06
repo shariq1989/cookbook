@@ -50,7 +50,7 @@ For Whole Spices:
 
 #### DIRECTIONS 
 
-1. To begin, wash the goat and add it to an Instant Pot with 1 cup water and 1 tsp of salt. Cook on high pressure for 40 minutes with a quick release (This cook time is for high-elevation. You can reduce cooking time for lower elevation).
+1. To begin, wash the goat and add it to an [Instant Pot](https://amzn.to/3qfNYCZ) with 1 cup water and 1 tsp of salt. Cook on high pressure for 40 minutes with a quick release (This cook time is for high-elevation. You can reduce cooking time for lower elevation).
 2. Gather the whole spices and stir in the nutmeg, set aside.
 3. While meat is cooking, heat ghee (1/3 cup) in a heavy-bottomed pan and add whole spices until they begin to crackle.
 4. Add garlic cloves and ginger slices. Saute until golden.

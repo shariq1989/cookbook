@@ -44,7 +44,7 @@ Adapted from: Serious Eats, Daniel Gritzer
 #### DIRECTIONS 
 
 1. Season the short ribs with salt and pepper. 
-2. Heat the oil in an Instant Pot on saute mode until smoking. 
+2. Heat the oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until smoking. 
 3. Add a layer of the meat and brown, repeat until all the beef has had a chance to brown. Set meat aside. 
 4. Next, add the carrots, celery, and onion. Cook until they have browned. 
 5. Combine the marmite or fish sauce, soy sauce, worcestershire, and tomato paste into the Instant Pot. Cook until fragrant. 

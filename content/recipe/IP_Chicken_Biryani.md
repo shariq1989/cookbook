@@ -54,7 +54,7 @@ For the Biryani:
 
 1. In a large bowl, mix the ingredients for the paste. Stir in the chicken, coat evenly, and then refrigerate, 30 minutes. 
 2. Wash and soak the rice in water and set aside, 20 minutes. 
-3. Warm the ghee (2 tbsp) in an Instant Pot using saute mode. Add the onion, stirring frequently, until the onions brown (not burn or charr). Remove half the onion and set aside for garnish. Then add the cumin seeds, cardomom pods, and star anise, cook for 30 seconds. 
+3. Warm the ghee (2 tbsp) in an [Instant Pot](https://amzn.to/3qfNYCZ) using saute mode. Add the onion, stirring frequently, until the onions brown (not burn or charr). Remove half the onion and set aside for garnish. Then add the cumin seeds, cardomom pods, and star anise, cook for 30 seconds. 
 4. Add the chicken and all of the remaining paste to the Instant Pot. Allow the mixture to fry for 3 minutes. 
 5. Press "Cancel" on the Instant Pot and add the remaining ghee, bay leaves, and Thai chilis, if using.
 6. Secure the lid and cook on high pressure for 4 minutes with a quick release. 

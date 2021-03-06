@@ -52,7 +52,7 @@ To Serve:
   
 #### DIRECTIONS 
 
-1. Heat the oil in an [Instant Pot]( on saute mode until it begins to smoke. 
+1. Heat the oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. 
 2. Add a layer of pork to the bottom of the pan and let it brown, 3-4 minutes. Repeat this until all the meat has had a chance to brown. Set aside. 
 3. Next, add the onions to the Instant Pot and cook until they become translucent and soften. 
 4. Combine the remaining ingredients into the Instant Pot, along with the meat. Seal the lid and cook on high pressure for 50 minutes with a quick release. (This cooking time is for high-elevation. Reduce the cooking time for lower elevation). 

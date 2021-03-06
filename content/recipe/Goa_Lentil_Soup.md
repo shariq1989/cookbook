@@ -39,7 +39,7 @@ Adapted from: Milkstreet
 * Lime Wedges for garnish
 
 #### DIRECTIONS 
-1. In a large skillet, (or Instant Pot), combine oil, onion, garlic, and kosher salt on medium heat (saute in Instant Pot) until onions become translucent and soften. 
+1. In a large skillet, (or [Instant Pot](https://amzn.to/3qfNYCZ)), combine oil, onion, garlic, and kosher salt on medium heat (saute in Instant Pot) until onions become translucent and soften. 
 2. Stir in half of the ginger half, mustard seed, turmeric, coriander, fennel, and chilis. Stir for 1 minute. 
 3. Add water, coconut milk, and lentils. Bring to a boil (Leave on saute until it begins to boil in the Instant Pot).
 4. Cover and reduce heat. Cook for 30-40 minutes (Set to high pressure for 15 minutes in the Instant Pot).  

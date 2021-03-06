@@ -49,7 +49,7 @@ For Garnish
   
 #### DIRECTIONS 
 
-1. Add the chilis to an Instant Pot and cook until blistered, 1 minute.  
+1. Add the chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook until blistered, 1 minute.  
 2. Remove the chilis and add them to a blender along with the chicken broth, mix thoroughly. 
 3. Season the chuck with salt and pepper. 
 4. Oil the Instant Pot and add a layer of the chuck. Allow it to sear and form a crust. Repeat until all the meat has had a chance to brown. Set meat aside. 

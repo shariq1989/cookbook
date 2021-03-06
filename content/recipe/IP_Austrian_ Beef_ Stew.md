@@ -42,7 +42,7 @@ Adapted from: Milkstreet
 
 1. Season the beef with 1 tbsp sweet paprika, 2 tsp salt, 1 tsp pepper. Toss the meat to coat and set aside. 
 2. Mix the broth and tomato paste in a small bowl. 
-3. In an Instant Pot, melt the butter on saute mode. Add the onion and 1 tsp salt. Cook until onions become translucent and soften. 
+3. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter on saute mode. Add the onion and 1 tsp salt. Cook until onions become translucent and soften. 
 4. Stir in the caraway seeds and flour, cooking until flour browns. 
 5. Add the hot paprika and remaining 5 tbsp of sweet paprika. Cook until fragrant. 
 6. Slowly whisk in the broth mixture and bring it to a simmer, stirring frequently. 
