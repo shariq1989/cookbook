@@ -40,7 +40,7 @@ For the Paste:
 For the Biryani: 
 
 * 3 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
-* 2 Purple Onion, thinly sliced, divided
+* 2 Red Onion, thinly sliced, divided
 * 2 Bay Leaves
 * 1 tbsp Cumin Seeds
 * 5 Green Cardomom Pods
