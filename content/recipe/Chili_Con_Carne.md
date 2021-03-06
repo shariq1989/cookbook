@@ -57,7 +57,7 @@ For the Toppings
 #### DIRECTIONS 
 
 1. Add the dried chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
-2. Remove the chilis and add them to a blender along with the chicken broth, mix thoroughly. Set aside.
+2. Remove the chilis and add them to a blender along with the chicken broth. Add the 2 chipotle chilis and 2 tbsp sauce. Mix thoroughly. Set aside.
 3. Season the chuck with salt and pepper. 
 4. Add oil to the Instant Pot and then add a layer of the chuck. Allow it to sear and form a crust. Repeat until all the meat has had a chance to brown. Set the meat aside. 
 5. Add onions to the oil and cook until they become translucent and soften.
