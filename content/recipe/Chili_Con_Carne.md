@@ -57,13 +57,13 @@ For the Toppings
 #### DIRECTIONS 
 
 1. Add the dried chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
-2. Remove the chilis and add them to a blender along with the chicken broth. Add the 2 chipotle chilis and 2 tbsp sauce. Mix thoroughly. Set aside.
+2. Remove the chilis and add them to a blender along with the chicken broth. Add the 2 chipotle chilis and 2 tbsp sauce. Mix thoroughly and set aside.
 3. Season the chuck with salt and pepper. 
 4. Add oil to the Instant Pot and then add a layer of the chuck. Allow it to sear and form a crust. Repeat until all the meat has had a chance to brown. Set the meat aside. 
 5. Add onions to the oil and cook until they become translucent and soften.
 6. Next, add the garlic, cinnamon, cumin, allspice, and oregano. Stir to combine and cook until it becomes fragrant about 1-2 minutes.  
 7. Add the reserved meat and blender chili puree, along with the Worcestershire sauce, apple cider vinegar, fish sauce, black beans, and tomato paste to the Instant Pot. 
-8. Secure the lid and cook on manual high pressure for 40 minutes (this cooking time is for high elevation. You can reduce the cooking time for lower elevation). 
+8. Secure the lid and cook on manual high pressure for 40 minutes (this cooking time is for high  elevation. You can reduce the cooking time for lower elevation). 
 9. Serve as a stew and top with onion, cilantro, cheese, and avocado. Warm corn tortillas are always a nice touch. 
 
 
