@@ -75,9 +75,9 @@ After experimenting with different ingredients, we selected beef chuck with the 
 
 #### What is chili con carne traditionally served with? 
 
-Again, this depends on who you ask because like the dish itself, this too is highly debated. We like to top our chili con carne with fresh onion, shredded cheese, cilantro, avocado, and thinly sliced serrano chilis. We enjoy ours as a stew served with warm corn tortillas. 
+Again, this depends on who you ask, because like the dish itself, this too is highly debated. We enjoy our chili con carne as a stew and top it with fresh onion, shredded cheese, cilantro, avocado, and thinly sliced serrano chilis. We complete the meal by serving it with warm corn tortillas. 
 
-You could pretty much serve this however you would like. You can serve it as a stew with the toppings I suggested. You can pair it with corn tortillas like we do or tortilla chips, flour tortillas, or cornbread. This is the Texas state dish after all. I have also seen people serve their chili con carne over rice and macaroni noodles. The moral of the story is, get creative and adjust the meal to your family's preferences. Either way, it's going to be delicious.  
+But honestly, you could pretty much serve this however you would like. It can be eaten as a stew with the toppings I suggested. You can pair it with corn tortillas like we do or tortilla chips, flour tortillas, and even cornbread. This is the Texas state dish after all. I have also seen chili con carne served over rice or macaroni noodles. The moral of the story is, get creative and adjust the meal to your family's preferences. Either way, it's going to be delicious.  
 
 #### Can I freeze chili con carne?
 
