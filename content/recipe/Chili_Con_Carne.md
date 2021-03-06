@@ -40,6 +40,7 @@ Cuisine: American
 * 2- 15 oz cans of Black Beans, drained and rinsed 
 * 1 tsp Worcestershire Sauce 
 * ½ can of Tomato Paste
+* Corn Tortillas, warmed 
 
 For the Toppings
 
@@ -47,7 +48,7 @@ For the Toppings
 * 1 Cilantro, chopped
 * 2 cups Shredded Cheese
 * 1 Avocado, cubed 
-* Corn Tortillas, warmed 
+* 1 Serrano Chili, thinly sliced
 
   
 #### DIRECTIONS 
