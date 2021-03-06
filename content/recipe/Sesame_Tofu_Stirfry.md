@@ -29,7 +29,7 @@ Cuisine: Chinese American
 * 1 package Mushroom of your choice, quartered 
 * 8 Scallions, sliced, whites and greens separated
 * 3 Garlic Cloves, minced
-* 2-5 Arbol Chilis, dried, depending on your desired spice
+* 2-5 [Arbol Chilis](https://amzn.to/3c4M7M9), dried, depending on your desired spice
 * 4 tbsp Sesame Oil
 * 3 tbsp Soy Sauce 
 * 1 tbsp Rice Wine Vinegar 

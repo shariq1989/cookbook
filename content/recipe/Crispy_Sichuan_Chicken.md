@@ -48,7 +48,7 @@ For the Dish:
 * 1 tbsp Chili Oil 
 * 1 tbsp Canola Oil
 * 1 tsp Sichuan Chilis, dried
-* 1 cup Red Arbol Chilis, dried
+* 1 cup Red [Arbol Chilis](https://amzn.to/3c4M7M9), dried
 * 1-inch Fresh Ginger, peeled and julienne
 * 4 Garlic Cloves, julienne
 * 1/2 tsp Sugar 

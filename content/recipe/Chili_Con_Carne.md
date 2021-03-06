@@ -69,7 +69,7 @@ For the Toppings
 
 #### ABOUT THE MEAL 
 
-What does chili con carne mean? The literal translation is, "chili with meat." Despite the spanish name, this dish is the epitome of Tex-Mex cuisine, even holding the title as the official state food of Texas. It is also at the center of many heated debates, over which meat should be used and whether it should have beans or not. Depending on who you ask, you will get a different answer. 
+What does chili con carne mean? The literal translation is, "chili with meat." Despite the Spanish name, this dish is the epitome of Tex-Mex cuisine, even holding the title as the official state food of Texas. It is also at the center of many heated debates, over which meat should be used and whether it should have beans or not. Depending on who you ask, you will get a different answer. 
 
 For the Jamily family version, we settled on using a beef chuck. You seriously don't want to miss out on the tenderness of the meat after it cooks in all of these ingredients. You don't. I also think the chuck brings an added heartiness to the dish that is missing with other meat selections. We also decided to add black beans and we haven't looked back. The real star of the dish in my opinion, however, is the variation of chilis used. They bring a delicious flavor profile without being too spicy for those who otherwise cannot handle too much spice.   
 
