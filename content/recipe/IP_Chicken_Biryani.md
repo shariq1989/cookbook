@@ -66,6 +66,12 @@ For the Biryani:
 
 Craving biryani, but don't have all day to make it? Reach for this quick and easy biryani recipe. You still get all the flavor and brightness of this popular dish, but you cut the cook time in half. 
 
+
+#### Where does biryani orginate? 
+
+The word “biryani” is derived from the Persian word, “birian” which means, “fried before cooking.” Makes sense. As a result, many historians believe this delicious dish originated in Persia. So how did this popular meal among Indians and Pakistanis actually arrive in India? Like other famous dishes, biryani was first introduced to North India by the Mughals. They were also the ones credited for bringing pilau and kebabs, and thank goodness for that. 
+
 #### Why do I separate the rice in this recipe? 
 
 Since this biryani is made in an Instant Pot, the rice at the bottom can end up a bit sticky so I like to counteract that by reserving rice that is both light and fluffy to mix with it, since that is what Shariq grew up with and tends to appreciate more. If you're in a hurry, you don't need to separate the rice into a rice cooker. If you decide to do this, simply add all of the rice into the Instant Pot and do step #7, but be sure to add all three cups of water to the Instant Pot before cooking. 
+
