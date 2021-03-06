@@ -7,7 +7,10 @@ tags = [
     "lunch",
     "dinner",
     "tex-mex",
-    "stew"
+    "stew",
+    "instantpot",
+    "chiliconcarne",
+    "chili"
 ]
 thumbnail= "images/IMG_20210305_131905_151.jpg"
 +++
