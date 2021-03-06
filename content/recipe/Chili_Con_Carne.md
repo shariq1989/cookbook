@@ -81,7 +81,7 @@ But honestly, you could pretty much serve this however you would like. It can be
 
 #### Can I freeze chili con carne?
 
-Yes, you sure can. First, let it completely cool, then add it to a freezer-safe container. It’s as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and prepare all your toppings. 
+You sure can. First, let it completely cool, then add it to a freezer-safe container. It’s as easy as that and it can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and prepare all your toppings. 
 
 #### Is chili con carne keto or low-carb?
 
