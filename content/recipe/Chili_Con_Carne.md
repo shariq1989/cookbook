@@ -15,17 +15,17 @@ tags = [
 thumbnail= "images/IMG_20210305_131905_151.jpg"
 +++
 
-Servings: 6-8 <!--more-->
+Servings: 8 <!--more-->
 
-Preparation Time: 45 minutes
+Total Cook Time: 45 minutes
 
 Cuisine: American
 
 #### INGREDIENTS 
 
-* 2 [Arbol Chilis](https://amzn.to/3c4M7M9), dried 
-* 2 [Ancho Chilis](https://amzn.to/2PGeg4A), dried
-* 1 can [Chipotles En Adobo](https://amzn.to/3cc1y5j), use only 2 chilis and 2 tbsp chipotle sauce 
+* 2 Arbol Chilis, dried 
+* 2 Ancho Chilis, dried
+* 1 can Chipotles En Adobo, use only 2 chilis and 2 tbsp chipotle sauce 
 * 2 qt Chicken Broth  
 * 4 lb Beef Chuck, cut into 1-inch pieces. 
 * 2 tbsp Olive Oil 
@@ -37,7 +37,7 @@ Cuisine: American
 * 2 tbsp [Fish Sauce](https://amzn.to/3jMYZdj) 
 * 2 tbsp Apple Cider Vinegar 
 * 4 Garlic Cloves, minced 
-* 2 cans of Black Beans, drained and rinsed 
+* 2- 15 oz cans of Black Beans, drained and rinsed 
 * 1 tsp Worcestershire Sauce 
 * ½ can of Tomato Paste
 
@@ -65,4 +65,23 @@ For the Toppings
 
 #### ABOUT THE MEAL 
 
+What does chili con carne mean? The literal translation is, "chili with meat." Despite the spanish name, this dish is the epitome of Tex-Mex cuisine, even holding the title as the official state food of Texas. It is also at the center of many heated debates, over which meat should be used and whether it should have beans or not. Depending on who you ask, you will get a different answer. 
 
+For the Jamily family version, we settled on using a beef chuck. You seriously don't want to miss out on the tenderness of the meat after it cooks in all of these ingredients. You don't. I also think the chuck brings an added heartiness to the dish that is missing with other meat selections. We also decided to add black beans and we haven't looked back. The real star of the dish in my opinion, however, is the variation of chilis used. They bring a delicious flavor profile without being too spicy for those who otherwise cannot handle too much spice.   
+
+#### What is chili con carne traditionally served with? 
+
+Again, this truly depends on who you ask because like the dish itself, this too is highly debated. We like to top our chili con carne with fresh onion, shredded cheese, cilantro, avocado, and even thinly sliced serrano chilis on occasion. We enjoy ours as a stew served with warm corn tortillas. 
+
+The honest answer is that you could pretty much serve this however you decide. You can serve it as a stew with the toppings I suggested. You can pair it with corn tortillas like we do, tortilla chips, flour tortillas, or cornbread. This is the Texas state dish after all. I have also seen people serve their chili con carne over rice and even macaroni noodles. The moral of the story is, get creative and adjust the meal to your family's preferences. Either way, it's going to be delicious.  
+
+#### Can I freeze chili con carne?
+
+Yes, you sure can. First, let it completely cool, then add it to a freezer-safe container. It’s as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and prepare all your toppings. 
+
+#### Is chili con carne keto or low carb?
+
+Served as a stew without the beans and paired with a low-carb tortilla, yes it is. I calculated the macro breakdown for you. This calculation was made by omitting the beans from the recipe and without calculating any of the toppings. This is just the macros for the stew. 
+CARBS-- 4 net carbs
+PROTEIN-- 32g 
+FAT--36g
