@@ -71,6 +71,10 @@ For the Toppings
 
 After experimenting with different variations of the highly-debated ingredients for chili con carne, we selected beef chuck and black beans for the Jamily Family version. The tenderness of the chuck after cooking with the other ingredients is something you need in your life; it achieves a heartiness that is missing with other meat selections. However, the real star of the dish, in my opinion, is not the meat or beans at all, but the variety of chilis used. They add a depth of flavor that compliments the other ingredients without overwhelming the dish with spice.
 
+#### Where does chili con carne orginate?
+
+Chili con carne means, "meat with beans." Despite having a Spanish name, the widely popularized chili con carne in the United States differs greatly from the stew originally consumed in Mexico. 
+
 #### What is chili con carne traditionally served with? 
 
 Like the dish itself, this too is highly debated. We enjoy our chili con carne as a stew and top it with fresh onion, shredded cheese, cilantro, avocado, and thinly sliced serrano chilis. Our meal is complete with the addition of warm corn tortillas. 
