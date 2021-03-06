@@ -48,8 +48,8 @@ Cuisine: American
 For the Toppings
 
 * 1 Yellow Onion, diced
-* 1 Cilantro, chopped
-* 2 cups Shredded Cheese
+* Cilantro, chopped
+* Shredded Cheese
 * 1 Avocado, cubed 
 * 1 Serrano Chili, thinly sliced
 
@@ -69,15 +69,15 @@ For the Toppings
 
 #### ABOUT THE MEAL 
 
-What does chili con carne mean? The literal translation is, "chili with meat." Despite the Spanish name, this dish is the epitome of Tex-Mex cuisine, even holding the title as the official state food of Texas. It is also at the center of many heated debates, over which meat should be used and whether it should have beans or not. Depending on who you ask, you will get a different answer. 
+What does chili con carne mean? Translated it means, "chili with meat," but despite the Spanish name, this dish is Tex-Mex through and through, even holding the title as the official state food of Texas. It is also at the center of many heated debates, over which meat should be used and whether it should have beans or not. Depending on who you ask, you will get a different answer. 
 
-For the Jamily family version, we settled on using a beef chuck. You seriously don't want to miss out on the tenderness of the meat after it cooks in all of these ingredients. You don't. I also think the chuck brings an added heartiness to the dish that is missing with other meat selections. We also decided to add black beans and we haven't looked back. The real star of the dish in my opinion, however, is the variation of chilis used. They bring a delicious flavor profile without being too spicy for those who otherwise cannot handle too much spice.   
+After experimenting with different ingredients, we selected beef chuck with the addition of black beans for the Jamily family version. The tenderness of the chuck after it has cooked together with all of these ingredients is something you don't want to miss out on. It also achieves a heartiness that is missing with other meat selections.  In my opinion, the real star of the dish is not the meat or the beans, but the variation of chilis used. They add a depth of flavor without being overwhelmingly spicy. 
 
 #### What is chili con carne traditionally served with? 
 
-Again, this truly depends on who you ask because like the dish itself, this too is highly debated. We like to top our chili con carne with fresh onion, shredded cheese, cilantro, avocado, and even thinly sliced serrano chilis on occasion. We enjoy ours as a stew served with warm corn tortillas. 
+Again, this depends on who you ask because like the dish itself, this too is highly debated. We like to top our chili con carne with fresh onion, shredded cheese, cilantro, avocado, and thinly sliced serrano chilis. We enjoy ours as a stew served with warm corn tortillas. 
 
-The honest answer is that you could pretty much serve this however you decide. You can serve it as a stew with the toppings I suggested. You can pair it with corn tortillas like we do, tortilla chips, flour tortillas, or cornbread. This is the Texas state dish after all. I have also seen people serve their chili con carne over rice and even macaroni noodles. The moral of the story is, get creative and adjust the meal to your family's preferences. Either way, it's going to be delicious.  
+You could pretty much serve this however you would like. You can serve it as a stew with the toppings I suggested. You can pair it with corn tortillas like we do or tortilla chips, flour tortillas, or cornbread. This is the Texas state dish after all. I have also seen people serve their chili con carne over rice and macaroni noodles. The moral of the story is, get creative and adjust the meal to your family's preferences. Either way, it's going to be delicious.  
 
 #### Can I freeze chili con carne?
 
