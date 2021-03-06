@@ -79,9 +79,9 @@ The honest answer is that you could pretty much serve this however you decide. Y
 
 Yes, you sure can. First, let it completely cool, then add it to a freezer-safe container. It’s as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and prepare all your toppings. 
 
-#### Is chili con carne keto or low carb?
+#### Is chili con carne keto or low-carb?
 
 Served as a stew without the beans and paired with a low-carb tortilla, yes it is. I calculated the macro breakdown for you. This calculation was made by omitting the beans from the recipe and without calculating any of the toppings. This is just the macros for the stew. 
-CARBS-- 4 net carbs
-PROTEIN-- 32g 
-FAT--36g
+* CARBS-- 4 net carbs
+* PROTEIN-- 32g 
+* FAT--36g
