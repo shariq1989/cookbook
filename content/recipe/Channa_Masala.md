@@ -60,8 +60,10 @@ Cuisine: Indian, Pakistani
 
 #### ABOUT THE MEAL
 
-Chana masala, also called Chole is a bright and flavorful dish. It also happens to be one of the most popular vegetarian dishes in Northern India and Pakistan, which is also where Shariq's family originates. It’s a simple, healthy meal to make that caters to vegetarians, vegans, and those who are gluten-free. 
+Chana masala, also called Chole, is a bright and flavorful dish. It is also one of the most popular vegetarian dishes of Northern India and Pakistan, which is where Shariq's family is from. Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
-Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me the difference between an Indian or a Thai Curry I couldn't have told you. Now, I am incredibly honored to be able to study Desi cooking under my mother-in-law. She cooks off-script so I have to carefully observe her as she buzzes through the kitchen or I  miss it all. I am amazed by her ability to build flavor and create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even tastier. 
-Tressa
+#### Is channa masala vegetarian? Is channa masala vegan? 
+
+Channa masala is a simple meal that caters to vegetarians, vegans, and those who are gluten-free. To make this recipe completely vegan you will need to substitute another oil for the ghee. I suggest using grapeseed oil.
+
 
