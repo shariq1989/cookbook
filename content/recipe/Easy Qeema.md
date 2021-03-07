@@ -39,6 +39,6 @@ Servings: 6 <!--more-->
 6. Stir in 1/2 cup cilantro and salt, to taste.
 7. Garnish with cilantro and serve with long-grain basmati rice. 
 
-#### THE STORY BEHIND THE MEAL 
+#### ABOUT THE MEAL 
 
 Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
