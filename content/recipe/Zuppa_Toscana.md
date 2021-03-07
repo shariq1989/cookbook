@@ -17,9 +17,11 @@ tags = [
 
 Servings: 5 <!--more-->
 
-Cook Time: 1 hour, 30 minutes
+Preparation Time: 10 minutes 
 
-Cuisine: Italian American
+Cook Time: 1 hour, 15 minutes
+
+Cuisine: Italian, American
 
 #### INGREDIENTS 
 
@@ -48,4 +50,20 @@ Cuisine: Italian American
 
 There are so many versions of this recipe floating around the internet and honestly, it makes sense. Zuppa Toscana is tasty! Honestly, before learning how to make it at home, this soup was the only reason I ever went to Olive Garden. Oh, and the breadsticks of course.
 
-Are you counting macros or eating low-carb? One simple swap makes all the difference- just replace the red potatoes with the utility vegetable of the century, cauliflower. When cooked, cauliflower takes on a potato-like texture, and you still get all the flavor of the original dish. 
+
+#### What equipment do I need to make this recipe? 
+
+You will need a dutch oven or a deep, heavy-bottomed pan. 
+
+#### Is Zuppa Toscana keto or low-carb? 
+
+This meal does not suit the macros for a keto diet, but if you're focusing on eating low-carb, one simple substitution makes all the difference. Replace the red potatoes with the utility vegetable of the century, cauliflower. When cooked, cauliflower takes on a potato-like texture, and you still get all the flavor of the original dish. We even calculated the macros to make it easier for you. Please note that this calculation was made without the red potatoes.  
+
+CARBS– 13 net carbs
+PROTEIN– 62g
+FAT– 61g
+
+#### Can I freeze Zuppa Toscana? 
+
+You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. It's as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and enjoy.
+
