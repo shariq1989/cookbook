@@ -22,7 +22,7 @@ Servings: 8 <!--more-->
 
 Total Cook Time: 45 minutes
 
-Cuisine: American
+Cuisine: Mexican, American
 
 #### INGREDIENTS 
 
