@@ -19,9 +19,11 @@ thumbnail= "images/groundbeeftaco.jpg"
 
 Servings: 8 <!--more-->
 
-Cook Time: 40 minutes
+Preparation Time: 20 minutes
 
-Cuisine: Mexican American 
+Cook Time: 20 minutes
+
+Cuisine: Mexican, American 
 
 #### INGREDIENTS 
 
@@ -69,14 +71,12 @@ For the Corn Tortillas:
 5. Using tongs, set the tortilla to dry on the wire rack. Repeat until the remaining tortillas have cooked. 
 
 For the Tacos: 
-
-1. Heat the oil in a heavy-bottomed pan over medium heat. 
-2. Add the onions to the pan and cook until onions become translucent and soften. 
-3. Next, add the ground beef and break it up with a [meat chopper](https://amzn.to/3bQ2coS) or spatula. Cook, stirring occasionally until beef is heated thoroughly and becomes brown about 7-10 minutes. 
-4. Stir in the minced garlic and cilantro and then add the water. 
-5. Season the meat with garlic powder, salt, and taco seasoning. Stir to combine. Allow the mixture to simmer, about 5 minutes. 
-6. Spoon the beef into the warmed corn tortillas and top with sour cream, guacamole, cheese, and a few drops of Tapatio. Serve immediately.
+1. Heat oil in a heavy-bottomed pan over medium heat. 
+2. Add the onions to the pan and cook until they become translucent and soften. 
+3. Next, add the ground beef and break it up with a [meat chopper](https://amzn.to/3bQ2coS) or spatula. Cook, stirring occasionally until beef is heated thoroughly and turns brown for about 10 minutes. 
+4. Stir in the garlic and cilantro and then season the meat with garlic powder, salt, and taco seasoning. Mix to combine and then add water. Cover with a lid and allow the meat to simmer for about 5 minutes. 
+5. Spoon the beef into the warmed corn tortillas and top with sour cream, guacamole, cheese, and a few drops of Tapatio. Serve immediately.
 
 #### ABOUT THE STORY
 
-We didn't have a lot of money growing up, but one meal I always looked forward to was my mom's beef tacos. You could easily mix an original taco seasoning to elevate the dish, but there is something homey about going back to a meal from childhood, even if it's humble. I must have passed this joy on to my son as this is his most requested meal. He is the very reason I posted this recipe at all. He knows about our website and often tells me what I should and should not post. The other day he told me, "mama, people need to know how to make this meal so they can feed it to their kids.  
+My family didn't have a lot of money growing up so we usually rotated a few meals. One dish I always looked forward to my mom making was her beef tacos. I could have easily made a taco seasoning to make her dish more original, but there is just something about a meal from childhood. I must have passed this same joy onto my son because this is his most requested meal. He is the main reason I posted this recipe on here in the first place. He told me the other day, "mama, people need to know how to make this meal so they can feed it to their kids." 
