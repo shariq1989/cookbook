@@ -66,6 +66,7 @@ For the Biryani:
 
 Craving biryani, but don't have all day to make it? Reach for this quick and easy biryani recipe. You still get all the flavor and brightness of this popular dish, but you cut the cook time in half. 
 
+Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### Where does biryani orginate? 
 
