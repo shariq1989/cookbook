@@ -53,3 +53,9 @@ For the Tadka:
 7. Allow the Instant Pot to naturally release for 5 minutes and then do a quick release. 
 8. Stir the dal to check the consistency. If it is thicker than desired, add 1/2 cup HOT water before serving. 
 9. Garnish with the reserved onion mixture, cilantro, and extra green chilis, if desired. Serve with long-grained Basmati rice. 
+
+#### ABOUT THE MEAL 
+
+#### Is Moong Dal Vegan? 
+
+It can be with one simple substitution. Fry the onions in canola oil or vegetable oil instead of ghee. 
