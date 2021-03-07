@@ -1,5 +1,5 @@
 +++
-title = "Karahi Gosht- Goat Curry"
+title = "Karahi Gosht - Goat Curry"
 date = "2021-02-25"
 description = ""
 tags = [

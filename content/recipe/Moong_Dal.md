@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Moong Dal-Yellow Lentil Soup"
+title = "Instant Pot Moong Dal - Yellow Lentil Soup"
 date = "2021-03-06"
 description = ""
 tags = [

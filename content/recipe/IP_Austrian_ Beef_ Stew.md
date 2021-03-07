@@ -1,5 +1,5 @@
 +++
-title = " Instant Pot Rindsgulasch- Austrian Beef Stew"
+title = " Instant Pot Rindsgulasch - Austrian Beef Stew"
 date = "2020-01-27"
 description = ""
 tags = [

@@ -1,5 +1,5 @@
 +++
-title = "Joojeh Kebab- Grilled Chicken Kebab"
+title = "Joojeh Kebab - Grilled Chicken Kebab"
 date = "2021-02-28"
 description = ""
 tags = [

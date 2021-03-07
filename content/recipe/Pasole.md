@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Pasole- Mexican Stew"
+title = "Instant Pot Pasole - Mexican Stew"
 date = "2020-01-29"
 description = ""
 tags = [
