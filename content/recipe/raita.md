@@ -18,7 +18,7 @@ tags = [
 
 Servings: 4 <!--more-->
 
-Time: 10 minutes
+Preparation Time: 10 minutes
 
 Cuisine: Indian, Pakistani
 
