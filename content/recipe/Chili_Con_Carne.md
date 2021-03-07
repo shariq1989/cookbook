@@ -78,13 +78,13 @@ Like the dish itself, this too is highly debated. We enjoy our chili con carne a
 
 Because the ingredients of chili con carne are so widely disputed, there is room to serve it however you would like. It can be eaten as a stew with the toppings we suggested. You can pair it with corn tortillas like we do or opt for tortilla chips, flour tortillas, or cornbread instead. This is the Texas state dish after all. I have seen chili con carne served over both rice and macaroni noodles. The moral of the story is this, get creative and adjust the meal to your family's preference. Either way, we know it is a meal you and those around you will enjoy.  
 
-#### Can I freeze chili con carne?
-
-You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. It is as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and prepare all your toppings. 
-
 #### Is chili con carne keto or low-carb?
 
 Served as a stew without beans and paired with a low-carb tortilla, it sure is! We even calculated the macros to make it easier for you. Please note that this calculation was made without the beans and does not include any of the toppings. 
 * CARBS-- 4 net carbs
 * PROTEIN-- 32g 
 * FAT--36g
+
+#### Can I freeze chili con carne?
+
+You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. It is as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and prepare all your toppings. 
