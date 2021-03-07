@@ -40,3 +40,7 @@ Cuisine: Indian, Pakistani
 #### ABOUT THE MEAL 
 
 Raita pairs well with Indian dishes like biryani, tandoori chicken, pulao, and channa masala. I also eat it with Persian kebabs and use it as a dressing for salads on occasion. 
+
+#### What equipment do I need to make this recipe? 
+
+You will need a food processor or blender. 
