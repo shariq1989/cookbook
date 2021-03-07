@@ -1,6 +1,6 @@
 +++
 title = "Instant Pot Moong Dal-Yellow Lentil Soup"
-date = "2020-01-18"
+date = "2021-03-06"
 description = ""
 tags = [
     "soup",
