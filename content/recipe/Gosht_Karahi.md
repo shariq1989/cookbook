@@ -46,6 +46,6 @@ Servings: 3-4 <!--more-->
 8. Garnish with ginger batons, cilantro, and extra green chilis, to taste.
 9. Serve with naan or long-grain basmati rice.
 
-#### THE STORY BEHIND THE MEAL 
+#### ABOUT THE MEAL
 
-Before meeting Shariq, I (Tressa) had no experience with eating or making Desi food. If you asked me the difference between an Indian or a Thai Curry I couldn't have told you. I am incredibly honored to be able to study Desi cooking under my mother-in-law, who is a phenomenal cook. She cooks off-script so you have to observe as she buzzes through the kitchen or you miss it all. I am amazed by her ability to build upon flavors to create masterpiece after masterpiece. This recipe is inspired by her cooking, though I am sure hers would be even tastier. 
+Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
