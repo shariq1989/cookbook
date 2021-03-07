@@ -21,7 +21,7 @@ Servings: 8 <!--more-->
 
 #### INGREDIENTS 
 
-* 1 cup Moong Dal- Yellow Lentils, rinsed   
+* 1 cup Moong Dal (Yellow Lentils), rinsed   
 * 1 1/2 cup water 
 * 1 tsp Kosher salt, to taste
 * 1 1/2 tbsp turmeric, ground 
