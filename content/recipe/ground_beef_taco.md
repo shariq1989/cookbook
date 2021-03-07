@@ -79,4 +79,13 @@ For the Tacos:
 
 #### ABOUT THE STORY
 
-My family didn't have a lot of money growing up so we usually rotated a few meals. One dish I always looked forward to my mom making was her beef tacos. I could have easily made a taco seasoning to make her dish more original, but there is just something about a meal from childhood. I must have passed this same joy onto my son because this is his most requested meal. He is the main reason I posted this recipe on here in the first place. He told me the other day, "mama, people need to know how to make this meal so they can feed it to their kids." 
+My family didn’t have a lot of money growing up so we usually rotated a few meals. One dish I always looked forward to my mom making was her beef tacos. I could have easily made a taco seasoning to make her dish more original, but there is just something about a meal from childhood. I must have passed this same joy onto my son because this is his most requested meal. He is the main reason I posted this recipe on here in the first place. He told me the other day, “mama, people need to know how to make this meal so they can feed it to their kids.”
+
+#### What equipment do I need to make this recipe? 
+
+You will need a skillet, a rimmed baking sheet, and a wire rack to make the corn tortillas. You will also need a heavy-bottomed pan to cook the meat. 
+
+#### Can I freeze the beef mixture? 
+
+You sure can. First, allow the meat to cool completely and then add it to a freezer-safe container. It's as easy as that and can freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a meat mixture on the stove and prepare your tortillas and toppings. 
+
