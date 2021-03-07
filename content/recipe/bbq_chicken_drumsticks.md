@@ -19,7 +19,7 @@ thumbnail= "images/bbqchicken.jpg "
 
 Servings: 4 <!--more-->
 
-Marinating Time: 6 hours
+Preparation Time: 6 hours, 20 minutes
 
 Cook Time: 1 hour 30 minutes
 
@@ -46,9 +46,15 @@ For the Chicken:
 
 1. Mix the spices for the rub and massage them into the drumsticks. Cover and let the meat marinate in the fridge for 6 hours.
 2. Preheat the grill by setting all burners to high, about 15 minutes.
-3. Turn off the rightmost burner and maintain a grill temperature of 325-350 degrees.
+3. Turn off the rightmost burner but maintain a grill temperature of 325-350 degrees.
 4. Oil the grates and cook the drumsticks on the hottest side of the grill, skin-down. Cook until they become blistered, about 5 minutes.
 5. Flip the drumsticks and cook for another 5 minutes.
 6. Move the drumsticks to the cool side of the grill (rightmost burner that you turned off) and cook the skin-side up for 25 minutes.
 7. Flip the drumsticks and continue cooking, until the chicken has reached over 170 degrees, about 20-30 minutes. 
 8. Let the chicken rest for 10 minutes before serving.
+
+#### ABOUT THE MEAL 
+
+We love get-togethers with family and friends and these drumsticks are the perfect addition to any cookout, picnic, or backyard gathering. 
+
+
