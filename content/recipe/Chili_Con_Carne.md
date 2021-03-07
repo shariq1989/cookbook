@@ -13,6 +13,7 @@ tags = [
     "chili",
     "texas",
     "soup",
+    "mexican",
     "thejamilghar"
 ]
 thumbnail= "images/IMG_20210305_131905_151.jpg"
@@ -29,7 +30,7 @@ Cuisine: Mexican, American
 * 2 Arbol Chilis, dried 
 * 2 Ancho Chilis, dried
 * 1 can Chipotles En Adobo, use only 2 chilis and 2 tbsp chipotle sauce 
-* 2 qt Chicken Broth  
+* 1 qt Chicken Broth  
 * 4 lb Beef Chuck, cut into 1-inch pieces. 
 * 2 tbsp Olive Oil 
 * 1 large Yellow Onion, diced 
@@ -69,11 +70,7 @@ For the Toppings
 
 #### ABOUT THE MEAL 
 
-After experimenting with different variations of the highly-debated ingredients for chili con carne, we selected beef chuck and black beans for the Jamily Family version. The tenderness of the chuck after cooking with the other ingredients is something you need in your life; it achieves a heartiness that is missing with other meat selections. However, the real star of the dish, in my opinion, is not the meat or beans at all, but the variety of chilis used. They add a depth of flavor that compliments the other ingredients without overwhelming the dish with spice.
-
-#### Where does chili con carne orginate?
-
-Chili con carne means, "meat with beans." Despite having a Spanish name, the widely popularized chili con carne in the United States differs greatly from the stew originally consumed in Mexico. 
+After experimenting with different variations of the highly-debated ingredients for chili con carne, we favored beef chuck and black beans. The tenderness of the chuck after cooking with the other ingredients is something you absolutely need in your life; it achieves a heartiness that is missing with other meat selections. However, the real star of the dish, in my opinion, is not the meat or beans, but the variety of chilis used. They add a depth of flavor that compliments the other ingredients without overwhelming the dish with spice.
 
 #### What is chili con carne traditionally served with? 
 
