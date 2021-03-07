@@ -1,5 +1,5 @@
 +++
-title = " Instant Pot Soupe à L'Oignon- French Onion Soup "
+title = " Instant Pot Soupe à L'Oignon - French Onion Soup "
 date = "2021-02-14"
 description = ""
 tags = [
@@ -50,20 +50,21 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 
 For the Soup:  
 
-1. Melt the butter in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the onions and baking powder, stir to combine. Season with salt and pepper. Cook, stirring, until onions soften and release liquid, about 3 minutes. 
+1. Melt the butter in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the onions and baking powder, stir to combine. Season with salt and pepper and cook, stirring, until onions soften and begin to release liquid, about 3 minutes. 
 2. Seal the Instant Pot lid and cook on manual high pressure for 20 minutes with a quick release. 
-3. Continue cooking with the lid off, stirring constantly, until the liquid inside reduces and the onions become brown and sticky about 5 minutes.
-4. Add the sherry and bring the mixture to a simmer, scraping up any brown bits left behind by the onion. Cook until the alcohol smell is mostly gone, about 3 minutes.
+3. Continue cooking the onions with the lid off, stirring constantly, until the liquid inside reduces and the onions become brown and sticky, about 5 minutes.
+4. Add the sherry and bring the mixture to a simmer, scraping up any brown bits left behind. Cook until the alcohol smell is mostly gone.
 5. Next, add the water, Better Than Bouillion, thyme sprigs, and bay leaf. Bring to a simmer for 10 minutes.
 6. Stir in the fish sauce and season with salt and pepper, to taste. Discard thyme sprigs and bay leaf before serving.
 
 To Serve: 
 
 1. Move the oven rack to the top position and preheat the broiler on high.  
-2. Butter the baguette slices and rub them with the punctured garlic clove. 
-3. Spoon broth into the bottom of 4 oven-safe bowls, sprinkle with Gruyère, and then top with the baguette slices. Spoon a bit more broth overtop. 
-4. Cover with the remaining Gruyère and set bowls onto a rimmed baking sheet. Place the sheet into the oven.
-5. Broil until the cheese is melted and brown spots begin to appear if you can wait that long. I usually cannot.   
+2. Butter the baguette slices and rub them with a punctured garlic clove. 
+3. Spoon broth into the bottom of 4 oven-safe bowls, sprinkle with the shredded Gruyère, and then top it with the baguette slices.  
+4. Spoon a bit more broth over top and cover with the remaining Gruyère. 
+5. Set the bowls onto a rimmed baking sheet. Place the baking sheet into the oven.
+6. Broil until the cheese is melted and brown spots begin to appear if you can wait that long. 
 
 #### ABOUT THE MEAL
 
