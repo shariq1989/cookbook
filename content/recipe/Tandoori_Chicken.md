@@ -55,3 +55,7 @@ Cuisine: Indian, Pakistani
 8. Flip the drumsticks and continue cooking, until the chicken has reached over 170 degrees, about 20-30 minutes. 
 9. Let the chicken rest for 10 minutes before serving. 
 10. Garnish with lemon wedges and serve with [raita](https://www.jamilghar.com/recipe/raita/). 
+
+#### ABOUT THE MEAL 
+
+Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
