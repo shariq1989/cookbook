@@ -98,5 +98,5 @@ Made traditionally, no. However, you can make these easy substitutions that won'
 
 #### Can I freeze French onion soup? 
 
-Yes, you sure can. First, let the soup completely cool, then add it to a freezer-safe container. It's as easy as that and it can freeze for up to 3 months. When you're ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and skip to the, to serve, part of our instructions. 
+You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. It is as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and skip to the, to serve, part of our instructions. 
 
