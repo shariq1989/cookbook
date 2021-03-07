@@ -23,7 +23,9 @@ thumbnail= "images/FrenchOnion.jpg "
 
 Servings: 4 <!--more-->
 
-Cook Time: 2 hours 
+Preparation Time: 10 minutes 
+
+Cook Time: 40 minutes 
 
 Cuisine: French 
 
@@ -33,7 +35,7 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 
 * 4 tbsp [Unsalted Butter](https://amzn.to/2NK7WbO), plus more for the baguette slices
 * 4 small Baguette slices
-* 3 lb Vadalia Onion, very thinly sliced, about 5-6 large onions
+* 3 lb Vadalia Onion, thinly sliced, about 5-6 large onions
 * ½ tsp Baking Powder 
 * Kosher Salt and Coarse Ground Pepper, to taste  
 * ½ cup Dry Sherry 
