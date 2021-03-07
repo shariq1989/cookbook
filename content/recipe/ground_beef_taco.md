@@ -77,9 +77,9 @@ For the Tacos:
 4. Stir in the garlic and cilantro and then season the meat with garlic powder, salt, and taco seasoning. Mix to combine and then add water. Cover with a lid and allow the meat to simmer for about 5 minutes. 
 5. Spoon the beef into the warmed corn tortillas and top with sour cream, guacamole, cheese, and a few drops of Tapatio. Serve immediately.
 
-#### ABOUT THE STORY
+#### ABOUT THE MEAL
 
-My family didn’t have a lot of money growing up so we usually rotated a few meals. One dish I always looked forward to my mom making was her beef tacos. I could have easily made a taco seasoning to make her dish more original, but there is just something about a meal from childhood. I must have passed this same joy onto my son because this is his most requested meal. He is the main reason I posted this recipe on here in the first place. He told me the other day, “mama, people need to know how to make this meal so they can feed it to their kids.”
+My family didn’t have a lot of money when I was growing up so we rotated a few meals throughout the week. One dish I always looked forward to my mom making was her ground beef tacos. I know I could have made a taco seasoning from scratch to make her dish more original, but there is something special about a meal from childhood. I must have passed this joy onto my son because this is his most requested meal from me. He is the reason I decided to post this recipe because he very genuinely told me the other day, “mama, people need to know how to make this meal so they can feed it to their kids.” Well, we certainly hope you enough this easy weeknight meal as much as we do. 
 
 #### What equipment do I need to make this recipe? 
 
