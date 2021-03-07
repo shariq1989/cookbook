@@ -1,5 +1,5 @@
 +++
-title = "Moong Dal-Yellow Lentil Soup"
+title = "Instant Pot Moong Dal-Yellow Lentil Soup"
 date = "2020-01-18"
 description = ""
 tags = [
@@ -11,9 +11,10 @@ tags = [
     "indian", 
     "pakistani", 
     "instant pot", 
-    "pressure cooker" 
+    "pressure cooker",
+    "thejamilghar"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/MoongDal.jpg"
 +++
 
 Servings: 6-8 <!--more-->
