@@ -13,7 +13,8 @@ tags = [
 
 Servings: 2 Loaves <!--more-->
 
-Preparation Time: 2 hours, 20 minutes
+Preparation Time: 1 hour, 20 minutes 
+Cook Time: 1 hour 
 
 Cuisine: American
 
@@ -25,7 +26,6 @@ Cuisine: American
 * 6 tbsp Milk 
 * 2 tsp Baking Soda
 * 5 small Bananas 
-* Optional: Add chocolate chips or walnuts to taste
 
 #### DIRECTIONS 
 1. Mix ingredients together. Set aside for 1 hour. 
