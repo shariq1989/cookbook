@@ -1,6 +1,6 @@
 +++
 title = "Instant Pot Chili Con Carne"
-date = "2021-03-06"
+date = "2021-03-05"
 description = ""
 tags = [
     "beef",
