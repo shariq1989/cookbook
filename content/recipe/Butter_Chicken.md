@@ -9,14 +9,17 @@ tags = [
     "chicken",
     "indian", 
     "british", 
-    "international" 
+    "international",
+    "desi",
+    "thejamilghar"
 ]
 thumbnail= "images/ButterChicken.jpg"
 +++
 
 Servings: 4 <!--more-->
 
-Preparation Time: 24 hours
+Preparation Time: 20 minutes 
+Cook Time: 1 hour 
 
 Cuisine: Indian, British
 
@@ -48,6 +51,8 @@ Cuisine: Indian, British
 7. Lower the heat and nestle chicken thighs into the pan, cover with a lid and let it cook about 25-30 minutes.
 8. Garnish with cilantro and green chilis and serve with basmati rice or naan.
 
-#### THE STORY BEHIND THE MEAL
+#### ABOUT THE MEAL
 
-Butter chicken or murgh makhani originated in Delhi, India as a curry that was heavily influenced by British colonization. It later spread throughout the western world. Its popularity grew mainly because of how easy it is to make, but it also offers and gentle introduction to some of the more flavorful and spicy dishes of India. We don't make this too often in our home for just our family, but this is one of our go-to's when we have guests over. 
+Butter chicken or murgh makhani originated in India and was heavily influenced by British colonization. The dish later spread throughout the western world, primarily because it offers a gentle introduction to the flavor and spices of Indian cooking. We don't make this too often for our family at home, but this is a go-to when we have guests over. 
+
+Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
