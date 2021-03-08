@@ -21,9 +21,11 @@ tags = [
 thumbnail= "images/ChannaMasala.jpg "
 +++
 
-Servings: 4-6 <!--more-->
+Servings: 5 <!--more-->
 
-Preparation Time: 1 hour
+Preparation Time: 15 minutes
+
+Cook Time: 40 minutes
 
 Cuisine: Indian, Pakistani
 
@@ -48,22 +50,23 @@ Cuisine: Indian, Pakistani
 
 #### DIRECTIONS 
 
-1. Heat the ghee in a heavy-bottomed saucepan over medium-high heat. Add the kalonji seed, cumin seed, and chilis until they begin to sputter.
-2. Add the onion, stirring frequently, until onions brown and caramelize (not burn or char). This step may take a while, that’s okay. You are building flavor for the dish.
-3. Next add the garlic and ginger and stir to combine.
-4. In a small bowl, combine the chili powder, turmeric, and garam masala. Stir the spices into the pan mixture until fragrant, about 30 seconds.
-5. Add the tomatoes and simmer for about 5 minutes.
-6. Remove the green chilis, set aside, and then remove the entire mixture from heat and put it into a food processor, blend until smooth.
-7. Return the mixture to the pan, along with the reserved chilis, and add the chickpeas and cilantro, along with 1/2 cup water, bring to a simmer.
-8. Sprinkle the masala lightly with kalonji seeds and cover with lid slightly ajar. Reduce the heat to maintain a gentle bubbling. Cook, stirring occasionally until liquid has reduced into a thick stew, about 12-15 minutes.
-9. Taste with salt, if needed, and garnish with cilantro. Serve with long-grain basmati rice or naan.
+1. Heat the ghee in a heavy-bottomed saucepan over medium-high heat. Add 1 tsp kalonji seed, cumin seed, and chilis. Cook until they begin to sputter.
+2. Add the onion, stirring frequently, until the onions brown and caramelize. This step may take a while, that’s okay. You are building flavor for the dish.
+3. Next, add the garlic and ginger and stir to combine.
+4. In a small bowl, combine the chili powder, turmeric, and garam masala. Stir the spices into the pan mixture until it becomes fragrant, about 30 seconds.
+5. Add the tomatoes and allow the mixture to simmer for about 5 minutes.
+6. Remove the green chilis and set them aside. Then remove the entire mixture from heat and put it into a food processor, blend until smooth.
+7. Return the mixture to the pan, along with the reserved chilis. Then add the chickpeas, cilantro, 1/2 cup water, and bring it to a simmer.
+8. Sprinkle the dish with kalonji seeds and cover the pan with the lid slightly ajar. Reduce the heat to maintain a gentle bubbling. Cook, stirring occasionally until the liquid has reduced, about 12-15 minutes.
+9. Season with salt, to taste, and garnish with cilantro. Serve with long-grain basmati rice or naan.
+
 
 #### ABOUT THE MEAL
 
-Chana masala, also called Chole, is a bright and flavorful dish. It is also one of the most popular vegetarian dishes of Northern India and Pakistan, which is where Shariq's family is from. Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+Chana masala, also called chole, is bright, flavorful, and filling. It also happens to be one of the most popular vegetarian dishes of Northern India and Pakistan, where Shariq's family is from. 
+
+Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### Is channa masala vegetarian? Is channa masala vegan? 
 
 Channa masala is a simple meal that caters to vegetarians, vegans, and those who are gluten-free. To make this recipe completely vegan you will need to substitute another oil for the ghee. I suggest using grapeseed oil.
-
-
