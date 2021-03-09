@@ -33,7 +33,7 @@ Cuisine: Indian
 * 1 tbsp Ginger, grated
 * 2 Green Chilis, slit lengthwise, plus more to garnish
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* ½ tsp [Garam Masala](https://amzn.to/3u0tvEX)
+* ½ tsp Garam Masala
 * 3 medium Tomatoes, chopped 
 * 1/2 cup Heavy Cream
 * 3-5 Chicken Thighs, skinless, bone-in
@@ -56,13 +56,13 @@ Butter chicken or murgh makhani originated in Dehli, India, and later spread thr
 
 #### What main ingredients are needed for this meal?
 
-Chicken: Bone-in chicken thighs are a personal family preference, however, you can substitute boneless thighs or chicken breasts. If using chicken breasts, cut them into 1-inch pieces and use the suggested cook time for this recipe. If using boneless chicken thighs, reduce the cooking time to about 20 minutes to prevent overcooking. As always, the safe cooking temperature for chicken is 160 degrees.
+* Chicken: We use bone-in chicken thighs, however, you can substitute boneless chicken thighs or chicken breasts if you prefer. If using chicken breasts, follow the suggested cooking time for this recipe, but be sure to cut the chicken into 1-inch pieces. If using boneless chicken thighs, reduce the cooking time to 20 minutes to prevent overcooked, rubbery chicken. 
+-- The safe cooking temperature for chicken is 160 degrees. 
 
-Butter: 
+* Butter: Our family uses unsalted butter because we prefer the creaminess without the added salt. Either can be used. 
 
-Cream: 
+* Cream: I prefer using heavy cream in my butter chicken because it's creamy and delicious, but also because it blends well in the dish without being temperamental. 
 
-Garam Masala: 
+* Garam Masala: India is a vast country, with varying sub-cultures, so Indian food differs from region to region as a result; this applies to spices as well. For example, garam masala is a necessary ingredient for butter chicken, but the flavor changes drastically depending on what you use. I suggest making garam masala at home so you can control the amount of each spice used in the mix and cater it to your preferences. If you choose to go the store-bought route, I suggest Rani, Spice House, or Penzey's garam masala. 
 
-Tomatoes: 
-
+* Tomatoes: I use fresh ingredients whenever possible, but you can also use canned diced tomatoes. 
