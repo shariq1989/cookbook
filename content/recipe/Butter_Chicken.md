@@ -66,3 +66,8 @@ Butter chicken or murgh makhani originated in Dehli, India, and later spread thr
 * Garam Masala: India is a vast country, with varying sub-cultures, so Indian food differs from region to region as a result; this applies to spices as well. For example, garam masala is a necessary ingredient for butter chicken, but the flavor changes drastically depending on what you use. I suggest making garam masala at home so you can control the amount of each spice used in the mix and cater it to your preferences. If you choose to go the store-bought route, I suggest Rani, Spice House, or Penzey's garam masala. 
 
 * Tomatoes: I use fresh ingredients whenever possible, but you can also use canned diced tomatoes. 
+
+#### What equipment do I need to make this recipe?
+
+* A heavy-bottomed pan with a lid
+* A food processor or immersion blender 
