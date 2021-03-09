@@ -19,7 +19,8 @@ thumbnail= "images/ButterChicken.jpg"
 Servings: 4 <!--more-->
 
 Preparation Time: 20 minutes 
-Cook Time: 1 hour 
+
+Cook Time: 40 minutes 
 
 Cuisine: Indian
 
@@ -53,5 +54,15 @@ Cuisine: Indian
 
 Butter chicken or murgh makhani originated in Dehli, India, and later spread throughout the western world. It's no wonder why since this butter chicken recipe offers a great introduction to the flavor and spices of Indian cooking. For that reason, this one of the dishes we reach for most often when entertaining guests over who have never tasted Indian food before. It also happens to be my most requested recipe from friends and family. 
 
+#### What main ingredients are needed for this meal?
 
+Chicken: Bone-in chicken thighs are a personal family preference, however, you can substitute boneless thighs or chicken breasts. If using chicken breasts, cut them into 1-inch pieces and use the suggested cook time for this recipe. If using boneless chicken thighs, reduce the cooking time to about 20 minutes to prevent overcooking. As always, the safe cooking temperature for chicken is 160 degrees.
+
+Butter: 
+
+Cream: 
+
+Garam Masala: 
+
+Tomatoes: 
 
