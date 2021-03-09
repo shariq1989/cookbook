@@ -21,7 +21,7 @@ Servings: 4 <!--more-->
 Preparation Time: 20 minutes 
 Cook Time: 1 hour 
 
-Cuisine: Indian, British
+Cuisine: Indian
 
 #### INGREDIENTS 
 
@@ -31,11 +31,12 @@ Cuisine: Indian, British
 * 4 Garlic Cloves, minced
 * 1 small Yellow Onion, chopped
 * 1 tbsp Ginger, grated
-* 2 Green Chilis, slit lengthwise
+* 2 Green Chilis, slit lengthwise, plus more to garnish
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
 * ½ tsp [Garam Masala](https://amzn.to/3u0tvEX)
 * 3 medium Tomatoes, chopped 
 * 1/2 cup Heavy Cream
+* 1 stick of butter, cut into cubes
 * 3-5 Chicken Thighs, skinless, bone-in
 * Salt to taste
 * Cilantro, chopped, to garnish
@@ -53,6 +54,5 @@ Cuisine: Indian, British
 
 #### ABOUT THE MEAL
 
-Butter chicken or murgh makhani originated in India and was heavily influenced by British colonization. The dish later spread throughout the western world, primarily because it offers a gentle introduction to the flavor and spices of Indian cooking. We don't make this too often for our family at home, but this is a go-to when we have guests over. 
+Butter chicken or murgh makhani originated in Dehli, India and later spread throughout the western world. I believe this is rimarily due to the fact that this dish offers a great introduction to the flavor and spices of Indian cooking.
 
-Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
