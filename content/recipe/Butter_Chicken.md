@@ -71,3 +71,13 @@ Butter chicken or murgh makhani originated in Dehli, India, and later spread thr
 
 * A heavy-bottomed pan with a lid
 * A food processor or immersion blender 
+
+#### Can butter chicken be made vegetarian? Can butter chicken be made vegan? Can I make butter chicken dairy-free? 
+
+With substitutions, this recipe caters well to both a vegetarian and vegan diet. 
+
+* Vegetarian: Let's begin by finding a replacement for the chicken, shall we? I recommend using chickpeas, firm tofu, paneer, or roasted cauliflower. These ingredients take on the flavor of the dish and hold up well during the cooking process. 
+
+* Vegan: I prefer using chickpeas, firm tofu, or roasted cauliflower in place of the meat in this dish. They are delicious and hold up well during the cooking process. You can also include toasted cashews for tasty addition and added protein. Instead of butter, I recommend either coconut oil or vegan butter, and you can use full-fat coconut milk as an alternative to the cream.
+
+* Dairy-Free: In place of butter and cream, use coconut oil and coconut milk. 
