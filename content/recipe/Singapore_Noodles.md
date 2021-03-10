@@ -24,7 +24,9 @@ tags = [
 
 Servings: 4 <!--more-->
 
-Cook Time: 1 hour 
+Preparation Time: 15 minutes 
+
+Cooking Time: 1 hour 
 
 Cuisine: Cantonese
 
@@ -64,7 +66,8 @@ Adapted from: Serious Eats, Shao Z.
 
 #### ABOUT THE MEAL 
 
-It's not entirely clear where Singapore noodles originate, but many sources say Hong Kong, despite its name. Regardless, what I love about this dish is that the flavors have been heavily influenced by so many different people groups: The Cantonese and British, as well as the Indo-Chinese flavors made popular by Singapore. 
+This is another dish we tried at a restaurant and decided we needed to make it at home. I am proud of this recipe because it is similar to the one from the restaurant. The only noticeable difference is that traditional Singapore noodles include fried pork slices. We didn't add them so that my in-laws could enjoy the meal with us. With the shrimp and rich, curry flavor, we didn't feel like we were missing out on anything. If your goal is to make a more traditional version of Singapore noodles, you will want to incorporate the fried pork. 
 
-This is another dish we tried at a restaurant for the first time and decided we needed to find a way to make it at home. While the traditional dish includes flavorful fried fried pork slices, we removed it from our recipe so my husband's parents could enjoy the dish with us. We did not miss it with all of that shrimp and curry flavor though. Feel free to add fried pork to yours if you want a version of this dish that is closer to the way it is made in other countries. 
- 
+#### Where do Singapore noodles originate from? 
+
+It's not entirely clear where Singapore noodles originate, but many sources say Hong Kong, despite its name. Regardless, what I love about this dish is that the flavors have been heavily influenced by so many different people groups: The Cantonese and British, as well as the Indo-Chinese flavors made popular by Singapore. 
