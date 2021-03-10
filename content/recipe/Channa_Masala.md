@@ -25,7 +25,7 @@ Servings: 5 <!--more-->
 
 Preparation Time: 15 minutes
 
-Cook Time: 40 minutes
+Cooking Time: 40 minutes
 
 Cuisine: Indian, Pakistani
 
