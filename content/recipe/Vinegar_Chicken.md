@@ -22,7 +22,9 @@ thumbnail= "images/Vin_Chick.jpg "
 
 Servings: 4-6 <!--more-->
 
-Cook Time: 10 minutes
+Preparation Time: 5 minutes 
+
+Cooking Time: 40 minutes
 
 Cuisine: Mediterranean
 
@@ -51,4 +53,4 @@ Adapted from: New York Times, Alison Roman
 
 #### ABOUT THE MEAL
 
-This recipe is inspired by Alison Roman’s Vinegar Chicken with Crushed Olive Dressing. Her recipe was so bright and flavorful that I wanted to create a version that worked well for our family. You can eat this chicken with or without the dressing, though we highly recommend the dressing. Either way, you will leave the table with a smile on your face. 
+This recipe is by Alison Roman. Her dish was so bright and flavorful, that I wanted to share how I modified it to our family's liking. You can eat this with or without the olive dressing, though I don't know why you would want to skip it.
