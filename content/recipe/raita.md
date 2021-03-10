@@ -45,4 +45,6 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me about
 
 #### What equipment do I need to make this recipe? 
 
-You will need a food processor or blender. 
+* A small bowl
+* A food processor or blender
+* A knife and cutting board
