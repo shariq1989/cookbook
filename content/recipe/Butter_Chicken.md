@@ -90,3 +90,7 @@ PROTEIN– 26g
 FAT–41g
 
 We suggest serving this butter chicken with a side of cauliflower rice or keto naan. 
+
+#### Can I freeze butter chicken?
+
+Butter chicken freezes well. First, allow the dish to cool completely and add it to a freezer-safe container. It will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop and prepare your sides.
