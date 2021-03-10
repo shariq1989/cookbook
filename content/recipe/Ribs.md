@@ -20,9 +20,9 @@ tags = [
 
 Servings: 4 <!--more-->
 
-Marinating Time: 1 hour
+Preparation Time: 1 hour
 
-Cook Time: 4 hours, 30 minutes
+Cooking Time: 4 hours, 30 minutes
 
 Cuisine: American
 
@@ -59,4 +59,4 @@ For the Ribs:
 
 #### ABOUT THE MEAL 
 
-These ribs come out perfectly every time and there are never leftovers. If you don't have the time to prepare the spice rub suggested in the recipe, we recommend using [Montreal Seasoning](https://amzn.to/3r6PQiA). 
+These ribs are perfect every time and there are never leftovers. If you don't have the time to prepare the spice rub, I recommend using [Montreal Seasoning](https://amzn.to/3r6PQiA). 
