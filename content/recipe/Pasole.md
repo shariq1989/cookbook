@@ -13,14 +13,17 @@ tags = [
     "soup",
     "lowcarb",
     "lchf",
-    "vegetarian"
+    "vegetarian",
+    "thejamilghar"
 ]
 thumbnail= "images/Pasole.jpg"
 +++
 
 Servings: 8 <!--more-->
 
-Cook Time:
+Preparation Time: 15 minutes 
+
+Cooking Time: 1 hour, 20 minutes 
 
 Cuisine: Mexican
 
@@ -37,10 +40,11 @@ For the Pasole:
 * 2½ lb Pork Butt, cut into 1-inch pieces 
 * 1 large White Onion, diced 
 * 6 Garlic Cloves, minced 
-* 4 cup of Water and 2 tbsp [Chicken Better Than Bouillon](https://amzn.to/3uFvZt3) 
+* 4 cup Water
+* 2 tbsp [Chicken Better Than Bouillon](https://amzn.to/3uFvZt3) 
 * 1-29 oz can of Hominy, drained and rinsed 
 
-To Serve: 
+To Garnish: 
 
 * Radishes, thinly sliced
 * Cabbage, shredded     
@@ -52,7 +56,7 @@ To Serve:
   
 #### DIRECTIONS 
 
-1. Heat the oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. 
+1. Heat oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. 
 2. Add a layer of pork to the bottom of the pan and let it brown, 3-4 minutes. Repeat this until all the meat has had a chance to brown. Set aside. 
 3. Next, add the onions to the Instant Pot and cook until they become translucent and soften. 
 4. Combine the remaining ingredients into the Instant Pot, along with the meat. Seal the lid and cook on high pressure for 50 minutes with a quick release. (This cooking time is for high-elevation. Reduce the cooking time for lower elevation). 
@@ -60,6 +64,9 @@ To Serve:
 
 #### ABOUT THE MEAL 
 
-My family makes pasole pretty much any time we are together as a family. Since my sisters are vegetarian, that is how we choose to make it. Here are some adjustments you can make to this recipe in order to make it vegetarian-friendly. 
-1. Replace the Chicken Better than Bouillon with [Vegetable Better than Bouillion](https://amzn.to/3dZTYx1)
-2. Double the hominy. 
+#### Is pasole vegetarian? Is pasole vegan?
+
+My sisters are vegetarian so more often than not, that is how we choose to make it. Here are some adjustments you can make to this recipe in order to make it both vegetarian and vegan friendly. 
+
+* Instead of Chicken Better than Bouillion, use [Vegetable Better than Bouillion](https://amzn.to/3dZTYx1)
+* In place of meat, we double the hominy and use 2- 29 oz cans.  
