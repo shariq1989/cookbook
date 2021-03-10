@@ -43,6 +43,6 @@ Cuisine: Persian
 6. Layer the tabs of butter overtop the rice. Cover with the lid, but do not seal and let the rice stand until the butter infuses with the rice. 
 7. Use a fork fluff the rice and serve.
 
-#### ABOUT THE MEAL 
+#### ABOUT THE DISH 
 
 Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. While expensive, a little goes a long way. As a rule of thumb, I use ½ teaspoon of saffron for every 1 cup of rice. To draw out the richness and fragrance of the saffron, gently mix the stems with a hot liquid, like water, or milk.
