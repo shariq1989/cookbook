@@ -17,7 +17,9 @@ thumbnail= "images/thai_red_curry.jpg"
 
 Servings: 4 <!--more-->
 
-Cook Time: 40 minutes
+Preparation Time: 10 minutes 
+
+Cooking Time: 40 minutes
 
 Cuisine: Thai
 
