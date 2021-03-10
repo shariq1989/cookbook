@@ -17,7 +17,9 @@ tags = [
 
 Servings: 5 <!--more-->
 
-Cook Time: 1 hour
+Preparation Time: 15 minutes 
+
+Cooking Time: 45 minutes
 
 Cuisine: American
 
@@ -56,4 +58,11 @@ For the Cream Cheese Frosting:
 
 #### ABOUT THE MEAL 
 
-Let it be known, I am not a fan of pumpkin. Usually, I turn the other way when offered anything of the pumpkin variety. However, a few Christmases ago our sweet neighbor delivered a pumpkin sweet treat like this and I gave it a try. She got me with that cream cheese frosting. So here is a pumpkin dessert that even pumpkin-haters like myself can enjoy. 
+Let it be known- I am not a fan of pumpkin. However, two Christmases ago, our sweet neighbor delivered a pumpkin treat similar to this one, and to my surprise, I gave it a try. She lured me with the cream cheese frosting, I'm telling you. 
+
+#### What equipment do I need to make this recipe?
+
+* A large and small bowl 
+* A handmixer
+* A jelly roll
+
