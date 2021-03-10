@@ -1,5 +1,5 @@
 +++
-title = "Peruvian Roasted Chicken with Serrano Crema"
+title = "Peruvian Roasted Chicken"
 date = "2020-01-29"
 description = ""
 tags = [
@@ -19,7 +19,9 @@ thumbnail= "images/PeruvianChicken.jpg"
 
 Servings: 4 <!--more-->
 
-Cook Time: 1 hour, 30 minutes
+Preparation Time: 35 minutes 
+
+Cooking Time: 1 hour, 30 minutes
 
 Cuisine: Peruvian
 
@@ -52,9 +54,9 @@ For the Chicken:
 
 #### DIRECTIONS 
 
-For the Crema: 
+For the Serrano Crema: 
 
-1. Combine the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice into a blender until smooth. Add olive oil and stir.
+1. Combine the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice into a food processor until smooth. Add olive oil and stir.
 2. Season with salt and pepper, to taste.
 
 For the Chicken: 
@@ -68,3 +70,14 @@ For the Chicken:
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
 8. Garnish with the Serrano Crema and serrano chilis. 
 9. Serve with cilantro-lime rice. 
+
+#### ABOUT THE MEAL 
+
+#### What equipment do I need to make this recipe?
+
+* 2 small bowls
+* A food processor or blender
+* A rimmed baking sheet 
+* A wire rack 
+* Aluminium foil
+* Cutting board
