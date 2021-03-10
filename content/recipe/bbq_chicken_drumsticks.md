@@ -21,7 +21,7 @@ Servings: 4 <!--more-->
 
 Preparation Time: 6 hours, 20 minutes
 
-Cook Time: 1 hour 30 minutes
+Cooking Time: 1 hour 30 minutes
 
 Cuisine: American
 
