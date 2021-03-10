@@ -1,6 +1,6 @@
 +++
 title = "Beef Qeema- Spiced Minced Beef"
-date = "2020-01-18"
+date = "2021-03-10"
 description = ""
 tags = [
     "beef",
@@ -13,14 +13,17 @@ tags = [
     "pakistani",
     "thejamilghar"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/qeema.jpg"
 +++
+
+Servings: 6 <!--more-->
 
 Preparation Time: 10 minutes 
 
-Cooking Time: 
+Cooking Time: 30 minutes 
 
-Servings: 6 <!--more-->
+Cuisine: Pakistani
+
 
 #### INGREDIENTS 
 
@@ -37,11 +40,11 @@ Servings: 6 <!--more-->
 
 #### DIRECTIONS 
 
-1. Heat ghee over medium heat in two large, heavy-bottomed skillets. Set aside. 
-2. In the first pan, add the diced potatoes. Cook, stirring occasionally, until they become golden brown. 
+1. Heat ghee over medium heat in two large, heavy-bottomed skillets.  
+2. In the first pan, add the diced potatoes. Cook, stirring occasionally, until they become golden brown, about 15 minutes. Set aside.
 3. In the other pan, fry the onions, garlic, ginger, and chili until onions become translucent and soften for about 5 minutes. 
 4. Add the Qeema Masala, stir to coat, and continue cooking for another minute.
-5. Next add the ground beef, breaking it up until it becomes finely minced. Cook until the beef is fulled browned. 
+5. Next add the ground beef, breaking it up until it becomes finely minced. Cook until the beef is fulled browned, about 8 minutes. 
 6. Add the tomatoes and turn up the heat until the mixture bubbles. Reduce the heat and simmer for 10 minutes. 
 7. Stir in the reserved potatoes, 1/2 cup cilantro and salt, to taste. 
 8. Garnish with cilantro and serve with long-grain basmati rice or naan. 
