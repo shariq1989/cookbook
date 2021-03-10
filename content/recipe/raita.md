@@ -48,3 +48,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me about
 * A small bowl
 * A food processor or blender
 * A knife and cutting board
+
+#### What can I do with my leftover raita? 
+
+There are several ways to re-purpose raita, here are a few that come to my mind off the top of my head: use it as a topping for a burger, a veggie, or chip dip, a salad dressing, mix it with leftover rice, or use it as dressing for a pita. 
