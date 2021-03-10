@@ -68,18 +68,16 @@ For the Biryani:
 8. To serve, set out a large serving bowl or plate and layer the biryani mixture from the instant pot on the bottom, followed by a layer of the plain rice from the rice cooker (you can add rice coloring to this for texture and brightness if you choose). Repeat until the ingredients are gone. 
 9. Garnish the dish with reserved fried onion and cilantro. Serve with [raita](https://www.jamilghar.com/recipe/raita/) and enjoy. 
 
-
 #### ABOUT THE MEAL
 
 Craving biryani, but don't have a whole day to prepare it? Try this quick and easy Instant Pot biryani. It has all the flavor and brightness of the ever-popular dish, but this recipe cuts the cooking time in half.  
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me about the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script and you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
-#### Where does biryani orginate? 
+#### Where does biryani originate? 
 
-The word “biryani” is derived from the Persian word, “birian” which means, “fried before cooking.” Makes sense. As a result, many historians believe this delicious dish originated in Persia. So how did this popular meal among Indians and Pakistanis actually arrive in India? Like other famous dishes, biryani was first introduced to North India by the Mughals. They were also the ones credited for bringing pilau and kebabs, and thank goodness for that. 
+The word “biryani” is derived from the Persian word, “biran” which means “fried before cooking.” Many historians attribute this delightful dish to Persia. So how did this popular meal among Indians and Pakistanis arrive in India? Biryani was first introduced to Northern India by the Mughals; they are also credited for bringing pilau and kebabs.
 
 #### Why do I separate the rice in this recipe? 
 
-Since this biryani is made in an Instant Pot, the rice at the bottom can end up a bit sticky so I like to counteract that by reserving rice that is both light and fluffy to mix with it, since that is what Shariq grew up with and tends to appreciate more. If you're in a hurry, you don't need to separate the rice into a rice cooker. If you decide to do this, simply add all of the rice into the Instant Pot and do step #7, but be sure to add all three cups of water to the Instant Pot before cooking. 
-
+Since this biryani recipe is made in an Instant Pot, the rice at the bottom can end up a bit sticky. I counteract that by reserving a portion of rice that is both light and fluffy to mix with it. If you're in a hurry, there's no need to separate the rice. Simply add all of the rice and three cups of water to the Instant Pot before cooking. 
