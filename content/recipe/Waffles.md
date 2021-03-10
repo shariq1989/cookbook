@@ -16,9 +16,9 @@ tags = [
 
 Servings: 4 Waffles <!--more-->
 
-Marinating Time: 30 minutes
+Preparation Time: 30 minutes
 
-Cook Time: 10 minutes
+Cooking Time: 10 minutes
 
 #### INGREDIENTS 
 
@@ -36,3 +36,14 @@ Cook Time: 10 minutes
 1. Mix the ingredients together, one at a time, in a large bowl, then mix well. Let the mixture stand at room temperature for 30 minutes. 
 2. Preheat the [waffle iron](https://amzn.to/3kII2kI). 
 3. Add ¼ cup mix to the waffle iron. 
+
+#### ABOUT THE MEAL 
+
+Fun story, an alternative title for this recipe could be Birthday Waffles since that is really the only time we bust out this recipe. 
+
+#### What equipment do I need to make this recipe?
+
+* A large bowl 
+* A hand-mixer 
+* Measuring cups and spoons 
+* A waffle-maker
