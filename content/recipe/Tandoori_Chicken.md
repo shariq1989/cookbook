@@ -21,7 +21,7 @@ thumbnail= "images/tandoorichicken.jpg"
 
 Servings: 4 <!--more-->
 
-Marinating Time: 24 hours
+Preparation time Time: 24 hours, 15 minutes 
 
 Cook Time: 1 hour, 30 minutes
 
@@ -57,5 +57,7 @@ Cuisine: Indian, Pakistani
 10. Garnish with lemon wedges and serve with [raita](https://www.jamilghar.com/recipe/raita/). 
 
 #### ABOUT THE MEAL 
+
+We love get-togethers with family and friends and these drumsticks are the perfect addition to any cookout, picnic, or backyard gathering.
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me about the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script and you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
