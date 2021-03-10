@@ -56,7 +56,7 @@ For the Cream Cheese Frosting:
 6. When the bars have completely cooled, drizzle them with frosting and sprinkle them with powdered sugar to serve. 
 
 
-#### ABOUT THE MEAL 
+#### ABOUT THE DESSERT 
 
 Let it be known- I am not a fan of pumpkin. However, two Christmases ago, our sweet neighbor delivered a pumpkin treat similar to this one, and to my surprise, I gave it a try. She lured me with the cream cheese frosting, I'm telling you. 
 
