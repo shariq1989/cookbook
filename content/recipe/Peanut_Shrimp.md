@@ -16,7 +16,9 @@ thumbnail= "images/peanutshrimp.jpg "
 
 Servings: 4 <!--more-->
 
-Preparation Time: 30 minutes
+Preparation Time: 10 minutes
+
+Cooking Time: 20 minutes
 
 Cuisine: American
 
@@ -45,3 +47,13 @@ Cuisine: American
 6. Add the remaining teaspoon of oil to the skillet. Add the reserved spice mixture and cook over medium heat until fragrant, about 30 seconds.
 7. Return the shrimp to skillet and add cilantro and lime juice. Toss to combine.
 8. Transfer to a platter, sprinkle with peanuts, and serve with lime wedges.
+
+
+#### ABOUT THE MEAL 
+
+#### What equipment do I need to make this recipe?
+
+* A small bowl 
+* A spice grinder, coffee grinder, or mortar and pestle
+* A large skillet 
+* A pair of tongs
