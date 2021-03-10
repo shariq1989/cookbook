@@ -21,7 +21,7 @@ Servings: 8 <!--more-->
 
 Preparation Time: 20 minutes
 
-Cook Time: 20 minutes
+Cooking Time: 20 minutes
 
 Cuisine: Mexican, American 
 
@@ -48,7 +48,7 @@ For the Tacos:
 * 2 tsp Salt 
 * 3-4 tbsp [Ortegas Taco Seasoning](https://amzn.to/3q8Va3F) 
  
-To Serve: 
+To the Toppings: 
 
 * Shredded Cheddar Cheese
 * Sour Cream
@@ -83,9 +83,13 @@ My family didn’t have a lot of money when I was growing up so we rotated a few
 
 #### What equipment do I need to make this recipe? 
 
-You will need a skillet, a rimmed baking sheet, and a wire rack to make the corn tortillas. You will also need a heavy-bottomed pan to cook the meat. 
+* A small bowl 
+* A skillet
+* A meat chopper
+* A rimmed baking sheet and a wire rack 
+* A heavy-bottomed pan 
 
-#### Can I freeze the beef mixture? 
+#### Can I freeze the beef? 
 
-You sure can. First, allow the meat to cool completely and then add it to a freezer-safe container. It's as easy as that and can freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a meat mixture on the stove and prepare your tortillas and toppings. 
+Yes, first allow the meat to cool completely and then add it to a freezer-safe container. To prevent freezer burn, you can also layer saran wrap over the container before securing the lid. The beef mixture will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your tortillas and toppings. 
 
