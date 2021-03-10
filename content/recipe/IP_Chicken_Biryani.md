@@ -14,13 +14,20 @@ tags = [
     "rice",
     "basmati",
     "instantpotmeals",
-    "recipes"
+    "recipes",
+    "thejamilghar"
   
 ]
 thumbnail= "images/IP_Biryani.jpg"
 +++
 
-Servings: 8-10 <!--more-->
+Servings: 10 <!--more-->
+
+Preparation Time: 40 minutes 
+
+Cooking Time: 20 minutes 
+
+Cuisine: Indian, Pakistani
 
 #### INGREDIENTS 
 
@@ -51,22 +58,22 @@ For the Biryani:
 
 #### DIRECTIONS 
 
-1. In a large bowl, mix the ingredients for the paste. Stir in the chicken, coat evenly, and then refrigerate, 30 minutes. 
-2. Wash and soak the rice in water and set aside, 20 minutes. 
-3. Warm the ghee (2 tbsp) in an [Instant Pot](https://amzn.to/3qfNYCZ) using saute mode. Add the onion, stirring frequently, until the onions brown (not burn or charr). Remove half the onion and set aside for garnish. Then add the cumin seeds, cardomom pods, and star anise, cook for 30 seconds. 
+1. In a large bowl, mix the ingredients for the paste. Stir in the chicken and coat evenly. Refrigerate for 30 minutes. 
+2. Wash and soak the rice in water and set aside for 20 minutes. 
+3. Warm the ghee (2 tbsp) in an [Instant Pot](https://amzn.to/3qfNYCZ) using saute mode. Add the onion, stirring frequently, until the onions brown and caramelize. Remove half of the onion and set aside for garnish. Then add the cumin seeds, cardamom pods, and star anise, cook for 30 seconds. 
 4. Add the chicken and all of the remaining paste to the Instant Pot. Allow the mixture to fry for 3 minutes. 
 5. Press "Cancel" on the Instant Pot and add the remaining ghee, bay leaves, and Thai chilis, if using.
-6. Secure the lid and cook on high pressure for 4 minutes with a quick release. 
-7. Drain the rice and add 1 cup to a rice cooker and cook separately. Add the remaining 2 cups of rice, salt, and 2 cups of water to the Instant Pot. Secure the lid and cook on high pressure for 8 minutes with a quick release (this cooking time is for high elevation. You can reduce the heat for lower elevations). 
-8. To serve, set out a large serving bowl or plate and layer the biryani mixture from the instant pot on the bottom, followed by a layer of the plain rice from the rice cooker (you can add rice coloring to this for texture and brightness if you choose). Repeat until ingredients are gone. 
-9. Garnish the dish with the reserved fried onion, cilantro, and lime wedges. Serve with [raita](https://www.jamilghar.com/recipe/raita/) and enjoy. 
+6. Secure the lid and cook on manual high pressure for 4 minutes with a quick release. 
+7. Drain the rice and add 1 cup to a rice cooker to cook separately. Add the remaining 2 cups of rice, salt, and 2 cups of water to the Instant Pot. Secure the lid and cook on manual high pressure for 8 minutes with a quick release (this cooking time is for high elevation. You can reduce the heat for lower elevations). 
+8. To serve, set out a large serving bowl or plate and layer the biryani mixture from the instant pot on the bottom, followed by a layer of the plain rice from the rice cooker (you can add rice coloring to this for texture and brightness if you choose). Repeat until the ingredients are gone. 
+9. Garnish the dish with reserved fried onion and cilantro. Serve with [raita](https://www.jamilghar.com/recipe/raita/) and enjoy. 
 
 
 #### ABOUT THE MEAL
 
-Craving biryani, but don't have all day to make it? Reach for this quick and easy biryani recipe. You still get all the flavor and brightness of this popular dish, but you cut the cook time in half. 
+Craving biryani, but don't have a whole day to prepare it? Try this quick and easy Instant Pot biryani. It has all the flavor and brightness of the ever-popular dish, but this recipe cuts the cooking time in half.  
 
-Learning to make Indian food is near and dear to my heart. Before meeting Shariq, I had no experience with eating or making Desi food. If you asked me back then what the difference between an Indian or a Thai Curry, I couldn’t have told you. Since then, it has been an honor to study under my mother-in-law, who happens to be a phenomenal cook. She makes meals off-script so you have to watch her closely as she buzzes through the kitchen or you will miss it all. I am continually amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+Before meeting Shariq, I had no experience with Desi food. If you asked me about the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script and you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### Where does biryani orginate? 
 
