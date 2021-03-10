@@ -19,9 +19,11 @@ thumbnail= "images/mushroom-tofu.jpg"
 
 Servings: 4 <!--more-->
 
-Cook Time: 1 hour
+Preparation Time: 
 
-Cuisine: Chinese American
+Cooking Time: 1 hour
+
+Cuisine: Chinese, American
 
 #### INGREDIENTS 
 
@@ -56,3 +58,7 @@ Cuisine: Chinese American
 #### ABOUT THE MEAL 
 
 My sister, who is a fabulous cook, made a similar dish for us after we had our first child. We loved it so much, we decided to make our own. Originally made to be meatless and vegetarian, this dish could easily be made vegan by simply replacing the fish sauce with marmite; this still adds the umami flavor we are going for. 
+
+#### Is Sesame Mushroom and Tofu Stir-Fry vegetarian? Is Sesame Mushroom and Tofu Stir-Fry vegan?
+
+This dish caters to both a vegetarian and vegan way of eating by replacing the fish sauce in the recipe with marmite instead; the marmite adds the umami flavor we are going for with the fish sauce.  
