@@ -18,9 +18,11 @@ tags = [
 
 Servings: 6 <!--more-->
 
-Cook Time: 1 hour 30 minutes
+Preparation Time: 10 minutes
 
-Cuisine: Italian American
+Cooking Time: 1 hour 30 minutes
+
+Cuisine: Italian, American
 
 #### INGREDIENTS 
 
