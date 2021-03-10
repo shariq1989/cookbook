@@ -37,7 +37,7 @@ Cuisine: Indian, Pakistani
 2. Stir in the cucumber. 
 3. Cover and refrigerate until you're ready to serve. 
 
-#### ABOUT THE MEAL 
+#### ABOUT THE SAUCE 
 
 Raita pairs well with Indian dishes like biryani, tandoori chicken, pulao, and channa masala. I also eat it with Persian kebabs and use it as a dressing for salad.
 
