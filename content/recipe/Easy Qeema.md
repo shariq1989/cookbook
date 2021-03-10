@@ -24,7 +24,6 @@ Cooking Time: 30 minutes
 
 Cuisine: Pakistani
 
-
 #### INGREDIENTS 
 
 * 1/2 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
@@ -41,13 +40,13 @@ Cuisine: Pakistani
 
 #### DIRECTIONS 
 
-1. Heat ghee over medium heat in two large, heavy-bottomed skillets.  
-2. In the first pan, add the diced potatoes. Cook, stirring occasionally, until they become golden brown, about 15 minutes. Set aside.
-3. In the other pan, fry the onions, garlic, ginger, and chili until onions become translucent and soften for about 5 minutes. 
+1. Heat ghee over medium heat in two separate heavy-bottomed pans.  
+2. In the first pan, add the diced potatoes. Cook, stirring occasionally until they become golden brown, about 15 minutes. Set them aside.
+3. In the other pan, fry the onions, garlic, ginger, and chilis until the onions become translucent and soften, about 5 minutes. 
 4. Add the Qeema Masala, stir to coat, and continue cooking for another minute.
-5. Next add the ground beef, breaking it up with a meat chopper until it becomes finely minced. Cook until the beef is fulled browned, about 8 minutes. 
-6. Add the tomatoes and turn up the heat until the mixture bubbles. Reduce the heat and simmer for 10 minutes. 
-7. Stir in the reserved potatoes, 1/2 cup cilantro and salt, to taste. 
+5. Next, add the ground beef, breaking it up with a meat chopper until it becomes finely minced. Cook until beef is brown, about 8 minutes. 
+6. Add the tomatoes and turn up the heat until the mixture bubbles. Reduce the heat and simmer for another 10 minutes. 
+7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt, to taste. 
 8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice or naan. 
 
 #### ABOUT THE MEAL 
@@ -62,4 +61,5 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me about
 * A meat chopper
 
 #### Can I freeze qeema?
+
 Yes, first allow the qeema to cool completely and then add it to a freezer-safe container. To prevent freezer burn, you can also layer saran wrap over the container before securing the lid. Qeema will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
