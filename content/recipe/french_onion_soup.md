@@ -23,9 +23,9 @@ thumbnail= "images/FrenchOnion.jpg "
 
 Servings: 4 <!--more-->
 
-Preparation Time: 10 minutes 
+Preparation Time: 15 minutes 
 
-Cook Time: 40 minutes 
+Cooking Time: 1 hour 
 
 Cuisine: French 
 
@@ -82,7 +82,10 @@ French onion soup is a timeless classic and also happens to be on the list of my
 
 #### What equipment do I need to make this recipe? 
 
-You will need an Instant Pot, though you could easily make it on the stovetop with longer cook-times. You will also need 4 oven-safe bowls and a rimmed baking sheet.
+* An Instant Pot, though you could easily make it on the stovetop with longer cook-times. 
+* 4 Oven-safe bowls 
+* A rimmed baking sheet.
+* A cheese grater
 
 #### Is French onion soup vegetarian? Is French onion soup vegan? 
 
@@ -90,7 +93,7 @@ Made traditionally, no. However, making these easy substitutions won't take away
 
 * Butter: Use olive oil or vegan butter to caramelize the onions. 
 
-* Beef Broth: Substitute with a vegetarian broth. I recommend using a mushroom-based broth that will highlight the flavors in the soup. 
+* Beef Broth: Replace with a vegetarian broth. I recommend using a mushroom-based broth that will highlight the flavors in the soup. 
 
 * Fish Sauce: Use either Worcestershire sauce or marmite. 
 
@@ -98,5 +101,5 @@ Made traditionally, no. However, making these easy substitutions won't take away
 
 #### Can I freeze French onion soup? 
 
-You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. It is as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and skip to the, to serve, part of our instructions. 
+Yes, first allow the dish to cool completely and then add it to a freezer-safe container. French onion soup can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and then skip to the "to serve" instructions in this recipe. Enjoy. 
 
