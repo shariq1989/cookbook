@@ -8,7 +8,6 @@ tags = [
     "dinner",
     "chicken",
     "indian", 
-    "british", 
     "international",
     "desi",
     "thejamilghar"
