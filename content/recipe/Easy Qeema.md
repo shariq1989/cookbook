@@ -58,7 +58,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me about
 #### What equipment do I need to make this recipe?
 
 * 2 Heavy-bottomed pans with lids 
-* A meat chopper
+* A [meat chopper](https://amzn.to/2OoDZhv)
 
 #### Can I freeze qeema?
 
