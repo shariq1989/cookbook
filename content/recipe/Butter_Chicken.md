@@ -15,7 +15,7 @@ tags = [
 thumbnail= "images/ButterChickenn.jpg"
 +++
 
-Servings: 4 <!--more-->
+Servings: 2-4 <!--more-->
 
 Preparation Time: 20 minutes 
 
