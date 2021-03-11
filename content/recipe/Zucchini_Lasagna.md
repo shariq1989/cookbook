@@ -30,10 +30,10 @@ Cuisine: Italian, American
 * 3 Garlic Cloves, minced 
 * ½ large Yellow Onion, diced 
 * 1 tbsp Olive Oil, divided
-* 4 large Tomatoes, blended in a food processor 
+* 24 oz can [Pasta Sauce](https://amzn.to/3ve8gQM)
 * 3 medium Zucchini, sliced length-wise 
 * 1 container Cottage Cheese, drained
-* 3 tbsp Fresh Basil, sliced julienne, divided 
+* 3 tbsp Fresh Basil, julienne, divided 
 * 1 Egg 
 * 1 Package Shredded Mozzarella Cheese 
 
@@ -43,7 +43,7 @@ Cuisine: Italian, American
 2. Lightly salt the strips and lay them on a cloth to dry. 
 3. In a large skillet, warm half of the oil over medium heat. 
 4. Add the beef and cook until brown. Drain the excess fluid and set the meat aside. 
-5. Return the pan to medium heat and add the remaining oil. Combine the onions, tomato puree, basil, salt, and pepper. Bring the mixture to a simmer and then add the meat. 
+5. Return the pan to medium heat and add the remaining oil. Combine the onions, pasta sauce, basil, salt, and pepper. Let the mixture simmer and then add the meat. 
 6. Preheat the oven to 375 degrees. 
 7. In a small bowl, mix the cottage cheese and 1 egg. 
 8. Prepare a casserole dish with oil. 
