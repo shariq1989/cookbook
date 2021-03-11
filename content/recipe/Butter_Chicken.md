@@ -25,7 +25,7 @@ Cuisine: Indian
 
 #### INGREDIENTS 
 
-* 1 stick Butter, divided 
+* 1 stick Butter, cubed and divided 
 * 5 [Green Cardamom Pods](https://amzn.to/3tZaNOd), lightly crushed
 * 1 Cinnamon Stick
 * 4 Garlic Cloves, minced
@@ -46,9 +46,9 @@ Cuisine: Indian
 1. In a heavy-bottomed pan, warm 1 1/2 tbsp of butter. Add the green cardamom pods, cinnamon stick, and garlic. Cook until the ingredients begin to sputter.
 2. Add the ginger and green chilies and fry the mixture for 1 minute.
 3. Stir the Kashmiri chili powder, garam masala, cumin, salt, turmeric and tomatoes into the mixture and simmer for about 2 minutes. 
-4. Remove the cinnamon stick and pour the mixture into a food processor. Collect the reserved butter, cut it into cubes and add them to the food processor as well. Blend until smooth. You could also use an immersion blender for this step.  
+4. Remove the cinnamon stick and pour the mixture into a food processor. Blend until smooth. You could also use an immersion blender for this step.  
 5. Return the mixture to the pan. Lower the heat and nestle the chicken thighs into the pan. Allow the dish to maintain a gentle bubble, stirring occasionally, for 25-30 minutes.
-6. Remove from heat and allow the mixture to cool for about 10 before adding the heavy cream- this helps maintain the dish's creaminess. Stir in the cream until it is thoroughly combined. 
+6. Remove from heat and allow the mixture to cool for about 5 before adding the rest of the butter and the heavy cream- this helps maintain the dish's creaminess. Return the pan to a low heat and continuously stir in the butter and cream until it is thoroughly combined. 
 7. Garnish with cilantro and green chilis and serve with basmati rice or naan.
 
 #### ABOUT THE MEAL
