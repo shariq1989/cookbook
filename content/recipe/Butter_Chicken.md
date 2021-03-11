@@ -1,5 +1,5 @@
 +++
-title = "Butter Chicken"
+title = "Murgh Makhani-Butter Chicken"
 date = "2020-01-30"
 description = ""
 tags = [
