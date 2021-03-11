@@ -16,12 +16,15 @@ tags = [
 ]
 thumbnail= "images/MoongDal.jpg"
 +++
+Preparation Time: 10 minutes
+
+Cooking Time: 
 
 Servings: 8 <!--more-->
 
 #### INGREDIENTS 
 
-* 1 cup Moong Dal (Yellow Lentils), rinsed   
+* 1 cup [Moong Dal](https://amzn.to/3rCtNAB), rinsed   
 * 1 1/2 cup water 
 * 1 tsp Kosher salt, to taste
 * 1 1/2 tbsp turmeric, ground 
@@ -46,18 +49,27 @@ For the Tadka:
 
 1. Set an [Instant Pot](https://amzn.to/3qfNYCZ) to saute mode and warm the ghee. 
 2. Add the boriya chili, cumin seed, mustard seed, and curry leaves. 
-3. Once the ingredients begin to sputter, add the onion and green chilis. Fry, stirring regularly, until the onions brown. Reserve half of the onion mixture and set aside at room temperature. 
+3. Once they begin to sputter, add the onion and green chilis. Fry, stirring often, until the onions brown and caramelize. Reserve half of the onion mixture and set aside at room temperature. 
 4. Add the ginger, garlic, turmeric, chili powder, and garam masala to the Instant Pot, give it a quick stir, and then add the tomatoes. Let the mixture simmer, about 2 minutes. 
-5. Combine rinsed moong dal, salt, and water with the other ingredients in the Instant Pot. Stir well, scraping up any leftover bits that may be stuck to the bottom. 
-6. Secure the lid and set the Instant Pot to manual high pressure. Cook for 20 minutes. (This cooking time is for high elevation. Reduce cooking time for lower elevation). 
-7. Allow the Instant Pot to naturally release for 5 minutes and then do a quick release. 
-8. Stir the dal to check the consistency. If it is thicker than desired, add 1/2 cup HOT water before serving. 
-9. Garnish with the reserved onion mixture, cilantro, and extra green chilis, if desired. Serve with long-grained Basmati rice. 
+5. Next, add the rinsed moong dal, salt, and water to the other ingredients in the Instant Pot. Stir well. 
+6. Secure the lid and set the Instant Pot to manual high pressure. Cook for 20 minutes. This cooking time is for high elevation. Reduce cooking time for lower elevation. Allow the Instant Pot to naturally release for 5 minutes and then do a quick release. 
+7. Stir the dal to check the consistency. If it is thicker than desired, add 1/2 cup HOT water before serving. 
+8. Garnish with the reserved onion mixture, cilantro, and extra green chilis, if desired. Serve with long-grained Basmati rice. 
 
 #### ABOUT THE MEAL 
 
+Growing up, Shariq ate this meal regularly throughout the week and in his own words, he hated it. It's funny how much things change as adults because this is now one of the meals he asks me to make for him regularly. 
+
 Before meeting Shariq, I had no experience with Desi food. If you asked me about the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script and you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+
+#### What equipment do I need to make this recipe?
+
+* An [Instant Pot](https://amzn.to/3qCCLwi) 
 
 #### Is Moong Dal Vegan? 
 
-It can be with one simple substitution. Fry the onions in canola oil or vegetable oil instead of ghee. 
+With one substitution, it is. Fry the onions in canola oil or vegetable oil instead of ghee. 
+
+#### Can I freeze Moong Dal? 
+
+Yes, first allow the Moong Dal to cool completely and then get several freezer-safe resealable plastic bags. Scoop a small amount of dal into each plastic bag, making sure to leave a few inches of space so the dish can expand, if needeed. Squeeze out as much air as you can before sealing the bag. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
