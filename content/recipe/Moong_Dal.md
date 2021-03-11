@@ -18,7 +18,7 @@ thumbnail= "images/MoongDal.jpg"
 +++
 Preparation Time: 10 minutes
 
-Cooking Time: 
+Cooking Time: 50 minutes 
 
 Servings: 8 <!--more-->
 
