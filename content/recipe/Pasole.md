@@ -35,7 +35,7 @@ For the Pasole:
 * 1 tbsp Oregano
 * 2 Bay Leaves 
 * 1 tbsp Avocado Oil 
-* ½ can Chipotle in Adobo Sauce 
+* ½ can [Chipotle in Adobo Sauce](https://amzn.to/2OIJBTR)
 * 1-3 Guajillo Chilis, dried
 * 2½ lb Pork Butt, cut into 1-inch pieces 
 * 1 large White Onion, diced 
