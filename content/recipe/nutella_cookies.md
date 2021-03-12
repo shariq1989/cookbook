@@ -13,10 +13,9 @@ tags = [
     "sweettooth", 
     "foodie",
     "thejamilghar"
-    
 ]
-thumbnail= "images/NutellaCookies.jpg
-"
+thumbnail= "images/NutellaCookies.jpg"
+
 +++
 
 Servings: 3 Dozen <!--more-->
