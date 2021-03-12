@@ -39,9 +39,9 @@ Cuisine: Indian, Pakistani
 
 #### ABOUT THE SAUCE 
 
-Raita pairs well with Indian dishes like biryani, tandoori chicken, pulao, and channa masala. I also eat it with Persian kebabs and use it as a dressing for salad.
+Serve raita alongside Indian dishes like biryani, tandoori chicken, pulao, and channa masala. I also eat it with Persian kebabs and use it as a dressing for a salad.
 
-Before meeting Shariq, I had no experience with Desi food. If you asked me about the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script and you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+Before meeting Shariq, I had no experience with Desi food. If you asked me about the difference between an Indian or a Thai Curry, I couldn't have told you, so learning how to cook Indian food is near and dear to my heart. It is an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### What equipment do I need to make this recipe? 
 
@@ -49,6 +49,10 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me about
 * A food processor or blender
 * A knife and cutting board
 
+#### Can I make raita vegan? Can I make raita dairy-free? 
+
+It It may change the taste slightly, but you can absolutely make this recipe with coconut-based yogurt instead. 
+
 #### What can I do with my leftover raita? 
 
-There are several ways to re-purpose raita, here are a few that come to my mind off the top of my head: use it as a topping for a burger, a veggie, or chip dip, a salad dressing, mix it with leftover rice, or use it as dressing for a pita. 
+I don't recommend freezing leftover raita, but it doesn't have to go to waste. You could use the leftovers to top a burger, a dipping sauce, or as a salad dressing. You could also mix it with leftover rice and eat it as is, or use it as dressing for a pita. 
