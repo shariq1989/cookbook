@@ -38,7 +38,7 @@ Cuisine: American
 * 2 tsp Baking Soda
 * 1/2 tsp Salt
 * 1/2 tsp Baking Powder
-* 1/2 cup Nutella 
+* 1/2 cup [Nutella](https://amzn.to/3vgU75p)
 
 #### DIRECTIONS 
 
@@ -48,8 +48,7 @@ Cuisine: American
 4. Add 2-3 dollops of Nutella to the dough, fold it over gently, and then add 2-3 more dallops before folding it again. Then use a knife to swirl the Nutella into the dough. You are not stirring it in. 
 5. Cover the dough and place it in the refrigerator for 30 minutes. 
 6. Preheat the oven to 350 degrees. 
-7. Drop spoonfuls of dough onto a lightly greased baking sheet and bake for 15 minutes. This cooking time is for higher elevation. Reduce the cooking time to 10 minutes for lower elevations. 
-
+7. Drop spoonfuls of dough onto a lightly greased baking sheet and bake for 15 minutes. This cooking time is for higher elevation. Reduce the cooking time to 10 minutes for lower elevation. 
 
 #### ABOUT THIS DESSERT  
 
@@ -58,8 +57,9 @@ I've always loved cooking and baking, but I haven't always been great at it, esp
 #### What equipment do I need to make this recipe?
 
 * 2 large bowls 
-* A hand-mixer 
+* A [hand-mixer](https://amzn.to/3bB2G3c)
 * A baking sheet 
 
-#### Can I freeze the cookie dough? 
-Yes, roll the dough into a ball and place it into a Ziploc bag. Try to clear any air out of the bag before securing it. The cookie dough will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, follow the baking instructions for the recipe. 
+#### Can I freeze the dough? 
+
+Yes, roll the dough into one large ball and place it into a Ziploc bag. Clear any air out of the bag before securing it. The cookie dough will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, follow the baking instructions for the recipe.  
