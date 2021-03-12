@@ -70,19 +70,19 @@ For the Biryani:
 
 #### ABOUT THE MEAL
 
-If you're craving biryani, but don't have a whole day to prepare it, try this quick and easy Instant Pot biryani. It has all the flavor and brightness of the popular dish, but this recipe cuts the cooking time in half.  
+If you are craving biryani, but not the time commitment, try this quick and easy Instant Pot biryani. It has all the flavor and brightness of the popular dish, but this recipe cuts the cooking time in half.  
 
-Before meeting Shariq, I had no experience with Desi food. If you asked me about the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script and you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+Before meeting Shariq, I had no experience with Desi food. If you asked back then if I knew the difference between an Indian or a Thai Curry, I would not have been able to tell you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### Where does biryani originate? 
 
-The word “biryani” is derived from the Persian word “biran” which means “fried before cooking,” as such, many historians believe the flavorful rice dish was born out of Persia. So how did this popular dish arrive in India? Biryani was introduced to Northern India by the Mughals- a group also credited for bringing pilau and kebabs.
+The word “biryani” is derived from the Persian word, “Biran,” which means “fried before cooking,” as such, many historians believe the flavorful rice dish was born out of Persia. So how did this popular dish arrive in India? Biryani was introduced to Northern India by the Mughals- a group also credited for bringing pilau and kebabs.
 
 Like many well-known Indian dishes, biryani varies from region to region. Interestingly, this dish has a unique preparation in almost every area across the subcontinent. 
 
 #### What main ingredients are needed for this meal?
 
-* Long-Grained Basmati Rice: Basmati rice is the star ingredient for any biryani, but how do you choose the right one? I recommend using Royal Chef Secret Basmati Rice, Royal Authentic Basmati Rice, or Daawat Traditional Basmati Rice. 
+* Long-Grained Basmati Rice: Basmati rice is the star ingredient for any biryani, but how do you choose the right one? I recommend using [Royal Chef Secret Basmati Rice](https://amzn.to/3tbFMW20 , [Royal Authentic Basmati Rice](https://amzn.to/3cuai6I) , or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). 
 
 * Biryani Masala: I chose to make a quick and easy biryani masala using a combination of Kashmiri chili powder, garam masala, turmeric, salt, and Laziza Karahi Masala. You can also use a pre-made biryani masala like Shan Biryani Masala to make the recipe even more manageable. 
 
@@ -96,6 +96,10 @@ Like many well-known Indian dishes, biryani varies from region to region. Intere
 #### Can I make chicken biryani vegetarian? Can I make chicken biryani vegan? 
 
 I love biryani because the options for protein are endless. Some of the more common biryanis include boiled eggs, mixed vegetables, or a mixture of the two. If making a mixed vegetable biryani, I suggest using a combination of green beans, cauliflower, carrots, and peas. To make the biryani vegan, you will want to replace the yogurt and the ghee with something more vegan-friendly. I suggest using coconut-based yogurt and vegan butter instead. 
+
+### Can I make chicken biryani non-dairy? 
+
+Yogurt breaks down and tenderizes the meat, so you could directly substitute it with a coconut-based yogurt. Using tomatoes in place of the yogurt could also achieve the same effect. 
 
 #### Why do I separate the rice in this recipe? 
 
