@@ -93,6 +93,10 @@ Like many well-known Indian dishes, biryani varies from region to region. Intere
 * An Instant Pot 
 * A rice cooker 
 
+#### Can I make chicken biryani vegetarian? Can I make chicken biryani vegan? 
+
+I love biryani because the possibilities for proteins are endless. Some of the more common biryanis include boiled eggs, mixed vegetables, or a mixture of the two. If making a mixed vegetable biryani, I suggest using a combination of green beans, cauliflower, carrots, and peas. To make the biryani vegan, you will want to replace the yogurt and the ghee with something more vegan-friendly. I suggest using coconut-based yogurt and vegan butter instead. 
+
 #### Why do I separate the rice in this recipe? 
 
 Since this biryani recipe is made in an Instant Pot, the rice at the bottom can end up a bit sticky. I counteract that by reserving a portion of rice that is both light and fluffy to mix with it. If you're in a hurry, there's no need to separate the rice. Simply add all of the rice and three cups of water to the Instant Pot before cooking. 
