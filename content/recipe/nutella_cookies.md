@@ -28,21 +28,21 @@ Cuisine: American
 
 #### INGREDIENTS 
 
-* 1 cup soft butter
-* 2/3 cup peanut butter (I used crunchy)
-* 1 cup sugar
-* 1 cup brown sugar
-* 2 eggs
-* 2 tsp vanilla
-* 2 2/3 cups all purpose flour
-* 2 tsp baking soda
-* 1/2 tsp salt
-* 1/2 tsp baking powder
+* 1 cup White Sugar
+* 1 cup Brown Sugar
+* 1 cup Soft Butter
+* 2/3 cup Peanut Butter 
+* 2 tsp Vanilla
+* 2 Eggs
+* 2 2/3 cups All-Purpose Flour
+* 2 tsp Baking Soda
+* 1/2 tsp Salt
+* 1/2 tsp Baking Powder
 * 1/2 cup Nutella 
 
 #### DIRECTIONS 
 
-1. In a large bowl, mix the brown and white sugar, then use a hand mixer to blend in the butter and peanut butter until creamy.  
+1. In a large bowl, mix the white and brown sugar, then use a hand mixer to blend in the butter and peanut butter until creamy.  
 2. Stir in the vanilla and beat one egg at a time into the mixture.
 3. In another bowl, whisk together flour, baking soda, salt, and baking powder. Then add it to the wet ingredients. Blend until everything is combined. 
 4. Add 2-3 dollops of Nutella to the dough, fold it over gently, and then add 2-3 more dallops before folding it again. Then use a knife to swirl the Nutella into the dough. You are not stirring it in. 
@@ -52,6 +52,8 @@ Cuisine: American
 
 
 #### ABOUT THIS DESSERT  
+
+I've always loved cooking and baking, but I haven't always been great at it, especially baking. Back then, I wanted so badly to make something people actually wanted to eat, but no matter how much I tried, my attempts always failed. Then something incredible happened, Pinterest. While searching one day, I stumbled upon a Nutella cookie recipe; I was determined to master it. My poor mom and sisters ate cookies for a week straight as I experimented with their recipe to transform it into something tasty. Finally, with a few adjustments for high elevation (I didn't realize this was the issue for far too long) and the addition of peanut butter, this recipe was born. 
 
 #### What equipment do I need to make this recipe?
 
