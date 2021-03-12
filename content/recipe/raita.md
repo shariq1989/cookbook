@@ -13,7 +13,7 @@ tags = [
     "foodie",
     "thejamilghar"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/Raita.jpg "
 +++
 
 Servings: 4 <!--more-->
@@ -28,6 +28,7 @@ Cuisine: Indian, Pakistani
 * 1/3 cup Cilantro, chopped
 * ½ tsp Cumin, ground 
 * ¼ tsp Salt
+* 1 tsbp water
 * 1/4 Cucumber, finely chopped
 * Optional: 1/2 Serrano Chili, finely chopped 
 
