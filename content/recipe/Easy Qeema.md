@@ -1,5 +1,5 @@
 +++
-title = "Beef Qeema- Spiced Minced Beef"
+title = " Aloo Beef Qeema- Spiced Minced Beef"
 date = "2021-03-10"
 description = ""
 tags = [
@@ -51,14 +51,24 @@ Cuisine: Pakistani
 
 #### ABOUT THE MEAL 
 
-This recipe is for an easy and delicious Pakistani qeema. Qeema is perfect for those busy nights where you don't have a lot of time, but you still want to make something tasty. For this recipe, we included potatoes. When we make this at home, we often leave them out entirely. The choice is up to you. If making this dish for guests, I highly recommend including the potatoes and maybe even adding peas for a little body. 
+This recipe is for an easy and delicious Pakistani qeema or keema. This Qeema recipe is perfect for those busy nights where you don't have a lot of time, but you still want to make something tasty. For this recipe, we included potatoes. At home, we often leave them out entirely. The choice is up to you. If making this dish for guests, I highly recommend including the potatoes and maybe even adding peas for a little body. 
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me about the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script and you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+
+#### What main ingredients are needed for this meal? 
+
+* Ground Beef: In Urdu, the word "qeema" means minced. In this case, we are making beef qeema or minced beef. One step you don't want to skip over when making qeema is taking the time to break up the meat. That is why I highly recommend purchasing a meat chopper, plus they are just really satisfying to use.
+
+* Qeema Masala: I am usually a fan of making masalas from scratch, but because this recipe is meant to be quick and easy, I suggest using [Lazika Qeema Masala](https://amzn.to/2Ohfras). We have tried others that are tasty, but this brand is our favorite. 
 
 #### What equipment do I need to make this recipe?
 
 * 2 Heavy-bottomed pans with lids 
 * A [meat chopper](https://amzn.to/2OoDZhv)
+
+#### Can I make qeema vegetarian? Can I make qeema vegan?
+
+Yes, I like The Ultimate Beefless Ground from Gardein. I tried to link it for you all, but they only have it by the case on the Amazon affiliate site, and who needs that? Anyway, you the Beefless Ground in place of the meat. To make the recipe vegan, you will also need to replace the ghee. I suggest using vegan butter because it would have the same or similar effect. 
 
 #### Can I freeze qeema?
 
