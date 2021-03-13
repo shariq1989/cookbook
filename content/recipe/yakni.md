@@ -1,5 +1,5 @@
 +++
-title = "Yakni - Goat Bone Brothe"
+title = "Yakhni - Goat Bone Broth"
 date = "2021-03-13"
 description = ""
 tags = [
