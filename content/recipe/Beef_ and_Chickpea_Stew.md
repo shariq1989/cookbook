@@ -36,12 +36,13 @@ Cuisine: American
 * 2 tbsp Salted Butter
 * 1 Large Yellow Onion, diced 
 * 2 tbsp Tomato Paste
+* 1 tsp Marmite
 * 6 cup Water
 * 1 tbsp Beef Better Than Bouillion
-* 2 to 3 medium Carrots, peeled, halved lengthwise
+* 1 cup Baby Carrots
 * 1- 15½ oz can of Chickpeas, drained and rinsed
 * 3 cup Baby Spinach
-* 3 tbsp Lemon Juice
+* 2 tbsp Lemon Juice
 * Garnish with Plain Yogurt
   
 #### DIRECTIONS 
@@ -49,7 +50,7 @@ Cuisine: American
 1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
 3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes.
-4. Add the tomato paste and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
+4. Add the tomato paste, marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
 5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
 6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
 7. Stir in the chickpeas and spinach and cook until spinach wilts, about 5 minutes. 
@@ -83,5 +84,31 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 
 {{< figure src="/images/about.png" alt="Shariq and Tressa">}}
 
+2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
 
+{{< figure src="/images/about.png" alt="Shariq and Tressa">}}
+
+3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes.
+
+{{< figure src="/images/about.png" alt="Shariq and Tressa">}}
+
+4. Add the tomato paste, marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
+
+{{< figure src="/images/about.png" alt="Shariq and Tressa">}}
+
+5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
+
+{{< figure src="/images/about.png" alt="Shariq and Tressa">}}
+
+6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
+
+{{< figure src="/images/about.png" alt="Shariq and Tressa">}}
+
+7. Stir in the chickpeas and spinach and cook until spinach wilts, about 5 minutes. 
+
+{{< figure src="/images/about.png" alt="Shariq and Tressa">}}
+
+8. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
+
+{{< figure src="/images/about.png" alt="Shariq and Tressa">}}
 
