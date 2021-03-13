@@ -1,5 +1,5 @@
 +++
-title = "Chongqing Laziji- Spicy Fried Chicken"
+title = "Chongqing Laziji - Spicy Fried Chicken"
 date = "2021-02-13"
 description = ""
 tags = [
