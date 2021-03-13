@@ -10,11 +10,19 @@ tags = [
     "dinner",
     "hearty" ,
     "soup",
+    "chuckshortrib",
+    "thejamilghar"
 ]
 #thumbnail= "images/lambchickpeastew.jpg"
 +++
 
-Servings: 4<!--more-->
+Servings: 4-6 <!--more-->
+
+Preparation Time: 15 minutes 
+
+Cooking Time: 1 hour, 45 minutes 
+
+Cuisine: American 
 
 #### INGREDIENTS 
 
@@ -29,6 +37,7 @@ Servings: 4<!--more-->
 * 1 Large Yellow Onion, diced 
 * 2 tbsp Tomato Paste
 * 6 cup Water
+* 1 tbsp Beef Better Than Bouillion
 * 2 to 3 medium Carrots, peeled, halved lengthwise
 * 1- 15½ oz can of Chickpeas, drained and rinsed
 * 3 cup Baby Spinach
@@ -47,7 +56,7 @@ Servings: 4<!--more-->
 8. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
 
-#### ABOUT THE MEAL 
+### ABOUT THE MEAL 
 
 #### What main ingredients are needed for this meal?
 
@@ -61,7 +70,7 @@ Servings: 4<!--more-->
 
 #### Is this stew vegetarian? Is this stew Vegan?
 
-Use potatoes instead of beef in this recipe, or double the chickpea amount. If making the dish vegan, replace the butter with your favorite vegan butter and leave out the yogurt for garnish.
+Use potatoes instead of beef in this recipe, or double the chickpea amount. If making the dish vegan, replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion, and leave out the yogurt for garnish.
 
 #### Can I freeze the beef and chickpea stew? 
 
