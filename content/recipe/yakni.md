@@ -30,7 +30,7 @@ Cuisine: Indian, Pakistani
 
 #### INGREDIENTS 
 
-* 1 tbsp Ghee
+* 1 tbsp [Ghee](https://amzn.to/3vmpBaf)
 * 1 Yellow Onion, diced 
 * 3-5 Garlic Cloved, minced
 * Fresh Ginger, 1-inch piece, julienne 
@@ -46,8 +46,8 @@ Cuisine: Indian, Pakistani
 * 4 cup Water 
 
 #### DIRECTIONS 
-1. In the Instant Pot, warm the ghee on saute mode. Then add the onions and cook until they become translucent and soften. 
-2. While the onions are cooking, add the spices, apart from salt, to the spice infuser. Set aside. 
+1. In the [Instant Pot](https://amzn.to/3qLtTEw), warm the ghee on saute mode. Then add the onions and cook until they become translucent and soften. 
+2. While the onions are cooking, add the spices, apart from salt, to the [spice infuser](https://amzn.to/38zcQ2w). Set aside. 
 3. Add the garlic, ginger, and cinnamon stick to the Instant Pot and let it cook until aromatic. 
 4. Next, add the goat and let it fry, stirring continuously, for about 1 minute. 
 5. Combine the water and salt with the other ingredients and stir. 
@@ -70,6 +70,8 @@ I was not keen on the idea of yakhni when my mother-in-law first offered to make
 
 * An [Instant Pot](https://amzn.to/3rJtgwM)
 * A [spice infuser](https://amzn.to/3lhIYN1)
+* A colander or strainer 
+* A large bowl 
 
 #### Is this stew keto? Is this stew lowcarb?
 
@@ -84,5 +86,3 @@ If you fully strain out the onions in this dish, the net carbs drop to 1g.
 #### Can I freeze the Yakni?
 
 You sure can. As I mentioned, my mother-in-law often made multiple batches of yakhni soup and froze them for me before teaching me how to make the dish. First, allow the yakhni to cool completely and then add it to a freezer-safe container. I prefer to freeze it in individual containers to make defrosting it easier. Yakhni can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the microwave and enjoy. 
-
-### INSTRUCTIONS: STEP-BY-STEP
