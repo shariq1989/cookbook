@@ -36,7 +36,7 @@ Cuisine: American
 * 2 tbsp Salted Butter
 * 1 Large Yellow Onion, diced 
 * 2 tbsp Tomato Paste
-* 1 tsp Marmite
+* 1 tsp [Marmite](https://amzn.to/3cjVzes)
 * 6 cup Water
 * 1 tbsp Beef Better Than Bouillion
 * 1 cup Baby Carrots
