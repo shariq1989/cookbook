@@ -77,3 +77,4 @@ Channa masala caters well to both a vegetarian and vegan diet. To make this part
 #### Can I freeze channa masala? 
 
 Yes, first allow the dish to cool completely and then add it to a freezer-safe container. Channa masala will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop and enjoy. 
+
