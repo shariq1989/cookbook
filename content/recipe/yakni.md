@@ -7,7 +7,7 @@ tags = [
     "goat",
     "bonebroth",
     "indian",
-    "pakistano",
+    "pakistani",
     "desi",
     "dinner",
     "healthy",
