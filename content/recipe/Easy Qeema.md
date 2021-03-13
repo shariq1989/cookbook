@@ -13,7 +13,7 @@ tags = [
     "pakistani",
     "thejamilghar"
 ]
-thumbnail= "images/qeema.jpg"
+thumbnail= "images/qeema (2).jpg"
 +++
 
 Servings: 6 <!--more-->
