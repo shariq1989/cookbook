@@ -1,5 +1,5 @@
 +++
-title = "Channa Masala- Spiced Chickpea Curry"
+title = "Channa Masala - Spiced Chickpea Curry"
 date = "2021-03-01"
 description = ""
 tags = [
