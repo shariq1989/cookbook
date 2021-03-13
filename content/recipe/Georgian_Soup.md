@@ -1,5 +1,5 @@
 +++
-title = "Chikhirtma- Georgian Chicken Soup"
+title = "Chikhirtma - Georgian Chicken Soup"
 date = "2020-01-18"
 description = ""
 tags = [
