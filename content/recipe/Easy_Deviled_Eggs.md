@@ -1,5 +1,5 @@
 +++
-title = "Easy Deviled Eggs"
+title = "Deviled Eggs"
 date = "2020-01-18"
 description = ""
 tags = [
