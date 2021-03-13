@@ -81,7 +81,7 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 
 1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside.
 
-{{< figure src="/images/about.png" alt="Shariq and Tressa" class="aboutFigure">}}
+{{< figure src="/images/about.png" alt="Shariq and Tressa">}}
 
 
 
