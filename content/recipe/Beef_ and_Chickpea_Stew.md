@@ -1,6 +1,6 @@
 +++
 title = "Beef and Chickpea Stew"
-date = "2020-01-27"
+date = "2021-03-12"
 description = ""
 tags = [
     "beef",
