@@ -46,8 +46,8 @@ For the Homemade Hoisin Sauce:
 * 1 tsp Ginger Paste 
 * 1 1/2 tbsp Sesame Oil 
 * 1 1/2 tbsp Rice Wine Vinegar 
-* 1 1/2  tbsp Monkfruit Sweetener or Honey 
-* 1 tbsp Natural Almond Butter 
+* 1 1/2 tbsp [Monk Fruit Sweetener](https://amzn.to/38Bp8aG) or Honey 
+* 1 tbsp Natural [Almond Butter Powder](https://amzn.to/3laVGgE)
 
 #### DIRECTIONS 
 
