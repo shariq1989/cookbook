@@ -12,7 +12,7 @@ tags = [
     "desi",
     "thejamilghar"
 ]
-thumbnail= "images/ButterChickenn.jpg"
+thumbnail= "images/ButterChicken (2).jpg"
 +++
 
 Servings: 2-4 <!--more-->
