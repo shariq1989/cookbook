@@ -26,8 +26,8 @@ Cuisine: American
 
 #### INGREDIENTS 
 
-* 1 tsp [Sweet Paprika](https://amzn.to/30GYLeZ)
-* 2 tsp Cumin, ground
+* 1 tbsp [Sweet Paprika](https://amzn.to/30GYLeZ)
+* 2 tbsp Cumin, ground
 * 1 tsp Green Cardamom, ground
 * 1 tsp Cinnamon, ground
 * Kosher Salt and Ground Black Pepper, to taste
@@ -65,12 +65,12 @@ Cuisine: American
 #### What equipment do I need to make this recipe?
 
 * A small bowl 
-* A [large dutch oven](https://amzn.to/38xuVO8) 
+* A large [dutch oven](https://amzn.to/38xuVO8) 
 * A pair of [tongs](https://amzn.to/2OqsiXM)
 
 #### Is this stew vegetarian? Is this stew Vegan?
 
-Use potatoes instead of beef in this recipe, or double the chickpea amount. If making the dish vegan, replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion, and leave out the yogurt for garnish.
+Use potatoes instead of beef in this recipe, or double the chickpea amount. If vegan, replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
 
 #### Can I freeze the beef and chickpea stew? 
 
