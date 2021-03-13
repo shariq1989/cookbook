@@ -1,5 +1,5 @@
 +++
-title = " Instant Pot Soupe à L'Oignon - French Onion Soup "
+title = "Instant Pot Soupe à L'Oignon - French Onion Soup "
 date = "2021-02-14"
 description = ""
 tags = [

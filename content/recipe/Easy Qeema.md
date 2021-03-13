@@ -1,5 +1,5 @@
 +++
-title = " Aloo Beef Qeema- Spiced Minced Beef"
+title = "Aloo Beef Qeema- Spiced Minced Beef"
 date = "2021-03-10"
 description = ""
 tags = [
