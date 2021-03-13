@@ -12,7 +12,7 @@ tags = [
     "international",
     "coconut"
 ]
-thumbnail= "images/thai_red_curry.jpg"
+thumbnail= "images/ThaiRedCurry.jpg"
 +++
 
 Servings: 4 <!--more-->
