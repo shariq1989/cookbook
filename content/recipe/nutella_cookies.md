@@ -14,7 +14,7 @@ tags = [
     "foodie",
     "thejamilghar"
 ]
-thumbnail= "images/NutellaCookies.jpg"
+thumbnail= "images/PButterandNutellaCookie.jpg"
 
 +++
 
