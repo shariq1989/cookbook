@@ -49,7 +49,7 @@ Cuisine: American
 
 1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
-3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes.
+3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
 4. Add the tomato paste, marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
 5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
 6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
@@ -57,7 +57,7 @@ Cuisine: American
 8. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
 
-### ABOUT THE MEAL 
+### ABOUT THE MEAL
 
 #### What main ingredients are needed for this meal?
 
@@ -76,7 +76,6 @@ Use potatoes instead of beef in this recipe, or double the chickpea amount. If v
 #### Can I freeze the beef and chickpea stew? 
 
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The beef and chickpea stew can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm on the stovetop, and enjoy! 
-
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
