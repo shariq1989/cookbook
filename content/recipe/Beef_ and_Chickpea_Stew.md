@@ -13,7 +13,7 @@ tags = [
     "chuckshortrib",
     "thejamilghar"
 ]
-#thumbnail= "images/lambchickpeastew.jpg"
+thumbnail= "images/beefandchickpea.jpg"
 +++
 
 Servings: 4-6 <!--more-->
