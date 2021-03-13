@@ -1,6 +1,6 @@
 +++
 title = "Channa Masala- Spiced Chickpea Curry"
-date = "2021-03-06"
+date = "2021-03-01"
 description = ""
 tags = [
     "curry",
