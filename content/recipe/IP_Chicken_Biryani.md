@@ -97,7 +97,7 @@ Like many well-known Indian dishes, biryani varies from region to region. Intere
 
 I love biryani because the options for protein are endless. Some of the more common biryanis include boiled eggs, mixed vegetables, or a mixture of the two. If making a mixed vegetable biryani, I suggest using a combination of green beans, cauliflower, carrots, and peas. To make the biryani vegan, you will want to replace the yogurt and the ghee with something more vegan-friendly. I suggest using coconut-based yogurt and vegan butter instead. 
 
-### Can I make chicken biryani non-dairy? 
+#### Can I make chicken biryani non-dairy? 
 
 Yogurt breaks down and tenderizes the meat, so you could directly substitute it with a coconut-based yogurt. Using tomatoes in place of the yogurt could also achieve the same effect. 
 
