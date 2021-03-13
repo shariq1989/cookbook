@@ -1,6 +1,6 @@
 +++
 title = "Yakni - Goat Bone Brothe"
-date = "2021-02-28"
+date = "2021-03-13"
 description = ""
 tags = [
     "yakni",
@@ -17,7 +17,7 @@ tags = [
     "thejamilghar"
     
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/Yahkni.jpg"
 +++
 
 Servings: 5 <!--more-->
