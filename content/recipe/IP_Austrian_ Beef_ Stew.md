@@ -9,10 +9,11 @@ tags = [
     "lunch",
     "dinner",
     "instantpot",
-    "pressure cooker",
-    "pressure cooking",
+    "pressurecooker",
+    "pressurecooking",
     "gulash",
-    "hearty"
+    "hearty",
+    "thejamilghar"
 ]
 #thumbnail= "images/rindsgulasch.jpg"
 +++
