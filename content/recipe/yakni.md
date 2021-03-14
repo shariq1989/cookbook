@@ -62,6 +62,8 @@ Cuisine: Indian, Pakistani
 
 I was not keen on the idea of yakhni when my mother-in-law first offered to make it for me. I was pregnant with our daughter, and I had been hospitalized twice due to sickness and dehydration.  I couldn't keep down any food because almost everything I tried to eat made me nauseous. I finally gave in and let her make it for me, and I am forever grateful. It ended up being a meal I ate daily throughout my pregnancy. My mother-in-law would make it in large batches and freeze it for me when she would come to visit. Even now, there are few things more comforting than a steaming bowl of Yakhni. 
 
+Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+
 #### What main ingredients are needed for this meal?
 
 * Bones: The main ingredient of yakhni are the nutrients that come from bones, so as long as you have bones, it will be tasty. We prefer goat meat and bones because we re-purpose the goat meat to make a separate dish, called yakhni pulao. Essentially, we get two meals out of one. 
@@ -91,4 +93,4 @@ Yakhni is highly nutritious and a meal all on its own. It has soothing qualities
 
 #### Can I freeze the Yakni?
 
-You sure can. As I mentioned, my mother-in-law often made multiple batches of yakhni soup and froze them for me before teaching me how to make the dish. First, allow the yakhni to cool completely and then add it to a freezer-safe container. I prefer to freeze it in individual containers to make defrosting it easier. Yakhni can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the microwave and enjoy. 
+You sure can. As I mentioned, my mother-in-law often made multiple batches of yakhni soup and froze them for me before teaching me how to make it on my own. First, allow the yakhni to cool completely and then add it to a freezer-safe container. I prefer to freeze it in individual containers to make defrosting it easier. Yakhni can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the microwave and enjoy. 
