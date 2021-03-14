@@ -70,19 +70,19 @@ Singapore noodles are another dish we tried at a restaurant and decided we neede
 
 #### Where do Singapore noodles originate? 
 
-It's not entirely clear where Singapore noodles originate. Many sources say Hong Kong, despite its name. Regardless, what I love about this dish is that the flavors are heavily-influenced by so many different regions: Cantonese, British, Indo-Chinese, and of course, American. 
+It's not entirely clear where Singapore noodles began. Many sources say Hong Kong, despite their name. Regardless, I love that the flavors in this dish are heavily-influenced by so many people-groups: Cantonese, British, Indo-Chinese, and of course, American. 
 
 #### What main ingredients are needed for this meal?
 
-* Thin Rice Noodles: Noodles are the star of this dish, so the kind of noodle you use is very important; we use [vermicelli rice noodles](https://amzn.to/2OvmDQ3), which are opaque in color, not clear. 
+* Thin Rice Noodles: Noodles are the star of this dish, so the type of noodle used is essential; we use [vermicelli rice noodles](https://amzn.to/2OvmDQ3), which are opaque in color.
 
-* Shrimp: We first had Singapore noodles in a restaurant and they served it with shrimp so that is what we use, but you could also use prawns. 
+* Shrimp: We had Singapore noodles for the first time in a Chinese restaurant; they served it with shrimp, so do we, but you could also use prawns. 
 
-* Chinese BBQ Pork: Singapore noodles are traditionally made with Chinese BBQ pork. We made the decision not to include them.   
+* Chinese BBQ Pork: Singapore noodles traditionally include Chinese BBQ pork. We made the decision not to incorporate them.   
 
 * Vegetables: We chose to go the traditional route with red bell peppers, onions, snow peas, and carrots, but you can use whatever vegetables you have on hand. 
 
-* Yellow Curry Powder: You will want to use [Madras yellow curry](https://amzn.to/3lcVSfn) to flavor this dish.   
+* Yellow Curry Powder: Curry powder gives Singapore noodles their vibrant, yellow color. You will want to use [Madras yellow curry](https://amzn.to/3lcVSfn) to flavor this dish.   
 
 #### What equipment do I need to make this recipe?
 
@@ -92,4 +92,4 @@ It's not entirely clear where Singapore noodles originate. Many sources say Hong
 
 #### Can you freeze Singapore noodles? 
 
-No, cooked vermicelli noodles are mushy when thawed. 
+No, cooked vermicelli noodles wind up mushy when thawed. 
