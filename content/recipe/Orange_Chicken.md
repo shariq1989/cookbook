@@ -83,7 +83,11 @@ To Serve:
 
 ### ABOUT THE MEAL
 
-On the occasion that I go out of town without my family, my husband and children have a little tradition of getting Panda Express, which they will continue to eat as leftovers the entire time I am away. Because of this delightful custom, the kids regularly ask me when I plan to leave them alone with baba. Needless-to-say, I felt compelled to make myself irreplaceable, hence this recipe. Now mama can bring Panda to them. 
+On the occasion that I go out of town without my family, my husband and children have a little tradition of getting Panda Express, which they will continue to eat as leftovers the entire time I am away. Because of this delightful custom, the kids regularly ask me when I plan to leave them alone with baba. Needless-to-say, I felt compelled to make myself irreplaceable, hence this recipe. Now mama can bring Panda Express to them. 
+
+#### Where does orange chicken originate?
+
+Orange chicken is famous in the United States, thanks in large part to Panda Express. The orange chicken dish includes flavors inspired by cooking in the Hunan Province in China, but it is very much a Chinese-American dish.  
 
 #### What main ingredients are needed for this meal?
 
@@ -110,4 +114,4 @@ Yes, simply replace the all-purpose flour with chickpea flour or add more cornst
 
 #### Can I freeze orange chicken?
 
-Yes, if you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate except when dishing up individual plates. Freeze the sauce and chicken separately in freezer-safe containers. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, warm the chicken in the oven and heat the sauce in a pan. Toss the chicken with the sauce and enjoy. 
+Yes, if you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate except when dishing up individual plates. Freeze the sauce and chicken separately in freezer-safe containers. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, reheat the chicken in the oven and warm the sauce in a pan. Toss the chicken with the sauce and enjoy. 
