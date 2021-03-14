@@ -11,6 +11,7 @@ tags = [
     "americanasianfood", 
     "asiancooking",
     "recipes",
+    "pandaexpress",
     "thejamilghar"
 ]
 thumbnail= "images/orangechicken.jpg "
@@ -45,32 +46,37 @@ For the Fried Chicken:
 
 For the Sauce:
 
+* 1 1/2 tbsp Ginger Paste
+* 2 tsp Garlic, minced
 * 3 tbsp Rice Wine Vinegar
-* 1/2 cup Fresh Orange Juice, about 3 oranges
+* 1/2 cup Fresh Orange Juice, 1-2 oranges
 * 1 tsp Sesame Oil
 * 3 tbsp Soy Sauce
 * 1/2 cup Sugar
 * 2 tbsp White Vinegar
 * Orange Zest 
-* 1 1/2 tbsp Ginger Paste
-* 2 tsp Garlic, minced
 * 1/2 tsp Red Chili Flakes
 * 1 tbsp Corn Starch
 * 1 tsp Toasted Sesame Seeds 
 
 #### DIRECTIONS 
 
-1. In a large bowl, combine the ingredients for the marinade: rice wine vinegar, sugar, beaten egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir the mixture until the sugar fully dissolves. Add chicken to the bowl and stir to coat, cover. Marinate in the refrigerator for 30 minutes.
+For the Chicken: 
+
+1. In a large bowl, combine the ingredients for the marinade: rice wine vinegar, sugar, egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir the mixture until the sugar fully dissolves. Add the chicken to the bowl, stir to coat, and cover. Let the chicken marinate in the refrigerator for 30 minutes.
 2. Meanwhile, set the wire racks into the rimmed baking sheets.
-3. In another large bowl, stir together the cornstarch and flour.
+3. In another large bowl, mix the corn starch and flour.
 4. Remove the marinated chicken and leave it to drain in a colander for about 1-2 minutes.
-5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess cornstarch and transfer them to one of the prepared racks. Repeat with the remaining chicken.
-6. In a large dutch oven, over medium heat, warm the oil to 375 degrees. Add half of the coated chicken in a single layer and cook until both sides turn light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other prepared wire rack.
+5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess corn starch and transfer them to one of the prepared racks. Repeat with the remaining chicken.
+6. In a large dutch oven, over medium heat, warm the oil to 375 degrees. Add half the coated chicken in a single layer and cook until both sides turn a light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other wire rack.
 7. Allow the oil to reach 375 degrees again and repeat with the remaining chicken. 
-8. Prepare a heavy-bottomed pan and add the ginger and garlic pastes and cook for 10 seconds.
-9. Next, add rice wine vinegar, water, sesame oil, soy sauce, sugar, white vinegar, and orange zest. Bring the mixture to a simmer for about 5 minutes. 
-10. Reduce the heat and stir in the cornstarch (1 tbsp), then add the fried chicken to the mixture. Stir to combine.
-11. Garnish with the toasted sesame seeds and serve with jasmine rice. 
+
+For the Sauce: 
+
+1. Prepare a heavy-bottomed pan with oil and add the ginger paste and garlic. Cook for 10 seconds, until aromatic
+2. Next, add rice wine vinegar, fresh orange juice, sesame oil, soy sauce, sugar, white vinegar, red chili flakes, and orange zest. Allow the mixture to simmer for about 5 minutes. 
+3. Reduce the heat and stir in the corn starch (1 tbsp), then add the fried chicken to the mixture. Stir to combine. If you plan to freeze leftovers, keep the chicken and sauce separate. Instead, add the chicken to the individual plates and pour the sauce overtop. Stir to combine on each plate. 
+4. Garnish with toasted sesame seeds and serve with jasmine rice. 
 
 ### ABOUT THE MEAL
 
