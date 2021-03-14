@@ -76,7 +76,10 @@ For the Sauce:
 1. Prepare a heavy-bottomed pan with oil and add the ginger paste and garlic. Cook for 10 seconds, until aromatic
 2. Next, add rice wine vinegar, fresh orange juice, sesame oil, soy sauce, sugar, white vinegar, red chili flakes, and orange zest. Allow the mixture to simmer for about 5 minutes. 
 3. Reduce the heat and stir in the corn starch (1 tbsp), then add the fried chicken to the mixture. Stir to combine. If you plan to freeze leftovers, keep the chicken and sauce separate. Instead, add the chicken to the individual plates and pour the sauce overtop. Stir to combine on each plate. 
-4. Garnish with toasted sesame seeds and serve with jasmine rice. 
+
+To Serve: 
+
+1. Garnish with toasted sesame seeds and serve with jasmine rice. 
 
 ### ABOUT THE MEAL
 
@@ -84,11 +87,11 @@ On the occasion that I go out of town without my family, my husband and children
 
 #### What main ingredients are needed for this meal?
 
-* Chicken: I use chicken thighs since dark meat is naturally more flavorful than white meat. You can use chicken breast if you prefer.
+* Chicken: I use chicken thighs since dark meat is more flavorful than white meat. You can use chicken breast if you prefer.
 
 * Oranges: I love using fresh ingredients whenever possible, but that is especially true of this dish. I love the sweet, citrus flavor real oranges produce in the sauce.  Pro-Tip: Taste your oranges before squeezing to ensure they are sweet instead of sour. You could use store-bought orange juice, but I feel that fresh oranges are the way to go. 
 
-* Rice Wine Vinegar and White Vinegar: Part of cooking well is learning to balance flavors. I have zero professional culinary experience, but books like The Food Lab have helped me grow in this area. The oranges deliver sweetness to the sauce; we counter that with vinegar. I am telling you that this sauce wouldn't be the same without the bite vinegar brings with it. Some people use only rice wine vinegar. I prefer to use a combination of rice wine and white vinegar. 
+* Rice Wine Vinegar and White Vinegar: Part of cooking well is learning to balance flavors. I have zero professional culinary experience, but books like [The Food Lab](https://amzn.to/3ezumr7) have helped me grow in this area. The oranges deliver sweetness to the sauce; we counter that with vinegar. I am telling you that this sauce wouldn't be the same without the bite vinegar brings with it. Some people use only rice wine vinegar. I prefer to use a combination of rice wine and white vinegar. 
 
 #### What equipment do I need to make this recipe?
 
