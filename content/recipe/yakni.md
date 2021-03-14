@@ -35,12 +35,14 @@ Cuisine: Indian, Pakistani
 * 3-5 Garlic Cloved, minced
 * Fresh Ginger, 1-inch piece, julienne 
 * 1 Cinnamon Stick 
-* 2 Black Cardamon Pods 
-* 2 Green Cardamon Pods
-* 4 Cloves 
-* 1 tsp Cumin Seeds 
+* 1 Thai Green Chili, slit lengthwise
+* 3 Black Cardamom Pods, lightly crushed 
+* 2 Green Cardamom Pods
+* 3 Cloves 
+* 1 tbsp Cumin Seeds 
 * 1 tsp Coriander Seeds 
 * 1 Star Anise 
+* 2 Bay Leaves 
 * 1 tsp Salt 
 * 1 lb Goat, cut into 1-inch pieces, bone-in, plus extra bones if you have them 
 * 4 cup Water 
@@ -48,7 +50,7 @@ Cuisine: Indian, Pakistani
 #### DIRECTIONS 
 1. In the [Instant Pot](https://amzn.to/3qLtTEw), warm the ghee on saute mode. Then add the onions and cook until they become translucent and soften. 
 2. While the onions are cooking, add the spices, apart from salt, to the [spice infuser](https://amzn.to/38zcQ2w). Set aside. 
-3. Add the garlic, ginger, and cinnamon stick to the Instant Pot and let it cook until aromatic. 
+3. Add the garlic, ginger, green chili, and cinnamon stick to the Instant Pot and let it cook until aromatic. 
 4. Next, add the goat and let it fry, stirring continuously, for about 1 minute. 
 5. Combine the water and salt with the other ingredients and stir. 
 6. Lastly, add the spice infuser to the Instant Pot, secure the lid, and cook on manual high pressure for 1 hour with a quick release. 
@@ -62,9 +64,9 @@ I was not keen on the idea of yakhni when my mother-in-law first offered to make
 
 #### What main ingredients are needed for this meal?
 
-* Goat: You can use any meat for yakhni soup. We prefer goat because we can re-purpose it to make yakhni pulao, so you get two dishes out of one. 
+* Bones: The main ingredient of yakhni are the nutrients that come from bones, so as long as you have bones, it will be tasty. We prefer goat meat and bones because we re-purpose the goat meat to make a separate dish, called yakhni pulao. Essentially, we get two meals out of one. 
 
-* Yakhni Masala: I make homemade yakhni masala with whole spices. I sometimes play with the blend, but this one is always tasty: Black Cardamon Pods, Green Cardamon Pods, 4 Cloves, Cumin Seeds, Coriander Seeds, Star Anise, and Salt.  
+* Yakhni Masala: I make homemade yakhni masala with whole spices. I sometimes play with the blend, but this one is always tasty: Black Cardamon Pods, Green Cardamon Pods, 4 Cloves, Cumin Seeds, Coriander Seeds, Star Anise, Bay Leaves, and Salt.   
 
 #### What equipment do I need to make this recipe?
 
@@ -73,7 +75,7 @@ I was not keen on the idea of yakhni when my mother-in-law first offered to make
 * A colander or strainer 
 * A large bowl 
 
-#### Is this stew keto? Is this stew lowcarb?
+#### Is this soup keto? Is this soup lowcarb?
 
 Yakhni pulao is keto and low-carb and packed full of nutrients that help with the common keto flu. We even calculated the macros to make it easier for you. 
 
