@@ -60,18 +60,20 @@ For the Dish:
 #### DIRECTIONS 
 
 1. In a large bowl, combine the ingredients for the marinade: rice wine vinegar, sugar, beaten egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir the mixture until the sugar fully dissolves. Add chicken to the bowl and stir to coat, cover. Marinate in the refrigerator for 30 minutes.
-2. Meanwhile, set 2 wire racks into 2 rimmed baking sheets.
+2. Meanwhile, set the wire racks into the rimmed baking sheets.
 3. In another large bowl, stir together the cornstarch and flour.
 4. Remove the marinated chicken and leave it to drain in a colander for about 1-2 minutes.
-5. Add 1/3 of the chicken to the cornstarch mixture and toss to coat completely, pressing the pieces into the mixture. Shake the pieces to remove any excess cornstarch and transfer them to one of the prepared racks. Repeat with the remaining chicken.
+5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess cornstarch and transfer them to one of the prepared racks. Repeat with the remaining chicken.
 6. In a large dutch oven, over medium heat, warm the oil to 375 degrees. Add half of the coated chicken in a single layer and cook until both sides turn light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other prepared wire rack.
-8. Allow the oil to reach 375 degrees again and repeat with the remaining chicken. 
-9. Prepare a heavy-bottomed pan and add the ginger and garlic pastes, cook for about 10 seconds.
-10. Next add the rice wine vinegar, water, sesame oil, soy sauce, sugar, white vinegar, and orange zest. Bring the mixture to a simmer, stirring frequently, so the mixture does not burn or stick, about 5 minutes. 
-11. Reduce the heat and stir in the cornstarch (1 tbsp) and then add the fried chicken to the mixture. Stir to combine.
-12. Garnish with the toasted sesame seeds and serve with jasmine rice. 
+7. Allow the oil to reach 375 degrees again and repeat with the remaining chicken. 
+8. Prepare a heavy-bottomed pan and add the ginger and garlic pastes and cook for 10 seconds.
+9. Next, add rice wine vinegar, water, sesame oil, soy sauce, sugar, white vinegar, and orange zest. Bring the mixture to a simmer for about 5 minutes. 
+10. Reduce the heat and stir in the cornstarch (1 tbsp), then add the fried chicken to the mixture. Stir to combine.
+11. Garnish with the toasted sesame seeds and serve with jasmine rice. 
 
-#### ABOUT THE MEAL
+### ABOUT THE MEAL
+
+On the occasion that I go out of town without my family, my husband and children have a tradition of getting Panda Express, that they will proceed to eat as leftovers the entire time I am away. Because of this delightful custom, the kids regularly ask me when I plan to leave them with baba. Needless-to-say, I felt compelled to make myself irreplaceable, hence this recipe. Now mama can bring Panda to them. 
 
 #### What equipment do I need to make this recipe?
 
@@ -83,4 +85,5 @@ For the Dish:
 * A food thermometer 
 * A slotted spoon 
 * A heavy-bottomed pan 
+
 
