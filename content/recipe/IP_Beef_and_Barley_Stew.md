@@ -9,11 +9,12 @@ tags = [
     "hearty",
     "beef",
     "instantpot",
-    "pressure cooker",
-    "pressure cooking",
+    "pressurecooker",
+    "pressurecooking",
     "barley",
     "rich",
-    "savory"
+    "savory",
+    "thejamilghar"
 ]
 thumbnail= "images/BeefandBarley.jpg "
 +++
