@@ -53,3 +53,13 @@ Cuisine: Italian, American
 12. Cover the casserole dish with aluminum foil and bake for 45 minutes. 
 13. Uncovered, bake for another 15 minutes. 
 14. Let stand and cool before serving. 
+
+### ABOUT THE MEAL 
+
+#### Is zucchini lasagna keto? Is zuchinni lasagna low-carb? 
+
+This dish is a low-carb alternative, but this recipe likely won't fit into your keto macros. We took the time to calculate the macros to make it easier.
+
+CARBS– 
+PROTEIN– 
+FAT– 
