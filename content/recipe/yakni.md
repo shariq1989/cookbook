@@ -1,5 +1,5 @@
 +++
-title = "Yakhni - Goat Bone Broth"
+title = " Instant Pot Yakhni - Goat Bone Broth"
 date = "2021-03-13"
 description = ""
 tags = [
