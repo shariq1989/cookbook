@@ -82,7 +82,7 @@ Like many well-known Indian dishes, biryani varies from region to region. Intere
 
 #### What main ingredients are needed for this meal?
 
-* Long-Grained Basmati Rice: Basmati rice is the star ingredient for any biryani, but how do you choose the right one? I recommend using [Royal Chef Secret Basmati Rice](https://amzn.to/3tbFMW20 , [Royal Authentic Basmati Rice](https://amzn.to/3cuai6I) , or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). 
+* Long-Grained Basmati Rice: Basmati rice is the star ingredient for any biryani, but how do you choose the right one? I recommend using [Royal Chef Secret Basmati Rice](https://amzn.to/3tbFMW20) , [Royal Authentic Basmati Rice](https://amzn.to/3cuai6I) , or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). 
 
 * Biryani Masala: I chose to make a quick and easy biryani masala using a combination of Kashmiri chili powder, garam masala, turmeric, salt, and Laziza Karahi Masala. You can also use a pre-made biryani masala like Shan Biryani Masala to make the recipe even more manageable. 
 
