@@ -68,7 +68,7 @@ For the Biryani:
 8. To serve, set out a large serving bowl or plate and layer the biryani mixture from the instant pot on the bottom, followed by a layer of the plain rice from the rice cooker (you can add rice coloring to this for texture and brightness if you choose). Repeat until the ingredients are gone. 
 9. Garnish the dish with reserved fried onion and cilantro. Serve with [raita](https://www.jamilghar.com/recipe/raita/) and enjoy. 
 
-#### ABOUT THE MEAL
+### ABOUT THE MEAL
 
 If you are craving biryani, but not the time commitment, try this quick and easy Instant Pot biryani. It has all the flavor and brightness of the popular dish, but this recipe cuts the cooking time in half.  
 
