@@ -89,3 +89,7 @@ It's not entirely clear where Singapore noodles originate. Many sources say Hong
 * 2 small bowls 
 * 1 large bowl 
 * Wok or non-stick skillet 
+
+#### Can you freeze Singapore noodles? 
+
+No, cooked vermicelli noodles are mushy when thawed. 
