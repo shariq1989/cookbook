@@ -87,7 +87,7 @@ On the occasion that I go out of town without my family, my husband and children
 
 #### Where does orange chicken originate?
 
-Orange chicken is famous in the United States, thanks in large part to Panda Express. The orange chicken dish includes flavors inspired by cooking in the Hunan Province in China, but it is very much a Chinese-American dish.  
+Orange chicken is famous in the United States, thanks in large part to Panda Express. Orange chicken includes flavors inspired by cooking in the Hunan Province in China, but the orange chicken we know in the U.S. is Chinese-American.  
 
 #### What main ingredients are needed for this meal?
 
@@ -103,14 +103,14 @@ Orange chicken is famous in the United States, thanks in large part to Panda Exp
 * 2 Rimmed baking sheets 
 * 2 Wire racks 
 * A colander
-* A dutch oven 
-* A food thermometer 
+* A [dutch oven](https://amzn.to/3qK1Llq)
+* A [food thermometer](https://amzn.to/38BMn44) 
 * A slotted spoon 
 * A heavy-bottomed pan 
 
 #### Can I make this recipe gluten-free?
 
-Yes, simply replace the all-purpose flour with chickpea flour or add more cornstarch. You should also substitute tamari sauce in place of soy sauce.
+Yes, just replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2) or add more cornstarch. You should also substitute [tamari sauce](https://amzn.to/30F0uBo) in place of soy sauce.
 
 #### Can I freeze orange chicken?
 
