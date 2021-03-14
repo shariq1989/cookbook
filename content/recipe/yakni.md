@@ -42,7 +42,7 @@ Cuisine: Indian, Pakistani
 * 1 tsp Coriander Seeds 
 * 1 Star Anise 
 * 1 tsp Salt 
-* 1 lb Goat, cut into 1-inch pieces, bone-in 
+* 1 lb Goat, cut into 1-inch pieces, bone-in, plus extra bones if you have them 
 * 4 cup Water 
 
 #### DIRECTIONS 
@@ -82,6 +82,10 @@ Yakhni pulao is keto and low-carb and packed full of nutrients that help with th
 * FAT– 8g
 
 If you fully strain out the onions in this dish, the net carbs drop to 1g.
+
+#### What is Yakhni good for? 
+
+Yakhni is highly nutritious and a meal all on its own. It has soothing qualities, helpful for people with colds, stomachaches, and morning sickness well. The meat and spices marinate to create the soup, leaving it tasty and mineral-dense. Because of the bones, the soup also contains collagen, which is crucial for hair and nail health, as well as joint wellness.
 
 #### Can I freeze the Yakni?
 
