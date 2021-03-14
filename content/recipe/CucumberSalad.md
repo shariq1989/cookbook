@@ -1,5 +1,5 @@
 +++
-title = "Sunomono"
+title = "Sunomono - Cucumber Salad"
 date = "2021-02-07"
 description = ""
 tags = [
