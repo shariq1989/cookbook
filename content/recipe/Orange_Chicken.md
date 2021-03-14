@@ -79,7 +79,7 @@ For the Sauce:
 
 To Serve: 
 
-1. Garnish with toasted sesame seeds and serve with jasmine rice. 
+1. Garnish with toasted sesame seeds and serve the orange chicken with jasmine rice. 
 
 ### ABOUT THE MEAL
 
