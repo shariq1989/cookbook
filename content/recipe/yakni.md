@@ -87,7 +87,7 @@ Yakhni pulao is keto and low-carb and packed full of nutrients that help with th
 * PROTEIN– 25g
 * FAT– 8g
 
-If you fully strain out the onions in this dish, the net carbs drop to 1g.
+If you fully strain the onions, the net carbs drop to 1g.
 
 #### What is Yakhni good for? 
 
