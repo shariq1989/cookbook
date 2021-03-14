@@ -28,12 +28,12 @@ Cuisine: Chinese, American
 
 For the Marinade:
 
-* 2 tbsp Rice Wine Vinegar
-* 4 tbsp Sugar
+* 1 tbsp Rice Wine Vinegar
+* 3 tbsp Sugar
 * 2 large Eggs Whites, lightly beaten
 * 1 tsp Sesame Oil
-* 3 tbsp Soy Sauce
-* 4 tbsp White Vinegar
+* 2 tbsp Soy Sauce
+* 2 tbsp White Vinegar
 * 1 tbsp Orange Zest 
 
 For the Fried Chicken:
@@ -43,18 +43,19 @@ For the Fried Chicken:
 * 1/4 cup Flour
 * 2 qt Canola Oil
 
-For the Dish:
+For the Sauce:
 
-* 1 tbsp Corn Starch
-* 2 tbsp Rice Wine Vinegar
-* 1/4 cup Water
+* 3 tbsp Rice Wine Vinegar
+* 1/2 cup Fresh Orange Juice, about 3 oranges
 * 1 tsp Sesame Oil
 * 3 tbsp Soy Sauce
 * 1/2 cup Sugar
-* 1/2 cup White Vinegar
+* 2 tbsp White Vinegar
 * Orange Zest 
 * 1 1/2 tbsp Ginger Paste
 * 2 tsp Garlic, minced
+* 1/2 tsp Red Chili Flakes
+* 1 tbsp Corn Starch
 * 1 tsp Toasted Sesame Seeds 
 
 #### DIRECTIONS 
@@ -73,7 +74,15 @@ For the Dish:
 
 ### ABOUT THE MEAL
 
-On the occasion that I go out of town without my family, my husband and children have a tradition of getting Panda Express, that they will proceed to eat as leftovers the entire time I am away. Because of this delightful custom, the kids regularly ask me when I plan to leave them with baba. Needless-to-say, I felt compelled to make myself irreplaceable, hence this recipe. Now mama can bring Panda to them. 
+On the occasion that I go out of town without my family, my husband and children have a little tradition of getting Panda Express, which they will continue to eat as leftovers the entire time I am away. Because of this delightful custom, the kids regularly ask me when I plan to leave them alone with baba. Needless-to-say, I felt compelled to make myself irreplaceable, hence this recipe. Now mama can bring Panda to them. 
+
+#### What main ingredients are needed for this meal?
+
+* Chicken: I use chicken thighs since dark meat is naturally more flavorful than white meat. You can use chicken breast if you prefer.
+
+* Oranges: I love using fresh ingredients whenever possible, but that is especially true of this dish. I love the sweet, citrus flavor real oranges produce in the sauce.  Pro-Tip: Taste your oranges before squeezing to ensure they are sweet instead of sour. You could use store-bought orange juice, but I feel that fresh oranges are the way to go. 
+
+* Rice Wine Vinegar and White Vinegar: Part of cooking well is learning to balance flavors. I have zero professional culinary experience, but books like The Food Lab have helped me grow in this area. The oranges deliver sweetness to the sauce; we counter that with vinegar. I am telling you that this sauce wouldn't be the same without the bite vinegar brings with it. Some people use only rice wine vinegar. I prefer to use a combination of rice wine and white vinegar. 
 
 #### What equipment do I need to make this recipe?
 
@@ -86,4 +95,10 @@ On the occasion that I go out of town without my family, my husband and children
 * A slotted spoon 
 * A heavy-bottomed pan 
 
+#### Can I make this recipe gluten-free?
 
+Yes, simply replace the all-purpose flour with chickpea flour or add more cornstarch. You should also substitute tamari sauce in place of soy sauce.
+
+#### Can I freeze orange chicken?
+
+Yes, if you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate except when dishing up individual plates. Freeze the sauce and chicken separately in freezer-safe containers. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, warm the chicken in the oven and heat the sauce in a pan. Toss the chicken with the sauce and enjoy. 
