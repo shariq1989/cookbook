@@ -62,7 +62,8 @@ For Whole Spices:
 2. Gather the whole spices and stir in the nutmeg, set aside.
 3. While the meat is cooking, heat the ghee (1/3 cup) in a heavy-bottomed pan and add whole spices and nutmeg until they begin to sputter.
 4. Add the garlic and ginger, saute until golden.
-5. Next, add the onions and fry until they become translucent and soften. 6. At this point, you can add the goat once it has finished cooking.
+5. Next, add the onions and fry until they become translucent and soften. 
+6. At this point, you can add the goat once it has finished cooking.
 7. Mix in the yogurt and salt and let it cook on high heat until the yogurt releases liquid on the sides.
 8. Reduce the heat to medium and cover the pan with a lid. Allow mixture to simmer, about 5 minutes.
 9. Stir in the coriander powder, turmeric, Kashmiri chili powder, and mix well.
@@ -73,7 +74,7 @@ For Whole Spices:
 
 ### ABOUT THE MEAL 
 
-Bhuna gosht is a popular dish in Pakistan and India and refers to a thick, dry curry made with either goat or lamb that is slow-cooked for a long period. 
+Bhuna gosht is a popular dish in Pakistan and India that refers to a thick, dry curry made with either goat or lamb slow-cooked in whole spices. The curry reduces in the cooking process leaving behind a highly concentrated and flavorful masala.  
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
@@ -84,7 +85,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 #### What equipment do I need to make this recipe?
 
 * A pressure cooker or [Instant Pot](https://amzn.to/3vv0Usv)
-* A heavy-bottomed pan 
+* 1-2 heavy-bottomed pans 
 
 #### Can you freeze bhuna gosht?
 
