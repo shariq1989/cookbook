@@ -33,7 +33,7 @@ Cuisine: Indian, Pakistani
 For Gosht: 
 
 * 1½ lb Goat, cut into 1-inch pieces (rinse meat before cooking) 
-* 2 medium Yellow Onions, thinly sliced
+* 2 large purple Onions, thinly sliced
 * ¼ cup Garlic Cloves
 * 4-inch Fresh Ginger, julienne
 * ¾ cup Full-Fat Yogurt 
@@ -73,11 +73,13 @@ For Whole Spices:
 
 ### ABOUT THE MEAL 
 
+Bhuna gosht is a popular dish in Pakistan and India and refers to a thick, dry curry made with either goat or lamb that is slow-cooked for a long period. 
+
 Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
-#### Where does bhuna gosht originate?
+#### What main ingredients are needed for this meal?
 
-Bhuna gosht refers to a thick, dry curry made with either goat or lamb that is cooked for long durations.  
+* Gosht: "Gosht," literally means meat, but in Indian and Pakistani cuisine, gosht most often refers to goat or lamb; we prefer to use goat for this dish. 
 
 #### What equipment do I need to make this recipe?
 
