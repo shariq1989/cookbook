@@ -83,9 +83,9 @@ I love Mississippi roast because the original recipe began with a woman in  Miss
 
 Yes, it is. My suggestion would be to remove the flour from the recipe. You can still season the chuck roast with salt and pepper and sear it without the flour. It will likely not have as much of a sear, but it won't alter the flavor of the dish greatly. We calculated the macros for the Mississippi roast to make it easier for you. These calculations were made without the addition of flour. 
 
-CARBS – 3 Net Carbs
-PROTEIN – 35g 
-FAT– 53g
+* CARBS – 3 Net Carbs
+* PROTEIN – 35g 
+* FAT– 53g
 
 #### Can I freeze Mississippi Roast? 
 
