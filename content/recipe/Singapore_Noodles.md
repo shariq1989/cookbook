@@ -83,3 +83,9 @@ It's not entirely clear where Singapore noodles originate. Many sources say Hong
 * Vegetables: We chose to go the traditional route with red bell peppers, onions, snow peas, and carrots, but you can use whatever vegetables you have on hand. 
 
 * Yellow Curry Powder: You will want to use [Madras yellow curry](https://amzn.to/3lcVSfn) to flavor this dish.   
+
+#### What equipment do I need to make this recipe?
+
+* 2 small bowls 
+* 1 large bowl 
+* Wok or non-stick skillet 
