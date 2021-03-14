@@ -9,6 +9,8 @@ tags = [
     "indian",
     "pakistani",
     "instant pot",
+    "pressure cooker",
+    "pressure cooking",
     "curry",
     "fried",
     "recipes",

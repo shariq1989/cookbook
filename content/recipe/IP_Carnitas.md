@@ -8,9 +8,11 @@ tags = [
     "dinner",
     "mexican",
     "tacos",
-    "pressurecooker",
-    "instantpot"
+    "instantpot",
+    "pressure cooker",
+    "pressure cooking",
 ]
+
 #thumbnail= "images/carnitas.jpg"
 +++
 

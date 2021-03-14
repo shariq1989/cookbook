@@ -9,6 +9,8 @@ tags = [
     "tex-mex",
     "stew",
     "instantpot",
+    "pressurecooker",
+    "pressurecooking",
     "chiliconcarne",
     "chili",
     "texas",

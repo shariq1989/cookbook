@@ -15,7 +15,8 @@ tags = [
     "vegan",
     "recipe",
     "desi", 
-    "chole", 
+    "chole",
+    "hearty", 
     "punjabi"
 ]
 thumbnail= "images/ChannaMasala.jpg "

@@ -9,7 +9,8 @@ tags = [
     "lunch",
     "dinner",
     "instantpot",
-    "pressurecooker",
+    "pressure cooker",
+    "pressure cooking",
     "gulash",
     "hearty"
 ]

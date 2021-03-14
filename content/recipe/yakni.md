@@ -14,6 +14,8 @@ tags = [
     "keto",
     "lowcarb",
     "instantpot",
+    "pressurecooker",
+    "pressurecooking",
     "thejamilghar"
     
 ]

@@ -9,7 +9,10 @@ tags = [
     "healthy",
     "chicken noodle soup", 
     "hearty",
-    "stew"
+    "stew",
+    "instant pot",
+    "pressure cooking",
+    "pressure cooker"
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++

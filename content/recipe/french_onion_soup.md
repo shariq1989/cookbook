@@ -6,6 +6,7 @@ tags = [
     "soup",
     "instantpot",
     "pressurecooker",
+    "pressurecooking",
     "lunch",
     "dinner",
     "frenchonionsoup",
@@ -15,7 +16,8 @@ tags = [
     "frenchonion",
     "gruyere",
     "recipes",
-    "thejamilghar"
+    "thejamilghar",
+    "vegetarian"
     
 ]
 thumbnail= "images/FrenchOnion.jpg "

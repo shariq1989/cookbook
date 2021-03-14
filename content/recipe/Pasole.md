@@ -8,6 +8,7 @@ tags = [
     "dinner",
     "instantpot",
     "pressurecooker",
+    "pressurecooking",
     "stew",
     "mexican",
     "soup",

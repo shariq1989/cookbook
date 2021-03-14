@@ -4,6 +4,7 @@ date = "2021-02-09"
 description = ""
 tags = [
     "grilled",
+    "grilling",
     "chicken",
     "chickenrecipes",
     "dinner",

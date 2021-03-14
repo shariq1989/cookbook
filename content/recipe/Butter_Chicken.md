@@ -10,6 +10,8 @@ tags = [
     "indian", 
     "international",
     "desi",
+    "hearty",
+    "tikka masala",
     "thejamilghar"
 ]
 thumbnail= "images/ButterChicken (2).jpg"

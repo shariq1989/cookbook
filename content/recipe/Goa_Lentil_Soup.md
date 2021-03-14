@@ -11,7 +11,8 @@ tags = [
     "pressure cooker",
     "coconut", 
     "dal", 
-    "lentils"
+    "lentils",
+    "vegan"
 ]
 #thumbnail= "images/goa-daal.jpg"
 +++

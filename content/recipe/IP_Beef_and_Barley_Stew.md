@@ -9,7 +9,8 @@ tags = [
     "hearty",
     "beef",
     "instantpot",
-    "pressurecooker",
+    "pressure cooker",
+    "pressure cooking",
     "barley",
     "rich",
     "savory"

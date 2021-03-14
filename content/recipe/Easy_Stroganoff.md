@@ -9,7 +9,7 @@ tags = [
     "crockpot",
     "slow cooker", 
     "noodles",
-    "quick meal"
+    "hearty"
 ]
 #thumbnail= "images/stroganoff.jpg"
 +++

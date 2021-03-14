@@ -10,6 +10,8 @@ tags = [
     "lowcarb",
     "keto",
     "japanese",
+    "vegetarian",
+    "vegan",
     "pickled"
 ]
 thumbnail= "images/pickled_cucumber.jpg "

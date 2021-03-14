@@ -8,7 +8,8 @@ tags = [
     "snack",
     "healthy",
     "keto", 
-    "low-carb" 
+    "low-carb",
+    "vegetarian" 
 ]
 #thumbnail= "images/deviledegg.jpg"
 +++

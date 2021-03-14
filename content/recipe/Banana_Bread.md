@@ -7,6 +7,7 @@ tags = [
     "bread",
     "dessert",
     "banana",
+    "vegetarian"
 ]
 #thumbnail= "images/banana-bread.jpg"
 +++

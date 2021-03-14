@@ -8,7 +8,8 @@ tags = [
     "dessert", 
     "baking",
     "sweet",
-    "chocolatechip"
+    "chocolatechip",
+    "vegetarian"
 ]
 thumbnail="images/ChipCookies.jpg "
 +++
