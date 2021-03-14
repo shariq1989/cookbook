@@ -86,4 +86,4 @@ Bhuna gosht refers to a thick, dry curry made with either goat or lamb that is c
 
 #### Can you freeze bhuna gosht?
 
-Yes, allow the dish to cool completely, and then add it to a freezer-safe container. The bhuna gosht will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm on the stovetop and prepare your rice or naan. 
+Yes, allow the dish to cool completely, and then add it to a freezer-safe container. Bhuna gosht will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop and prepare your rice or naan. 
