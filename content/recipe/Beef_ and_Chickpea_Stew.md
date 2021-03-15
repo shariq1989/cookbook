@@ -8,7 +8,8 @@ tags = [
     "stew",
     "lunch",
     "dinner",
-    "hearty" ,
+    "hearty",
+    "lowcarb",
     "soup",
     "chuckshortrib",
     "thejamilghar"
@@ -50,7 +51,7 @@ Cuisine: American
 1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
 3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
-4. Add the tomato paste, marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
+4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
 5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
 6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
 7. Stir in the chickpeas and spinach and cook until spinach wilts, about 5 minutes. 
@@ -59,11 +60,13 @@ Cuisine: American
 
 ### ABOUT THE MEAL
 
+The development of this recipe came about by happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use chuck short rib instead. We also fine-tuned the recipes with a few tasty additions along the way.  
+
 #### What main ingredients are needed for this meal?
 
-* Chuck Short Rib: We chose to use this cut of meat because it tenderizes well and has a rich flavor. You could also use a chuck roast. 
+* Chuck Short Rib: Short rib tenderizes well and has a rich flavor. You could also use a chuck roast. 
 
-* Chickpeas: They are a nice source of fiber and complement the beef well in this stew. 
+* Chickpeas: They are a quality source of fiber and complement the beef well in this stew. 
 
 #### What equipment do I need to make this recipe?
 
