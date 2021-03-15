@@ -14,7 +14,7 @@ tags = [
     "vegan",
     "pickled"
 ]
-thumbnail= "images/SONOMONO.jpg"
+thumbnail= "images/SUNOMONO.jpg"
 +++
 
 Servings: 2-3 <!--more-->
