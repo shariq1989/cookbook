@@ -14,7 +14,7 @@ tags = [
     "zucchinilasagna",
     "thejamilghar"
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/zucchinilasagna.jpg"
 +++
 
 Servings: 8 <!--more-->
@@ -37,7 +37,7 @@ Cuisine: American
 * 4 medium Zucchini, sliced length-wise 
 * 1 block Creamed Cheese
 * 1 Egg 
-* 1 Container Mozzarella Ovaline, 4 oz, sliced 
+* 1 ontainer Ovaline Mozzarella, 4 oz, sliced 
 * 1/4 cup Parmesan Cheese, to garnish  
 * Optional- Fresh Basil, to garnish
 
@@ -130,5 +130,7 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 
 8. Finish with lightly sprinkled parmesan cheese and season with dried basil. Cover the casserole dish with aluminum foil and bake for 45 minutes. 
 
-9. Drain some excess fluid and bake, uncovered for 15 minutes. 
+{{< figure src="/images/zl11.jpg" class="instructionFigure">}}
+
+9.  Remove the foil and bake uncovered for 15 minutes. 
 10. Let the lasagna cool before serving.
