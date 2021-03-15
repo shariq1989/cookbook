@@ -99,7 +99,7 @@ While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing st
 
 5. Using the same oil (add more if needed), add the chilis, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
 
-{< figure src="/images/msf4.jpg" class="instructionFigure">}}
+{{< figure src="/images/msf4.jpg" class="instructionFigure">}}
 
 6. In a small bowl, mix the soy sauce, rice wine vinegar, fish oil, honey, and water to the pan. Stir until the honey dissolves. Off heat, add these ingredients to the pan, and season with black pepper. 
 
