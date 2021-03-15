@@ -89,13 +89,18 @@ While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing st
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes. 
 3. Spread out the tofu onto the rimmed baking sheet, season with salt and pepper, and cook for 15 minutes, turning the tofu pieces midway to bake thoroughly.
 
+
 4. In a large skillet, warm sesame oil over medium-high heat and add the already baked tofu to a hot pan. Fry until the pieces become golden brown. Set aside. 
+
 
 5. Using the same oil (add more if needed), add the chilis, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
 
+
 6. In a small bowl, mix the soy sauce, rice wine vinegar, fish oil, honey, and water to the pan. Stir until the honey dissolves. Off heat, add these ingredients to the pan, and season with black pepper. 
 
+
 7. Return the pan to medium-high heat and bring the mixture to a boil and then whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind.
+ 
  
 8. Add the mushrooms, stir to combine, and then turn the heat down. Simmer until sauce reduces halfway, about 5 minutes. 
 
