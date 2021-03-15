@@ -1,5 +1,5 @@
 +++
-title = "Easy Stroganoff"
+title = "Crockpot Stroganoff"
 date = "2020-01-19"
 description = ""
 tags = [
@@ -7,14 +7,20 @@ tags = [
     "beef",
     "italian",
     "crockpot",
-    "slow cooker", 
+    "slowcooker", 
     "noodles",
     "hearty"
 ]
 #thumbnail= "images/stroganoff.jpg"
 +++
 
-Servings: 6 <!--more-->
+Servings: 6-8 <!--more-->
+
+Preparation Time: 10 minutes 
+
+Cooking Time: 4-6 hours
+
+Cuisine: American 
 
 #### INGREDIENTS 
 * 1 package Egg Noodles 
