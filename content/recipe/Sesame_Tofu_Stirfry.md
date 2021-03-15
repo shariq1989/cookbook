@@ -105,9 +105,10 @@ While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing st
 
 {{< figure src="/images/msf3.jpg" class="instructionFigure">}}
 
-7. Return the pan to medium-high heat and bring the mixture to a boil and then whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind.
- 
 {{< figure src="/images/msf5.jpg" class="instructionFigure">}}
+
+
+7. Return the pan to medium-high heat and bring the mixture to a boil and then whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind.
 
 {{< figure src="/images/msf6.jpg" class="instructionFigure">}}
 
