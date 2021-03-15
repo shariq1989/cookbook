@@ -10,6 +10,8 @@ tags = [
     "dinner",
     "hearty",
     "lowcarb",
+    "vegan",
+    "vegetarian",
     "soup",
     "chuckshortrib",
     "thejamilghar"
@@ -46,7 +48,7 @@ Cuisine: American
 * 2 tbsp Lemon Juice
 * Garnish with Plain Yogurt
   
-#### DIRECTIONS 
+#### STOVE-TOP DIRECTIONS 
 
 1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
@@ -87,7 +89,7 @@ The development of this recipe came about by happy mistake. Have you ever taken 
 
 #### Is this stew vegetarian? Is this stew Vegan?
 
-Yes. Use potatoes instead of beef in this recipe, or double the chickpea amount. If vegan, replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
+Yes. Use potatoes instead of beef, or double the chickpea amount. If vegan, replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
 
 #### Can I freeze the beef and chickpea stew? 
 
@@ -128,5 +130,3 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 9. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
 {{< figure src="/images/bandc8.jpg" class="instructionFigure">}}
-
-
