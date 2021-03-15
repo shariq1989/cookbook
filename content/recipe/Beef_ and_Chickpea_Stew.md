@@ -63,6 +63,8 @@ Cuisine: American
 
 * Chuck Short Rib: We chose to use this cut of meat because it tenderizes well and has a rich flavor. You could also use a chuck roast. 
 
+* Chickpeas: They are a nice source of fiber and complement the beef well in this stew. 
+
 #### What equipment do I need to make this recipe?
 
 * A small bowl 
