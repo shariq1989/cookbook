@@ -47,7 +47,7 @@ Cuisine: Pakistani
 5. Next, add the ground beef, breaking it up with a meat chopper until it becomes finely minced. Cook until beef is brown, about 8 minutes. 
 6. Add the tomatoes and turn up the heat until the mixture bubbles. Reduce the heat and simmer for another 10 minutes. 
 7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt, to taste. 
-8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice or naan. 
+8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, paratha, or naan. 
 
 #### ABOUT THE MEAL 
 
