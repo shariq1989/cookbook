@@ -105,25 +105,27 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 
 {{< figure src="/images/bandc3.jpg" class="instructionFigure">}}
 
-3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes.
+3. In an [Instant Pot](https://amzn.to/3rRWIjZ),  melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
 
 {{< figure src="/images/bandc4.jpg" class="instructionFigure">}}
 
-4. Add the tomato paste, marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
+4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down.  
 
 {{< figure src="/images/bandc5.jpg" class="instructionFigure">}}
 
-5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
+5. Secure the lid and set the Instant Pot to manual low pressure for 50 minutes with a quick release. 
 
-6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
+6. Add the carrots, secure the lid, and set the Instant Pot to manual low pressure for 3 minutes with a quick release. 
+
+7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
 
 {{< figure src="/images/bandc6.jpg" class="instructionFigure">}}
 
-7. Stir in the chickpeas and spinach and cook until spinach wilts, about 5 minutes. 
+8. Stir in the chickpeas and spinach and cook until spinach wilts, about 5 minutes. 
 
 {{< figure src="/images/bandc7.jpg" class="instructionFigure">}}
 
-8. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
+9. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
 {{< figure src="/images/bandc8.jpg" class="instructionFigure">}}
 
