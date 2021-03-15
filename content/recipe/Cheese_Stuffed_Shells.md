@@ -42,26 +42,26 @@ Cuisine: Sicilian
 
 #### DIRECTIONS 
 
-1. Cook the pasta shells according to the package, to al dente, and strain. Set them aside. 
-2. In a small skillet, saute the spinach with 1 tsp of olive oil until they are wilted. Set aside. 
+1. Cook the pasta shells according to the package, al dente, and strain. Set them aside. 
+2. In a small skillet, saute the spinach with 1 tsp of olive oil until wilted. Set aside. 
 3. Pre-heat the oven to 375 degrees. 
-4. In a large bowl, mix the ricotta cheese and egg. Then stir in the minced garlic, wilted spinach, and parmesan cheese. Season the mixture with coarse ground pepper, to taste. 
+4. In a large bowl, mix the ricotta cheese and egg. Then stir in the minced garlic, wilted spinach, and parmesan cheese. Season the mixture with coarse ground pepper.
 5. Prepare a 9x10 baking dish with a light layer of olive oil and then layer some of the basil pesto sauce along the bottom of the dish. 
-6. Divide the cheese mixture into cooked pasta shells, filling each shell with 2 tbsp of the cheese mixture. 
-7. Line the shells in the baking dish, facing upright. The shells need to face upright or the filling will spill into the pan. 
-8. Drizzle more basil pesto sauce over top and then sprinkle with parmesan cheese. 
+6. Divide the cheese mixture into cooked pasta shells; fill each shell with 2 tbsp of the cheese mixture. 
+7. Line the shells in the baking dish, facing upright, so that the filling will not spill into the pan. 
+8. Drizzle more basil pesto sauce on top and then sprinkle with parmesan cheese. 
 9. Cover the baking dish with aluminum foil and bake for 50 minutes. 
 10. Remove the foil and cook for another 5-8 minutes. If your cheese hasn't begun to brown, you can broil for 1-2 minutes to achieve the desired effect. 
 
 ### ABOUT THE MEAL
 
-Stuffed shells find their origin in Sicily, but they are ever-popular worldwide and for good reason. Why are they so loved? Well, I think it has something to do with their elegant appeal and the ease with which they are made. For this dish, we chose to stray from the traditional stuffed shell made in marinara sauce in favor of shells stuffed to the brim with ricotta cheese and spinach and topped with basil pesto and pine nuts. I appreciate the classic stuffed shells, but this version is tasty if you wanted to try something new. 
+Stuffed shells find their origin in Sicily, but they are ever-popular worldwide, with good reason. Why are they so loved? Well, I think it has something to do with their elegant appeal and the ease with which they are made. For this dish, we chose to stray from the traditional stuffed shell made in marinara sauce in favor of shells stuffed to the brim with ricotta cheese and spinach and topped with basil pesto and pine nuts. I appreciate the classic stuffed shells, but this version is tasty if you wanted to try something new. 
 
 #### What main ingredients are needed for this meal?
 
-* Jumbo Pasta Shells: Be sure to cook the shells al dente, according to the package. I suggest cooking them a little less to ensure they hold up in the stuffing and baking process.  
+* Jumbo Pasta Shells: Be sure to cook the shells, al dente, according to the package. I suggest cooking them a little less to ensure they hold up in the stuffing and baking process.  
 
-* Ricotta Cheese: This light and creamy cheese contributes to the savoriness of the meal. To avoid a watery filling, drain the ricotta cheese before using. If necessary, spread it onto a baking sheet and dab it with a paper towel to soak up any excess moisture. 
+* Ricotta Cheese: This light and creamy cheese contributes to the savoriness of the meal. To avoid a watery filling, drain the ricotta cheese before using it. If necessary, spread it onto a baking sheet and dab it with a paper towel to soak up any excess moisture. 
 
 #### What equipment do I need to make this recipe?
 
