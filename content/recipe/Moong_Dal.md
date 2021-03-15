@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Moong Dal - Yellow Lentil Soup"
+title = "Moong Dal - Yellow Lentil Soup"
 date = "2021-03-06"
 description = ""
 tags = [
@@ -7,6 +7,7 @@ tags = [
     "lunch",
     "dinner",
     "vegetarian", 
+    "vegan",
     "dal", 
     "indian", 
     "pakistani", 
@@ -45,7 +46,9 @@ For the Tadka:
 * 3-4 Curry Leaves   
 * 1 1/2 large Red Onion, thinly sliced
 
-#### DIRECTIONS 
+#### STOVE-TOP DIRECTIONS
+
+#### INSTANT POT DIRECTIONS 
 
 1. Set an [Instant Pot](https://amzn.to/3qfNYCZ) to saute mode and warm the ghee. 
 2. Add the boriya chili, cumin seed, mustard seed, and curry leaves. 
