@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Rindsgulasch - Austrian Beef Stew"
+title = "Rindsgulasch - Austrian Beef Stew"
 date = "2020-01-27"
 description = ""
 tags = [
@@ -40,14 +40,16 @@ Adapted from: Milkstreet
 * 1 Package [Egg Noodles](https://amzn.to/2Zf7O60) 
 * Sour Cream, to garnish  
 
-#### DIRECTIONS 
+#### STOVE-TOP DIRECTIONS 
+
+#### INSTANT POT DIRECTIONS 
 
 1. Season the beef with 1 tbsp sweet paprika, 2 tsp salt, 1 tsp pepper. Toss the meat to coat and set aside. 
 2. Mix the broth and tomato paste in a small bowl. 
 3. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter on saute mode. Add the onion and 1 tsp salt. Cook until onions become translucent and soften. 
 4. Stir in the caraway seeds and flour, cooking until flour browns. 
-5. Add the hot paprika and remaining 5 tbsp of sweet paprika. Cook until fragrant. 
-6. Slowly whisk in the broth mixture and bring it to a simmer, stirring frequently. 
-7. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on high pressure for 80 minutes (This is for high elevation. You can reduce the cooking time for lower elevation). Quick release, stir, and let stand for 15 minutes. 
+5. Add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant. 
+6. Slowly whisk the broth mixture while allowing it to simmer. 
+7. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on high pressure for 80 minutes. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Quick-release, stir, and let stand for 15 minutes. 
 8. Stir in the fresh dill and vinegar. 
-9. Taste and season with salt and pepper and garnish with sour cream and serve with egg noodles
+9. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles
