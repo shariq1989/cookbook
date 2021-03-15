@@ -68,10 +68,20 @@ For the Curry:
 2. Next, add the garlic, ginger, and green chilies and cook for another minute.
 3. Stir in the Kashmiri chili powder, garam masala, cumin, salt, turmeric, and tomatoes into the mixture. Cook for 5-7 minutes and allow the tomatoes to simmer. 
 4. Remove the cinnamon stick and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
-5. Return the mixture to the pan over medium heat. Nestle the reserved chicken into the pan and stir in the butter and cream. Allow the dish to maintain a gentle bubble for 5-7 minutes. Adjust the temperature as necessary. 
+5. Return the mixture to the pan over low heat and stir in the butter and cream. Then, nestle the reserved chicken into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes. Adjust the temperature as necessary. 
 6. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
 
 #### INSTANT POT DIRECTIONS
+
+1. In the [Instant Pot](https://amzn.to/2OCQYfN), warm 1 1/2 tbsp of butter on saute mode. Add the green cardamom pods and cinnamon stick. Cook until the ingredients begin to sputter, then add the onions. Cook the onions until they become translucent and soften. 
+2. Next, add the garlic, ginger, and green chilies and cook for another minute.
+3. Stir in the Kashmiri chili powder, garam masala, cumin, salt, turmeric, and tomatoes into the mixture. Cook for 5-7 minutes and allow the tomatoes to simmer. 
+4. Add in the chicken pieces and leave them toward the top of the Instant Pot. 
+5. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes, and let it release naturally for 10 minutes, before doing a quick release. 
+6. Remove the chicken, and set it aside. Remove the cinnamon stick and discard. 
+7. Pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step. 
+8. Return the mixture to the Instant Pot, and stir in the butter and cream until well incorporated. Then, nestle the cooked chicken back into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes, stirring regularly.
+9. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
 
 #### ABOUT THE MEAL
 
