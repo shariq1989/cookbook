@@ -17,9 +17,11 @@ tags = [
 thumbnail= "images/pickled_cucumber.jpg "
 +++
 
-JAPANESE CUCUMBER SALAD 
-
 Servings: 2-3 <!--more-->
+
+Preparation Time: 10 minutes 
+
+Cuisine: Japanese 
 
 Adapted From: Outdoor Chef Life 
 
@@ -35,6 +37,6 @@ Adapted From: Outdoor Chef Life
 #### DIRECTIONS 
 
 1. In a bowl, combine the kosher salt, rice wine vinegar, sesame oil, and soy sauce. Whisk together and set aside.  
-2. Thinly slice the cucumbers lengthwise, using a vegetable peeler or mandoline. You could also slice them thinly into rounds.  
+2. Thinly slice the cucumbers lengthwise, using a vegetable peeler or mandoline. You could also slice thinly into rounds.  
 3. Sprinkle the reserved kosher salt onto the cucumbers and massage it in. Let them stand, about 5 minutes. 
 4. Blot the cucumbers with a towel to remove any excess moisture from the cucumbers and then add them to the sauce mixture. 
