@@ -7,7 +7,10 @@ tags = [
     "lunch",
     "dinner",
     "healthy",
-    "low carb", 
+    "lowcarb",
+    "vegan",
+    "vegetarian",
+    "desi",
     "keto", 
     "indian",
     "pakistani",
@@ -41,15 +44,15 @@ Cuisine: Pakistani
 #### DIRECTIONS 
 
 1. Heat ghee over medium heat in two separate heavy-bottomed pans.  
-2. In the first pan, add the diced potatoes. Cook, stirring occasionally until they become golden brown, about 15 minutes. Set them aside.
+2. In the first pan, add the diced potatoes. Cook until they become golden brown, about 15 minutes. Set them aside.
 3. In the other pan, fry the onions, garlic, ginger, and chilis until the onions become translucent and soften, about 5 minutes. 
 4. Add the Qeema Masala, stir to coat, and continue cooking for another minute.
-5. Next, add the ground beef, breaking it up with a meat chopper until it becomes finely minced. Cook until beef is brown, about 8 minutes. 
-6. Add the tomatoes and turn up the heat until the mixture bubbles. Reduce the heat and simmer for another 10 minutes. 
-7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt, to taste. 
+5. Next, add the ground beef, breaking it up with a meat chopper until it becomes finely minced. Cook until beef is browned, about 8 minutes. 
+6. Add the tomatoes and turn up the heat until it begins to bubble. Reduce the heat and simmer for another 10 minutes, adjusting the heat accordingly. 
+7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
 8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, paratha, or naan. 
 
-#### ABOUT THE MEAL 
+### ABOUT THE MEAL 
 
 This recipe is for an easy and delicious Pakistani qeema or keema. This Qeema recipe is perfect for those busy nights where you don't have a lot of time, but you still want to make something tasty. For this recipe, we included potatoes. At home, we often leave them out entirely. The choice is up to you. If making this dish for guests, I highly recommend including the potatoes and maybe even adding peas for a little body. 
 
@@ -68,7 +71,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 #### Can I make qeema vegetarian? Can I make qeema vegan?
 
-Yes, I like The Ultimate Beefless Ground from Gardein. I tried to link it for you all, but they only have it by the case on the Amazon affiliate site, and who needs that? Anyway, you the Beefless Ground in place of the meat. To make the recipe vegan, you will also need to replace the ghee. I suggest using vegan butter because it would have the same or similar effect. 
+Yes, I like The Ultimate Beefless Ground from Gardein. I tried to link it for you all, but they only have it by the case on the Amazon affiliate site, and who needs that? Anyway, use the Beefless Ground in place of the meat. To make the recipe vegan, you will also need to replace the ghee. I suggest using vegan butter because it would have the same or similar effect. 
 
 #### Can I freeze qeema?
 
