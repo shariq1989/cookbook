@@ -79,6 +79,18 @@ To make this banana bread vegan, you will need to make a few substitutions:
 
 To keep your banana bread moist, allow it to cool completely and wrap it in a layer of saran wrap. Then, store it in a Ziploc bag or a container with a tight-fitting lid. It will last on the counter for up to 3 days. 
 
+#### What can I add to my banana bread?
+
+* Chocolate chips 
+* Nuts: Walnuts, Pecans
+* Peanut Butter 
+* Spices: Nutmeg, All Spice
+* Maple Syrup 
+* Cocao Powder
+* Orange Zest 
+* Dried Fruit: Cranberries, Raisins, apricots
+* Pumpkin Puree 
+
 #### Can I freeze banana bread?
 
 You sure can. First, allow the banana bread to cool completely and then wrap it in saran wrap, followed by aluminum foil. The banana bread will freeze for up to 2 months. When you're ready to eat, let it defrost at room temperature. This process can take up to 24 hours. 
