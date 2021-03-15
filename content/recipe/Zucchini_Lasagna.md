@@ -94,12 +94,42 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 ### INSTRUCTIONS: STEP-BY-STEP
 
 1. Slice zucchinis length-wise and microwave in a dish for 3 minutes. Drain the excess fluid. 
-2. Lightly salt the strips and lay them on a cloth to dry. 
-3. In a large skillet, add the beef and cook over medium heat; break it up with a [meat chopper](https://amzn.to/3bI9ZGm). Before the meat is fully cooked, add the onions and garlic. Simmer the mixture until all the meat has browned, about 8-10 minutes. Drain any excess fluid from the pan.  
-4. Season with dried basil, chili flakes, salt, and pepper, and then add the pasta sauce. Taste the sauce and adjust the seasoning to your preference. Let the mixture cook and combine thoroughly with the meat for about 5 minutes. Set aside.   
-5. Preheat the oven to 375 degrees. 
-6. In a blender or food processor, mix the cream cheese and egg until smooth, then prepare a 9x13 casserole dish with oil. 
-7. Blot dry the zucchini strips and layer them in the dish. Add a thin layer of the cheese mixture, followed by the meat mixture, and top with mozzarella cheese. Repeat this process until all the ingredients are gone. The mozzarella should be on top. 
-8. Finish with lightly sprinkled parmesan cheese and season with dried basil. Cover the casserole dish with aluminum foil and bake for 45 minutes. 
-9. Drain some excess fluid and bake, uncovered for 15 minutes. 
-10. Let the lasagna cool before serving.
+
+{{< figure src="/images/zl1.jpg" class="instructionFigure">}}
+
+3. Lightly salt the strips and lay them on a cloth to dry. 
+
+{{< figure src="/images/zl2.jpg" class="instructionFigure">}}
+
+5. In a large skillet, add the beef and cook over medium heat; break it up with a [meat chopper](https://amzn.to/3bI9ZGm). Before the meat is fully cooked, add the onions and garlic. Simmer the mixture until all the meat has browned, about 8-10 minutes. Drain any excess fluid from the pan. 
+
+{{< figure src="/images/zl3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/zl4.jpg" class="instructionFigure">}}
+
+
+7. Season with dried basil, chili flakes, salt, and pepper, and then add the pasta sauce. Taste the sauce and adjust the seasoning to your preference. Let the mixture cook and combine thoroughly with the meat for about 5 minutes. Set aside.  
+
+{{< figure src="/images/zl5.jpg" class="instructionFigure">}}
+
+9. Preheat the oven to 375 degrees. 
+10. In a blender or food processor, mix the cream cheese and egg until smooth, then prepare a 9x13 casserole dish with oil. 
+
+{{< figure src="/images/zl6.jpg" class="instructionFigure">}}
+
+12. Blot dry the zucchini strips and layer them in the dish. Add a thin layer of the cheese mixture, followed by the meat mixture, and top with mozzarella cheese. Repeat this process until all the ingredients are gone. The mozzarella should be on top. 
+
+{{< figure src="/images/zl7.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/zl8.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/zl9.jpg" class="instructionFigure">}}
+
+
+
+14. Finish with lightly sprinkled parmesan cheese and season with dried basil. Cover the casserole dish with aluminum foil and bake for 45 minutes. 
+
+{{< figure src="/images/zl10.jpg" class="instructionFigure">}}
+
+16. Drain some excess fluid and bake, uncovered for 15 minutes. 
+17. Let the lasagna cool before serving.
