@@ -53,19 +53,22 @@ Cuisine: Sicilian
 9. Cover the baking dish with aluminum foil and bake for 50 minutes. 
 10. Remove the foil and cook for another 5-8 minutes. If your cheese hasn't begun to brown, you can broil for 1-2 minutes to achieve the desired effect. 
 
-#### ABOUT THE MEAL
+### ABOUT THE MEAL
 
 Stuffed shells find their origin in Sicily, but they are ever-popular worldwide and for good reason. Why are they so loved? Well, I think it has something to do with their elegant appeal and the ease with which they are made. For this dish, we chose to stray from the traditional stuffed shell made in marinara sauce in favor of shells stuffed to the brim with ricotta cheese and spinach and topped with basil pesto and pine nuts. I appreciate the classic stuffed shells, but this version is tasty if you wanted to try something new. 
 
 #### What main ingredients are needed for this meal?
 
-* Jumbo Pasta Shells: Be sure to cook the shells al dente, according to the package. I even suggest cooking them a little less to ensure they hold up in the stuffing and baking process.  
+* Jumbo Pasta Shells: Be sure to cook the shells al dente, according to the package. I suggest cooking them a little less to ensure they hold up in the stuffing and baking process.  
 
-* Ricotta Cheese: This light and creamy cheese contributes to the savoriness of the meal. To avoid a watery filling, I suggest draining the ricotta cheese. If necessary, spread it onto a baking sheet and dab it with a paper towel to soak up any excess moisture. 
+* Ricotta Cheese: This light and creamy cheese contributes to the savoriness of the meal. To avoid a watery filling, drain the ricotta cheese before using. If necessary, spread it onto a baking sheet and dab it with a paper towel to soak up any excess moisture. 
 
 #### What equipment do I need to make this recipe?
 
-You will need a pan large enough to boil the pasta shells. You will also need a small skillet, a large mixing bowl, and a 9 x 13 baking dish. 
+* A pot to boil the pasta. 
+* A small skillet 
+* A large bowl 
+* A 9x13 baking dish 
 
 #### Are stuffed shells vegetarian? Are stuffed shells vegan? 
 
@@ -73,4 +76,4 @@ While the stuffed shells are vegetarian, this recipe does not cater to the vegan
 
 #### Can I freeze my leftover stuffed shells? 
 
-Yes, you can. First, allow the shells to cool completely and then add them to a freezer-safe container. Cover them in saran wrap to prevent freezer burn before putting on the lid. They will freeze for up to 3 months. When you’re ready to eat, defrost the shells in the refrigerator overnight and bake the shells from frozen, adding 30 minutes to the original baking time to ensure that the shells are heated throughout.   
+Yes, you can. First, allow the shells to cool completely and then cover them in saran wrap, followed by aluminum foil. Then place them in a freezer-safe bag, careful to remove any air. They will freeze for up to 3 months. When you’re ready to eat, defrost the shells in the refrigerator overnight and bake the shells from frozen. Add 30 minutes to the original baking time to ensure the shells are heated through.   
