@@ -109,14 +109,16 @@ While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing st
  
 {{< figure src="/images/msf5.jpg" class="instructionFigure">}}
 
-8. Add the mushrooms, stir to combine, and then turn the heat down. Simmer until sauce reduces halfway, about 5 minutes. 
-
 {{< figure src="/images/msf6.jpg" class="instructionFigure">}}
 
-9. Return the tofu to the pan and combine with the other ingredients, about 2-3 minutes.
+8. Add the mushrooms, stir to combine, and then turn the heat down. Simmer until sauce reduces halfway, about 5 minutes. 
 
 {{< figure src="/images/msf7.jpg" class="instructionFigure">}}
 
-10. Garnish with toasted sesame seeds and scallion greens and serve with jasmine rice. 
+9. Return the tofu to the pan and combine with the other ingredients, about 2-3 minutes.
 
 {{< figure src="/images/msf8.jpg" class="instructionFigure">}}
+
+10. Garnish with toasted sesame seeds and scallion greens and serve with jasmine rice. 
+
+{{< figure src="/images/msf9.jpg" class="instructionFigure">}}
