@@ -49,7 +49,7 @@ Cuisine: Indian, Pakistani
 * 1/2 cup Cilantro, chopped 
 * Salt, to taste
 
-#### DIRECTIONS 
+#### STOVE-TOP DIRECTIONS 
 
 1. Heat the ghee in a heavy-bottomed pan over medium-high heat. Add 1 tsp kalonji seed, cumin seed, and chilis. Cook until they begin to sputter.
 2. Add the onion, stirring frequently, until the onions brown and caramelize. This step may take a while, that’s okay. You are building flavor for the dish.
