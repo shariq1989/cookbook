@@ -130,7 +130,7 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 
 8. Finish with lightly sprinkled parmesan cheese and season with dried basil. Cover the casserole dish with aluminum foil and bake for 45 minutes. 
 
-{{< figure src="/images/zl11.jpg" class="instructionFigure">}}
+{{< figure src="/images/zk11.jpg" class="instructionFigure">}}
 
 9.  Remove the foil and bake uncovered for 15 minutes. 
 10. Let the lasagna cool before serving.
