@@ -89,7 +89,11 @@ The development of this recipe came about by happy mistake. Have you ever taken 
 
 #### Is this stew vegetarian? Is this stew Vegan?
 
-Yes. Use potatoes instead of beef, or double the chickpea amount. If vegan, replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
+Yes, it is, with a few modifications. 
+
+* Vegetarian: Use potatoes instead of beef, or double the chickpea amount. 
+
+* Vegan: Use potatoes instead of beef, or double the chickpea amount. You should also replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
 
 #### Can I freeze the beef and chickpea stew? 
 
