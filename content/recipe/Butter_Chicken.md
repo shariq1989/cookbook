@@ -14,7 +14,7 @@ tags = [
     "tikka masala",
     "thejamilghar"
 ]
-thumbnail= "images/ButterChicken (2).jpg"
+#thumbnail= "images/ButterChicken (2).jpg"
 +++
 
 Servings: 2-4 <!--more-->
@@ -73,14 +73,21 @@ For the Curry:
 
 #### INSTANT POT DIRECTIONS
 
-1. In the [Instant Pot](https://amzn.to/2OCQYfN), warm 1 1/2 tbsp of butter on saute mode. Add the green cardamom pods and cinnamon stick. Cook until the ingredients begin to sputter, then add the onions. Cook the onions until they become translucent and soften. 
+For the Chicken: 
+
+1. In a large bowl, toss the chicken with the ginger paste, garlic paste, Kashmiri chili powder, and salt. Set aside to marinate for 20 minutes
+2. In an [Instant Pot](https://amzn.to/2OCQYfN), heat ghee and fry the marinated chicken until the pieces have become golden brown, about 15 minutes. Set aside. 
+
+For the Curry: 
+
+1. In same [Instant Pot](https://amzn.to/2OCQYfN), warm 1 1/2 tbsp of butter on saute mode. Add the green cardamom pods and cinnamon stick. Cook until the ingredients begin to sputter, then add the onions. Cook the onions until they become translucent and soften. 
 2. Next, add the garlic, ginger, and green chilies and cook for another minute.
 3. Stir in the Kashmiri chili powder, garam masala, cumin, salt, turmeric, and tomatoes into the mixture. Cook for 5-7 minutes and allow the tomatoes to simmer. 
 4. Add in the chicken pieces and leave them toward the top of the Instant Pot. 
-5. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes, and let it release naturally for 10 minutes, before doing a quick release. 
-6. Remove the chicken, and set it aside. Remove the cinnamon stick and discard. 
-7. Pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step. 
-8. Return the mixture to the Instant Pot, and stir in the butter and cream until well incorporated. Then, nestle the cooked chicken back into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes, stirring regularly.
+5. Secure the lid, set the Instant Pot to manual high pressure for 5 minutes, and let it release naturally for 5 minutes, before doing a quick release. 
+6. Remove the chicken, and set it aside. Remove the cinnamon stick, and discard. 
+7. Pour the mixture into a blender or food processor. Blend until smooth. You could also use an [immersion blender](https://amzn.to/30O0Ndo) for this step. 
+8. Return the mixture to the Instant Pot, and stir in the butter and cream until well incorporated. Then, nestle the cooked chicken back into the pan. Allow the dish to maintain a gentle bubble for 5 minutes, stirring regularly.
 9. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
 
 #### ABOUT THE MEAL
