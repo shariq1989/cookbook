@@ -125,7 +125,7 @@ CARBS– 5 Net Carbs
 PROTEIN– 26g
 FAT–41g
 
- We recommend serving butter chicken dish with a side of cauliflower rice or keto naan. 
+ We recommend serving butter chicken dish with a side of cauliflower rice, zucchini noodles, or keto naan. 
 
 #### Can I freeze butter chicken?
 
