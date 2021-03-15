@@ -55,6 +55,7 @@ Cuisine: Sicilian
 
 ### ABOUT THE MEAL
 
+#### Where do stuffed shells originate? 
 Stuffed shells find their origin in Sicily, but they are ever-popular worldwide, with good reason. Why are they so loved? Well, I think it has something to do with their elegant appeal and the ease with which they are made. For this dish, we chose to stray from the traditional stuffed shell made in marinara sauce in favor of shells stuffed to the brim with ricotta cheese and spinach and topped with basil pesto and pine nuts. I appreciate the classic stuffed shells, but this version is tasty if you wanted to try something new. 
 
 #### What main ingredients are needed for this meal?
@@ -63,12 +64,14 @@ Stuffed shells find their origin in Sicily, but they are ever-popular worldwide,
 
 * Ricotta Cheese: This light and creamy cheese contributes to the savoriness of the meal. To avoid a watery filling, drain the ricotta cheese before using it. If necessary, spread it onto a baking sheet and dab it with a paper towel to soak up any excess moisture. 
 
+* Basil Pesto Sauce: I am sure there are many variations of this sauce, but I love, love, love the Kirkland brand at Costco. 
+
 #### What equipment do I need to make this recipe?
 
 * A pot to boil the pasta. 
 * A small skillet 
 * A large bowl 
-* A 9x13 baking dish 
+* A 9x13 [baking dish](https://amzn.to/3bNst8g)
 
 #### Are stuffed shells vegetarian? Are stuffed shells vegan? 
 
