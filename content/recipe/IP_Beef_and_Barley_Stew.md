@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Beef and Barley Stew"
+title = "Beef and Barley Stew"
 date = "2021-02-16"
 description = ""
 tags = [
@@ -43,13 +43,15 @@ Adapted from: Serious Eats, Daniel Gritzer
 * 1 cup Kale, chopped and stems removed 
 * Salt and Pepper, to taste
 
-#### DIRECTIONS 
+#### STOVE-TOP DIRECTIONS 
+
+#### INSTANT POT DIRECTIONS 
 
 1. Season the short ribs with salt and pepper. 
 2. Heat the oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until smoking. 
 3. Add a layer of the meat and brown, repeat until all the beef has had a chance to brown. Set meat aside. 
 4. Next, add the carrots, celery, and onion. Cook until they have browned. 
-5. Combine the marmite or fish sauce, soy sauce, worcestershire, and tomato paste into the Instant Pot. Cook until fragrant. 
+5. Combine the marmite or fish sauce, soy sauce, Worcestershire, and tomato paste into the Instant Pot. Cook until fragrant. 
 6. Add the broth and scrape up the brown bits from the bottom of the pan left by the meat. Add in the beef, tomatoes, garlic, barley, and bay leaves. 
 7. Cook on high pressure for 50 min. (This cooking time is for high elevation. You can reduce cooking time for lower elevation). 
 8. Quick release and stir in the kale to serve. 
