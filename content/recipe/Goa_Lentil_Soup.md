@@ -7,8 +7,8 @@ tags = [
     "vegetarian",
     "indian",
     "soup",
-    "instant pot",
-    "pressure cooker",
+    "instantpot",
+    "pressurecooker",
     "coconut", 
     "dal", 
     "lentils",
@@ -39,12 +39,20 @@ Adapted from: Milkstreet
 * Kosher Salt to taste 
 * Lime Wedges for garnish
 
-#### DIRECTIONS 
-1. In a large skillet, (or [Instant Pot](https://amzn.to/3qfNYCZ)), combine oil, onion, garlic, and kosher salt on medium heat (saute in Instant Pot) until onions become translucent and soften. 
-2. Stir in half of the ginger half, mustard seed, turmeric, coriander, fennel, and chilis. Stir for 1 minute. 
-3. Add water, coconut milk, and lentils. Bring to a boil (Leave on saute until it begins to boil in the Instant Pot).
-4. Cover and reduce heat. Cook for 30-40 minutes (Set to high pressure for 15 minutes in the Instant Pot).  
+#### STOVE-TOP DIRECTIONS 
+1. In a large skillet, combine oil, onion, garlic, and kosher salt on medium heat until onions become translucent and soften. 
+2. Stir in half of the ginger, mustard seed, turmeric, coriander, fennel, and chilis. Stir for 1 minute. 
+3. Add water, coconut milk, and lentils. Bring to a boil 
+4. Cover and reduce heat. Cook for 30-40 minutes 
 5. Stir in spinach and return to a simmer, about 3-4 minutes. 
 6. Off heat, add the last 1 tbsp of ginger, lime juice, and kosher salt to taste. 
-7. Garnish with lime wedges.
-8. Serve with long-grain basmati rice
+7. Garnish with lime wedges and serve with long-grain basmati rice.
+
+#### INSTANT POT DIRECTIONS 
+1. In an [Instant Pot](https://amzn.to/3qfNYCZ)), combine oil, onion, garlic, and kosher salt on saute until onions become translucent and soften. 
+2. Stir in half of the ginger, mustard seed, turmeric, coriander, fennel, and chilis. Stir for 1 minute. 
+3. Add water, coconut milk, and lentils. Leave on saute until it begins to boil.
+4. Secure the lid and set the Instant Pot to manual high pressure for 15 minutes with a quick release. 
+5. Remove the lid and stir in spinach. Return to a simmer, about 3-4 minutes. 
+6. Add the last 1 tbsp of ginger, lime juice, and kosher salt. 
+7. Garnish with lime wedges and serve with long-grain basmati rice. 
