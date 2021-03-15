@@ -134,3 +134,6 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 
 9.  Remove the foil and bake uncovered for 15 minutes. 
 10. Let the lasagna cool before serving.
+
+{{< figure src="/images/zl12.jpg" class="instructionFigure">}}
+
