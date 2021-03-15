@@ -17,7 +17,7 @@ tags = [
 thumbnail= "images/beefandchickpea.jpg"
 +++
 
-Servings: 4-6 <!--more-->
+Servings: 6 <!--more-->
 
 Preparation Time: 15 minutes 
 
@@ -54,9 +54,20 @@ Cuisine: American
 4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
 5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
 6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
-7. Stir in the chickpeas and spinach and cook until spinach wilts, about 5 minutes. 
+7. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
 8. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
+#### INSTANT POT DIRECTIONS
+
+1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
+2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
+3. In an [Instant Pot](https://amzn.to/3rRWIjZ),  melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down. 
+5. Secure the lid and set the Instant Pot to manual low pressure for 50 minutes with a quick release.  
+6. Add the carrots, secure the lid, and set the Instant Pot to manual low pressure for 3 minutes with a quick release. 
+7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
+8. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
+9. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
 ### ABOUT THE MEAL
 
@@ -71,12 +82,12 @@ The development of this recipe came about by happy mistake. Have you ever taken 
 #### What equipment do I need to make this recipe?
 
 * A small bowl 
-* A large [dutch oven](https://amzn.to/38xuVO8) 
+* A large [dutch oven](https://amzn.to/38xuVO8) or an [Instant Pot](https://amzn.to/3rRWIjZ)
 * A pair of [tongs](https://amzn.to/2OqsiXM)
 
 #### Is this stew vegetarian? Is this stew Vegan?
 
-Use potatoes instead of beef in this recipe, or double the chickpea amount. If vegan, replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
+Yes. Use potatoes instead of beef in this recipe, or double the chickpea amount. If vegan, replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
 
 #### Can I freeze the beef and chickpea stew? 
 
