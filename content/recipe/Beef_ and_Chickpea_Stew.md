@@ -93,7 +93,7 @@ Yes. Use potatoes instead of beef in this recipe, or double the chickpea amount.
 
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The beef and chickpea stew can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm on the stovetop, and enjoy! 
 
-### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 
+### INSTANT POT DIRECTIONS: STEP-BY-STEP 
 
 1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside.
 
