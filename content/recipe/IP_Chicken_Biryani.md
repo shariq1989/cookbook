@@ -10,8 +10,8 @@ tags = [
     "chicken",
     "international",
     "instantpot",
-    "pressure cooker",
-    "pressure cooking",
+    "pressurecooker",
+    "pressurecooking",
     "rice",
     "basmati",
     "instantpotmeals",
@@ -77,13 +77,19 @@ Before meeting Shariq, I had no experience with Desi food. If you asked back the
 
 #### Where does biryani originate? 
 
-The word “biryani” is derived from the Persian word, “Biran,” which means “fried before cooking,” as such, many historians believe the flavorful rice dish was born out of Persia. So how did this popular dish arrive in India? Biryani was introduced to Northern India by the Mughals- a group also credited for bringing pilau and kebabs.
+Where does biryani originate? 
+The word “biryani” is derived from the Persian word, “Biran,” which means “fried before cooking,” as such, many historians believe the flavorful rice dish was born out of Persia. So how did this popular dish arrive in India? Biryani was introduced to Northern India by the Mughals- a group also credited for bringing pilau and kebab, and we thank them for that. 
 
-Like many well-known Indian dishes, biryani varies from region to region. Interestingly, this dish has a unique preparation in almost every area across the subcontinent. 
+Like many well-known Indian dishes, biryani varies from region to region. Interestingly, this dish has a unique preparation in almost every area across the subcontinent. Some variations of biryani include: 
+* Hyderabadi Dum Biryani
+* Sindhi Biryani 
+* Chettinad Biryani 
+* Cutchi Biryani 
+* Among others...
 
 #### What main ingredients are needed for this meal?
 
-* Long-Grained Basmati Rice: Basmati rice is the star ingredient for any biryani, but how do you choose the right one? I recommend using [Royal Chef Secret Basmati Rice](https://amzn.to/3tbFMW20) , [Royal Authentic Basmati Rice](https://amzn.to/3cuai6I) , or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). 
+* Long-Grained Basmati Rice: Basmati rice is the star ingredient for any biryani, but how do you choose the right one? I recommend using [Royal Chef Secret Basmati Rice](https://amzn.to/3tbFMW20), [Royal Authentic Basmati Rice](https://amzn.to/3cuai6I), or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). 
 
 * Biryani Masala: I chose to make a quick and easy biryani masala using a combination of Kashmiri chili powder, garam masala, turmeric, salt, and Laziza Karahi Masala. You can also use a pre-made biryani masala like Shan Biryani Masala to make the recipe even more manageable. 
 
