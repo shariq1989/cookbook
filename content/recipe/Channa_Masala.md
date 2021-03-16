@@ -61,9 +61,9 @@ Cuisine: Indian, Pakistani
 8. Sprinkle the dish with kalonji seeds and cover the pan with the lid slightly ajar. Reduce the heat to maintain a gentle bubbling. Cook, stirring occasionally until the liquid has reduced, about 12-15 minutes.
 9. Season with salt, to taste, and garnish with cilantro. Serve with long-grain basmati rice or naan.
 
-#### iNSTANT POT DIRECTIONS
+#### INSTANT POT DIRECTIONS
 
-#### ABOUT THE MEAL
+### ABOUT THE MEAL
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
