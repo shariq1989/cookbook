@@ -78,7 +78,7 @@ If you're craving lasagna, but you want to skip out on all the carbs or perhaps 
 * A small bowl 
 * A 9x13 casserole dish 
 
-#### Is zucchini lasagna keto? Is zuchinni lasagna low-carb? 
+#### Is zucchini lasagna keto? Is zucchini lasagna low-carb? 
 
 This dish is a delicious low-carb alternative, and will easily fit your keto macros. We took the time to calculate the macros to make it easier.
 
@@ -86,7 +86,7 @@ This dish is a delicious low-carb alternative, and will easily fit your keto mac
 * PROTEIN– 22g
 * FAT– 22g
 
-#### Can I freeze the zuchinni lasagna?
+#### Can I freeze the zucchini lasagna?
 
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The zucchini lasagna can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, bake it uncovered in the oven at 375 degrees for 30 minutes. 
 
