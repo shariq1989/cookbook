@@ -122,15 +122,15 @@ This recipe caters well to a vegetarian, vegan, or dairy-free way of eating with
 
 * Vegan: I prefer using chickpeas, baked firm tofu, or roasted cauliflower in place of the chicken. They come out delicious and hold up well throughout the cooking process. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions. In place of butter, use either coconut oil or vegan butter, and you can use full-fat coconut milk as an alternative to the cream.
 
-* Dairy-Free: In place of butter and cream, use coconut oil and coconut milk.  
+* Dairy-Free: In place of butter and cream, use coconut oil and full-fat [coconut milk](https://amzn.to/2ODAyDS).  
 
 #### Is butter chicken keto or low-carb?
 
 It is. We even calculated the macros for one chicken thigh and some of the sauce to make it easier for you.  
 
-CARBS– 5 Net Carbs
-PROTEIN– 26g
-FAT–41g
+* CARBS– 5 Net Carbs
+* PROTEIN– 26g
+* FAT–41g
 
  We recommend serving butter chicken dish with a side of cauliflower rice, zucchini noodles, or keto naan. 
 
