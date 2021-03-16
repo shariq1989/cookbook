@@ -19,9 +19,9 @@ tags = [
 
 Servings: 2-4 <!--more-->
 
-Preparation Time:  
+Preparation Time:  30 minutes 
 
-Cook Time: 
+Cook Time: 40 minutes 
 
 Cuisine: Indian
 
