@@ -55,24 +55,35 @@ For the Toppings
 * Shredded Cheese
 * 1 Avocado, cubed 
 * 1 Serrano Chili, thinly sliced
-
-#### STOVE-TOP DIRECTIONS 
   
 #### INSTANT POT DIRECTIONS 
 
 1. Add the dried chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
-2. Remove the chilis and add them to a blender along with the chicken broth. Add the 2 chipotle chilis and 2 tbsp sauce. Mix thoroughly and set aside.
+2. Remove the chilis and add them to a blender or food processor, along with the chicken broth. Add the 2 chipotle chilis and 2 tbsp sauce. Mix thoroughly and set aside.
 3. Season the chuck with salt and pepper. 
 4. Add oil to the Instant Pot and then add a layer of the chuck. Allow it to sear and form a crust. Repeat until all the meat has had a chance to brown. Set the meat aside. 
 5. Add onions to the oil and cook until they become translucent and soften.
 6. Next, add the garlic, cinnamon, cumin, allspice, and oregano. Stir to combine and cook until it becomes fragrant about 1-2 minutes.  
 7. Add the reserved meat and blender chili puree, along with the Worcestershire sauce, apple cider vinegar, fish sauce, black beans, and tomato paste to the Instant Pot. 
-8. Secure the lid and cook on manual high pressure for 40 minutes (this cooking time is for high  elevation. You can reduce the cooking time for lower elevation). 
+8. Secure the lid and cook on manual high pressure for 40 minutes. This cooking time is for high  elevation. You can reduce the cooking time for lower elevation. 
 9. Serve as a stew and top with onion, cilantro, cheese, and avocado. Warm corn tortillas are always a nice touch. 
 
-#### ABOUT THE MEAL 
+### ABOUT THE MEAL 
+
+#### What main ingredients are needed for this meal?
 
 After experimenting with different variations of the highly-debated ingredients for chili con carne, we favored beef chuck and black beans. The tenderness of the chuck after cooking together with the other ingredients is something you absolutely need in your life; it achieves a heartiness that is missing with other meat selections. However, the real star of the dish, in my opinion, is not the meat or beans, but the variety of chilis used. They add a depth of flavor that compliments the other ingredients without overwhelming the dish with spice.
+
+#### What equipment do I need to make this recipe?
+
+* An Instant Pot 
+* A food processor or blender
+
+#### Can I make chili con carne vegetarian? Can I make chili con carne vegan?
+
+I know what you're thinking, "meat" is in the title, stick with me. You can completely make chili con carne vegetarian and vegan with a few substitutions. 
+
+In place of the meat, use potatoes or simply double the number of black beans called for in the recipe. You can also replace the chicken broth with your favorite vegetable broth and use Marmite instead of fish sauce. Skip using the Worcestershire Sauce since it has trace amounts of anchovy in it; not having it won't alter the recipe too much.  
 
 #### Is chili con carne keto or low-carb?
 
