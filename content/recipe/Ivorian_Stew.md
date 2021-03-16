@@ -1,16 +1,17 @@
 +++
-title = "Kedjenou- Ivorian Lamb Stew"
+title = " Instant Pot Kedjenou- Ivorian Lamb Stew"
 date = "2020-01-27"
 description = ""
 tags = [
     "chicken",
     "lamb",
     "international",
-    "instant pot",
-    "pressure cooker",
+    "instantpot",
+    "pressurecooker",
     "ivorian",
     "stew",
-    "west africa" 
+    "west africa",
+    "thejamilghar"
 ]
 #thumbnail= "images/kedjenou.jpg"
 +++
@@ -27,7 +28,8 @@ For the Stew:
 * 4 Garlic Cloves 
 * 2 medium Carrots, sliced 
 * 5 Red Potatoes, quartered 
-* 2 cup Chicken Stock or 2 cup Water and 1 tsp Chicken Better than Bouillon 
+* 2 cup Water
+* 1 tsp Chicken Better than Bouillon 
 
 For the Kedjenou Spice Mix: 
 
@@ -43,9 +45,8 @@ For the Kedjenou Spice Mix:
   
 #### DIRECTIONS 
 
-1. In a small bowl, mix together the ingredients for the Kedjenou Spice Mix. Use 2 tbsp to cover the chicken or lamb. 
-2. Heat oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the lamb or chicken and saute for 4 minutes, moving around so all sides sear evenly. 
-3. Add the tomatoes, onion, garlic, and other vegetables, and 1-2 tbsp of Kedjenou Spice Mix (leftover spice mix can last for 3 months if stored in a seeled mason jar). 
-4. Add ½ cup water. 
-5. Secure the Instant Pot lid and cook on high pressure for 50 minutes with a quick release. (This cooking time is for high elevation. Reduce the cooking time for lower elevation). 
-6. Serve with rice or eat as a stew. 
+1. In a small bowl, mix the ingredients for the Kedjenou Spice Mix. Use 2 tbsp to cover the chicken or lamb. 
+2. Warm the oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the lamb or chicken and saute for 4 minutes, moving around so that all the sides sear evenly. 
+3. Add the tomatoes, onion, garlic, and other vegetables, and 1-2 tbsp of Kedjenou Spice Mix. The leftover spice mix can last for 3 months if stored in a sealed mason jar. 
+4. Add ½ cup water and then secure the Instant Pot lid. Set on manual high pressure for 50 minutes with a quick release. This cooking time is for high elevation. Reduce the cooking time for lower elevation. 
+5. Serve on a bed of rice or eat as a stew. 
