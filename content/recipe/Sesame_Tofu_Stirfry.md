@@ -29,7 +29,7 @@ Cuisine: Chinese, American
 
 #### INGREDIENTS 
 
-* 1/2 package Firm Tofu, cut into small pieces (see the picture below) 
+* 1/2 package Extra-Firm Tofu, cut into small pieces (see the picture below) 
 * 1 package Shiitake Mushrooms, sliced 
 * 8 Scallions, whites and greens separated- whites, cut in 1-inch pieces- greend, thinly sliced 
 * 3 Garlic Cloves, minced
@@ -63,9 +63,9 @@ My sister, a fabulous cook, made a similar dish for us after our first child. We
 
 #### What main ingredients are needed for this meal?
 
-* Firm Tofu: I prefer using firm tofu because it holds up well during the baking and frying process. 
+* Extra-Firm Tofu: I prefer using firm tofu because it holds up well during the baking and frying process. 
 
-* Shiitake Mushrooms: I love sliced shiitake mushrooms because they absorb the flavors in this recipe well. We often add other mushrooms when making this meal, but the shiitakes are tried and true. 
+* Shiitake Mushrooms: I love sliced shiitake mushrooms; they absorb other flavors so well. We often add other mushrooms to change it up, but shiitake mushrooms are tried and true. 
 
 * Sesame Flavor: We introduce sesame into this dish in two ways: the sesame oil and sesame seeds. 
 
