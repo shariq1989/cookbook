@@ -76,11 +76,11 @@ If you're craving lasagna, but you want to skip out on all the carbs or perhaps 
 * A large skillet 
 * A [meat chopper](https://amzn.to/3bI9ZGm)
 * A small bowl 
-* A 9x13 casserole dish 
+* A 9x13 [casserole dish](https://amzn.to/3bQmY8R) 
 
 #### Is zucchini lasagna keto? Is zucchini lasagna low-carb? 
 
-This dish is a delicious low-carb alternative, and will easily fit your keto macros. We took the time to calculate the macros to make it easier.
+Zucchini Lasagna is a delicious low-carb alternative and it will easily fit your keto macros. We took the time to calculate the macros to make it easier. These calculations were made for one piece of lasagna (see photo below). 
 
 * CARBS– 6 Net Carbs 
 * PROTEIN– 22g
