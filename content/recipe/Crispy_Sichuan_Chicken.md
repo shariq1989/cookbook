@@ -96,7 +96,7 @@ In Chinese, Laziji means dried chili pepper chicken, and when you see pictures o
 
 #### Can I make this recipe gluten-free?
 
-Yes, replace the all-purpose flour with chickpea flour or add more cornstarch. Also, substitute tamari sauce in place of soy sauce.
+Yes, replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2) or add more cornstarch. AlsoM substitute [tamari sauce](https://amzn.to/30F0uBo) in place of soy sauce.
 
 #### Can I freeze the Chongqing Laziji?
 
