@@ -86,8 +86,8 @@ While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing st
 ### INSTRUCTIONS: STEP-BY-STEP
 
 1. Preheat the oven to 350 degrees and lightly oil a rimmed sheet pan. 
-2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes. 
-3. Spread out the tofu onto the rimmed baking sheet, season with salt and pepper, and cook for 15 minutes, turning the tofu pieces midway to bake thoroughly.
+2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes; I let my kids cut the tofu, which explains the varied sizing. 
+3. Spread out the tofu onto the rimmed baking sheet, season with salt and pepper, and cook for 15 minutes, turning the tofu pieces midway to bake thoroughly. 
 
 {{< figure src="/images/msf1.jpg" class="instructionFigure">}}
 
@@ -95,7 +95,6 @@ While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing st
 4. In a large skillet, warm sesame oil over medium-high heat and add the already baked tofu to a hot pan. Fry until the pieces become golden brown. Set aside. 
 
 {{< figure src="/images/msf2.jpg" class="instructionFigure">}}
-
 
 5. Using the same oil (add more if needed), add the chilis, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
 
