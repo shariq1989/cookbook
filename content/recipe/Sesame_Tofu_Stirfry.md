@@ -34,9 +34,9 @@ Cuisine: Chinese, American
 * 8 Scallions, whites and greens separated- whites, cut in 1-inch pieces- greend, thinly sliced 
 * 3 Garlic Cloves, minced
 * 2-5 [Arbol Chilis](https://amzn.to/3c4M7M9), dried, depending on your desired spice
-* 4 tbsp Sesame Oil
+* 4 tbsp [Sesame Oil](https://amzn.to/3vBPljh)
 * 3 tbsp Soy Sauce 
-* 1 tbsp Rice Wine Vinegar 
+* 1 tbsp [Rice Wine Vinegar](https://amzn.to/2OEvTRY)
 * 1 tsp [Fish Sauce](https://amzn.to/3sDAu5f), If making vegan, use [Marmite](https://amzn.to/2Ovg8wi) 
 * 1 tsp Honey 
 * 1 cup Water 
@@ -67,7 +67,7 @@ My sister, a fabulous cook, made a similar dish for us after our first child. We
 
 * Shiitake Mushrooms: I love sliced shiitake mushrooms because they absorb the flavors in this recipe well. We often add other mushrooms when making this meal, but the shiitakes are tried and true. 
 
-* Sesame Flavor: We introduce the sesame flavor in two ways: the sesame oil and sesame seeds
+* Sesame Flavor: We introduce sesame into this dish in two ways: the sesame oil and sesame seeds. 
 
 #### What equipment do I need to make this recipe?
 
@@ -77,11 +77,11 @@ My sister, a fabulous cook, made a similar dish for us after our first child. We
 
 #### Is Sesame Mushroom and Tofu Stir-Fry vegetarian? Is Sesame Mushroom and Tofu Stir-Fry vegan?
 
-This dish caters to both a vegetarian and vegan way of eating. Easily replace the fish sauce in the recipe with marmite instead; the marmite adds the umami flavor we are going for with the fish sauce.  You can also substitute the honey in the recipe for agave. 
+This dish caters to both a vegetarian and vegan way of eating. Easily replace the fish sauce in the recipe with [marmite](https://amzn.to/2OXF8fQ)instead; the marmite adds the umami flavor we are going for with the fish sauce. You can also substitute the honey in the recipe for agave. 
 
 #### Can I freeze the tofu stir-fry?
 
-While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing stir-fried tofu, especially if cooked in a sauce; freezing and re-heating will alter the desired texture of the tofu. 
+While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing stir-fried tofu, especially once it has cooked in a sauce; freezing and re-heating will alter the desired texture of the tofu. 
 
 ### INSTRUCTIONS: STEP-BY-STEP
 
