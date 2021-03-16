@@ -110,7 +110,7 @@ Orange chicken is famous in the United States, thanks in large part to Panda Exp
 
 #### Can I make this recipe gluten-free?
 
-Yes, just replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2) or add more cornstarch. You should also substitute [tamari sauce](https://amzn.to/30F0uBo) in place of soy sauce.
+Yes, replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2) or add more cornstarch. Also, substitute [tamari sauce](https://amzn.to/30F0uBo) in place of soy sauce.
 
 #### Can I freeze orange chicken?
 
