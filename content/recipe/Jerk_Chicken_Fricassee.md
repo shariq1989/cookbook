@@ -18,7 +18,7 @@ Preparation Time: 15 minutes
 
 Cooking Time: 50 minutes 
 
-Cuisine: Jamaican
+Cuisine: Caribbean
 
 Adapted From: Milkstreet
 
@@ -44,7 +44,7 @@ For the Fricassee
 * 4 tbsp Jamaican Jerk Seasoning, divided 
 * Kosher Salt and Black Pepper, to taste 
 * 3 lb Bone-in, Skin-on Chicken Thigh, trimmed and patted dry
-* 1 tbsp Avocado Oil 
+* 1 tbsp Canola Oil 
 * 1 medium Yellow Onion, thinly sliced 
 * 4 Scallions, thinly sliced, whites and greens reserved separately 
 * 1/3 cup [Gochujang](https://amzn.to/3al2a8Y)
@@ -68,16 +68,20 @@ For the Fricassee
 
 ### ABOUT THIS MEAL 
 
+You will absolutely love this jerk chicken fricassee, also called Jamaican brown stew due to its rich, brown color. 
+
 #### What main ingredients are needed for this meal?
 
-* [Gochujang](https://amzn.to/3al2a8Y)
+* Chicken Thighs: I use bone-in and skin-on chicken thighs because they are flavorful and full of fat. You could use boneless thighs, chicken legs, or a combination. I would avoid using chicken breast. 
+
+* [Gochujang](https://amzn.to/3al2a8Y): Gochujang is not a typical ingredient in fricassee, but I use it in place of the traditional ketchup. 
 
 #### What equipment do I need to make this recipe?
 
-#### Is jerk chicken friscassee keto? Is jerk chicken friscassee low-carb?
-
-#### Can I freeze the jerk chicken friscassee?
-
+* 2 small bowls 
+* A large skillet 
+* A set of measuring cups 
+* A set of measuring spoons 
 
 ### INSTRUCTIONS: STEP-BY-STEP
 
