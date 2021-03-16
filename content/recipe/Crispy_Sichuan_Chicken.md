@@ -69,3 +69,35 @@ For the Dish:
 9. Next, add the garlic, ginger, sugar, and rice wine vinegar. Cook for about 3 minutes, stirring regularly. 
 10. Add the fried chicken to the mixture and toss to combine. 
 11. Garnish with scallions and serve with jasmine rice. 
+
+### ABOUT THE MEAL 
+
+In Chinese, Laziji means dried chili pepper chicken, and when you see pictures of Chongqing laziji, or mala chicken you know why. Although this dish looks like it will light a fire in your mouth, it's not actually that hot unless you decide to break up the chilis during the cooking process or bite into them as I do.
+
+#### What main ingredients are needed for this meal?
+* Chicken Thighs: We use boneless chicken thighs cut into bit-size pieces because it is easier, but traditionally it is made with a whole chicken. 
+
+* Dried Red Chilis: Dried red chilis are the star of this recipe, as you can see in the photos. I try to balance the chicken to chili ratio, in large part, because I cannot handle it otherwise. You can most certainly use more or fewer chilis based on your personal preference. I also cook the chilis whole rather than cutting them up, as other versions of this recipe will do. 
+
+* Sichuan Chilis
+
+* Scallions: I like to cook the whites of the scallions with the chicken to balance the heat, and then top the dish with the scallion greens to give it a bite and a touch of freshness. 
+
+#### What equipment do I need to make this recipe?
+
+* 2 Large bowls
+* 2 Rimmed baking sheets
+* 2 Wire racks
+* A colander
+* A dutch oven
+* A food thermometer
+* A slotted spoon
+* A heavy-bottomed pan
+
+#### Can I make this recipe gluten-free?
+
+Yes, replace the all-purpose flour with chickpea flour or add more cornstarch. Also, substitute tamari sauce in place of soy sauce.
+
+#### Can I freeze the Chongqing Laziji?
+
+Yes, if you plan to freeze the Chongqing Laziji, be sure to keep the chicken and sauce separate except when dishing up individual plates. Freeze the sauce and chicken separately in freezer-safe containers. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, reheat the chicken in the oven and warm the sauce in a pan. Toss the chicken with the sauce and enjoy.
