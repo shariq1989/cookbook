@@ -27,7 +27,8 @@ Adapted from: Milkstreet
 * 5 lb Chuck Roast, cut into 1 ½-inch pieces 
 * 6 tbsp [Sweet Paprika](https://amzn.to/3jJjOGx) 
 * Kosher Salt and Pepper, to taste 
-* 2 cups Water and 1 tbsp Beef Better Than Bouillon 
+* 2 cups Water
+* 1 tbsp [Beef Better Than Bouillon](https://amzn.to/3qUFukL)
 * ½ cup Tomato Paste 
 * 4 tbsp Salted Butter
 * 1 large Yellow Onion, finely diced 
@@ -39,8 +40,6 @@ Adapted from: Milkstreet
 * 1 tbsp [Apple Cider Vinegar](https://amzn.to/37dBDs5)
 * 1 Package [Egg Noodles](https://amzn.to/2Zf7O60) 
 * Sour Cream, to garnish  
-
-#### STOVE-TOP DIRECTIONS 
 
 #### INSTANT POT DIRECTIONS 
 
