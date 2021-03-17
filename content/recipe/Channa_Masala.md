@@ -39,12 +39,12 @@ Cuisine: Indian, Pakistani
 * 1-inch Ginger piece, minced 
 * 1-2 large Tomatoes, chopped, use more if you prefer more salan 
 * 1/2 cup Water 
-* 1 tsp Turmeric Powder
+* 1 tsp [Turmeric Powder](https://amzn.to/3vyvAZK)
 * 1-2 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC), depending on your prefered heat
 * 1 tsp [Garam Masala](https://amzn.to/3u0tvEX)
-* 1 tsp Coriander, ground 
+* 1 tsp [Coriander](https://amzn.to/3lwbJ92), ground 
 * 1-3 Thai Green Chili or Serrano Chilis, split lengthwise 
-* 1 tsp Cumin Seeds
+* 1 tsp [Cumin Seeds](https://amzn.to/3vBeR8i)
 * 1 tsp [Kolongi Seeds](https://amzn.to/3jMZUuh), plus more to sprinkle 
 * 1/2 cup Cilantro, chopped 
 * Salt, to taste
@@ -81,7 +81,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 #### Is channa masala vegetarian? Is channa masala vegan? 
 
-Channa masala caters well to both a vegetarian and vegan diet. To make this particular recipe vegan, you will need to substitute another oil for the ghee. I suggest using grapeseed oil.
+Channa masala caters well to both a vegetarian and vegan diet. To make this particular recipe vegan, you will need to substitute another oil for the ghee. I suggest using [grapeseed oil](https://amzn.to/3cLwWYG).
 
 #### Can I freeze channa masala? 
 
