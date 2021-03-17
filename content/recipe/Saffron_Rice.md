@@ -28,7 +28,7 @@ Cuisine: Persian
 * 2 cups Long-Grained Basmati Rice
 * 2 cups Water 
 * 1 tsp Kosher Salt 
-* 2-3 Green Cardamom Pods
+* 2-3 [Green Cardamom Pods](https://amzn.to/3rVRDr7)
 * 1 tsp Saffron Stems
 * 2 tbsp Boiling Water or Milk
 * 3 tbsp Butter 
