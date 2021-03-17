@@ -80,8 +80,8 @@ You will absolutely love this jerk chicken fricassee, also called Jamaican brown
 
 * 2 small bowls 
 * A large skillet 
-* A set of measuring cups 
-* A set of measuring spoons 
+* A set of [measuring cups](https://amzn.to/3lqjYDf)
+* A set of [measuring spoons](https://amzn.to/2OJNkAF) 
 
 ### INSTRUCTIONS: STEP-BY-STEP
 
