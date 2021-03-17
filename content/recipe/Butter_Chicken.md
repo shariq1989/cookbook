@@ -40,16 +40,16 @@ For the Curry:
 
 * 1 tbsp Butter 
 * 1 Cinnamon Stick
-* 1 tsp Green Cardamom Pods, lightly crushed 
+* 1 tsp [Green Cardamom Pods](https://amzn.to/3cHo6Lq), lightly crushed 
 * 1 small Purple Onion, roughly chopped
 * 4 Garlic Cloves, minced
 * 1 tbsp Ginger, minced
 * 2 Green Chilis, slit lengthwise, plus more to garnish
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1 1/2 tsp Garam Masala
+* 1 1/2 tsp [Garam Masala](https://amzn.to/2QepzBi)
 * 1 tsp Cumin, ground
 * 1 tsp Salt
-* 1/2 tsp Turmeric 
+* 1/2 tsp [Turmeric](https://amzn.to/3vyvAZK)
 * 4 Tomatoes, roughly chopped 
 * 4 tbsp Butter 
 * 1/4 cup Heavy Cream
