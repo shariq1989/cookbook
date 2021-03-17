@@ -19,9 +19,9 @@ tags = [
 
 Servings: 10-12 <!--more-->
 
-Preparation Time: 
+Preparation Time: 20-30 minutes 
 
-Cooking Time: 
+Cooking Time: 1 hour, 30 minutes 
 
 Cuisine: Mexican 
 
@@ -31,7 +31,7 @@ For the Carnitas:
 
 * 2 tsp Salt 
 * 1 tsp Ground Cumin 
-* 1 tbsp Chipotle in Adobo (just the sauce, not the chilis)
+* 1 tbsp [Chipotle en Adobo](https://amzn.to/3vyJ1sM), sauce and 1 chili 
 * ½ tsp Black Pepper 
 * 5 lb Pork Shoulder  
 * 2 tbsp Avocado Oil 
@@ -39,7 +39,7 @@ For the Carnitas:
 * 1 Large Red Onion, diced
 * 3 Garlic Cloves
 * 2 tsp Oregano 
-* 1½ cup Orange Juice (no pulp)
+* 1½ cup Orange Juice, no pulp
 * ½ cup Lime Juice, about 2-3 limes
 * 1 Jalapeno, stems and seeds removed, diced 
 * 2 Bay Leaves 
