@@ -26,13 +26,13 @@ Adapted from: Milkstreet
 * 1 tbsp Coconut Oil 
 * 4 Garlic Cloves, smashed 
 * 2 tbsp Ginger, minced, divided
-* 2 tsp Mustard Seed 
-* 2 tsp Turmeric, ground  
-* 1 tsp Coriander, ground
+* 2 tsp [Black Mustard Seed](https://amzn.to/2Q4RC60)
+* 2 tsp [Turmeric](https://amzn.to/3qQ6ZvL), ground  
+* 1 tsp [Coriander](https://amzn.to/30WR1W5), ground
 * 1 tsp Fennel, ground
-* 3-4 Boriya Chili (Boriya Mirch)
+* 3-4 Boriya Chili 
 * 3½ cup Water 
-* 1 can Full-Fat Coconut Milk (Arroy-D is our favorite)
+* 1 can Full-Fat [Coconut Milk](https://amzn.to/3cEP2vg) 
 * 1 cup [Red Lentils](https://amzn.to/3qmuduc) (Masoor Daal) 
 * 6 cup Spinach 
 * 2 tsp Lime Juice 
