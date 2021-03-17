@@ -30,20 +30,18 @@ Adapted from: Serious Eats, Daniel Gritzer
 * 2 medium Carrots, sliced into rounds 
 * 2 medium Celery, sliced
 * 2 Yellow Onion, diced 
-* ½ tsp Marmite or [Fish Sauce](https://amzn.to/3jMYZdj)
+* ½ tsp [Marmite](https://amzn.to/2Q2f2ZJ) or [Fish Sauce](https://amzn.to/3jMYZdj)
 * 1 tsp Soy Sauce 
 * 2 tsp Worcestershire Sauce
 * 4 Garlic Cloves, minced 
 * 2 tbsp Tomato Paste
 * 1 qt Water
-* 1 tbsp. Chicken Better Than Bouillon
+* 1 tbsp. [Chicken Better Than Bouillon](https://amzn.to/2Nw26us)
 * 1 Tomato, quartered 
 * 1 cup Pearl Barley 
 * 2 Bay Leaves 
 * 1 cup Kale, chopped and stems removed 
 * Salt and Pepper, to taste
-
-#### STOVE-TOP DIRECTIONS 
 
 #### INSTANT POT DIRECTIONS 
 
