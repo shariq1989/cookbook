@@ -37,9 +37,9 @@ For Gosht:
 * ¼ cup Garlic Cloves
 * 4-inch Fresh Ginger, julienne
 * ¾ cup Full-Fat Yogurt 
-* 2½ tbsp Coriander Powder 
+* 2½ tbsp [Coriander Powder](https://amzn.to/3tppHMD) 
 * 2 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
-* ½ tsp Turmeric Powder
+* ½ tsp [Turmeric Powder](https://amzn.to/3cDPN7U)
 * Salt, to taste
 * ⅓ cup [Ghee](https://amzn.to/2ZkJkrW), plus 3-4 tbsp Ghee 
 * 2 tbsp Cilantro, chopped
@@ -51,8 +51,8 @@ For Whole Spices:
 * 1½ - inch Cinnamon Stick
 * 3 Whole Cloves
 * 5 Whole Black Peppercorns
-* 5 Green Cardamom Pods
-* 2 Black Cardamom Pods
+* 5 [Green Cardamom Pods](https://amzn.to/2Q95DQ9)
+* 2 [Black Cardamom Pods](https://amzn.to/3vvGj77)
 * ½ tsp Nutmeg, ground
 
 #### DIRECTIONS 
