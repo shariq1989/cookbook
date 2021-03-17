@@ -9,9 +9,8 @@ tags = [
     "banana",
     "vegan",
     "vegetarian",
-    "bananabread",
-    "bakedgoods",
-    "bananabreadrecipe",
+    "baked goods",
+    "banana bread recipe",
     "homemadebananabread",
     "bestbananabread",
     "thejamilghar"
