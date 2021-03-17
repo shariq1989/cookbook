@@ -63,6 +63,6 @@ Let it be known- I am not a fan of pumpkin. However, two Christmases ago, our sw
 #### What equipment do I need to make this recipe?
 
 * A large and small bowl 
-* A handmixer
-* A jelly roll
+* A [handmixer](https://amzn.to/3rZWFmo)
+* A [jelly roll](https://amzn.to/3s7YJJj)
 
