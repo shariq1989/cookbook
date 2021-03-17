@@ -19,9 +19,9 @@ tags = [
 
 Servings: 6 <!--more-->
 
-Preparation Time: 
+Preparation Time: 20 minutes 
 
-Cooking Time: 
+Cooking Time: 1 hour, 20 minutes
 
 Adapted from: Milkstreet
 
@@ -72,6 +72,4 @@ For the Soup:
 5. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the pot, whisk to combine. 
 6. Add the chicken and any accumulated juices. Cook until heated through (do not simmer once the eggs are in the mixture). Taste and season with salt and pepper.
 7. Garnish the soup with cilantro and dill.  
-
-#### INSTANT POT DIRECTIONS 
 
