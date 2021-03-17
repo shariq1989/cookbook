@@ -38,9 +38,9 @@ For the Paste:
 * 2 tbsp Lemon Juice
 * 2 tsp [Garam Masala](https://amzn.to/3u0tvEX) 
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
-* 1/2 tsp Turmeric
+* 1/2 tsp [Turmeric](https://amzn.to/3trObVj)
 * 2 tsp Kosher Salt 
-* 1 tbsp Laziza [Karahi Masala](https://amzn.to/2MYzcmx)
+* 1 tbsp Laziza or Shan [Karahi Masala](https://amzn.to/2MYzcmx)
 * 2 tbsp Garlic and Ginger Paste 
 * 1/4 cup Cilantro, chopped, plus more for garnish
 * 2 lb Chicken Thighs and Legs, bone-in and skinless 
@@ -51,8 +51,8 @@ For the Biryani:
 * 2 Red Onion, thinly sliced, divided
 * 2 Bay Leaves
 * 1 tbsp Cumin Seeds
-* 5 Green Cardomom Pods
-* 1 Star Anise
+* 5 [Green Cardomom Pods](https://amzn.to/3vBa5aw)
+* 1 [Star Anise](https://amzn.to/3eOVFhc)
 * 2 tsp Kosher Salt 
 * 3 cup Long-Grain Basmati Rice, pre-soaked and divided. 
 * Optional: 2-3 Thai Green Chilis, to serve 
@@ -77,7 +77,6 @@ Before meeting Shariq, I had no experience with Desi food. If you asked back the
 
 #### Where does biryani originate? 
 
-Where does biryani originate? 
 The word “biryani” is derived from the Persian word, “Biran,” which means “fried before cooking,” as such, many historians believe the flavorful rice dish was born out of Persia. So how did this popular dish arrive in India? Biryani was introduced to Northern India by the Mughals- a group also credited for bringing pilau and kebab, and we thank them for that. 
 
 Like many well-known Indian dishes, biryani varies from region to region. Interestingly, this dish has a unique preparation in almost every area across the subcontinent. Some variations of biryani include: 
@@ -91,12 +90,12 @@ Like many well-known Indian dishes, biryani varies from region to region. Intere
 
 * Long-Grained Basmati Rice: Basmati rice is the star ingredient for any biryani, but how do you choose the right one? I recommend using [Royal Chef Secret Basmati Rice](https://amzn.to/3tbFMW20), [Royal Authentic Basmati Rice](https://amzn.to/3cuai6I), or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). 
 
-* Biryani Masala: I chose to make a quick and easy biryani masala using a combination of Kashmiri chili powder, garam masala, turmeric, salt, and Laziza Karahi Masala. You can also use a pre-made biryani masala like Shan Biryani Masala to make the recipe even more manageable. 
+* Biryani Masala: I chose to make a quick and easy biryani masala using a combination of Kashmiri chili powder, garam masala, turmeric, salt, and Laziza Karahi Masala. You can also use a pre-made biryani masala like [Shan](https://amzn.to/3cGWNk9) to make the recipe even more manageable. 
 
 #### What equipment do I need to make this recipe?
 
 * A large bowl 
-* A set of measuring spoons
+* A set of [measuring spoons](https://amzn.to/38O25JK)
 * An [Instant Pot](https://amzn.to/3rJDIEg) 
 * A [rice cooker](https://amzn.to/2OJpyED)
 
