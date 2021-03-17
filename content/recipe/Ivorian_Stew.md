@@ -29,7 +29,7 @@ For the Stew:
 * 2 medium Carrots, sliced 
 * 5 Red Potatoes, quartered 
 * 2 cup Water
-* 1 tsp Chicken Better than Bouillon 
+* 1 tsp [Chicken Better than Bouillon](https://amzn.to/3rR71VA)
 
 For the Kedjenou Spice Mix: 
 
@@ -41,7 +41,7 @@ For the Kedjenou Spice Mix:
 * Salt, to taste
 * Pepper, to taste
 * ½ tsp Cayenne Pepper 
-* 1 tsp Turmeric 
+* 1 tsp [Turmeric](https://amzn.to/3tpsxkL)
   
 #### DIRECTIONS 
 
