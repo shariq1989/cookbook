@@ -14,7 +14,7 @@ tags = [
     "lentils",
     "vegan"
 ]
-#thumbnail= "images/goa-daal.jpg"
+thumbnail= "images/GoaMasoorDal.jpg"
 +++
 
 Servings: 6 <!--more-->
@@ -92,10 +92,27 @@ Yes, first allow the Goa red dal to cool and gather several freezer-safe reseala
 
 ### INSTRUCTIONS: STEP-BY-STEP
 1. In a large saute pan, add the coconut oil and onion. Cook on low heat until the onions brown and caramelize. This step may take a while, but that's okay. You are building flavor for the dish. 
+
+{{< figure src="/images/gd1.jpg" class="instructionFigure">}}
+
 2. When the onions caramelize, add the garlic, ginger, chilis, and kosher salt. Allow the mixture to cook for about 1 minute. 
+
+{{< figure src="/images/gd2.jpg" class="instructionFigure">}}
+
 3. Next, add the mustard seed, turmeric, coriander, and fennel. Stir for 1 minute until the mixture is fully incorporated. 
+
+{{< figure src="/images/gd3.jpg" class="instructionFigure">}}
+
 4. Add the water and then whisk in the coconut milk. Stir in the lentils and bring the mixture to a boil. 
+
+{{< figure src="/images/gd4.jpg" class="instructionFigure">}}
+
 5. Reduce the heat and cover the pan with a lid. Cook on medium heat for about 25-30 minutes. Be sure to check the dal every so often and give it a quick stir to prevent it from sticking to the bottom of the pan. Overcooked dal is mushy and undercooked dal is crunchy, much like a seed. You want the dal to be tender, but still have substance.
 6. Stir in spinach and return to a simmer, about 3-4 minutes. 
+
+{{< figure src="/images/gd5.jpg" class="instructionFigure">}}
+
 7. Off heat, add the last 1 tbsp of ginger, lime juice, and kosher salt to taste. Stir well. 
 8. Garnish with lime wedges and serve with long-grain basmati rice.
+
+{{< figure src="/images/gd6.jpg" class="instructionFigure">}}
