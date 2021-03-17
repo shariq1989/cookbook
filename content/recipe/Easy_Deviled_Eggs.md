@@ -30,8 +30,6 @@ Cuisine: American
 * 1 tsp Fresh Dill, chopped
 * Salt, to taste  
 
-#### STOVE-TOP DIRECTIONS 
-
 #### INSTANT POT DIRECTIONS 
 
 1. Place eggs in a single layer on the [trivet](https://amzn.to/38G3NNi) in an [Instant Pot](https://amzn.to/3qfNYCZ) and add 1 cup of water. Secure the lid and set it to manual high pressure for 5 minutes. Allow for natural release for 5 minutes, followed by an ice bath for another 5 minutes.  
