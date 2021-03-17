@@ -29,7 +29,7 @@ Cooking Time: 50 minutes
 * 1 cup [Moong Dal](https://amzn.to/3rCtNAB), rinsed   
 * 1 1/2 cup water 
 * 1 tsp Kosher salt, to taste
-* 1 1/2 tbsp turmeric, ground 
+* 1 1/2 tbsp [turmeric](https://amzn.to/3rWz3iD), ground 
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
 * 1/2 tsp [Garam Masala](https://amzn.to/3u0tvEX)
 * 1 large Tomato, diced and pureed 
@@ -43,11 +43,9 @@ For the Tadka:
 * 2 Thai Green Chilis, split lengthwise 
 * 2-3 Boriya Chilis, dried 
 * 1 tsp Cumin Seed
-* 1/2 tsp Mustard Seed
-* 3-4 Curry Leaves   
+* 1/2 tsp [Black Mustard Seed](https://amzn.to/3eNP1rC)
+* 3-4 Fresh Curry Leaves   
 * 1 1/2 large Red Onion, thinly sliced
-
-#### STOVE-TOP DIRECTIONS
 
 #### INSTANT POT DIRECTIONS 
 
@@ -72,7 +70,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 #### Is Moong Dal Vegan? 
 
-With one substitution, it is. Fry the onions in canola oil or vegetable oil instead of ghee. 
+With one substitution, yes. Fry the onions in canola oil or vegetable oil instead of ghee. 
 
 #### Can I freeze Moong Dal? 
 
