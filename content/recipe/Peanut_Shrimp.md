@@ -27,7 +27,7 @@ Cuisine: American
 * 1 ½ lbs extra-large Shrimp, peeled and deveined, tails removed
 * ½ teaspoon Kosher Salt, divided
 * 1 tsp Black Peppercorns
-* 2 tsp Coriander Seeds
+* 2 tsp [Coriander Seeds](https://amzn.to/3rVIRcC)
 * 1 tsp Paprika
 * 2 Garlic Clove, minced
 * 1 ⅛ tsp Sugar, divided
@@ -49,7 +49,7 @@ Cuisine: American
 8. Transfer to a platter, sprinkle with peanuts, and serve with lime wedges.
 
 
-#### ABOUT THE MEAL 
+### ABOUT THE MEAL 
 
 #### What equipment do I need to make this recipe?
 
