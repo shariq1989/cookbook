@@ -31,7 +31,7 @@ Cuisine: Mexican, American
 
 * 2 Arbol Chilis, dried 
 * 2 Ancho Chilis, dried
-* 1 can Chipotles En Adobo, use only 2 chilis and 2 tbsp chipotle sauce 
+* 1 can [Chipotles En Adobo](https://amzn.to/3f0lZoT), use only 2 chilis and 2 tbsp chipotle sauce 
 * 1 qt Chicken Broth  
 * 4 lb Beef Chuck, cut into 1-inch pieces. 
 * 2 tbsp Olive Oil 
@@ -76,7 +76,7 @@ After experimenting with different variations of the highly-debated ingredients 
 
 #### What equipment do I need to make this recipe?
 
-* An Instant Pot 
+* An [Instant Pot](https://amzn.to/3qfNYCZ)
 * A food processor or blender
 
 #### Can I make chili con carne vegetarian? Can I make chili con carne vegan?
