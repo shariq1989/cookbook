@@ -62,7 +62,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 * Ground Beef: In Urdu, the word "qeema" means minced. In this case, we are making beef qeema or minced beef. One step you don't want to skip over when making qeema is taking the time to break up the meat. That is why I highly recommend purchasing a meat chopper, plus they are just really satisfying to use.
 
-* Qeema Masala: I am usually a fan of making masalas from scratch, but because this recipe is meant to be quick and easy, I suggest using [Lazika Qeema Masala](https://amzn.to/2Ohfras). We have tried others that are tasty, but this brand is our favorite. 
+* Qeema Masala: I am usually a fan of making masalas from scratch, but because this recipe is meant to be quick and easy, I suggest using [Lazika Qeema Masala](https://amzn.to/2Ohfras). Other brands are tasty, but this brand is our favorite. 
 
 #### What equipment do I need to make this recipe?
 
