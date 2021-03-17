@@ -29,7 +29,7 @@ Servings: 3-4 <!--more-->
 * 3 latge Tomatoes, pureed 
 * 2 tsp Ginger Paste
 * 2 Garlic Cloves, minced
-* 1/2 Package Laziza [Karahi Masala](https://amzn.to/2MYzcmx), this will make for mild spice. 
+* 1/2 Package Laziza or Shan [Karahi Masala](https://amzn.to/2MYzcmx), this will make for mild spice. 
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
 * 1 tsp [Kolongi Seeds](https://amzn.to/3jMZUuh) 
 * 2 Green Chilis, split lengthwise
