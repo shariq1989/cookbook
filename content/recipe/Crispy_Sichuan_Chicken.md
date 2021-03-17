@@ -32,7 +32,7 @@ Cuisine: Chinese, Sichuan
 For the Marinade: 
 
 * ⅓ cup Dark Soy Sauce 
-* 3 tbsp Rice Wine Vinegar 
+* 3 tbsp [Shaoxing Wine](https://amzn.to/3lmuDiq)
 * 2 tbsp White Sugar
 * 2 large Eggs Whites, lightly beaten 
 
@@ -45,14 +45,14 @@ For the Fried Chicken:
 
 For the Dish: 
 
-* 1 tbsp Chili Oil 
+* 1 tbsp [Chili Oil](https://amzn.to/3lo3sUi)
 * 1 tbsp Canola Oil
-* 1 tsp Sichuan Chilis, dried
+* 1 tsp [Sichuan Chilis](https://amzn.to/2OEuomZ), dried
 * 1 cup Red [Arbol Chilis](https://amzn.to/3c4M7M9), dried
 * 1-inch Fresh Ginger, peeled and julienne
 * 4 Garlic Cloves, julienne
 * 1/2 tsp Sugar 
-* 1 tsp Rice Wine Vinegar
+* 1 tsp [Shaoxing Wine](ht]tps://amzn.to/3lmuDiq)
 * 8 Scallion, thinly sliced
 * 1 tsp Toasted Sesame Seeds
 
@@ -89,14 +89,14 @@ In Chinese, Laziji means dried chili pepper chicken, and when you see pictures o
 * 2 Rimmed baking sheets
 * 2 Wire racks
 * A colander
-* A dutch oven
-* A food thermometer
+* A [dutch oven](https://amzn.to/3bVhcBR)
+* A [food thermometer](https://amzn.to/3cAXtHU)
 * A slotted spoon
 * A heavy-bottomed pan
 
 #### Can I make this recipe gluten-free?
 
-Yes, replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2) or add more cornstarch. AlsoM substitute [tamari sauce](https://amzn.to/30F0uBo) in place of soy sauce.
+Yes, replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2) or add more cornstarch. Also, substitute [tamari sauce](https://amzn.to/30F0uBo) in place of soy sauce.
 
 #### Can I freeze the Chongqing Laziji?
 
