@@ -74,7 +74,6 @@ With this recipe, you still get all the yummy goodness of cinnamon rolls, but wi
 
 * Baking Powder: Baking powder is used instead of yeast in this recipe. 
 
-
 #### What equipment do I need to make this recipe?
 
 * 2 small bowls
