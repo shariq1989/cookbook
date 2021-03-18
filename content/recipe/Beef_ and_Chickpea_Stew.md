@@ -1,20 +1,11 @@
 +++
 title = "Beef and Chickpea Stew"
 date = "2021-03-12"
-description = ""
+description = "This beef and chickpea stew is flavorful and hearty. It can be modified to be vegetarian or vegan."
 tags = [
-    "beef",
-    "healthy",
-    "stew",
-    "lunch",
-    "dinner",
-    "hearty",
-    "lowcarb",
+    "entree",
     "vegan",
     "vegetarian",
-    "soup",
-    "chuckshortrib",
-    "thejamilghar"
 ]
 thumbnail= "images/beefandchickpea.jpg"
 +++
