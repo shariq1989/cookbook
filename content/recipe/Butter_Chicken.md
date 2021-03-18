@@ -7,8 +7,8 @@ tags = [
     "international",
     "indian",
     "low carb",
-    "low-carb",
-    "keto"
+    "keto",
+    "instant pot"
 ]
 #thumbnail= "images/ButterChicken (2).jpg"
 +++
