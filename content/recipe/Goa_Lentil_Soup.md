@@ -6,12 +6,7 @@ tags = [
     "entree",
     "vegetarian",
     "indian",
-    "soup",
     "instantpot",
-    "pressurecooker",
-    "coconut", 
-    "dal", 
-    "lentils",
     "vegan"
 ]
 thumbnail= "images/GoaMasoorDal.jpg"
