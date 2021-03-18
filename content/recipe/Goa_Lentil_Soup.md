@@ -106,7 +106,8 @@ Yes, first allow the Goa red dal to cool and gather several freezer-safe reseala
 
 {{< figure src="/images/gd4.jpg" class="instructionFigure">}}
 
-5. Reduce the heat and cover the pan with a lid. Cook on medium heat for about 25-30 minutes. Be sure to check the dal every so often and give it a quick stir to prevent it from sticking to the bottom of the pan. Overcooked dal is mushy and undercooked dal is crunchy, much like a seed. You want the dal to be tender, but still have substance.
+5. Reduce the heat and cover the pan with a lid. Cook on medium heat for about 25-30 minutes. Be sure to check the dal every so often and give it a quick stir to prevent it from sticking to the bottom of the pan. Overcooked dal is mushy and undercooked dal is crunchy, much like a seed. You want the dal to be tender but remain intact.
+
 6. Stir in spinach and return to a simmer, about 3-4 minutes. 
 
 {{< figure src="/images/gd5.jpg" class="instructionFigure">}}
