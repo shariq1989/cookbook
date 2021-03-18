@@ -3,7 +3,6 @@ title = "Banana Bread"
 date = "2020-01-18"
 description = "A moist and delicious baked banana bread recipe that our family loves, especially kids. It can be made vegan"
 tags = [
-    "baking",
     "dessert",
     "vegan",
     "vegetarian",
@@ -63,7 +62,7 @@ Everyone has their favorite banana bread recipe; this is mine.
 
 To make this banana bread vegan, you will need to make a few substitutions: 
 
-* Eggs: Use flax eggs. I don't have a recipe written out, but the ratio for flax eggs is: one tbsp of flaxseed and three tbsp of water 
+* Eggs: Use flax eggs, but reduce the eggs amount to two eggs. I don't have a recipe written out, but the ratio for flax eggs is: one tbsp of flaxseed and three tbsp of water 
 
 * Butter: Opt for vegan butter or coconut oil. 
 
