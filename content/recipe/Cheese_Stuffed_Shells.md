@@ -3,19 +3,8 @@ title = "Pesto, Spinach, and Cheese Stuffed Shells"
 date = "2021-02-01"
 description = ""
 tags = [
-    "italian",
-    "lunch",
-    "dinner",
-    "pasta",
-    "pesto",
-    "shells",
-    "baked",
-    "cheese", 
-    "noodles", 
-    "spinach", 
-    "vegetarian", 
-    "meatless",
-    "thejamilghar"
+    "entree",
+    "vegetarian"
 ]
 thumbnail= "images/StuffedShells.jpg "
 +++
