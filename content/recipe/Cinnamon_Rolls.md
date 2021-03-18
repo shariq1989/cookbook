@@ -20,6 +20,13 @@ Cuisine: American
 
 #### INGREDIENTS
 
+For the Filling:
+
+* 1/2 cup Brown Sugar, packed
+* 3 tsp Cinnamon, ground
+* 1/8 tsp Salt
+* 1/4 cup White Granulated Sugar
+
 For the Cinnamon Rolls: 
 
 * 2 1/2 cups All-Purpose Flour, plus more for rolling the dough
@@ -29,13 +36,6 @@ For the Cinnamon Rolls:
 * 1/2 tsp Salt
 * 1 1/4 cup Buttermilk 
 * 6 tbsp Butter, melted, divided
-
-For the Filling:
-
-* 1/2 cup Brown Sugar, packed
-* 3 tsp Cinnamon, ground
-* 1/8 tsp Salt
-* 1/4 cup White Granulated Sugar
 
 For the Frosting:
 
