@@ -10,11 +10,11 @@ tags = [
 #thumbnail= "images/banana-bread.jpg"
 +++
 
-Servings:  <!--more-->
+Servings: 9 <!--more-->
 
-Preparation Time: 
+Preparation Time: 30 minutes
 
-Cook Time: 
+Cook Time: 30 minutes
 
 Cuisine: American
 
