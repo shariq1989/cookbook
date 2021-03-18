@@ -21,22 +21,24 @@ Cuisine: American
 #### INGREDIENTS
 
 For the Cinnamon Rolls: 
-* 2 1/2 cups All Purpose Flour, plus more for rolling the dough
+
+* 2 1/2 cups All-Purpose Flour, plus more for rolling the dough
 * 3 tbsp White Granulated Sugar
 * 1 1/4 tsp Baking Powder 
 * 1/2 tsp Baking Soda 
 * 1/2 tsp Salt
 * 1 1/4 cup Buttermilk 
-* 6 tbsp Butter, melted
-
+* 6 tbsp Butter, melted, divided
 
 For the Filling:
+
 * 1/2 cup Brown Sugar, packed
 * 3 tsp Cinnamon, ground
 * 1/8 tsp Salt
 * 1/4 cup White Granulated Sugar
 
 For the Frosting:
+
 * 1 cup Powdered Sugar 
 * 2 tbsp Butter, softened
 * 1 tsp Vanilla
@@ -44,11 +46,14 @@ For the Frosting:
 
 #### DIRECTIONS 
 
-1. Preheat the oven to 425 degress and combine the ingredients for the filling in a small bowl. Mix well and set aside. 
-2. In a large bowl, combine the dry ingredients, flour, sugar, baking powder, baking soda and salt. Set aside. 
-3. Whisk the buttermilk and melted butter in a separate bowl and then pour it into the middle of the dry ingredients. Stir together until dough comes together. Do not overmix. Kneed the dough slightly until the dough forms into a ball, then slice it in half.
-4. On a lightly floured surface, roll each half into a 12x8" rectangle (think slightly longer than a sheet of paper.) Press half the filling mixture into the center, leaving 1/4" of the dough clear on all 4 sides, then roll like a sausage. Pinch together seam, trim ends and cut into 8 slices. Repeat with the other dough half, then place rolls in a non-stick sprayed 11x8" pan, or an 8x8 and 6x4" pan. Brush cinnamon rolls with remaining Tablespoon of melted butter and bake for 15 minutes, or until tops are golden brown.
-5. Meanwhile, to make the icing, mash together softened cream cheese and powdered sugar with a fork until smooth. Whisk in buttermilk, 1 Tablespoon at a time, until creamy. Drizzle onto hot cinnamon rolls and spread evenly.
+1. Preheat the oven to 425 degrees and combine the ingredients for the filling in a small bowl. Mix well and set aside. 
+2. In a large bowl, add all of the dry ingredients: flour, sugar, baking powder, baking soda, and salt. Set aside. 
+3. Whisk the buttermilk and 5 tbsp melted butter together in a separate bowl, and then pour the mixture into the middle of the reserved dry ingredients. Combine until the dough comes forms. Do not overmix. Knead the dough and form a ball, then slice it in half.
+4. On a lightly floured surface, roll each ball into a rectangle. Cover them with the reserved filling, leaving some room on all four sides of the dough. Roll it up into a tube and slightly trim the ends. Cut them into even slices. 
+5. Prepare a baking dish with butter or spray and then fill it with the rolls. 
+6. Brush the tops of the cinnamon rolls with the remaining melted butter and bake for 15 minutes. 
+7. While the rolls are baking, let's make the icing. Using a hand mixer, blend the softened butter, then add the vanilla. Slowly stir in the powdered sugar until smooth, and then whisk in the milk. Set aside. 
+8.  Retrieve the cinnamon rolls from the oven, allow them to cool for 5 minutes and then drizzle them with the frosting.
 
 
 ### ABOUT THE CINNAMON ROLLS 
@@ -57,21 +62,31 @@ You can't beat a warm batch of cinnamon rolls, and during the first round of Cov
 
 With this recipe, you still get all the yummy goodness of cinnamon rolls, but without the prepping and proofing that comes from using yeast to make your dough. By omitting the yeast from the recipe and replacing it with baking powder, it decreases the preparation time, meaning you can get the cinnamon rolls to the table even quicker. 
 
-#### What main ingredients are needed for this bread?
+#### What main ingredients are needed for these cinnamon rolls?
 
-* Baking Powder:  
+* All-Purpose Flour: I haven't explored this recipe with other flour alternatives.
+
+* Milk: I recommend using whole milk, but you can also use orange juice instead.  
+
+* Butter: I use salted butter, but you could use unsalted as well. 
+
+* Cinnamon: This is an essential ingredient in these cinnamon rolls; make sure you are using quality ground cinnamon. 
+
+* Baking Powder: Baking powder is used instead of yeast in this recipe. 
+
 
 #### What equipment do I need to make this recipe?
 
+* 2 small bowls
 * A large bowl
-* A small bowl
 * A [hand-mixer](https://amzn.to/2OXaeEn) 
-* 2- 9x5 [loaf pans](https://amzn.to/3lhGhv0)
+* A 9x11 baking dish
 * A set a [measuring spoons](https://amzn.to/3qIy2cl)
+* A set of measuring cups 
 
-#### Can I make this banana bread vegan?
+#### Can I make these cinnamon rolls vegan?
 
-To make this banana bread vegan, you will need to make a few substitutions: 
+To make the cinnamon rolls vegan, you will need to make a few substitutions: 
 
 * Butter: Opt for vegan butter or coconut oil. 
 
@@ -79,30 +94,11 @@ To make this banana bread vegan, you will need to make a few substitutions:
 
 * Buttermilk: You can use almond milk as an alternative, but stir in 1 tsp of lemon juice before using it. 
 
-#### How should I store my banana bread? 
+#### How should I store my cinnamon rolls? 
 
-To keep your banana bread moist, allow it to cool completely and wrap it in a layer of saran wrap. Then, store it in a Ziploc bag or a container with a tight-fitting lid. It will last on the counter for up to 3 days. 
+If you somehow ended up with leftover cinnamon rolls, they will keep at room temperature for a few days. Place the leftovers onto a plate and cover them with aluminum foil. 
 
-#### What can I add to my banana bread?
+#### Can I freeze cinnamon rolls?
 
-* Chocolate chips 
-* Nuts: Walnuts, Pecans
-* Peanut Butter 
-* Spices: Nutmeg, All Spice
-* Maple Syrup 
-* Cocao Powder
-* Orange Zest 
-* Dried Fruit: Cranberries, Raisins, apricots
-* Pumpkin Puree 
-
-#### Can I freeze banana bread?
-
-You sure can. First, allow the banana bread to cool completely and then wrap it in saran wrap, followed by aluminum foil. The banana bread will freeze for up to 2 months. When you're ready to eat, let it defrost at room temperature. This process can take up to 24 hours. 
-
-
-
-
-
-
-
+I do not recommend freezing already baked rolls unless you bake them and leave the frosting off of them. What I do is, make two batches; I bake one and freeze the other for quick baking next time. To freeze, all you have to do is gather the rolls together and wrap them tightly in Saran wrap, then place them into a freezer-safe bag. The rolls will keep for up to 2 months. When you're ready to eat, let them defrost in the refrigerator overnight. Prepare the icing, warm your cinnamon rolls in the microwave for 1 minute, and enjoy. 
 
