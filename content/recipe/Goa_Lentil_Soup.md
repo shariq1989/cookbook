@@ -102,6 +102,8 @@ Yes, first allow the Goa red dal to cool and gather several freezer-safe reseala
 
 4. Add the water and then whisk in the coconut milk. Stir in the lentils and bring the mixture to a boil. 
 
+{{< figure src="/images/gd6.jpg" class="instructionFigure">}}
+
 {{< figure src="/images/gd4.jpg" class="instructionFigure">}}
 
 5. Reduce the heat and cover the pan with a lid. Cook on medium heat for about 25-30 minutes. Be sure to check the dal every so often and give it a quick stir to prevent it from sticking to the bottom of the pan. Overcooked dal is mushy and undercooked dal is crunchy, much like a seed. You want the dal to be tender, but still have substance.
@@ -112,4 +114,4 @@ Yes, first allow the Goa red dal to cool and gather several freezer-safe reseala
 7. Off heat, add the last 1 tbsp of ginger, lime juice, and kosher salt to taste. Stir well. 
 8. Garnish with lime wedges and serve with long-grain basmati rice.
 
-{{< figure src="/images/gd6.jpg" class="instructionFigure">}}
+{{< figure src="/images/gd7.jpg" class="instructionFigure">}}
