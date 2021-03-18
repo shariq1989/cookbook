@@ -1,22 +1,15 @@
 +++
 title = "Chili Con Carne"
 date = "2021-03-05"
-description = ""
+description = "Our chili con carne recipe can be made in the Instant Pot or in a slow cooker. We make our chili con carne with beans, but it can be modified to fit a keto diet."
 tags = [
-    "beef",
-    "lunch",
-    "dinner",
-    "tex-mex",
-    "stew",
+    "entree",
     "instantpot",
-    "pressurecooker",
-    "pressurecooking",
-    "chiliconcarne",
-    "chili",
-    "texas",
-    "soup",
+    "international",
     "mexican",
-    "thejamilghar"
+    "keto",
+    "low carb",
+   
 ]
 thumbnail= "images/IMG_20210305_131905_151.jpg"
 +++
