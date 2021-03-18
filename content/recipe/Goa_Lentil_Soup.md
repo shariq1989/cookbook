@@ -1,5 +1,5 @@
 +++
-title = "Masoor Dal- Lentil Soup "
+title = "Masoor Dal- Red Lentil Soup "
 date = "2020-01-19"
 description = ""
 tags = [
