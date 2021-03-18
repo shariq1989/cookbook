@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 disableThemeSwitcher = true # Theme switcher is enabled by default
 displayMode = "light"
 #title = "The Jamil Ghar"
-author = "Tressa Jamil"
+#author = "Tressa Jamil"
 copyright = "2020-2021"
 
 # fyi, this field is only for search engines
