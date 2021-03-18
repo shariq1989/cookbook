@@ -20,7 +20,7 @@ tags = [
 
 Servings: 6<!--more-->
 
-Adapted from: Milkstreet
+Adapted from: Milk Street
 
 #### INGREDIENTS 
 
