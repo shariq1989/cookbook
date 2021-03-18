@@ -3,7 +3,7 @@ title = "Masoor Dal- Red Lentil Soup "
 date = "2021-03-17"
 description = ""
 tags = [
-    "dinner",
+    "entree",
     "vegetarian",
     "indian",
     "soup",
@@ -21,7 +21,7 @@ Servings: 6 <!--more-->
 
 Preparation Time: 10 minutes 
 
-Cooking Time: 
+Cooking Time: 1 hour 
 
 Cuisine: Goan
 
@@ -72,7 +72,7 @@ Adapted from: Milk Street
 
 ### ABOUT THE MEAL 
 
-Goa is the smallest state in India and the cookery is unique to its region. Unlike many places in India, Goan cuisine is traditionally known for its balance of flavor and the inclusion of coconut and seafood in many of its plates.  
+Goa is a coastal city and happens to be the smallest state in India. The food they make is unique to their region. Goan cuisine is known for the balance of flavor, sweet and spicy, and the inclusion of coconut and seafood in many of its plates.  
 
 #### What main ingredients are needed for this meal?
 
