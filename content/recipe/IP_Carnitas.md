@@ -59,15 +59,15 @@ To Serve:
 
 ### ABOUT THE MEAL 
 
-Who doesn't love a good taco? This carnitas recipe is a crowd-pleaser; they are everything you want in a good street taco, the juicy, shredded pork, and the crispy, flavorful edges, all made in the comfort of your own home. 
+Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder that is later pulled apart and then crisped up. This carnitas recipe makes for the perfect street taco- the juicy, shredded pork, and the crispy, flavorful edges, all made in the comfort of your own home. 
 
 #### What main ingredients are needed for this meal?
 
-* Pork Shoulder: Pork shoulder or "pork butt" is ideal for carnitas because of the higher fat content; it helps the meat maintain its tender juiciness throughout the cooking process. 
+* Pork Shoulder: Pork shoulder is ideal for carnitas. The higher fat content helps the meat maintain its tender juiciness throughout the cooking process. 
 
-* Citrus Flavor: The orange juice both tenderizes the pork and flavors the dish. 
+* Citrus: The orange juice tenderizes the pork and flavors the dish. 
 
-* Onion
+* Onion: We prefer the bite of the red onions cooked with the pork and used as a garnish. 
 
 * Warm Herbs and Spices: Cumin, Cinnamon, Oregano, and Bay Leaves 
 
