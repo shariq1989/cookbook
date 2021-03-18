@@ -1,19 +1,13 @@
 +++
 title = "Banana Bread"
 date = "2020-01-18"
-description = ""
+description = "A moist and delicious baked banana bread recipe that our family loves, especially kids. It can be made vegan"
 tags = [
     "baking",
     "bread",
     "dessert",
-    "banana",
     "vegan",
-    "vegetarian",
-    "baked goods",
-    "banana bread recipe",
-    "homemadebananabread",
-    "bestbananabread",
-    "thejamilghar"
+    "vegetarian"
 ]
 #thumbnail= "images/banana-bread.jpg"
 +++
