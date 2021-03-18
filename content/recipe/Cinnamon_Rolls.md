@@ -113,8 +113,6 @@ I do not recommend freezing already baked rolls unless you bake them and leave t
 
 3. Whisk the buttermilk and melted butter in a separate bowl, and then pour the mixture into the middle of the reserved dry ingredients. Combine until the dough comes forms. Do not overmix. Knead the dough and form a ball.
 
-{{< figure src="/images/cr2.jpg" class="instructionFigure">}}
-
 {{< figure src="/images/cr3.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/cr4.jpg" class="instructionFigure">}}
