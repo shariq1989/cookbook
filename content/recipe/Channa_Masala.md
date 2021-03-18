@@ -8,6 +8,7 @@ tags = [
     "indian",
     "international",
     "vegan",
+    "instant pot"
 ]
 thumbnail= "images/ChannaMasala.jpg "
 +++
