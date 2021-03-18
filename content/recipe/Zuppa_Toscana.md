@@ -1,16 +1,10 @@
 +++
 title = "Zuppa Toscana Copycat"
 date = "2020-01-18"
-description = ""
+description = "This is a delicious Olive Garden Zuppa Toscana Copycat. It is healthy and low carb and can be modified to be vegetarian."
 tags = [
-    "soup",
-    "lunch",
-    "dinner",
-    "healthy",
-    "Italian",
-    "olivegarden", 
-    "lowcarb",
-    "zuppatoscana"
+    "entree",
+    "low carb",
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
@@ -28,7 +22,8 @@ Cuisine: Italian, American
 * 1 lb Spicy ground Italian Sausage
 * 1 medium Yellow Onion, finely diced 
 * 4 Garlic Cloves, minced 
-* 1 tbsp [Chicken Better than Bouillon](https://amzn.to/38081yU) and 4 cup water
+* 1 tbsp [Chicken Better than Bouillon](https://amzn.to/38081yU)
+* 4 cup water
 * 4 small Red Potatoes, quartered 
 * 6 slices of Nitrate-Free Bacon, crumbled
 * 2 cup Heavy Cream 
@@ -59,9 +54,9 @@ There are multiple versions of this recipe floating around the internet. Honestl
 
 This recipe does not suit the macros for a keto diet, but if you're aiming to eat low-carb, we suggest one substitution. Replace the red potatoes with the utility vegetable of the century, cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get all the flavor of the original recipe. We even calculated the macros to make it easy for you. Please note, this macro calculation is made without the red potatoes. 
 
-CARBS– 13 net carbs
-PROTEIN– 62g
-FAT– 61g
+* CARBS– 13 net carbs
+* PROTEIN– 62g
+* FAT– 61g
 
 #### Can I freeze Zuppa Toscana? 
 
