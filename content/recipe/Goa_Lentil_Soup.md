@@ -1,5 +1,5 @@
 +++
-title = "Goan Masoor Dal- Goa Lentil Soup "
+title = "Masoor Dal- Lentil Soup "
 date = "2020-01-19"
 description = ""
 tags = [
@@ -22,6 +22,8 @@ Servings: 6 <!--more-->
 Preparation Time: 10 minutes 
 
 Cooking Time: 
+
+Cuisine: Goan
 
 Adapted from: Milk Street
 
