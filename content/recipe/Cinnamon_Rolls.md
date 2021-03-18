@@ -10,7 +10,7 @@ tags = [
 #thumbnail= "images/banana-bread.jpg"
 +++
 
-Servings: 9 <!--more-->
+Servings: 10 <!--more-->
 
 Preparation Time: 30 minutes
 
@@ -22,6 +22,7 @@ Cuisine: American
 
 For the Filling:
 
+* 2 tbsp Butter, melted
 * 1/2 cup Brown Sugar, packed
 * 3 tsp Cinnamon, ground
 * 1/8 tsp Salt
@@ -31,27 +32,28 @@ For the Cinnamon Rolls:
 
 * 2 1/2 cups All-Purpose Flour, plus more for rolling the dough
 * 3 tbsp White Granulated Sugar
-* 1 1/4 tsp Baking Powder 
+* 1 1/4 tbsp Baking Powder 
 * 1/2 tsp Baking Soda 
 * 1/2 tsp Salt
 * 1 1/4 cup Buttermilk 
 * 6 tbsp Butter, melted, divided
+* 1 tsp Vanilla
 
 For the Frosting:
 
 * 1 cup Powdered Sugar 
-* 2 tbsp Butter, softened
-* 1 tsp Vanilla
+* 3 tbsp Butter, softened
+* 1/2 tsp Vanilla
 * 1 tbsp Milk 
 
 #### DIRECTIONS 
 
 1. Preheat the oven to 425 degrees and combine the ingredients for the filling in a small bowl. Mix well and set aside. 
 2. In a large bowl, add all of the dry ingredients: flour, sugar, baking powder, baking soda, and salt. Set aside. 
-3. Whisk the buttermilk and 5 tbsp melted butter together in a separate bowl, and then pour the mixture into the middle of the reserved dry ingredients. Combine until the dough comes forms. Do not overmix. Knead the dough and form a ball, then slice it in half.
-4. On a lightly floured surface, roll each ball into a rectangle. Cover them with the reserved filling, leaving some room on all four sides of the dough. Roll it up into a tube and slightly trim the ends. Cut them into even slices. 
+3. Whisk the buttermilk, 5 tbsp melted butter, and vanilla together in a separate bowl, and then pour the mixture into the middle of the reserved dry ingredients. Combine until the dough comes forms. Do not overmix. Knead the dough and form a ball.
+4. On a lightly floured surface, roll the ball into a rectangle. Cover it with the reserved filling, leaving some room on all four sides of the dough. Sprinkle it lightly with cinnamin and roll it up into a tube. Slightly trim the ends and cut the tube into even slices, about 10. 
 5. Prepare a baking dish with butter or spray and then fill it with the rolls. 
-6. Brush the tops of the cinnamon rolls with the remaining melted butter and bake for 15 minutes. 
+6. Brush the tops of the cinnamon rolls with the remaining melted butter and bake for 17 minutes. This cooking time is for high elevation; adjust the time for lower elevation.
 7. While the rolls are baking, let's make the icing. Using a hand mixer, blend the softened butter, then add the vanilla. Slowly stir in the powdered sugar until smooth, and then whisk in the milk. Set aside. 
 8.  Retrieve the cinnamon rolls from the oven, allow them to cool for 5 minutes and then drizzle them with the frosting.
 
