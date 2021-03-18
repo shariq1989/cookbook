@@ -1,5 +1,5 @@
 +++
-title = "No Yeast Cinnamon Rolls"
+title = "No Yeast - Cinnamon Rolls"
 date = "2020-01-18"
 description = "    "
 tags = [
