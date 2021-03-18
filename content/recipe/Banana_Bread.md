@@ -4,10 +4,11 @@ date = "2020-01-18"
 description = "A moist and delicious baked banana bread recipe that our family loves, especially kids. It can be made vegan"
 tags = [
     "baking",
-    "bread",
     "dessert",
     "vegan",
-    "vegetarian"
+    "vegetarian",
+    "breakfast",
+    "bread"
 ]
 #thumbnail= "images/banana-bread.jpg"
 +++
@@ -87,3 +88,6 @@ To keep your banana bread moist, allow it to cool completely and wrap it in a la
 #### Can I freeze banana bread?
 
 You sure can. First, allow the banana bread to cool completely and then wrap it in saran wrap, followed by aluminum foil. The banana bread will freeze for up to 2 months. When you're ready to eat, let it defrost at room temperature. This process can take up to 24 hours. 
+
+
+### DIRECTIONS: STEP-BY-STEP
