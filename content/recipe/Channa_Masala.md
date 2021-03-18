@@ -1,23 +1,13 @@
 +++
 title = "Channa Masala - Spiced Chickpea Curry"
 date = "2021-03-01"
-description = ""
+description = "This is an easy and flavorful channa masala made in the Instant Pot or on the stove."
 tags = [
-    "curry",
-    "lunch",
-    "dinner",
-    "chickpea",
+    "entree",
     "vegetarian",
     "indian",
-    "pakistani",
     "international",
-    "garbanzobean",
     "vegan",
-    "recipe",
-    "desi", 
-    "chole",
-    "hearty", 
-    "punjabi"
 ]
 thumbnail= "images/ChannaMasala.jpg "
 +++
