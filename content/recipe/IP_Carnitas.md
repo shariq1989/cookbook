@@ -3,7 +3,7 @@ title = "Instant Pot Carnitas - Braised Pork Tacos"
 date = "2020-01-18"
 description = ""
 tags = [
-    "entree"
+    "entree",
     "mexican",
     "instantpot",
 ]
