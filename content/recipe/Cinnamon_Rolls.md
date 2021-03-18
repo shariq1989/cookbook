@@ -7,7 +7,7 @@ tags = [
     "dessert",
     "vegetarian"
 ]
-#thumbnail= "images/banana-bread.jpg"
+thumbnail= "images/CinnamonRoll.jpg"
 +++
 
 Servings: 10 <!--more-->
@@ -105,25 +105,42 @@ I do not recommend freezing already baked rolls unless you bake them and leave t
 
 1. Preheat the oven to 425 degrees and combine the ingredients for the filling in a small bowl. Mix well and set aside.
 
+{{< figure src="/images/cr1.jpg" class="instructionFigure">}}
 
 2. In a large bowl, add all of the dry ingredients: flour, sugar, baking powder, baking soda, and salt. Set aside. 
 
+{{< figure src="/images/cr2.jpg" class="instructionFigure">}}
 
 3. Whisk the buttermilk and melted butter in a separate bowl, and then pour the mixture into the middle of the reserved dry ingredients. Combine until the dough comes forms. Do not overmix. Knead the dough and form a ball.
 
+{{< figure src="/images/cr2.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/cr3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/cr4.jpg" class="instructionFigure">}}
 
 
 4. On a lightly floured surface, roll the ball into a rectangle. Cover it with the reserved filling, leaving some room on all four sides of the dough. Sprinkle it lightly with cinnamon and roll it up into a tube. Slightly trim the ends and cut into even slices, about 10. 
 
+{{< figure src="/images/cr5.jpg" class="instructionFigure">}}
 
+{{< figure src="/images/cr6.jpg" class="instructionFigure">}}
 
+{{< figure src="/images/cr7.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/cr8.jpg" class="instructionFigure">}}
 
 5.Prepare a baking dish with butter or spray and then fill it with the rolls. 
 6. Brush the tops of the cinnamon rolls with the remaining melted butter and bake for 17 minutes. This cooking time is for high elevation; adjust the time for lower elevation.
 
-
+{{< figure src="/images/cr9.jpg" class="instructionFigure">}}
 
 7. While the rolls are baking, let's make the icing. Using a hand mixer, blend the softened butter, then add the vanilla. Slowly stir in the powdered sugar until smooth, and then whisk in the milk. Set aside.
 
+{{< figure src="/images/cr10.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/cr11.jpg" class="instructionFigure">}}
 
 8.  Retrieve the cinnamon rolls from the oven, allow them to cool for 5 minutes and then drizzle them with the frosting.
+
+{{< figure src="/images/cr12.jpg" class="instructionFigure">}}
