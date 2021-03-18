@@ -23,7 +23,7 @@ Preparation Time: 10 minutes
 
 Cooking Time: 
 
-Adapted from: Milkstreet
+Adapted from: Milk Street
 
 #### INGREDIENTS 
 
