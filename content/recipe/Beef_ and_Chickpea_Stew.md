@@ -6,7 +6,7 @@ tags = [
     "entree",
     "vegan",
     "vegetarian",
-    "instantpot"
+    "instant pot"
 ]
 thumbnail= "images/beefandchickpea.jpg"
 +++
