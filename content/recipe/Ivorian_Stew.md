@@ -1,17 +1,10 @@
 +++
-title = " Instant Pot Kedjenou- Ivorian Lamb Stew"
+title = "Instant Pot Kedjenou- Ivorian Lamb Stew"
 date = "2020-01-27"
 description = ""
 tags = [
-    "chicken",
-    "lamb",
     "international",
     "instantpot",
-    "pressurecooker",
-    "ivorian",
-    "stew",
-    "west africa",
-    "thejamilghar"
 ]
 #thumbnail= "images/kedjenou.jpg"
 +++
