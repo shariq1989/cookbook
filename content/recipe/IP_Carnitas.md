@@ -3,15 +3,9 @@ title = "Instant Pot Carnitas - Braised Pork Tacos"
 date = "2020-01-18"
 description = ""
 tags = [
-    "pork",
-    "lunch",
-    "dinner",
+    "entree"
     "mexican",
-    "tacos",
     "instantpot",
-    "pressurecooker",
-    "pressurecooking",
-    "thejamilghar"
 ]
 
 #thumbnail= "images/carnitas.jpg"
@@ -30,30 +24,30 @@ Cuisine: Mexican
 For the Carnitas: 
 
 * 2 tsp Salt 
-* 1 tsp Ground Cumin 
+* 1 tsp Cumin, ground 
 * 1 tbsp [Chipotle en Adobo](https://amzn.to/3vyJ1sM), sauce and 1 chili 
 * ½ tsp Black Pepper 
-* 5 lb Pork Shoulder  
-* 2 tbsp Avocado Oil 
 * 1 tsp Ground Cinnamon
-* 1 Large Red Onion, diced
-* 3 Garlic Cloves
 * 2 tsp Oregano 
+* 2 tbsp Avocado Oil 
+* 5 lb Pork Shoulder  
+* 1 Large Red Onion, diced
+* 4 Garlic Cloves
+* 1 Jalapeno, stems and seeds removed, diced 
+* 1 Cinnamon Stick 
+* 2 Bay Leaves 
 * 1½ cup Orange Juice, no pulp
 * ½ cup Lime Juice, about 2-3 limes
-* 1 Jalapeno, stems and seeds removed, diced 
-* 2 Bay Leaves 
-* 1 Cinnamon Stick 
 * Liquid Smoke, to taste 
 
 To Serve: 
 * Corn Tortillas, warmed 
-* 1 cup Cilantro, chopped 
-* 1/2 Red Onion, chopped 
+* Cilantro, chopped 
+* Red Onion, chopped 
   
-#### DIRECTIONS 
+#### INSTANT POT DIRECTIONS 
 
-1. In a small bowl, combine salt, cumin, ancho chili, and black pepper to create a rub. 
+1. In a small bowl, combine salt, cumin, ancho chili, black pepper, cinnamon, and oregano to create a rub. 
 2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Massage the rub into the pork. 
 3. Heat the oil on saute mode in an [Instant Pot](https://amzn.to/3qfNYCZ). Add the meat and let it cook until it begins to brown, about 5 minutes. Repeat until all the pork has had a chance to brown. Set aside. 
 4. Place all of the meat back into the Instant Pot, along with the onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps). 
@@ -62,3 +56,46 @@ To Serve:
 7. Preheat the oven to 400 degrees.
 8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes or until you begin to see crispy bits, depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
 9. Serve with warm corn tortillas and garnish with diced onions and cilantro. 
+
+### ABOUT THE MEAL 
+
+Who doesn't love a good taco? This carnitas recipe is a crowd-pleaser; they are everything you want in a good street taco, the juicy, shredded pork, and the crispy, flavorful edges, all made in the comfort of your own home. 
+
+#### What main ingredients are needed for this meal?
+
+* Pork Shoulder: Pork shoulder or "pork butt" is ideal for carnitas because of the higher fat content; it helps the meat maintain its tender juiciness throughout the cooking process. 
+
+* Citrus Flavor: The orange juice both tenderizes the pork and flavors the dish. 
+
+* Onion
+
+* Warm Herbs and Spices: Cumin, Cinnamon, Oregano, and Bay Leaves 
+
+#### What equipment do I need to make this recipe?
+
+* A small bowl 
+* An [Instant Pot](https://amzn.to/3qfNYCZ)
+* A rimmed baking sheet 
+
+#### Are carnitas keto? Are carnitas low-carb?
+
+Yes, replace the orange juice with water and add 1 tsp of [Chicken Better than Bouillion](https://amzn.to/2P3CipM) for added flavor.  These macros account for the pork in the taco and not the tortilla or the toppings.  The serving size is three tacos. 
+
+CARBS – 2 Net Carbs 
+PROTEIN – 44g
+FAT – 38g
+
+We recommend serving the carnitas with a low-carb tortilla. I like Mr. Tortilla because they are only 1 Net Carb per tortilla.  I tried to link them for you, but only the bulk order option was available on Amazon affiliates.
+
+#### What can I do with the leftover meat? 
+
+Don't feel like making tacos for the second night in a row? No worries, use the leftover meat to make enchiladas, nachos, sliders, quesadillas, breakfast burritos, or Mexican pizza. 
+
+#### Can I freeze the Carnitas?
+
+You sure can. For best results, reserve some of the meat and juice before broiling. I prefer to put the pork into a freezer-safe container and store the reserved juices separately in a Ziploc bag. The carnitas will freeze for up to 3 months. 
+
+When you’re ready to eat, let both defrost in the refrigerator overnight. 
+To serve, pour the contents of the Ziploc bag into a bowl and warm it in the microwave for thirty seconds. Reheat the carnitas by frying them in a cast-iron skillet or frying pan. When the pork is thoroughly reheated, drizzle the meat with the reserved juices. Prepare your tortillas and toppings, and enjoy!
+
+### INSTRUCTIONS:STEP-BY-STEP
