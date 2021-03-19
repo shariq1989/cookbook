@@ -1,15 +1,12 @@
 +++
 title = "Chorizo Breakfast Burrito"
 date = "2020-01-19"
-description = ""
+description = "This is the best chorizo breakfast burrito and it is super easy to make. It is made with chorizo, eggs, and potato, but it can also be modified to be vegetarian and vegan."  
 tags = [
-    "lunch",
-    "dinner",
     "mexican",
     "breakfast",
-    "burrito",
-    "egg",
-    "tortilla"
+    "vegetarian",
+    "vegan"
 ]
 #thumbnail= "images/burrito.jpg"
 +++
@@ -20,7 +17,7 @@ Preparation Time: 5 minutes
 
 Cooking Time: 15 minutes 
 
-Cuisine: Mexican American 
+Cuisine: Mexican, American 
 
 #### INGREDIENTS 
 
