@@ -1,7 +1,7 @@
 +++
 title = "Cinnamon Rolls Without Yeast"
 date = "2020-01-18"
-description = "We love these tasty, made from scratch cinnamon rolls. They are made without yeast. It comes with icing made two ways: sugar icing and cream cheese icing."
+description = "We love these tasty, homemade, from scratch cinnamon rolls. They are made without yeast and come with icing made two ways: sugar icing and cream cheese icing."
 tags = [
     "baking",
     "dessert",
