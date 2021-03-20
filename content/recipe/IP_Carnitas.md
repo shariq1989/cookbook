@@ -69,7 +69,7 @@ Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder t
 
 * Onion: We prefer the bite of the red onions cooked with the pork and used as a garnish. 
 
-* Warm Herbs and Spices: Cumin, Cinnamon, Oregano, and Bay Leaves 
+* Warm Herbs and Spices: Cumin, Cinnamon, Oregano, and Bay Leaves flavor the meat and give the carnitas a homey feel. 
 
 #### What equipment do I need to make this recipe?
 
@@ -103,16 +103,22 @@ To serve, pour the contents of the Ziploc bag into a bowl and warm it in the mic
 1. In a small bowl, combine salt, cumin, chipotles en adobo sauce, black pepper, cinnamon, and oregano to create a rub. 
 2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Massage the rub into the pork. 
 
+{{< figure src="/images/carn1.jpg" class="instructionFigure">}}
 
 3. Heat the oil on saute mode in an [Instant Pot](https://amzn.to/3qfNYCZ). Add the meat and let it cook until it begins to brown, about 5 minutes. Repeat until all the pork has had a chance to brown. Set aside. 
 
+{{< figure src="/images/carn2.jpg" class="instructionFigure">}}
 
 4.  Place all of the meat back into the Instant Pot, along with the onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps).
 
+{{< figure src="/images/carn3.jpg" class="instructionFigure">}}
 
 5.  Secure the lid and cook on manual high pressure for 40 minutes and allow 20 minutes for natural release. 
 7. Remove the pork from the Instant Pot using a slotted spoon and leaving the juices behind. Allow the meat to cool some before shredding it, and then spread it onto a rimmed baking sheet. 
 
+{{< figure src="/images/carn4.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/carn5.jpg" class="instructionFigure">}}
 
 8. Preheat the oven to 400 degrees.
 9. Cover the meat with liquid smoke (to taste) and cook for 4 minutes or until you begin to see crispy bits, depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
@@ -120,3 +126,5 @@ To serve, pour the contents of the Ziploc bag into a bowl and warm it in the mic
 
 
 10. Serve with warm corn tortillas and garnish with diced onions and cilantro. 
+
+{{< figure src="/images/carn6.jpg" class="instructionFigure">}}
