@@ -12,8 +12,7 @@ tags = [
     "vegetarian",
     "vegan",
 ]
-thumbnail= "images/Guacamole.jpg
-"
+thumbnail= "images/Guacamole.jpg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -69,9 +68,9 @@ This guacamole recipe is easy to make, and naturally vegetarian and vegan-friend
 
 Yes, it is and we even calculated the macros to make it easier for you.
 
-CARBS– 4 Net Carbs
-PROTEIN– 2g
-FAT– 16g 
+* CARBS– 4 Net Carbs
+* PROTEIN– 2g
+* FAT– 16g 
 
 #### How should I store my guacamole?
 
