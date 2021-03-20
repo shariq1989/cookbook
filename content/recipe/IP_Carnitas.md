@@ -81,9 +81,9 @@ Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder t
 
 Yes, replace the orange juice with water and add 1 tsp of [Chicken Better than Bouillion](https://amzn.to/2P3CipM) for added flavor.  These macros account for the pork in the taco and not the tortilla or the toppings.  The serving size for this dish is three tacos. 
 
-CARBS – 2 Net Carbs 
-PROTEIN – 44g
-FAT – 38g
+* CARBS – 2 Net Carbs 
+* PROTEIN – 44g
+* FAT – 38g
 
 We recommend serving the carnitas with a low-carb tortilla. I like Mr. Tortilla because they are only 1 Net Carb per tortilla.  I tried to link them for you, but only the bulk order option was available on Amazon affiliates.
 
