@@ -38,7 +38,7 @@ For the Carnitas:
 * 2 Bay Leaves 
 * 1½ cup Orange Juice, no pulp
 * ½ cup Lime Juice, about 2-3 limes
-* Liquid Smoke, to taste 
+* [Liquid Smoke](https://amzn.to/2NDOc9C), to taste 
 
 To Serve: 
 * Corn Tortillas, warmed 
@@ -55,7 +55,7 @@ To Serve:
 6. Remove the pork from the Instant Pot using a slotted spoon and leaving the juices behind. Allow the meat to cool some before shredding it, and then spread it onto a rimmed baking sheet. 
 7. Preheat the oven to 400 degrees.
 8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes or until you begin to see crispy bits, depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
-9. Garnish with onions and cilantro and serve with warm corn tortillas and mexican rice.
+9. Garnish with onions and cilantro and serve with warm corn tortillas and [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/).
 
 ### ABOUT THE MEAL 
 
@@ -125,6 +125,6 @@ To serve, pour the contents of the Ziploc bag into a bowl and warm it in the mic
 
 {{< figure src="/images/carn7.jpg" class="instructionFigure">}}
 
-9. Garnish with onions and cilantro and serve with warm corn tortillas and mexican rice. 
+9. Garnish with onions and cilantro and serve with warm corn tortillas and [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/). 
 
 {{< figure src="/images/carn6.jpg" class="instructionFigure">}}
