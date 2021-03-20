@@ -12,7 +12,8 @@ tags = [
     "vegetarian",
     "vegan",
 ]
-thumbnail= "images/guac3.jpg"
+thumbnail= "images/Guacamole.jpg
+"
 +++
 
 Servings: 4-6 <!--more-->
@@ -79,12 +80,15 @@ This guacamole keeps well in the refrigerator if stored properly. Add the guacam
  ### DIRECTIONS: STEP-BY-STEP
 
 1. Slice the avocados in half, remove the pit, and scoop them into a small bowl. 
-2. Mash the avocados with a fork. Leave it chunky or whip it smooth, whichever you prefer. 
 
 {{< figure src="/images/guac1.jpg" class="instructionFigure">}}
+
+2. Mash the avocados with a fork. Leave it chunky or whip it smooth, whichever you prefer. 
+
+{{< figure src="/images/guac2.jpg" class="instructionFigure">}}
 
 3. Add the remaining ingredients and mix well. 
 4. Taste the guacamole and adjust the seasoning accordingly. 
 
-{{< figure src="/images/guac2.jpg" class="instructionFigure">}}
+{{< figure src="/images/guac3.jpg" class="instructionFigure">}}
 
