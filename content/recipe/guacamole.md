@@ -88,7 +88,10 @@ This guacamole keeps well in the refrigerator if stored properly. Add the guacam
 {{< figure src="/images/guac2.jpg" class="instructionFigure">}}
 
 3. Add the remaining ingredients and mix well. 
-4. Taste the guacamole and adjust the seasoning accordingly. 
 
 {{< figure src="/images/guac3.jpg" class="instructionFigure">}}
+
+4. Taste the guacamole and adjust the seasoning accordingly. 
+
+
 
