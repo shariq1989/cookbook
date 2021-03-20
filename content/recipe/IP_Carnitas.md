@@ -123,7 +123,7 @@ To serve, pour the contents of the Ziploc bag into a bowl and warm it in the mic
 7. Preheat the oven to 400 degrees.
 8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes or until you begin to see crispy bits, depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
 
-{{< figure src="/images/carn6.jpg" class="instructionFigure">}}
+{{< figure src="/images/carn7.jpg" class="instructionFigure">}}
 
 9. Garnish with onions and cilantro and serve with warm corn tortillas and mexican rice. 
 
