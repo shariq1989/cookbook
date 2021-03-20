@@ -5,7 +5,7 @@ description = ""
 tags = [
     "entree",
     "mexican",
-    "instantpot",
+    "instant pot",
 ]
 
 thumbnail= "images/carnitas.jpg"
