@@ -3,15 +3,8 @@ title = "Ground Beef Tacos "
 date = "2021-03-01"
 description = ""
 tags = [
-    "tacos",
-    "beef",
+    "entree",
     "mexican",
-    "corntortillas",
-    "mexicanamericanrecipes",
-    "foodie",
-    "dinner",
-    "texmex",
-    "thejamilghar"
     
 ]
 thumbnail= "images/groundbeeftaco.jpg"
@@ -26,14 +19,6 @@ Cooking Time: 20 minutes
 Cuisine: Mexican, American 
 
 #### INGREDIENTS 
-
-For the Guacamole:
-
-* 2 Avocados, peeled, pitted, and mashed 
-* 1 Lime, juiced 
-* 1 tsp Salt
-* 1/2 tsp Garlic Powder
-* 2 tbsp Cilantro, chopped
 
 For the Tacos: 
 
@@ -52,15 +37,10 @@ To the Toppings:
 
 * Shredded Cheddar Cheese
 * Sour Cream
-* Guacamole
+* [Guacamole](https://www.jamilghar.com/recipe/guacamole/)
 * Tapatio
 
 #### DIRECTIONS 
-
-For the Guacamole:
-
-1. In a bowl, mash together the avocados, lime juice, and salt. 
-2. Then stir in the cilantro and season with garlic powder to serve. 
 
 For the Corn Tortillas: 
 
@@ -75,9 +55,9 @@ For the Tacos:
 2. Add the onions to the pan and cook until they become translucent and soften. 
 3. Next, add the ground beef and break it up with a [meat chopper](https://amzn.to/3bQ2coS) or spatula. Cook, stirring occasionally until beef is heated thoroughly and turns brown for about 10 minutes. 
 4. Stir in the garlic and cilantro and then season the meat with garlic powder, salt, and taco seasoning. Mix to combine and then add water. Cover with a lid and allow the meat to simmer for about 5 minutes. 
-5. Spoon the beef into the warmed corn tortillas and top with sour cream, guacamole, cheese, and a few drops of Tapatio. Serve immediately.
+5. Spoon the beef into the warmed corn tortillas and top with sour cream, homemade [guacamole](https://www.jamilghar.com/recipe/guacamole/), cheese, and a few drops of Tapatio. Serve with [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/), and enjoy.
 
-#### ABOUT THE MEAL
+#### ABOUT THE MEAL)
 
 My family didn’t have a lot of money when I was growing up so we rotated a few meals throughout the week. One dish I always looked forward to my mom making was her ground beef tacos. I know I could have made a taco seasoning from scratch to make her dish more original, but there is something special about a meal from childhood. I must have passed this joy onto my son because this is his most requested meal from me. He is the reason I decided to post this recipe because he very genuinely told me the other day, “mama, people need to know how to make this meal so they can feed it to their kids.” Well, we certainly hope you enough this easy weeknight meal as much as we do. 
 
