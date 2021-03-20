@@ -55,7 +55,7 @@ To Serve:
 6. Remove the pork from the Instant Pot using a slotted spoon and leaving the juices behind. Allow the meat to cool some before shredding it, and then spread it onto a rimmed baking sheet. 
 7. Preheat the oven to 400 degrees.
 8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes or until you begin to see crispy bits, depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
-9. Serve with warm corn tortillas and garnish with diced onions and cilantro. 
+9. Garnish with onions and cilantro and serve with warm corn tortillas and mexican rice.
 
 ### ABOUT THE MEAL 
 
@@ -114,17 +114,17 @@ To serve, pour the contents of the Ziploc bag into a bowl and warm it in the mic
 {{< figure src="/images/carn3.jpg" class="instructionFigure">}}
 
 5.  Secure the lid and cook on manual high pressure for 40 minutes and allow 20 minutes for natural release. 
-7. Remove the pork from the Instant Pot using a slotted spoon and leaving the juices behind. Allow the meat to cool some before shredding it, and then spread it onto a rimmed baking sheet. 
+6. Remove the pork from the Instant Pot using a slotted spoon and leaving the juices behind. Allow the meat to cool some before shredding it, and then spread it onto a rimmed baking sheet. 
 
 {{< figure src="/images/carn4.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/carn5.jpg" class="instructionFigure">}}
 
-8. Preheat the oven to 400 degrees.
-9. Cover the meat with liquid smoke (to taste) and cook for 4 minutes or until you begin to see crispy bits, depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
+7. Preheat the oven to 400 degrees.
+8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes or until you begin to see crispy bits, depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
 
+{{< figure src="/images/carn6.jpg" class="instructionFigure">}}
 
-
-10. Serve with warm corn tortillas and garnish with diced onions and cilantro. 
+9. Garnish with onions and cilantro and serve with warm corn tortillas and mexican rice. 
 
 {{< figure src="/images/carn6.jpg" class="instructionFigure">}}
