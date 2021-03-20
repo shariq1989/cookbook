@@ -5,9 +5,10 @@ date = "2020-01-29"
 description = "Learn how to make easy and authentic guacamole with this recipe."
 tags = [
     "mexican",
-    "sides",
+    "side dish",
+    "sauce",
     "keto",
-    "low-carb",
+    "low carb",
     "vegetarian",
     "vegan",
 ]
