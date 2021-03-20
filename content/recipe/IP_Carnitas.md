@@ -103,7 +103,7 @@ To serve, pour the contents of the Ziploc bag into a bowl and warm it in the mic
 1. In a small bowl, combine salt, cumin, chipotles en adobo sauce, black pepper, cinnamon, and oregano to create a rub. 
 2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Massage the rub into the pork. 
 
-{{< figure src="/images/carn1.jpg" class="instructionFigure">}}
+{{< figure src="/images/car1.jpg" class="instructionFigure">}}
 
 3. Heat the oil on saute mode in an [Instant Pot](https://amzn.to/3qfNYCZ). Add the meat and let it cook until it begins to brown, about 5 minutes. Repeat until all the pork has had a chance to brown. Set aside. 
 
