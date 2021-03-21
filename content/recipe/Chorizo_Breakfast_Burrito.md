@@ -8,7 +8,7 @@ tags = [
     "vegetarian",
     "vegan"
 ]
-#thumbnail= "images/burrito.jpg"
+thumbnail= "images/chorizoburrito.jpg"
 +++
 
 Servings: 5 Burritos <!--more-->
