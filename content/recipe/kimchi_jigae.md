@@ -1,6 +1,6 @@
 +++
 title = "Kimchi Jjigae - Kimchi Stew"
-date = "2021-03-12"
+date = "2021-03-20"
 description = ""
 tags = [
     "entree",
