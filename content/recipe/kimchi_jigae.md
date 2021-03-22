@@ -105,6 +105,8 @@ You sure can, but before freezing, remove the tofu from the dish. It doesn't reh
 6. Next, add the tofu and let the mixture simmer for a few minutes before gently stirring in the reserved spices. 
 7. Add an egg in the middle of the soup. Let it cook for 1-2 minutes. Spoon some of the broth over the egg. Cover with the lid, lower the heat and cook for 4 minutes. 
 
+{{< figure src="/images/sdj7.jpg" class="instructionFigure">}}
+
 {{< figure src="/images/sdj5.jpg" class="instructionFigure">}}
 
 8. To serve, garnish with extra Gochugaru if you prefer your soup extra spicy; otherwise, your soup is ready to eat. 
