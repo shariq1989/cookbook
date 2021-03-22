@@ -25,4 +25,4 @@ Servings: 5 <!--more-->
 
 1. Preheat the oven to 400 degrees and prepare a rimmed baking sheet. 
 2. Slice the potatoes, keilbasa, and peppers. Spread the potatoes and keilbasa onto the baking sheet. Set the peppers aside for now. 
-3. Bake for 20 minutes, add the peppers and mix everything on the pan together, spreading around the oil from the keilbasa. Bake for another 20 minutes. 
+3. Bake for 15 minutes, add the peppers and mix everything on the pan together, spreading around the oil from the keilbasa. Bake for another 10-15 minutes. 
