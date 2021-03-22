@@ -4,7 +4,6 @@ date = "2020-01-30"
 description = "This Butter Chicken is made in the Instant Pot and fits a low carb and keto diet."
 tags = [
     "entree",
-    "international",
     "indian",
     "low carb",
     "keto",
@@ -37,7 +36,7 @@ For the Curry:
 * 1 tbsp Butter 
 * 1 Cinnamon Stick
 * 1 tsp [Green Cardamom Pods](https://amzn.to/3cHo6Lq), lightly crushed 
-* 1 small Purple Onion, roughly chopped
+* 1 small Yellow Onion, roughly chopped
 * 4 Garlic Cloves, minced
 * 1 tbsp Ginger, minced
 * 2 Green Chilis, slit lengthwise, plus more to garnish
