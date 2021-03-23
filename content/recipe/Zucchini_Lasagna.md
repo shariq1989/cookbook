@@ -85,7 +85,7 @@ Zucchini Lasagna is a delicious low-carb alternative and it will easily fit your
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The zucchini lasagna can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, bake it uncovered in the oven at 375 degrees for 30 minutes. 
 
 
-### INSTRUCTIONS: STEP-BY-STEP
+### DIRECTIONS: STEP-BY-STEP
 
 1. Slice zucchinis length-wise and microwave in a dish for 3 minutes. Drain the excess fluid. 
 
