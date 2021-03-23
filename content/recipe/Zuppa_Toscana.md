@@ -9,7 +9,7 @@ tags = [
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
-Servings: 5 <!--more-->
+Servings: 5-6 <!--more-->
 
 Preparation Time: 10 minutes 
 
@@ -26,33 +26,48 @@ Cuisine: Italian, American
 * 4 cup water
 * 4 small Red Potatoes, quartered 
 * 6 slices of Nitrate-Free Bacon, crumbled
-* 2 cup Heavy Cream 
+* 2 cups Heavy Cream 
 * 4 Kale Leaves, stem removed and chopped 
 * Coarse Black Pepper, to taste
-* Top the soup with fresh Parmesan Cheese
+* Parmesan Cheese, to garnish 
 
-#### DIRECTIONS 
+#### STOVE-TOP DIRECTIONS 
 
-1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until it becomes brown and cooked through. Remove from heat and set aside to drain. 
-2. Next, cook the bacon in the same pan until it becomes crispy. Remove from heat and set aside to drain. 
-3. In the same oil, saute the onions and garlic over medium heat until then onions become translucent and soften. 
-4. Add 4 cups of water and 1 tbsp chicken flavored Better Than Bouillon to the cooked onions and then add in the sausage, bacon (crumble before adding), garlic, and potatoes. 
+1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. Remove from heat and set aside to drain. 
+2. Next, cook the bacon in the same pan until crispy. Remove from heat and set aside to drain. 
+3. In the same oil, saute the onions and garlic over medium heat until the onions become translucent and soften. 
+4. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the sausage, bacon (crumble before adding), garlic, and potatoes. 
 5. Cook the soup on low-medium heat for 1 hour, stirring occasionally.  
-6. Stir in the kale and heavy cream 10 minutes before serving. 
-7. Generously season the soup with coarse ground pepper, to taste. You can also add a bit of salt if necessary. 
+6. Off heat, mix in the kale and heavy cream 10 minutes before you're ready to eat. 
+
+#### INSTANT POT DIRECTIONS 
+
+1. In an Instant Pot, cook the sausage on saute mode until brown. Remove from heat and set aside to drain. 
+2. In the oil from the sausage, cook the bacon until crispy. Remove from heat and set aside to drain. 
+3. Saute the onions and garlic until the onions become translucent and soften in the same oil. 
+4. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the sausage, bacon (crumble before adding), garlic, and potatoes. 
+5. Secure the lid, set the Instant Pot to manual high pressure for 30 minutes with a quick release.  
+6. Unplug and allow the soup to cool some, then mix in the kale and heavy cream 10 minutes before you're ready to eat. 
 
 #### ABOUT THE MEAL
 
 There are multiple versions of this recipe floating around the internet. Honestly, it makes sense. Zuppa Toscana is tasty! Before learning to make it at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks,
 
+#### What main ingredients do you need for this meal?
+
+* Ground Italian Sausage 
+* Bacon 
+* Heavy Cream 
+* Kale
+
 #### What equipment do I need to make this recipe? 
 
-* A dutch oven or a deep, heavy-bottomed pan. 
+* A [dutch oven](https://amzn.to/3sFYTY1), a heavy-bottomed pan, or and Instant Pot  
 * A pair of tongs
 
 #### Is Zuppa Toscana keto or low-carb? 
 
-This recipe does not suit the macros for a keto diet, but if you're aiming to eat low-carb, we suggest one substitution. Replace the red potatoes with the utility vegetable of the century, cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get all the flavor of the original recipe. We even calculated the macros to make it easy for you. Please note, this macro calculation is made without the red potatoes. 
+The macros for this recipe do not suit a keto diet, but if you're aiming to eat low-carb, we suggest one substitution. Replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get the flavor of the original recipe. We even calculated the macros to make it easy for you.
 
 * CARBS– 13 net carbs
 * PROTEIN– 62g
