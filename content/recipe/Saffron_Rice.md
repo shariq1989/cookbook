@@ -13,6 +13,8 @@ thumbnail= "images/SaffronRice.jpg"
 
 Servings: 5 <!--more-->
 
+Preparation Time: 30 minutes 
+
 Cooking Time: 30 minutes 
 
 Cuisine: Persian 
@@ -25,7 +27,7 @@ Cuisine: Persian
 * 2-3 [Green Cardamom Pods](https://amzn.to/3rVRDr7)
 * 1 tsp Saffron Stems
 * 2 tbsp Boiling Water or Milk
-* 3 tbsp Butter 
+* 3 tbsp Butter, cut into tabs
 
 #### STOVE-TOP DIRECTIONS 
 
@@ -51,7 +53,7 @@ Cuisine: Persian
 
 ### ABOUT THE DISH 
 
-Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. While expensive, a little goes a long way. As a rule of thumb, I use ½ teaspoon of saffron for every 1 cup of rice. To draw out the richness and fragrance of the saffron, gently mix the stems with a hot liquid, like water or milk.
+Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. While expensive, a little goes a long way. As a rule of thumb, I use ½ teaspoon of saffron for every 1 cup of rice. 
 
 #### What main ingredients do you need for this meal?
 
