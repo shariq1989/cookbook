@@ -1,18 +1,10 @@
 +++
-title = "Orange Chicken"
+title = "Orange Chicken Panda Express Copycat"
 date = "2021-02-20"
 description = ""
 tags = [
-    "asian",
-    "lunch",
-    "dinner",
-    "orangechicken",
-    "chinesefood",
-    "americanasianfood", 
-    "asiancooking",
-    "recipes",
-    "pandaexpress",
-    "thejamilghar"
+    "entree",
+    
 ]
 thumbnail= "images/orangechicken.jpg "
 +++
