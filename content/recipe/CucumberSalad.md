@@ -3,16 +3,12 @@ title = "Sunomono - Cucumber Salad"
 date = "2021-02-07"
 description = ""
 tags = [
-    "cucumber",
-    "sidedish",
-    "healthy",
-    "fresh",
-    "lowcarb",
-    "keto",
+    "side dish",
+    "low carb",
     "japanese",
+    "keto",
     "vegetarian",
     "vegan",
-    "pickled"
 ]
 thumbnail= "images/SUNOMONO.jpg"
 +++
@@ -45,8 +41,28 @@ Adapted From: Outdoor Chef Life
 
 ### ABOUT THE SIDE 
 
-### INSTRUCTIONS: STEP-BY-STEP
+#### What main ingredients do you need for this meal?
 
+* Cucumbers: I like using cocktail cucumbers because they are cute and bit-sized. 
+
+* Salt 
+
+* Rice Wine Vinegar 
+
+* Sesame Oil 
+
+#### What equipment do I need to make this recipe?
+
+* A small bowl 
+
+#### Is sunomono keto? Is sunomono low-carb?
+
+
+#### Can I freeze the sunomono?
+
+I would not recommend freezing the cucumbers. 
+
+### DIRECTION: STEP-BY-STEP
 
 1. In a bowl, combine the kosher salt, rice wine vinegar, sesame oil, and soy sauce. Whisk together and set aside.  
 
