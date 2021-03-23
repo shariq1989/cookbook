@@ -1,5 +1,5 @@
 +++
-title = "Roasted Potatoes and Kielbasa"
+title = "Kielbasa and Potatoes"
 date = "2021-02-15"
 description = ""
 tags = [
@@ -11,6 +11,12 @@ thumbnail= "images/KeilbasaPotatoes.jpg"
 +++
 
 Servings: 5 <!--more-->
+
+Preparation Time: 10 minutes 
+
+Cooking Time: 30 minutes 
+
+Cuisine: Polish 
 
 #### INGREDIENTS 
 
