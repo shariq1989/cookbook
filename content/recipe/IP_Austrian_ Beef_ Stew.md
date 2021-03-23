@@ -3,22 +3,21 @@ title = "Rindsgulasch - Austrian Beef Stew"
 date = "2020-01-27"
 description = ""
 tags = [
-    "beef",
-    "stew",
-    "austrian",
-    "lunch",
-    "dinner",
-    "instantpot",
-    "pressurecooker",
-    "pressurecooking",
-    "gulash",
-    "hearty",
-    "thejamilghar"
+    "entree",
+    "instant pot",
+    "slow cooker",
+   
 ]
 #thumbnail= "images/rindsgulasch.jpg"
 +++
 
 Servings: 6<!--more-->
+
+Preparation Time: 10 minutes
+
+Cooking Time: 30 minutes
+
+Cuisine: Austrian
 
 Adapted from: Milk Street
 
