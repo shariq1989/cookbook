@@ -9,7 +9,7 @@ tags = [
     "instant pot",
     "Mexican"
 ]
-thumbnail= "images/MexicanRice.jpg"
+thumbnail= "images/mex6.jpg"
 +++
 
 Servings: 6-8 <!--more-->
@@ -84,3 +84,31 @@ Mexican rice caters well to both a vegetarian and vegan diet. Just be sure to us
 #### Can I freeze the Mexican rice? 
 
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The Mexican rice can freeze for up to 6 months. When you’re ready to eat, let it defrost in the refrigerator. To serve, warm on the stovetop and enjoy. 
+
+### DIRECTIONS: STEP-BY-STEP 
+
+1. Add the tomatoes and diced onion to a blender or food processor. Blend until smooth. 
+
+{{< figure src="/images/mex1.jpg" class="instructionFigure">}}
+
+2. Pour the mixture into a saucepan. Stir in the vegetable to chicken broth, salt, and cumin and bring to a boil over medium heat.
+
+{{< figure src="/images/mex2.jpg" class="instructionFigure">}}
+
+3. While the tomato mixture is coming to a boil, warm oil in a Dutch oven over medium heat until shimmering. Add the rice and toast until the rice becomes golden, about 5 minutes. 
+
+{{< figure src="/images/mex3.jpg" class="instructionFigure">}}
+
+4. Add the jalapeños and garlic and cook until they soften for about 2 minutes. 
+5. Pour the boiling tomato mixture over the rice and stir to combine. 
+
+{{< figure src="/images/mex4.jpg" class="instructionFigure">}}
+
+6. Reduce the heat to low. Cover and cook until the liquid is absorbed and the rice is tender about 10-15 minutes. 
+7. Remove the rice from heat and fluff it with a fork. Cover with the lid and set it aside steam for 5 minutes before serving. 
+8. To serve, add the cilantro and lime juice and fluff again to combine. Garnish with lime wedges and enjoy.  
+
+{{< figure src="/images/mex5.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/mex6.jpg" class="instructionFigure">}}
+
