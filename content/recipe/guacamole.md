@@ -2,7 +2,7 @@
 +++
 title = "Guacamole"
 date = "2020-01-29"
-description = "Learn how to make easy and authentic guacamole with this recipe."
+description = "This recipe makes the best guacamole recipe. It is simple to make and uses fresh, high-quality ingredients. There is no tomato in this guacamole; all you need is avocados, onions, jalapenos, lime juice, and salt. It is easy and delicious."
 tags = [
     "mexican",
     "side dish",
@@ -30,7 +30,6 @@ Cuisine: Mexican
 * 2 Garlic Cloves, minced
 * 1 Lime, juiced
 * 1/2 tsp Salt 
-* 1/2 tsp Garlic Powder 
 * 1/4 tsp Cumin 
 
 #### DIRECTIONS 
@@ -38,23 +37,23 @@ Cuisine: Mexican
 1. Slice the avocados in half, remove the pit, and scoop them into a small bowl. 
 2. Mash the avocados with a fork. Leave it chunky or whip it smooth, whichever you prefer. 
 3. Add the remaining ingredients and mix well. 
-4. Taste the guacamole and adjust the seasoning accordingly. 
+4. Taste the guacamole and adjust the seasoning according to your preference. 
  
 ### ABOUT THE SIDE 
 
-The only thing you absolutely need to make guacamole is a few ripe avocados and a little bit of salt; everything else is extra but oh so tasty. This is how our family likes to prepare it. 
+The only thing you need to make guacamole is a few ripe avocados and a little bit of salt; everything else is extra but oh so tasty. This recipe is how our family likes to prepare it. 
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do you need for this meal?
 
-* Avocado: You will want to use large avocados for this recipe- the riper, the better. If you cannot find large avocadoes, then use 4-5 smaller ones. You can check for ripeness by gently pressing the outside of the avocado. If there is no give, the avocado is not ripe. If there is just a little give, the avocado is ripe. If there is too much give, the avocado may be past ripe. 
+* Avocado: You will want to use large avocados for this recipe- the riper, the better. If you cannot find large avocadoes, use 4-5 smaller ones. Check for ripeness by gently pressing the outside of the avocado. If there is no give, the avocado is not ripe. If there is just a little give, the avocado is ripe. If there is too much give, the avocado may be past ripe. 
 
-* Red Onion: I prefer the strong taste of red onion in my guacamole. If red onions are too strong for you, rinse the chopped onion under water and pat them dry before adding them in. 
+* Red Onion: I prefer the strong taste of red onion in my guacamole. If red onions are too strong for you, rinse the chopped onion under water and pat them dry before mixing them into the guacamole. 
 
-* Limes: There is a notable difference between fresh lime juice and bottled. I prioritize fresh whenever possible. 
+* Limes: There is a notable difference between fresh lime juice and bottled. I prioritize fresh ingredients whenever possible. 
 
-* Jalapeno Peppers: I use finely diced jalapenos most of the time, but if I am craving something spicier, I reach for a serrano pepper. 
+* Jalapenos: I use finely diced jalapenos most of the time, but if I am craving something spicier, I reach for a serrano pepper. 
 
-* Tomatoes: Tomatoes are usually a key ingredient in guacamole. However, Shariq looks at uncooked tomatoes with disdain, so we skip over them. If you are one to enjoy tomatoes, I suggest using Roma. 
+* Tomatoes: Tomatoes are usually a key ingredient in guacamole. However, Shariq hates raw tomatoes, so we skip over them. If you are one to enjoy tomatoes, I suggest using Roma. 
 
 #### What equipment do I need to make this recipe?
 
@@ -66,7 +65,7 @@ This guacamole recipe is easy to make, and naturally vegetarian and vegan-friend
 
 #### Is guacamole keto? Is guacamole low-carb? 
 
-Yes, it is and we even calculated the macros to make it easier for you.
+Yes, it is, and we even calculated the macros to make it easier for you.
 
 * CARBS– 4 Net Carbs
 * PROTEIN– 2g
@@ -74,7 +73,7 @@ Yes, it is and we even calculated the macros to make it easier for you.
 
 #### How should I store my guacamole?
 
-This guacamole keeps well in the refrigerator if stored properly. Add the guacamole to an airtight container. I leave the pit in the guacamole and squeeze a little bit of fresh lime juice over the top to preserve the freshness. Place Saran wrap on top of the guacamole and press it down, so the plastic covers any exposed guacamole. Cover the container with the lid; it will keep up to 3-5 days.
+This guacamole keeps well in the refrigerator if stored properly. Add the guacamole to an airtight container. I leave the pit in the guacamole and place Saran wrap on top, press down so that the plastic covers any exposed guacamole. Cover the dish with the lid; it will keep up to 3-5 days.
 
  ### DIRECTIONS: STEP-BY-STEP
 
@@ -90,7 +89,4 @@ This guacamole keeps well in the refrigerator if stored properly. Add the guacam
 
 {{< figure src="/images/guac3.jpg" class="instructionFigure">}}
 
-4. Taste the guacamole and adjust the seasoning accordingly. 
-
-
-
+4. Taste the guacamole and adjust the seasoning according to your preference. 
