@@ -5,8 +5,6 @@ description = "This is the best chorizo breakfast burrito and it is super easy t
 tags = [
     "mexican",
     "breakfast",
-    "vegetarian",
-    "vegan"
 ]
 thumbnail= "images/chorizoburrito.jpg"
 +++
@@ -46,9 +44,14 @@ Cuisine: Mexican, American
 #### What main ingredients do you need for this meal?
 
 * Chorizo: 
+
 * Eggs 
-* Tortilla: 
-* Cheese: 
+
+* Potatoes: You can use Yukon gold or red potatoes. I like to use a combination of the two. 
+
+* Large Flour Tortillas: 
+
+* Cheese: I use shredded cheddar cheese. 
 
 #### What equipment do I need to make this recipe?
 
