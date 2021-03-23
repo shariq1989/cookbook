@@ -52,6 +52,7 @@ For the Jjigae:
 6. Next, add the tofu and let the mixture simmer for a few minutes before gently stirring in the reserved spice mixture. 
 7. Add an egg in the middle of the stew. Let it cook for 1-2 minutes. Spoon some of the broth over the egg. Cover with the lid, lower the heat and cook for 4 minutes. 
 8. Garnish with extra Gochugaru if you prefer more spice and serve with a side of sticky rice. 
+
 ### ABOUT THE MEAL
 
 Kimchi jjigae or kimchi stew is quickly becoming a favorite in our home, mainly because of the flexible ingredients and how easy it is to make. I still need to get my hands on one of those cute [earthenware pots](https://amzn.to/3soWXDL)the stew is traditionally prepared and served within. 
@@ -74,7 +75,7 @@ Kimchi jjigae or kimchi stew is quickly becoming a favorite in our home, mainly 
 
 #### Is this kimchi jjigae vegetarian? Is this kimchi jjigae Vegan?
 
-To make this particular recipe vegetarian and vegan-friendly, you will need to omit the fish sauce and be sure to use the [Vegetable Better than Bouillion](https://amzn.to/3f8LK6e). 
+To make this particular recipe vegetarian and vegan-friendly, you will need to omit the fish sauce and the egg. Also, be sure to use the [Vegetable Better than Bouillion](https://amzn.to/3f8LK6e). 
 
 #### Is kimchi jjigae keto? Is kimchi jjigae low-carb?
 
