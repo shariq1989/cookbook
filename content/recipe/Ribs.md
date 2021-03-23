@@ -3,22 +3,16 @@ title = "BBQ Ribs"
 date = "2020-01-27"
 description = ""
 tags = [
-    "ribs",
-    "grill",
+    "entree",
     "bbq",
-    "bbqribs",
-    "lunch",
-    "dinner",
-    "oven",
-    "barbeque",
-    "food",
-    "foodie",
-    "thejamilghar"
+    "keto",
+    "low carb",
+    
 ]
 #thumbnail= "images/carnitas.jpg"
 +++
 
-Servings: 4 <!--more-->
+Servings: 4-6 <!--more-->
 
 Preparation Time: 1 hour
 
