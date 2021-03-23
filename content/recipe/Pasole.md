@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Pazole Rojo - Mexican Stew"
+title = "Instant Pot Pozole Rojo - Mexican Stew"
 date = "2020-01-29"
 description = ""
 tags = [
@@ -21,7 +21,7 @@ Cuisine: Mexican
 
 #### INGREDIENTS 
 
-For the Pazole: 
+For the Pozole: 
 
 * 1 tsp Cumin, ground 
 * 1 tbsp Oregano
@@ -71,10 +71,34 @@ To Garnish:
 
 * An [Instant Pot](https://amzn.to/3taIo6v)
 
-#### Is pasole vegetarian? Is pasole vegan?
+#### Is pozole vegetarian? Is it vegan?
 
-My sisters are vegetarian, so that's how we often choose to make it. Here are some adjustments you can make to this recipe to make it vegetarian and vegan-friendly. 
+I often prepare my pozole with just hominy since my sisters are all vegetarian. Here are some adjustments you can make to this recipe to make it vegetarian and vegan-friendly. 
 
 * Instead of Chicken Better than Bouillion, use [Vegetable Better than Bouillion](https://amzn.to/3dZTYx1)
 
 * In place of meat, we double the hominy, using 2 - 29 oz cans instead.   
+
+#### Can I freeze Pozole? 
+
+Yes, first allow the dish to cool completely and then add it to a freezer-safe container. Pozole Rojo can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop, prepare your toppings, and enjoy! 
+
+### DIRECTIONS: STEP-BY-STEP 
+
+1. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. 
+2. Add the pork to the Instant Pot in a single layer and let it brown, 3-4 minutes. Repeat this until all the made has had a chance to brown. Set aside. 
+Note: Normally, I cut the pork into pieces, but for this example, I was cooking a small batch using meat leftover on a pork shoulder bone. 
+
+{{< figure src="/images/pas1.jpg" class="instructionFigure">}}
+
+3. Next, add the onions to the Instant Pot and cook until they become translucent and soften. 
+
+{{< figure src="/images/pas2.jpg" class="instructionFigure">}}
+
+4. Combine the remaining ingredients into the Instant Pot, along with the meat. Stir the mixture to combine and then seal the lid. Cook on manual high pressure for 50 minutes with a quick release. This cooking time is for high-elevation. Reduce the cooking time for lower elevation. 
+
+{{< figure src="/images/pas3.jpg" class="instructionFigure">}}
+
+5. Serve with radishes, red onion, cabbage, cilantro, lime wedges, avocado, chili flakes, and oregano.  
+
+{{< figure src="/images/Pasole.jpg" class="instructionFigure">}}
