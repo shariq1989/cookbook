@@ -9,7 +9,7 @@ tags = [
     "instant pot",
     "Mexican"
 ]
-thumbnail= "images/mex6.jpg"
+thumbnail= "images/MexicanRice.jpg"
 +++
 
 Servings: 6-8 <!--more-->
