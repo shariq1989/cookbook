@@ -24,23 +24,11 @@ Adapted from: Meathead
 
 #### INGREDIENTS 
 
-For the Rub: 
-
-* 1/2 cup Brown Sugar
-* 1/4 cup Paprika
-* 1 tbsp Black Pepper
-* 1 tbsp Salt
-* 1 tbsp Garlic Powder
-* 1 tbsp Onion Powder
-* 1 tbsp Red Chili Powder
-* 1 tbsp Cayenne Pepper
-
-For the Ribs: 
-
 * Full or Half Rack of Ribs 
+* Rub of your choice, we like [Montreal Seasoning](https://amzn.to/3r6PQiA) 
 * BBQ Sauce of your choice, we like [Sweet Baby Rays](https://amzn.to/37Zajyd) or the [Sugar-Free](https://amzn.to/3dZQydF) version
 
-#### DIRECTIONS 
+#### OVEN-BAKED DIRECTIONS 
 
 1. Remove the membrane from the ribs. 
 2. Rub the meat thoroughly with the spice rub. 
@@ -51,6 +39,6 @@ For the Ribs:
 7. Cover the ribs in BBQ Sauce of your choice. 
 8. Broil for 15 minutes on the highest rack. 
 
-#### ABOUT THE MEAL 
+### ABOUT THE MEAL 
 
-These ribs are perfect every time and there are never leftovers. If you don't have the time to prepare the spice rub, I recommend using [Montreal Seasoning](https://amzn.to/3r6PQiA). 
+These ribs are perfect every time and there are never leftovers.
