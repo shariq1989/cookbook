@@ -31,8 +31,7 @@ For the Pozole:
 * 1-3 Guajillo Chilis, dried
 * 2½ lb Pork Shoulder, cut into 1-inch pieces 
 * 1 large White Onion, diced 
-* 6 Garlic Cloves, minced 
-* 4 cup Water
+* 1 Garlic Head, cut off and discard the top third, leaving the head intact
 * 1 tbsp [Chicken Better Than Bouillon](https://amzn.to/3uFvZt3) 
 * 1-29 oz can of Hominy, drained and rinsed 
 
