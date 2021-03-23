@@ -52,13 +52,14 @@ Cuisine: Mexican, American
 
 #### What equipment do I need to make this recipe?
 
+* 2 Skillets, one with a lid
+* A small bowl 
 
-#### Is this stew vegetarian? Is this stew Vegan?
+#### Can I freeze the chorizo burritos? 
 
-#### Is  keto? Is   low-carb?
+Yes, you can. What I like to do, is to make a couple of batches so that I can freeze some for easy reheat later on. All you have to do is wrap the burritos in foil individually and store them in a freezer-safe bag. The chorizo burritos can freeze for up to 3 months.
 
-#### Can I freeze the beef and chickpea stew? 
-
+To serve, reheat the burritos uncovered in the oven and 325 degrees until the burritos are warmed through, about 30 minutes. 
 
 ### DIRECTIONS: STEP-BY-STEP 
 
@@ -77,7 +78,10 @@ Cuisine: Mexican, American
 
 5. Add the chorizo to the pan and allow it to brown. When the meat is halfway cooked, add the egg mixture, and bring it to a soft scramble. When fully cooked, top the mixture with shredded cheese. 
 
-{{< figure src="/images/chor3.jpg" class="instructionFigure">}}
+{{< figure src="/images/chor4.jpg" class="instructionFigure">}}
 
 6. Warm flour tortillas on a pan, about 30 seconds on both sides. 
 7. Divide the chorizo mixture into each tortilla, and serve. 
+
+{{< figure src="/images/chorizoburrito.jpg" class="instructionFigure">}}
+
