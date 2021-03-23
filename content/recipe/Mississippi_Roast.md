@@ -3,24 +3,17 @@ title = "Instant Pot Mississippi Roast"
 date = "2020-01-31"
 description = ""
 tags = [
-    "beef",
-    "stew",
-    "instantpot",
-    "pressurecooker",
-    "lunch",
-    "dinner", 
-    "soup",
+    "entree",
+    "instant pot",
     "keto",
-    "lowcarb",
-    "pulledmeat",
-    "thejamilghar"
+    "low carb"
 ]
 thumbnail= "images/MissippiRoast.jpg"
 +++
 
-Servings: 6<!--more-->
+Servings: 6-8 <!--more-->
 
-Preperation Time: 5 minutes  
+Preparation Time: 10 minutes  
 
 Cooking Time: 1 hour, 20 minutes 
 
@@ -46,33 +39,34 @@ For the Ranch Dressing:
 * 2 tbsp Mayonnaise 
 * 2 tsp Apple Cider Vinegar 
 * ½ tsp Fresh Dill, finely chopped
-* ¼ tsp Sweet Paprika 
+* ¼ tsp Paprika 
 
 #### DIRECTIONS 
 
-1. In a small bowl, mix the flour, salt, and pepper. Rub the roast with the seasoning, massaging it in.
-2. Add oil to an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. Add the roast and brown the meat on all sides, 4-5 minutes per side, creating a crust. 
+1. In a small bowl, mix the flour, salt, and pepper. Rub the roast with the seasoning.
+2. Add oil to an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. Then, add the roast and brown the meat on all sides, 4-5 minutes per side, creating a crust. 
 3. Add the butter and pepperoncini and place the lid on the pot- do not seal. Let it simmer for 5 minutes.
-4. Prepare the ranch dressing. Combine the mayonnaise, vinegar, dill, and paprika in a small bowl and whisk to emulsify. 
-5. Remove the cover and add the dressing, carrots, and onions. Secure the lid, and set the Instant Pot to manual high pressure. Allow the meat to cook for 70 minutes with a quick release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Let it rest, about 5 minutes.
-6. Remove the roast and shred it, then mix it with some of the liquid from inside the Instant Pot.
-7. Garnish with parsley and it as a roast or throw it on a hoagie with provolone cheese and a side of au jus. 
+4. Meanwhile, prepare the ranch dressing. Combine the mayonnaise, vinegar, dill, and paprika in a small bowl and whisk to emulsify. 
+5. Remove the lid and add the ranch dressing, carrots, and onions. 
+6. Secure the lid, and set the Instant Pot to manual high pressure. Allow the meat to cook for 70 minutes with a quick release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation, though it needs to cook long enough to shred easily. Let it rest, about 5 minutes.
+7. Remove the roast and shred it, then mix it with some of the liquid from inside the Instant Pot.
+7. Garnish the meat with parsley and serve it as a roast, or throw it on a hoagie with provolone cheese and a side of au jus. 
 
 ### ABOUT THE MEAL
 
-It's midweek and you need a quick and easy meal, reach for this Mississippi Roast; you won't be disappointed. It has both sweet and savory notes the whole family will enjoy. 
+It's midweek, and you need a quick and easy meal. Reach for this Mississippi Roast; you won't be disappointed. It has both sweet and savory notes the whole family will enjoy. 
 
 #### Where does Mississippi roast originate?
 
-I love Mississippi roast because the original recipe began with a woman in  Mississip making food in her home. Hey, that sounds familiar. Back then, it didn't have the name Mississippi roast, but as it took the internet by storm, the name followed. 
+I love a solid roast, but even more so because the original recipe began with a woman making food in her home. Hey, that sounds familiar. Back then, it didn't have the name Mississippi roast, but as it took the internet by storm, the name followed. 
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do you need for this meal?
 
-* Chuck Roast: Chuck roast is often the main ingredient of a Mississippi. I like chuck roast for this dish because it is inexpensive and holds up well in the cooking process. It can also feed a lot of people.  
+* Chuck Roast: Chuck roast is often the main ingredient of a Mississippi. I like chuck roast for this dish because it is inexpensive and holds up well in the cooking process. It takes a while to cook to make it easy enough to pull, but it will also feed a crowd.
 
-* Ranch Dressing: Ranch is critical for a good Mississippi roast: I love the blend of the mayo, dill, and vinegar; this ranch is a solid combination of both fat and acid, and the addition of the sweet paprika lends a savory note that sends it over the top. 
+* Ranch Dressing: Ranch is critical to a good Mississippi roast. I love the mayo, dill, and vinegar together; this ranch is a solid combination of both fat and acid, and the addition of the paprika lends a savory note. 
 
-* Pepperoncini: I suggest adding 10-14 peppers to the dish, but if my family gave me the go-ahead, I would add even more. I love the pepperoncini's, especially after marinating in the liquid released from the meat and ranch dressing. 
+* Pepperoncini: I suggest adding 10-14 peppers to the dish, but if my family gave me the go-ahead, I would add even more. I love the pepperoncini's, especially after they've marinated in the liquid from the meat and ranch dressing. 
 
 #### What equipment do I need to make this recipe?
 
@@ -81,7 +75,7 @@ I love Mississippi roast because the original recipe began with a woman in  Miss
 
 #### Is Mississippi roast keto? Is Mississippi roast low-carb?
 
-Yes, it is. My suggestion would be to remove the flour from the recipe. You can still season the chuck roast with salt and pepper and sear it without the flour. It will likely not have as much of a sear, but it won't alter the flavor of the dish greatly. We calculated the macros for the Mississippi roast to make it easier for you. These calculations were made without the addition of flour. 
+Yes, it is. My suggestion would be to omit the flour from the recipe. You can still season the chuck roast with salt and pepper and sear it without the flour. I calculated the macros for the Mississippi roast to make it easier for you.  
 
 * CARBS – 3 Net Carbs
 * PROTEIN – 35g 
