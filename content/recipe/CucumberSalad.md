@@ -25,7 +25,7 @@ Adapted From: Outdoor Chef Life
 
 * 1 tsp Kosher Salt, divided 
 * 4 tbsp Rice Wine Vinegar
-* 1/2 tsp Sesame Oil 
+* 1/2 tsp [Sesame Oil](https://amzn.to/3b72o2v)
 * 1/2 tsp Soy Sauce 
 * 6 Cocktail Cucumber, thinly sliced into rounds
 * 1/2 tbsp Toasted White Sesame Seeds

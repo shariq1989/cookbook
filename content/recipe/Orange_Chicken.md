@@ -32,7 +32,7 @@ For the Marinade:
 * 1 tbsp Rice Wine Vinegar
 * 3 tbsp Sugar
 * 2 large Eggs Whites, lightly beaten
-* 1 tsp Sesame Oil
+* 1 tsp [Sesame Oil](https://amzn.to/3b72o2v)
 * 2 tbsp Soy Sauce
 * 2 tbsp White Vinegar
 * 1 tbsp Orange Zest 
@@ -50,7 +50,7 @@ For the Sauce:
 * 2 tsp Garlic, minced
 * 3 tbsp Rice Wine Vinegar
 * 1/2 cup Fresh Orange Juice, 1-2 oranges
-* 1 tsp Sesame Oil
+* 1 tsp [Sesame Oil](https://amzn.to/3b72o2v)
 * 3 tbsp Soy Sauce
 * 1/2 cup Sugar
 * 2 tbsp White Vinegar

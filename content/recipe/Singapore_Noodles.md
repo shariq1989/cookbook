@@ -37,7 +37,7 @@ Adapted from: Serious Eats, Shao Z.
 * 2 tbsp [Yellow Curry Powder](https://amzn.to/3rTXdcZ), divided
 * Kosher Salt, to taste 
 * 2 Scallions, greens thinly sliced
-* 2 tsp Toasted Sesame Oil
+* 2 tsp [Toasted Sesame Oil](https://amzn.to/2OXcBaE)
 
 #### DIRECTIONS 
 

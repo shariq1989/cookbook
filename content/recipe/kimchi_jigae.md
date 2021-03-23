@@ -34,7 +34,7 @@ For the Jjigae:
 * 1 small White Onion, chopped
 * 3 Garlic Cloves, minced
 * 3 Scallions, whites, and greens separated- whites, cut in 1-inch pieces- greens, thinly sliced
-* 1 tbsp Sesame Oil, plus 2 tsp for the sauce 
+* 1 tbsp [Sesame Oil](https://amzn.to/3b72o2v), plus 2 tsp for the sauce 
 * 1/2 cup Kimchi
 * 1/2 Package Extra-Firm Tofu, sliced into thick rectangles   
 * ½ tsp Kosher Salt
