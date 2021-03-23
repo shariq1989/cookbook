@@ -27,7 +27,7 @@ Adapted from: Serious Eats, Shao Z.
 * 1 bundle [Rice Noodles](https://amzn.to/3dWFNsr)
 * 2 Garlic Cloves, minced
 * 1 tsp Soy Sauce
-* 1 tsp Rice Wine Vinegar
+* 1 tsp [Rice Wine Vinegar](https://amzn.to/3feHUZc)
 * ¼ tsp Sugar
 * 2 Eggs, beaten with two pinches Kosher Salt
 * ½ medium White Onion, very thinly sliced

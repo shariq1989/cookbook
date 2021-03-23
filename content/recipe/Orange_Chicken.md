@@ -29,7 +29,7 @@ Cuisine: Chinese, American
 
 For the Marinade:
 
-* 1 tbsp Rice Wine Vinegar
+* 1 tbsp [Rice Wine Vinegar](https://amzn.to/3feHUZc)
 * 3 tbsp Sugar
 * 2 large Eggs Whites, lightly beaten
 * 1 tsp [Sesame Oil](https://amzn.to/3b72o2v)
@@ -48,7 +48,7 @@ For the Sauce:
 
 * 1 1/2 tbsp Ginger Paste
 * 2 tsp Garlic, minced
-* 3 tbsp Rice Wine Vinegar
+* 3 tbsp [Rice Wine Vinegar](https://amzn.to/3feHUZc)
 * 1/2 cup Fresh Orange Juice, 1-2 oranges
 * 1 tsp [Sesame Oil](https://amzn.to/3b72o2v)
 * 3 tbsp Soy Sauce

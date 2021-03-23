@@ -33,7 +33,7 @@ For the Wrap:
 * 2 Garlic Cloves, minced 
 * 1 tbsp Soy Sauce 
 * 2 tsp Ginger, minced 
-* 1 tbsp Rice Wine Vinegar 
+* 1 tbsp [Rice Wine Vinegar](https://amzn.to/3feHUZc) 
 * 3 tsp Sriracha 
 * 1/4 cup Homemade Hoisin, plus more for garnish
 * 4 Scallions, sliced and whites and greens, separated 
@@ -45,7 +45,7 @@ For the Homemade Hoisin Sauce:
 * 4 tbsp Soy Sauce 
 * 1 tsp Ginger Paste 
 * 1 1/2 tbsp [Sesame Oil](https://amzn.to/3b72o2v) 
-* 1 1/2 tbsp Rice Wine Vinegar 
+* 1 1/2 tbsp [Rice Wine Vinegar](https://amzn.to/3feHUZc)
 * 1 1/2 tbsp [Monk Fruit Sweetener](https://amzn.to/38Bp8aG) or Honey 
 * 1 tbsp Natural [Almond Butter Powder](https://amzn.to/3laVGgE)
 

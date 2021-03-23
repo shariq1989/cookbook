@@ -23,8 +23,8 @@ Cuisine: Chinese, Sichuan
 
 For the Marinade: 
 
-* ⅓ cup Dark Soy Sauce 
-* 3 tbsp [Shaoxing Wine](https://amzn.to/3lmuDiq)
+* ⅓ cup [Dark Soy Sauce](https://amzn.to/2QxWP6L) 
+* 3 tbsp [Rice Wine Vinegar](https://amzn.to/3feHUZc)
 * 2 tbsp White Sugar
 * 2 large Eggs Whites, lightly beaten 
 
@@ -44,7 +44,7 @@ For the Dish:
 * 1-inch Fresh Ginger, peeled and julienne
 * 4 Garlic Cloves, julienne
 * 1/2 tsp Sugar 
-* 1 tsp [Shaoxing Wine](ht]tps://amzn.to/3lmuDiq)
+* 1 tsp [Rice Wine Vinegar](https://amzn.to/3feHUZc)
 * 8 Scallion, thinly sliced
 * 1 tsp Toasted Sesame Seeds
 
@@ -58,7 +58,7 @@ For the Dish:
 6. In a [large dutch oven](https://amzn.to/3bVhcBR), over medium heat, warm the oil to 350 degrees. Add half of the coated chicken in a single layer and cook until both sides brown, about 3-5 minutes. Using a slotted spoon, transfer the chicken to the other prepared wire rack. 
 7. Allow the oil to reach 350 degrees again and repeat with the remaining chicken. 
 8. In a heavy-bottomed pan, heat the chili oil, canola oil, Arbol chilis, and Sichuan chilis until they begin to sputter. 
-9. Next, add the garlic, ginger, sugar, and rice wine vinegar. Cook for about 3 minutes, stirring regularly. 
+9. Next, add the garlic, ginger, sugar, and rice wine. Cook for about 3 minutes, stirring regularly. 
 10. Add the fried chicken to the mixture and toss to combine. 
 11. Garnish with scallions and serve with jasmine rice. 
 
