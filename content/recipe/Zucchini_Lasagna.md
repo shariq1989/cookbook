@@ -52,7 +52,7 @@ Cuisine: American
 
 If you're craving lasagna, but you want to skip out on all the carbs or perhaps introduce more vegetables, try this delectable zucchini lasagna. You won't even miss the real thing. 
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do you need for this meal?
 
 * Lean Ground Beef: Moisture is an issue with zucchini lasagna since the zucchinis release a lot of moisture. Lean ground beef has less fat and releases less moisture as a result. 
 
