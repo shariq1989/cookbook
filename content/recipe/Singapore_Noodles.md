@@ -3,20 +3,7 @@ title = "Singapore Noodles "
 date = "2020-01-18"
 description = ""
 tags = [
-    "ricenoodles",
-    "lunch",
-    "dinner",
-    "singapore",
-    "pescatarian",
-    "asian",
-    "cantonese",
-    "hongkong",
-    "shrimp",
-    "indochinese",
-    "international",
-    "food",
-    "foodie",
-    "thejamilghar"
+    "entree",
     
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
@@ -72,7 +59,7 @@ Singapore noodles are another dish we tried at a restaurant and decided we neede
 
 It's not entirely clear where Singapore noodles began. Many sources say Hong Kong, despite their name. Regardless, I love that the flavors in this dish are heavily-influenced by so many people-groups: Cantonese, British, Indo-Chinese, and of course, American. 
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
 * Thin Rice Noodles: Noodles are the star of this dish, so the type of noodle used is essential; we use [vermicelli rice noodles](https://amzn.to/2OvmDQ3), which are opaque in color.
 
@@ -92,4 +79,4 @@ It's not entirely clear where Singapore noodles began. Many sources say Hong Kon
 
 #### Can you freeze Singapore noodles? 
 
-No, cooked vermicelli noodles wind up mushy when thawed. 
+No, cooked vermicelli noodles end up mushy when thawed. 
