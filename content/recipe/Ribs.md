@@ -9,7 +9,7 @@ tags = [
     "low carb",
     
 ]
-#thumbnail= "images/carnitas.jpg"
+#thumbnail= "images/OvenbakedRibs.jpg"
 +++
 
 Servings: 4-6 <!--more-->
