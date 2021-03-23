@@ -1,16 +1,10 @@
 +++
-title = "Pumpkin Rolls"
+title = "Pumpkin Bars"
 date = "2020-01-27"
 description = ""
 tags = [
     "dessert",
-    "fall",
-    "holiday",
-    "pumpkin",
-    "basic",
-    "sweets",
-    "sweettooth",
-    "thejamilghar"
+   
 ]
 #thumbnail= "images/pumpkin bars.jpg"
 +++
@@ -55,8 +49,7 @@ For the Cream Cheese Frosting:
 5. Remove the pan from the oven and let it stand for 15-20 minutes. 
 6. When the bars have completely cooled, drizzle them with frosting and sprinkle them with powdered sugar to serve. 
 
-
-#### ABOUT THE DESSERT 
+### ABOUT THE DESSERT 
 
 Let it be known- I am not a fan of pumpkin. However, two Christmases ago, our sweet neighbor delivered a pumpkin treat similar to this one, and to my surprise, I gave it a try. She lured me with the cream cheese frosting, I'm telling you. 
 
