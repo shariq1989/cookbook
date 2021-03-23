@@ -45,7 +45,7 @@ For the Curry:
 * 1 tsp Cumin, ground
 * 1 tsp Salt
 * 1/2 tsp [Turmeric](https://amzn.to/3vyvAZK)
-* 4 Tomatoes, roughly chopped 
+* 4-5 small Tomatoes, roughly chopped 
 * 4 tbsp Butter 
 * 1/4 cup Heavy Cream
 * Cilantro, finely chopped, to garnish
@@ -62,7 +62,7 @@ For the Curry:
 1. In the same pan, warm 1 1/2 tbsp of butter. Add the green cardamom pods and cinnamon stick. Cook until the ingredients begin to sputter, then add the onions. Cook the onions until they become translucent and soften. 
 2. Next, add the garlic, ginger, and green chilies and cook for another minute.
 3. Stir in the Kashmiri chili powder, garam masala, cumin, salt, turmeric, and tomatoes into the mixture. Cook for 5-7 minutes and allow the tomatoes to simmer. 
-4. Remove the cinnamon stick and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
+4. Remove the cinnamon stick (and green chilis, if you want it to be less spicy) and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
 5. Return the mixture to the pan over low heat and stir in the butter and cream. Then, nestle the reserved chicken into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes. Adjust the temperature as necessary. 
 6. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
 
