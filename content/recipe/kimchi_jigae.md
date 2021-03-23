@@ -81,9 +81,9 @@ To make this particular recipe vegetarian and vegan-friendly, you will need to o
 
 Kimchi jjigae doesn't fit the macros for the keto diet, but it is great for low-carb. We even calculated the macros to make it easier for you.
 
-CARBS– 9 Net Carbs
-PROTEIN– 14g
-FAT– 14g
+* CARBS– 9 Net Carbs
+* PROTEIN– 14g
+* FAT– 14g
 
 #### Can I freeze the kimchi jjigae? 
 
