@@ -3,17 +3,9 @@ title = "Sesame Mushroom and Tofu Stir-Fry"
 date = "2021-03-15"
 description = ""
 tags = [
-    "mushroom",
-    "tofu",
-    "vegetarian",
-    "lunch",
-    "dinner",
-    "asianamerican",
-    "healthy",
-    "vegan",
-    "stirfry",
-    "lowcarb",
-    "thejamilghar"
+    "entree",
+    "low carb",
+    "keto"
 
 ]
 thumbnail= "images/MushroomStirFry.jpg"
@@ -61,7 +53,7 @@ Cuisine: Chinese, American
 
 My sister, a fabulous cook, made a similar dish for us after our first child. We loved it so much; we decided to make our own. 
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
 * Extra-Firm Tofu: I prefer using firm tofu because it holds up well during the baking and frying process. 
 
@@ -75,15 +67,15 @@ My sister, a fabulous cook, made a similar dish for us after our first child. We
 * A large skillet 
 * A small bowl
 
-#### Is Sesame Mushroom and Tofu Stir-Fry vegetarian? Is Sesame Mushroom and Tofu Stir-Fry vegan?
+#### Is sesame mushroom and tofu stir-fry vegetarian? Is it vegan?
 
-This dish caters to both a vegetarian and vegan way of eating. Easily replace the fish sauce in the recipe with [marmite](https://amzn.to/2OXF8fQ)instead; the marmite adds the umami flavor we are going for with the fish sauce. You can also substitute the honey in the recipe for agave. 
+This dish caters to both a vegetarian and vegan way of eating. Easily replace the fish sauce in the recipe with [marmite](https://amzn.to/2OXF8fQ)instead; the marmite adds umami flavor we are going for with the fish sauce. You can also substitute the honey in the recipe for agave. 
 
 #### Can I freeze the tofu stir-fry?
 
-While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing stir-fried tofu, especially once it has cooked in a sauce; freezing and re-heating will alter the desired texture of the tofu. 
+While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing stir-fried tofu, especially once it's cooked in a sauce; freezing and re-heating will alter the desired texture of the tofu. 
 
-### INSTRUCTIONS: STEP-BY-STEP
+### DIRECTIONS: STEP-BY-STEP
 
 1. Preheat the oven to 350 degrees and lightly oil a rimmed sheet pan. 
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes; I let my kids cut the tofu, which explains the varied sizing. 
