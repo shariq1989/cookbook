@@ -3,14 +3,11 @@ title = "Thai Red Curry"
 date = "2021-02-08"
 description = ""
 tags = [
-    "curry",
-    "lunch",
-    "dinner",
-    "thai",
-    "redcurry",
-    "spicy",
-    "international",
-    "coconut"
+    "entree",
+    "instant pot",
+    "low carb",
+    "keto",
+   
 ]
 thumbnail= "images/ThaiRedCurry.jpg"
 +++
@@ -36,10 +33,19 @@ Cuisine: Thai
 * 1/2 cup Mushrooms of your choice, quartered
 * Thai Basil, for garnish 
 
-#### DIRECTIONS 
+#### STOVE-TOP DIRECTIONS 
 
 1. Warm the red curry paste and ginger paste in a heavy-bottomed pan over medium heat, stirring occasionally until fragrant, about 2 minutes.
 2. Add the onions and chicken to the pan and stir to coat. Fry for 3-5 minutes, then add the bell peppers and zucchini, saute for another minute.
 3. Stir in half of the coconut milk and bring the curry to a boil.
 4. Reduce the heat to a light simmer and add the remaining coconut milk and fish sauce, along with the mushrooms. Allow the mixture to cook, stirring occasionally, for 10 minutes. The curry should thicken and the vegetables will reach a crisp-tenderness. If the curry does not thicken, add 2 tbsp cold water and stir to mix.
 5. Garnish with Thai basil leaves and serve with jasmine rice.
+
+#### INSTANT POT DIRECTIONS 
+
+1. Warm the red curry paste and ginger paste in an Instant Pot on saute mode, until fragrant, about 2 minutes.
+2. Add the onions and chicken, stir to coat. Fry for 3-5 minutes, then add the bell peppers and zucchini, saute for another minute.
+3. Stir in half of the coconut milk. Bring the curry to a boil on saute mode, and then add the mushrooms.
+4. Secure the lid and set the Instant Pot to manual high pressure for 5 minutes with a quick release. If the curry is thin, add 2 tsp cold water. Stir to mix.
+5. Remove the lid and add the remaining coconut milk and fish sauce.
+6. Garnish with Thai basil leaves and serve with jasmine rice.
