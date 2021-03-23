@@ -3,16 +3,10 @@ title = "Zucchini Lasagna"
 date = "2021-03-14"
 description = ""
 tags = [
-    "Italian",
-    "lunch",
-    "dinner",
-    "healthy",
-    "lowcarb",
-    "keto",
-    "casserole",
-    "lasagna",
-    "zucchinilasagna",
-    "thejamilghar"
+    "entree",
+    "instant pot",
+    "low carb",
+    
 ]
 thumbnail= "images/zucchinilasagna.jpg"
 +++
