@@ -1,5 +1,5 @@
 +++
-title = "Singapore Noodles "
+title = "Singaporean Noodles "
 date = "2021-03-23"
 description = ""
 tags = [
@@ -44,7 +44,7 @@ Adapted from: Serious Eats, Shao Z.
 1. Pat the shrimp dry and place them into a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and refrigerate for 30 minutes. 
 2. Place the rice-stick noodles into a large bowl and cover them with boiling water. Let the noodles stand for 5 minutes. Put the rice noodles into a colander and rinse with cold running water before draining. Using scissors, cut the bundle of noodles in half.
 3. In a small bowl, combine the garlic, soy sauce, rice wine vinegar, sugar, and the remaining 2 tsp fish sauce. Mix well and set aside.
-4. Heat 1 tsp canola oil in a wok or a nonstick skillet on high, until smoking. Beat the eggs together with 2 pinches of salt before adding them to the pan. Let them cook undisturbed for a few seconds. Then, gently move the eggs back and forth with a spatula until they firm up. Break the eggs into small pieces and set them aside. 
+4. Heat 1 tsp canola oil in a wok or a nonstick skillet on high, until smoking. Beat the eggs together with two pinches of salt before adding them to the pan. Let them cook undisturbed for a few seconds. Then, gently move the eggs back and forth with a spatula until they firm up. Break the eggs into small pieces and set them aside. 
 5. Wipe the pan clean and return to high heat. Add 2 tsp oil and warm until smoking once again. Add the shrimp and stir-fry for 30 seconds. Then add the onion, red bell pepper, snow peas, and carrots one by one, stirring each ingredient for 30 seconds before adding the next. 
 6. Add 1 tsp of curry powder and salt. Cook, folding the ingredients until the curry powder evenly distributes. Scrape the vegetables and shrimp onto the plate with the reserved eggs. 
 7. Wipe the pan clean again and heat the remaining 2 tbsp canola oil on high, until smoking. Add the rice-stick noodles and stir-fry for 30 seconds. Add the sauce mixture and the remaining 2 tsp of curry powder. Stir to combine. 
@@ -53,30 +53,55 @@ Adapted from: Serious Eats, Shao Z.
 
 ### ABOUT THE MEAL 
 
-Singapore noodles are another dish we tried at a restaurant and decided we needed to learn how to make it at home. I am proud of this recipe because it's similar to what you would order in a Chinese restaurant. The main difference is that traditional Singapore noodles typically include Chinese fried pork. We didn't feel like we were missing out since this dish is jam-packed with shrimp, vegetables, and curry flavor. If your goal is to make a more traditional version of Singapore noodles, you will want to incorporate the fried pork. 
+Singapore noodles are another dish we tried at a restaurant and decided we needed to learn how to make it at home. I am proud of this recipe because of how similar it is to what you would order in a Chinese restaurant. The main difference is that traditional Singapore noodles typically include Chinese fried pork. We didn't feel like we were missing out since this dish is jam-packed with shrimp, vegetables, and that yummy, yellow curry flavor. If your goal is to make a more traditional version of Singapore noodles, you will want to incorporate fried pork. 
 
-#### Where do Singapore noodles originate? 
+#### Where do Singaporean noodles originate? 
 
-It's not entirely clear where Singapore noodles began. Many sources say Hong Kong, despite their name. Regardless, I love that the flavors in this dish are heavily-influenced by so many people-groups: Cantonese, British, Indo-Chinese, and of course, American. 
+It's not entirely clear where Singapore noodles began. Many sources say Hong Kong, despite their name. Regardless, I love that the flavors in Singaporean noodles are heavily-influenced by so many different people-groups: Cantonese, British, Indo-Chinese, and American. 
 
 #### What main ingredients do I need for this meal?
 
-* Thin Rice Noodles: Noodles are the star of this dish, so the type of noodle used is essential; we use [vermicelli rice noodles](https://amzn.to/2OvmDQ3), which are opaque in color.
+* Thin Rice Noodles: I use [vermicelli rice noodles](https://amzn.to/2OvmDQ3). 
 
 * Shrimp: We had Singapore noodles for the first time in a Chinese restaurant; they served it with shrimp, so do we, but you could also use prawns. 
 
-* Chinese BBQ Pork: Singapore noodles traditionally include Chinese BBQ pork. We made the decision not to incorporate them.   
+* Chinese BBQ Pork: Singapore noodles traditionally include Chinese BBQ pork. We don't use pork in ours, but that is an option.  
 
 * Vegetables: We chose to go the traditional route with red bell peppers, onions, snow peas, and carrots, but you can use whatever vegetables you have on hand. 
 
-* Yellow Curry Powder: Curry powder gives Singapore noodles their vibrant, yellow color. You will want to use [Madras yellow curry](https://amzn.to/3lcVSfn) to flavor this dish.   
+* Yellow Curry Powder: [Curry powder](https://amzn.to/3lcVSfn) gives Singapore noodles their vibrant, yellow color and flavor. 
 
 #### What equipment do I need to make this recipe?
 
 * 2 small bowls 
 * 1 large bowl 
-* Wok or non-stick skillet 
+* A plate
+* Wok or large skillet
 
-#### Can you freeze Singapore noodles? 
+#### Can you freeze Singaporean noodles? 
 
-No, cooked vermicelli noodles end up mushy when thawed. 
+I do not recommend it; cooked vermicelli noodles end up mushy when thawed. 
+
+### DIRECTIONS: STEP-BY-STEP 
+
+1. Pat the shrimp dry and place them into a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and refrigerate for 30 minutes. 
+2. Place the rice-stick noodles into a large bowl and cover them with boiling water. Let the noodles stand for 5 minutes. Put the rice noodles into a colander and rinse with cold running water before draining. Using scissors, cut the bundle of noodles in half.
+
+{{< figure src="/images/bandc1.jpg" class="instructionFigure">}}
+
+3. In a small bowl, combine the garlic, soy sauce, rice wine vinegar, sugar, and the remaining 2 tsp fish sauce. Mix well and set aside.
+
+
+4. Heat 1 tsp canola oil in a wok or a nonstick skillet on high, until smoking. Beat the eggs together with two pinches of salt before adding them to the pan. Let them cook undisturbed for a few seconds. Then, gently move the eggs back and forth with a spatula until they firm up. Break the eggs into small pieces and set them aside. 
+
+
+5. Wipe the pan clean and return to high heat. Add 2 tsp oil and warm until smoking once again. Add the shrimp and stir-fry for 30 seconds. Then add the onion, red bell pepper, snow peas, and carrots one by one, stirring each ingredient for 30 seconds before adding the next. 
+
+
+6. Add 1 tsp of curry powder and salt. Cook, folding the ingredients until the curry powder evenly distributes. Scrape the vegetables and shrimp onto the plate with the reserved eggs. 
+
+
+7. Wipe the pan clean again and heat the remaining 2 tbsp canola oil on high, until smoking. Add the rice-stick noodles and stir-fry for 30 seconds. Add the sauce mixture and the remaining 2 tsp of curry powder. Stir to combine. 
+8. Return the egg, shrimp, and vegetables to the pan and stir-fry until everything mixes well. Season with salt and remove from heat. 
+9. Garnish with scallions and drizzle with sesame oil to serve. 
+
