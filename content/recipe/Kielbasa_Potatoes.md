@@ -7,7 +7,7 @@ tags = [
     "sheet pan",
     "low carb"
 ]
-thumbnail= "images/KielbasaandPotatoes.jpg "
+thumbnail= "images/KeilbasaPotatoes.jpg"
 +++
 
 Servings: 5 <!--more-->
