@@ -3,19 +3,11 @@ title = "Aloo Beef Qeema- Spiced Minced Beef with Potato"
 date = "2021-03-10"
 description = ""
 tags = [
-    "beef",
-    "lunch",
-    "dinner",
-    "healthy",
-    "lowcarb",
-    "vegan",
-    "vegetarian",
-    "desi",
+    "entree",
+    "low carb",
     "keto", 
     "indian",
-    "pakistani",
-    "thejamilghar"
-]
+  
 thumbnail= "images/qeema (2).jpg"
 +++
 
