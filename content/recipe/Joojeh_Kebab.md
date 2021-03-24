@@ -4,15 +4,9 @@ date = "2021-02-28"
 description = ""
 tags = [
     "persian",
-    "persianfood",
-    "grilled",
-    "chicken",
-    "saffron",
-    "joojehkabob",
-    "kabob", 
-    "iranianfood", 
-    "foodie",
-    "thejamilghar"
+    "entree",
+    "keto",
+    "low carb",
     
 ]
 thumbnail= "images/joojehkabon.jpg"
@@ -65,4 +59,4 @@ For the Kebab:
 
 #### ABOUT THE MEAL
 
-After eating at a Persian restaurant for our daughter's first birthday several years ago, we have attempted to make a joojeh kebab recipe that does theirs justice. While we will never reach their level of expertise, this version of the popular dish is absolutely delicious. 
+After eating at a Persian restaurant for our daughter's first birthday several years ago, we attempted to make a joojeh kebab recipe that would do their dish justice. While we will never reach their level of expertise, this version of the popular dish is absolutely delicious. 
