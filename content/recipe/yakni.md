@@ -3,20 +3,11 @@ title = "Instant Pot Yakhni - Goat Bone Broth"
 date = "2021-03-13"
 description = ""
 tags = [
-    "yakni",
-    "goat",
-    "bonebroth",
+    "entree",
     "indian",
-    "pakistani",
-    "desi",
-    "dinner",
-    "healthy",
     "keto",
-    "lowcarb",
-    "instantpot",
-    "pressurecooker",
-    "pressurecooking",
-    "thejamilghar"
+    "low carb",
+    "instant pot",
     
 ]
 thumbnail= "images/Yahkni.jpg"
@@ -66,11 +57,11 @@ I was not keen on the idea of yakhni when my mother-in-law first offered to make
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
-* Bones: The main ingredient of yakhni are the nutrients that come from bones, so as long as you have bones, it will be tasty. We prefer goat meat and bones because we re-purpose the goat meat to make a separate dish, called yakhni pulao. Essentially, we get two meals out of one. 
+* Bones: The purpose of eating yakhni is for the nutrients that come from bones, so as long as you have bones, it will be tasty. We prefer goat meat and bones because we re-purpose the goat meat to make a separate dish, called yakhni pulao. Essentially, we get two meals out of one. 
 
-* Yakhni Masala: I make homemade yakhni masala with whole spices. I sometimes play with the blend, but this one is always tasty: Black Cardamon Pods, Green Cardamon Pods, 4 Cloves, Cumin Seeds, Coriander Seeds, Star Anise, Bay Leaves, and Salt.   
+* Yakhni Masala: I make homemade yakhni masala with whole spices. I sometimes play with the blend, but this one is always tasty and includes: Black Cardamon Pods, Green Cardamon Pods, Cloves, Cumin Seeds, Coriander Seeds, Star Anise, Bay Leaves, and Salt.   
 
 #### What equipment do I need to make this recipe?
 
@@ -79,9 +70,9 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 * A colander or strainer 
 * A large bowl 
 
-#### Is this soup keto? Is this soup lowcarb?
+#### Is yakhni keto? Is it lowcarb?
 
-Yakhni pulao is keto and low-carb and packed full of nutrients that help with the common keto flu. We even calculated the macros to make it easier for you. 
+Yakhni both is keto and low-carb and packed full of nutrients that can even help with keto flu. We calculated the macros to make it easier for you. 
 
 * CARBS– 2 Net Carbs
 * PROTEIN– 25g
