@@ -3,20 +3,9 @@ title = "Instant Pot Chicken Biryani"
 date = "2021-03-04"
 description = ""
 tags = [
-    "lunch",
-    "dinner",
+    "entree",
     "indian",
-    "pakistani",
-    "chicken",
-    "international",
-    "instantpot",
-    "pressurecooker",
-    "pressurecooking",
-    "rice",
-    "basmati",
-    "instantpotmeals",
-    "recipes",
-    "thejamilghar"
+    "instant pot"
   
 ]
 thumbnail= "images/IP_Biryani.jpg"
@@ -73,7 +62,7 @@ For the Biryani:
 
 If you are craving biryani, but not the time commitment, try this quick and easy Instant Pot biryani. It has all the flavor and brightness of the popular dish, but this recipe cuts the cooking time in half.  
 
-Before meeting Shariq, I had no experience with Desi food. If you asked back then if I knew the difference between an Indian or a Thai Curry, I would not have been able to tell you, so learning how to cook Indian food is near and dear to my heart. It's been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### Where does biryani originate? 
 
