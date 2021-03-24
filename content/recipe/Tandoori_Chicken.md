@@ -6,8 +6,8 @@ tags = [
     "entree"
     "low carb",
     "keto",
-    "indian",
-   ]
+    "indian"
+]
 
 thumbnail= "images/tandoorichicken.jpg"
 +++
