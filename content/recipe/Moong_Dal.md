@@ -45,16 +45,24 @@ For the Tadka:
 
 1. Set an [Instant Pot](https://amzn.to/3qfNYCZ) to saute mode and warm the ghee. 
 2. Add the boriya chili, cumin seed, mustard seed, and curry leaves. 
-3. Once they begin to sputter, add the onion and green chilis. Fry, stirring often, until the onions brown and caramelize. Reserve half of the onion mixture and set aside at room temperature. 
+3. Once they begin to sputter, add the onion and green chilis. Fry until the onions brown and caramelize. Reserve half of the onion mixture and set aside at room temperature. 
 4. Add the ginger, garlic, turmeric, chili powder, and garam masala to the Instant Pot, give it a quick stir, and then add the tomatoes. Let the mixture simmer, about 2 minutes. 
 5. Next, add the rinsed moong dal, salt, and water to the other ingredients in the Instant Pot. Stir well. 
-6. Secure the lid and set the Instant Pot to manual high pressure. Cook for 20 minutes. This cooking time is for high elevation. Reduce cooking time for lower elevation. Allow the Instant Pot to naturally release for 5 minutes and then do a quick release. 
+6. Secure the lid, set the Instant Pot to manual high pressure, and cook for 20 minutes. This cooking time is for high elevation. Reduce the cooking time for lower elevation. Allow the Instant Pot to release naturally for 5 minutes, and then do a quick release. 
 7. Stir the dal to check the consistency. If it is thicker than desired, add 1/2 cup HOT water before serving. 
 8. Garnish with the reserved onion mixture, cilantro, and extra green chilis, if desired. Serve with long-grained Basmati rice. 
 
 ### ABOUT THE MEAL 
 
-Growing up, Shariq ate this meal regularly throughout the week; in his own words, he hated it. It's funny how things change when we become adults because this is one of the meals he asks me to make for him regularly. 
+Moong dal is one of many Indian comfort foods. Growing up, Shariq ate this meal regularly throughout the week, and in his own words- he hated it. Funny how things change when we become adults because this is now one of the meals Shariq asks me to make for him regularly. 
+
+Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+
+#### What main ingredients do I need for this meal?
+
+* Moong Dal: Moong dal or split mung beans are the most common lentils used in India, featured in many recipes.  
+
+* Warm Spices: Turmeric, Kashmiri chili powder, garam masala, cumin, and various chilis flavor the dish. 
 
 #### What equipment do I need to make this recipe?
 
