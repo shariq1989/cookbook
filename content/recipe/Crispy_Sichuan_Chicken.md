@@ -1,11 +1,10 @@
 +++
 title = "Chongqing Laziji - Spicy Fried Chicken"
-date = "2021-02-13"
+date = "2020-12-08"
 description = "This Chongqing Laziji or Mala chicken recipe is spicy, crispy, and fried."
 tags = [
     "entree",
     "chinese", 
-    "international",
     
 ]
 thumbnail= "images/SichuanChilli.jpg "
