@@ -1,5 +1,5 @@
 +++
-title = "Carnitas - Braised Meat Tacos"
+title = "Carnitas - Braised Tacos"
 date = "2021-03-20"
 description = ""
 tags = [
