@@ -3,19 +3,10 @@ title = "Bhuna Gosht - Pan Fried Goat"
 date = "2020-01-29"
 description = ""
 tags = [
-    "goat",
-    "lunch",
-    "dinner",
+    "entree",
     "indian",
-    "pakistani",
-    "instantpot",
-    "pressurecooker",
-    "pressurecooking",
-    "curry",
-    "fried",
-    "recipes",
-    "desi",
-    "thejamilghar"
+    "instant pot",
+ 
 ]
 thumbnail= "images/BhunaGosht.jpg "
 +++
@@ -78,7 +69,7 @@ Bhuna gosht is a popular dish in Pakistan and India that refers to a thick, dry 
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
 * Gosht: "Gosht," literally means meat, but in Indian and Pakistani cuisine, gosht most often refers to goat or lamb; we prefer to use goat for this dish. 
 
