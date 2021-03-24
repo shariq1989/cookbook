@@ -1,7 +1,7 @@
 +++
 title = "Murgh Makhani-Butter Chicken"
 date = "2021-03-22"
-description = "This Butter Chicken is made in the Instant Pot and fits a low carb and keto diet."
+description = "This homemade Butter Chicken is made in the Instant Pot or the stove-top and fits a low carb and keto diet. It can also be modified to fit a vegetarian and vegan diet."
 tags = [
     "entree",
     "indian",
@@ -36,7 +36,7 @@ For the Curry:
 * 1 tbsp Butter 
 * 1 Cinnamon Stick
 * 1 tsp [Green Cardamom Pods](https://amzn.to/3cHo6Lq), lightly crushed 
-* 1 small Yellow Onion, roughly chopped
+* 1 Yellow Onion, roughly chopped
 * 4 Garlic Cloves, minced
 * 1 tbsp Ginger, minced
 * 2 Green Chilis, slit lengthwise, plus more to garnish
@@ -45,7 +45,7 @@ For the Curry:
 * 1 tsp Cumin, ground
 * 1 tsp Salt
 * 1/2 tsp [Turmeric](https://amzn.to/3vyvAZK)
-* 4-5 small Tomatoes, roughly chopped 
+* 4-5 Tomatoes, roughly chopped 
 * 4 tbsp Butter 
 * 1/4 cup Heavy Cream
 * Cilantro, finely chopped, to garnish
@@ -87,9 +87,9 @@ For the Curry:
 
 #### ABOUT THE MEAL
 
-Butter chicken originated in Dehli, India, and later spread throughout the western world. It's no wonder why since this butter chicken recipe offers a great introduction to the flavor and spices of Indian cooking. For that reason, this is one of the dishes we reach for most often when entertaining guests who have never tasted Indian food before. It also happens to be my most requested recipe from friends and family. 
+Butter chicken originated in Dehli, India, and later spread throughout the western world. That makes sense because it offers a great introduction to the flavor and spices of Indian cooking. For that reason, this is one of the dishes we reach for most often when entertaining guests who have never tasted Indian food before. It also happens to be my most requested recipe from friends and family. 
 
-Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I could not have told you. Learning how to cook Indian food is something I treasure, especially since I have the honor of learning Desi cooking under my talented mother-in-law. She prepares food off-script, so you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### What main ingredients do I need for this meal?
 
@@ -100,7 +100,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 * Cream: I prefer using heavy cream because it blends well without being too temperamental. 
 
-* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same is true of specific spices as well. Garam masala is a necessary ingredient for butter chicken, but every garam masala blend differs based on its origin. For this reason, I suggest making your garam masala at home, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
+* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same is true of specific spices as well. Garam masala is a necessary ingredient for butter chicken, but every garam masala blend differs based on its origin. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
 
 * Tomatoes: I use fresh ingredients whenever possible, but you can also use canned, diced tomatoes. 
 
@@ -113,7 +113,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 This recipe caters well to a vegetarian, vegan, or dairy-free way of eating with a few modifications. 
 
-* Vegetarian: Let's begin by finding a replacement for the chicken, shall we? I recommend using chickpeas, baked firm tofu, paneer, or roasted cauliflower. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions.
+* Vegetarian: First, we need to find a substitute for the chicken in this recipe. I recommend using chickpeas, baked firm tofu, paneer, or roasted cauliflower. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions.
 
 * Vegan: I prefer using chickpeas, baked firm tofu, or roasted cauliflower in place of the chicken. They come out delicious and hold up well throughout the cooking process. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions. In place of butter, use either coconut oil or vegan butter, and you can use full-fat coconut milk as an alternative to the cream.
 
