@@ -1,6 +1,6 @@
 +++
 title = "Murgh Makhani-Butter Chicken"
-date = "2020-01-30"
+date = "2021-03-22"
 description = "This Butter Chicken is made in the Instant Pot and fits a low carb and keto diet."
 tags = [
     "entree",
@@ -9,7 +9,7 @@ tags = [
     "keto",
     "instant pot"
 ]
-#thumbnail= "images/ButterChicken (2).jpg"
+thumbnail= "images/butterchicken.jpg"
 +++
 
 Servings: 2-4 <!--more-->
