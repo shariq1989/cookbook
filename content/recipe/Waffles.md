@@ -1,15 +1,11 @@
 +++
 title = "Crispy Belgium Waffle"
-date = "2020-01-18"
+date = "2020-12-02"
 description = ""
 tags = [
-    "waffles",
     "breakfast",
-    "belgium",
-    "food",
-    "foodie",
-    "thejamilghar",
-    "brunch"
+    "vegetarian"
+   
 ]
 #thumbnail= "images/waffles.jpg"
 +++
