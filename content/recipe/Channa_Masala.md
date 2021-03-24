@@ -6,7 +6,6 @@ tags = [
     "entree",
     "vegetarian",
     "indian",
-    "international",
     "vegan",
     "instant pot"
 ]
@@ -56,7 +55,7 @@ Cuisine: Indian, Pakistani
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
 * Chickpeas: We used canned simply because it is easier and takes less time to cook. You can use dry chickpeas, but you will need to soak them for 6-24 hours and increase the cooking time, about 1-2 hours.
 
