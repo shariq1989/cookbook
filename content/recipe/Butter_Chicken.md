@@ -132,3 +132,37 @@ It is. We even calculated the macros for one chicken thigh and some of the sauce
 #### Can I freeze butter chicken?
 
 Yes, first allow the dish to cool completely and add it to a freezer-safe container. It will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop and prepare your sides.
+
+### DIRECTIONS: STEP-BY-STEP 
+
+For the Chicken: 
+
+1. In a large bowl, toss the chicken with the ginger paste, garlic paste, Kashmiri chili powder, and salt. Set aside to marinate for 20 minutes
+
+{{< figure src="/images/bc1.jpg" class="instructionFigure">}}
+
+2. In a heavy-bottomed pan, heat ghee and fry the marinated chicken until the pieces have become golden brown, about 15 minutes. Set aside. 
+
+{{< figure src="/images/bc5.jpg" class="instructionFigure">}}
+
+For the Curry: 
+
+1. In the same pan, warm 1 1/2 tbsp of butter. Add the green cardamom pods and cinnamon stick. Cook until the ingredients begin to sputter, then add the onions. Cook the onions until they become translucent and soften. 
+
+{{< figure src="/images/bc2.jpg" class="instructionFigure">}}
+
+2. Next, add the garlic, ginger, and green chilies and cook for another minute.
+3. Stir in the Kashmiri chili powder, garam masala, cumin, salt, turmeric, and tomatoes into the mixture. Cook for 5-7 minutes and allow the tomatoes to simmer. 
+
+{{< figure src="/images/bc4.jpg" class="instructionFigure">}}
+
+4. Remove the cinnamon stick (and green chilis, if you want it to be less spicy) and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
+5. Return the mixture to the pan over low heat and stir in the butter and cream. Then, nestle the reserved chicken into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes. Adjust the temperature as necessary. 
+
+{{< figure src="/images/bc6.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/bc7.jpg" class="instructionFigure">}}
+
+6. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
+
+{{< figure src="/images/bc8.jpg" class="instructionFigure">}}
