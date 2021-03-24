@@ -55,13 +55,13 @@ For the Jjigae:
 
 ### ABOUT THE MEAL
 
-Kimchi jjigae or kimchi stew is quickly becoming a favorite in our home, mainly because of the flexible ingredients and how easy it is to make. I still need to get my hands on one of those cute [earthenware pots](https://amzn.to/3soWXDL)the stew is traditionally prepared and served within. 
+Kimchi jjigae or kimchi stew is quickly becoming a favorite in our home, mainly because of the flexible ingredients and how easy it is to make. I still need to get my hands on one of those cute [earthenware pots](https://amzn.to/3soWXDL) this stew is traditionally prepared and served within. 
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
 * Broth: A more traditional Korean broth includes dried anchovy and seaweed, both of which make for a delicious broth. Since these ingredients can be hard to come by, I chose to use staples I usually have in my pantry for the broth instead. If you want more kimchi flavor in your jjigae, consider adding 1-2 tbsp of the kimchi juice to flavor the broth.  
 
-* Tofu: I like using large slices of tofu for this dish.  While traditional kimchi jjigae is prepared with meat and tofu, I stick with tofu in my recipe. Occasionally, I will add shiitake mushrooms to change things up a bit. 
+* Tofu: I like using large slices of tofu for this dish.  While traditional kimchi jjigae includes meat and tofu, I stick to tofu in my recipe. Occasionally, I will add shiitake mushrooms to change things up a bit. 
 
 * Kimchi: Kimchi is not just a side dish in Korean cuisine; it is the main ingredient of many recipes. From what I hear, the best kimchi jjigae is the result of using kimchi that has been in your refrigerator for quite a while. 
 
@@ -79,7 +79,7 @@ To make this particular recipe vegetarian and vegan-friendly, you will need to o
 
 #### Is kimchi jjigae keto? Is kimchi jjigae low-carb?
 
-Kimchi jjigae doesn't fit the macros for the keto diet, but it is great for low-carb. We even calculated the macros to make it easier for you.
+Kimchi jjigae doesn't fit the macros for the keto diet, but it suits a low-carb way of eating. We even calculated the macros to make it easier for you.
 
 * CARBS– 9 Net Carbs
 * PROTEIN– 14g
