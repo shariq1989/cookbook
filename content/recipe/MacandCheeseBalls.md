@@ -1,18 +1,11 @@
 +++
 title = "Fried Mac and Cheese Balls"
-date = "2021-02-25"
+date = "2020-12-04"
 description = ""
 tags = [
-    "lunch",
-    "dinner",
-    "macandcheese",
-    "snack",
     "appetizer",
-    "gameday",
-    "fried", 
-    "vegetarian",
-    "cheese",
-    "recipe"
+    "vegetarian"
+  
 ]
 thumbnail= "images/macballs.jpg"
 +++
@@ -21,7 +14,7 @@ Servings: 10-12 <!--more-->
 
 Preparation Time: 20 minutes
 
-Cooling Time: 24 hours
+Cooking Time: 24 hours
 
 Cuisine: American
 
