@@ -89,6 +89,8 @@ For the Curry:
 
 Butter chicken originated in Dehli, India, and later spread throughout the western world. It's no wonder why since this butter chicken recipe offers a great introduction to the flavor and spices of Indian cooking. For that reason, this is one of the dishes we reach for most often when entertaining guests who have never tasted Indian food before. It also happens to be my most requested recipe from friends and family. 
 
+Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+
 #### What main ingredients do I need for this meal?
 
 * Chicken: We use boneless chicken thighs, but you can substitute chicken breasts if you prefer. If using chicken breasts, follow the same cooking time, and be sure to cut the chicken into 1-inch pieces. 
