@@ -3,17 +3,11 @@ title = "Moong Dal - Yellow Lentil Soup"
 date = "2021-03-06"
 description = ""
 tags = [
-    "soup",
-    "lunch",
-    "dinner",
+    "entree",
+    "indian",
     "vegetarian", 
-    "vegan",
-    "dal", 
-    "indian", 
-    "pakistani", 
     "instant pot", 
-    "pressure cooker",
-    "thejamilghar"
+    
 ]
 thumbnail= "images/MoongDal.jpg"
 +++
@@ -60,9 +54,7 @@ For the Tadka:
 
 ### ABOUT THE MEAL 
 
-Growing up, Shariq ate this meal regularly throughout the week and in his own words, he hated it. It's funny how much things change as adults because this is now one of the meals he asks me to make for him regularly. 
-
-Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+Growing up, Shariq ate this meal regularly throughout the week; in his own words, he hated it. It's funny how things change when we become adults because this is one of the meals he asks me to make for him regularly. 
 
 #### What equipment do I need to make this recipe?
 
@@ -74,4 +66,4 @@ With one substitution, yes. Fry the onions in canola oil or vegetable oil instea
 
 #### Can I freeze Moong Dal? 
 
-Yes, first allow the Moong Dal to cool completely and then get several freezer-safe resealable plastic bags. Scoop a small amount of dal into each plastic bag, making sure to leave a few inches of space so the dish can expand, if needeed. Squeeze out as much air as you can before sealing the bag. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
+Yes, allow the Moong Dal to cool and prepare several freezer-safe resealable plastic bags. Scoop a small amount of dal into each plastic bag, making sure to leave a few inches of space so the dish can expand if needed. Squeeze out as much air as you can before sealing the bag. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
