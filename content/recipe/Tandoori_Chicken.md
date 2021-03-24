@@ -3,7 +3,7 @@ title = "Tandoori Chicken Drumsticks"
 date = "2021-02-09"
 description = ""
 tags = [
-    "entree"
+    "entree",
     "low carb",
     "keto",
     "indian"
