@@ -5,10 +5,10 @@ description = "This recipe is for an authentic Pakistani Garam Masala Spice Blen
 tags = [
     "spices",
 ]
-thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/garammasala.jpg"
 +++
 
-Servings:  <!--more-->
+Servings: 1 cup <!--more-->
 
 Preparation Time: 5 minutes 
 
