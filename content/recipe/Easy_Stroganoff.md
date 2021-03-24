@@ -1,6 +1,6 @@
 +++
 title = "Crockpot Stroganoff"
-date = "2020-01-19"
+date = "2020-12-03"
 description = ""
 tags = [
     "dinner",
