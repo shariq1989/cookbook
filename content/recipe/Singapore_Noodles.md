@@ -1,5 +1,5 @@
 +++
-title = "Singaporean Noodles "
+title = "Singapore Noodles "
 date = "2021-03-23"
 description = ""
 tags = [
@@ -55,7 +55,7 @@ Adapted from: Serious Eats, Shao Z.
 
 Singapore noodles are another dish we tried at a restaurant and decided we needed to learn how to make it at home. I am proud of this recipe because of how similar it is to what you would order in a Chinese restaurant. The main difference is that traditional Singapore noodles typically include Chinese fried pork. We didn't feel like we were missing out since this dish is jam-packed with shrimp, vegetables, and that yummy, yellow curry flavor. If your goal is to make a more traditional version of Singapore noodles, you will want to incorporate fried pork. 
 
-#### Where do Singaporean noodles originate? 
+#### Where do Singapore noodles originate? 
 
 It's not entirely clear where Singapore noodles began. Many sources say Hong Kong, despite their name. Regardless, I love that the flavors in Singaporean noodles are heavily-influenced by so many different people-groups: Cantonese, British, Indo-Chinese, and American. 
 
@@ -63,11 +63,11 @@ It's not entirely clear where Singapore noodles began. Many sources say Hong Kon
 
 * Thin Rice Noodles: I use [vermicelli rice noodles](https://amzn.to/2OvmDQ3). 
 
-* Shrimp: We had Singapore noodles for the first time in a Chinese restaurant; they served it with shrimp, so do we, but you could also use prawns. 
+* Shrimp: I had Singapore noodles for the first time in a Chinese restaurant; they served it with shrimp, so do I, but you could also use prawns. 
 
-* Chinese BBQ Pork: Singapore noodles traditionally include Chinese BBQ pork. We don't use pork in ours, but that is an option.  
+* Chinese BBQ Pork: Singapore noodles traditionally include Chinese BBQ pork. I don't use pork in ours, but that is an option.  
 
-* Vegetables: We chose to go the traditional route with red bell peppers, onions, snow peas, and carrots, but you can use whatever vegetables you have on hand. 
+* Vegetables: I chose to go the traditional route with red bell peppers, onions, snow peas, and carrots, but you can use whatever vegetables you have on hand. 
 
 * Yellow Curry Powder: [Curry powder](https://amzn.to/3lcVSfn) gives Singapore noodles their vibrant, yellow color and flavor. 
 
@@ -78,11 +78,11 @@ It's not entirely clear where Singapore noodles began. Many sources say Hong Kon
 * A plate
 * Wok or large skillet
 
-#### Can you freeze Singaporean noodles? 
+#### Can you freeze Singapore noodles? 
 
 I do not recommend it; cooked vermicelli noodles end up mushy when thawed. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### DIRECTIONS:STEP-BY-STEP 
 
 1. Pat the shrimp dry and place them into a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and refrigerate for 30 minutes. 
 2. Place the rice-stick noodles into a large bowl and cover them with boiling water. Let the noodles stand for 5 minutes. Put the rice noodles into a colander and rinse with cold running water before draining. Using scissors, cut the bundle of noodles in half.
