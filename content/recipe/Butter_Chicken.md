@@ -41,7 +41,7 @@ For the Curry:
 * 1 tbsp Ginger, minced
 * 2 Green Chilis, slit lengthwise, plus more to garnish
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1 1/2 tsp [Garam Masala](https://amzn.to/2QepzBi)
+* 1 1/2 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or store-bought[Garam Masala](https://amzn.to/2QepzBi)
 * 1 tsp Cumin, ground
 * 1 tsp Salt
 * 1/2 tsp [Turmeric](https://amzn.to/3vyvAZK)
@@ -100,7 +100,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 * Cream: I prefer using heavy cream because it blends well without being too temperamental. 
 
-* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same is true of specific spices as well. Garam masala is a necessary ingredient for butter chicken, but every garam masala blend differs based on its origin. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
+* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same is true of specific spices as well. Garam masala is a necessary ingredient for butter chicken, but every garam masala blend differs based on its origin and family making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) our family most often uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
 
 * Tomatoes: I use fresh ingredients whenever possible, but you can also use canned, diced tomatoes. 
 
