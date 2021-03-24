@@ -1,6 +1,6 @@
 +++
 title = "Pesto, Spinach, and Cheese Stuffed Shells"
-date = "2021-02-01"
+date = "2020-12-01"
 description = ""
 tags = [
     "entree",
