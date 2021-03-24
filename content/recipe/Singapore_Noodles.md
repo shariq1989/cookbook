@@ -6,7 +6,7 @@ tags = [
     "entree",
     
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/SingNoods.jpg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -87,21 +87,28 @@ I do not recommend it; cooked vermicelli noodles end up mushy when thawed.
 1. Pat the shrimp dry and place them into a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and refrigerate for 30 minutes. 
 2. Place the rice-stick noodles into a large bowl and cover them with boiling water. Let the noodles stand for 5 minutes. Put the rice noodles into a colander and rinse with cold running water before draining. Using scissors, cut the bundle of noodles in half.
 
-{{< figure src="/images/bandc1.jpg" class="instructionFigure">}}
+{{< figure src="/images/sing1.jpg" class="instructionFigure">}}
 
 3. In a small bowl, combine the garlic, soy sauce, rice wine vinegar, sugar, and the remaining 2 tsp fish sauce. Mix well and set aside.
 
+{{< figure src="/images/sing2.jpg" class="instructionFigure">}}
 
 4. Heat 1 tsp canola oil in a wok or a nonstick skillet on high, until smoking. Beat the eggs together with two pinches of salt before adding them to the pan. Let them cook undisturbed for a few seconds. Then, gently move the eggs back and forth with a spatula until they firm up. Break the eggs into small pieces and set them aside. 
 
+{{< figure src="/images/sing3.jpg" class="instructionFigure">}}
 
 5. Wipe the pan clean and return to high heat. Add 2 tsp oil and warm until smoking once again. Add the shrimp and stir-fry for 30 seconds. Then add the onion, red bell pepper, snow peas, and carrots one by one, stirring each ingredient for 30 seconds before adding the next. 
-
-
 6. Add 1 tsp of curry powder and salt. Cook, folding the ingredients until the curry powder evenly distributes. Scrape the vegetables and shrimp onto the plate with the reserved eggs. 
 
+{{< figure src="/images/sing4.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/sing5.jpg" class="instructionFigure">}}
 
 7. Wipe the pan clean again and heat the remaining 2 tbsp canola oil on high, until smoking. Add the rice-stick noodles and stir-fry for 30 seconds. Add the sauce mixture and the remaining 2 tsp of curry powder. Stir to combine. 
+
+{{< figure src="/images/sing6.jpg" class="instructionFigure">}}
+
 8. Return the egg, shrimp, and vegetables to the pan and stir-fry until everything mixes well. Season with salt and remove from heat. 
 9. Garnish with scallions and drizzle with sesame oil to serve. 
 
+{{< figure src="/images/sing7.jpg" class="instructionFigure">}}
