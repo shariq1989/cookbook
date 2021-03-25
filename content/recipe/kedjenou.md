@@ -66,15 +66,15 @@ For the Kedjenou Spice:
 
 ### ABOUT THE MEAL
 
-Kedjenou is popular in the Ivory Coast, a place known for its savory, slow-cooked stews. This dish is traditionally made in a clay pot, called a canary. This process allows the chicken to cook in all of the flavors without being disturbed. The word "Kedjenou" means, "to shake," which is why the stew is shaken a few times throughout the cooking process. 
+Kedjenou is popular in the Ivory Coast, a place known for its savory, slow-cooked stews. This dish is traditionally cooked in a clay pot, called a canary. Using the canary allows the chicken to cook in all of the flavors and spices. "Kedjenou" means, "to shake," which is why the stew is shaken a few times throughout the cooking process, to prevent sticking or burning, but without being disturbed. 
 
 #### What main ingredients do I need for this meal?
 
 * Whole Chicken: Break down the whole chicken. I prefer to use a combination of bone-in thighs and drumsticks.
 
-* Vegetables: I use tomatoes, onion, carrots, and potatoes in the stew. You can also include green onions, bell peppers, and eggplant. 
+* Vegetables: I use tomato, onion, carrot, and potato in the stew. You can also include green onion, bell pepper, and eggplant. Eggplant is especially common. 
 
-* Kedjenou Spice Blend: Like all good spice blends, Kedjenou varies from home to home. This recipe contains the blend we use at home. The leftover spice mix can last for three months if stored in a sealed mason jar. 
+* Kedjenou Spice Blend: Like all good spice blends, Kedjenou varies from home to home. This recipe contains the blend we use. The leftover spice blend can last for three months if stored in a sealed mason jar. 
 
 #### What equipment do I need to make this recipe?
 
@@ -82,7 +82,7 @@ Kedjenou is popular in the Ivory Coast, a place known for its savory, slow-cooke
 
 #### Can I freeze Kedjenou?
 
-You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The Kedjenou can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm on the stovetop, and enjoy!
+You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. Kedjenou can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm on the stovetop, and enjoy!
 
 ### DIRECTIONS: STEP-BY-STEP 
 
