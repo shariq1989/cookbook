@@ -25,7 +25,7 @@ Cooking Time: 50 minutes
 * 1 tsp Kosher salt, to taste
 * 1 1/2 tbsp [turmeric](https://amzn.to/3rWz3iD), ground 
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1/2 tsp [Garam Masala](https://amzn.to/3u0tvEX)
+* 1/2 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or [Garam Masala](https://amzn.to/3u0tvEX)
 * 1 large Tomato, diced and pureed 
 * 1 tbsp Ginger, freshly grated 
 * 3 Garlic Cloves, minced 
