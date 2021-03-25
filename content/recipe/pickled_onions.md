@@ -70,7 +70,21 @@ Use pickled onions to dress up tacos, sandwiches, bean dishes, and salads, or us
 ### DIRECTIONS: STEP-BY-STEP 
 
  1. Slice the onions and pack them into a mason jar. Set aside. 
+ 
+ {{< figure src="/images/po1.jpg" class="instructionFigure">}}
+ 
  2. In a saucepan, add the water, distilled vinegar, apple cider vinegar, honey, and salt. Whisk the ingredients together and bring them to a simmer over medium heat. 
+ 
+ {{< figure src="/images/po2.jpg" class="instructionFigure">}}
+ 
  3. Place the mason jar in the sink and carefully pour the mixture over the onions.
- 4. Use a spoon to press the onions to remove any bubbles. 
- 5. Allow the onions to cool for about 30 minutes before serving. 
+ 
+ {{< figure src="/images/po3.jpg" class="instructionFigure">}}
+ 
+ 5. Use a spoon to press the onions to remove any bubbles. 
+
+{{< figure src="/images/po4.jpg" class="instructionFigure">}}
+
+6. Allow the onions to cool for about 30 minutes before serving. 
+
+{{< figure src="/images/po5.jpg" class="instructionFigure">}}
