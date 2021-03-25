@@ -31,7 +31,7 @@ Cuisine: Indian, Pakistani
 * 1/2 cup Water 
 * 1 tsp [Turmeric Powder](https://amzn.to/3vyvAZK)
 * 1-2 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC), depending on your prefered heat
-* 1 tsp [Garam Masala](https://amzn.to/3u0tvEX)
+* 1 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or [Garam Masala](https://amzn.to/3u0tvEX)
 * 1 tsp [Coriander](https://amzn.to/3lwbJ92), ground 
 * 1-3 Thai Green Chili or Serrano Chilis, split lengthwise 
 * 1 tsp [Cumin Seeds](https://amzn.to/3vBeR8i)
@@ -53,7 +53,7 @@ Cuisine: Indian, Pakistani
 
 ### ABOUT THE MEAL
 
-Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you. Learning how to cook Indian food is something I treasure, especially since I have the honor of learning Desi cooking under my talented mother-in-law. She prepares food off-script, so you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### What main ingredients do I need for this meal?
 
@@ -61,7 +61,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 * Onion and Tomato Masala: The slow-cooked onion and tomatoes, along with ginger, garlic, and green chilis, bring so much flavor to the dish. 
 
-* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For example, garam masala is a necessary ingredient for butter chicken, but each garam masala blend differs depending on its origin. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3qNCcQk), Spice House, or Penzey’s garam masala.
+* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) we make in our home. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3qNCcQk), Spice House, or Penzey’s garam masala.
 
 #### What equipment do I need to make this recipe?
 
@@ -69,7 +69,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 * A small bowl
 * A food processor or blender
 
-#### Is channa masala vegetarian? Is channa masala vegan? 
+#### Is channa masala vegetarian? Is it vegan? 
 
 Channa masala caters well to both a vegetarian and vegan diet. To make this particular recipe vegan, you will need to substitute another oil for the ghee. I suggest using [grapeseed oil](https://amzn.to/3cLwWYG).
 
