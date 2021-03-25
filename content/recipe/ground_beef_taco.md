@@ -73,3 +73,19 @@ My family didn’t have a lot of money when I was growing up so we rotated a few
 
 Yes, first allow the meat to cool completely and then add it to a freezer-safe container. To prevent freezer burn, you can also layer saran wrap over the container before securing the lid. The beef mixture will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your tortillas and toppings. 
 
+### DIRECTIONS: STEP-BY-STEP 
+
+1. Heat oil in a heavy-bottomed pan over medium heat. 
+2. Add the onions to the pan and cook until they become translucent and soften. 
+
+{{< figure src="/images/gb1.jpg" class="instructionFigure">}}
+
+3. Next, add the ground beef and break it up with a [meat chopper](https://amzn.to/3bQ2coS) or spatula. Cook, stirring occasionally until beef is heated thoroughly and turns brown, about 10 minutes. 
+
+{{< figure src="/images/gb2.jpg" class="instructionFigure">}}
+
+4. Stir in the garlic and cilantro and then season the meat with garlic powder, salt, and taco seasoning. Mix to combine and then add water. Cover with a lid and allow the meat to simmer for about 5 minutes. 
+
+{{< figure src="/images/gb3.jpg" class="instructionFigure">}}
+
+5. Spoon the beef into warmed corn tortillas and top with our homemade [guacamole](https://www.jamilghar.com/recipe/guacamole/). Serve with [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/), and enjoy.
