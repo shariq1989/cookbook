@@ -88,4 +88,6 @@ Yes, first allow the meat to cool completely and then add it to a freezer-safe c
 
 {{< figure src="/images/gb3.jpg" class="instructionFigure">}}
 
+{{< figure src="/images/gb4.jpg" class="instructionFigure">}}
+
 5. Spoon the beef into warmed corn tortillas and top with our homemade [guacamole](https://www.jamilghar.com/recipe/guacamole/). Serve with [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/), and enjoy.
