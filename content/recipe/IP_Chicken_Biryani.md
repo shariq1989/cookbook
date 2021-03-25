@@ -25,7 +25,7 @@ For the Paste:
 
 * 1/2 cup Full-Fat Yogurt 
 * 2 tbsp Lemon Juice
-* 2 tsp [Garam Masala](https://amzn.to/3u0tvEX) 
+* 2 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or [Garam Masala](https://amzn.to/3u0tvEX) 
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
 * 1/2 tsp [Turmeric](https://amzn.to/3trObVj)
 * 2 tsp Kosher Salt 
