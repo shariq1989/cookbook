@@ -1,5 +1,5 @@
 +++
-title = "Quick Pickled Onions"
+title = "Pickled Onions"
 date = "2020-12-21"
 description = ""
 tags = [
