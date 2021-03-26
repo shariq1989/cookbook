@@ -56,11 +56,10 @@ For the Tofu:
 For the Frying: 
 
 1. Set a wire rack into the rimmed baking sheet.
-2. Heat 1/4 cup oil in a cast-iron or stainless-steel skillet over medium-low heat. In small batches, pan-fry the tofu until golden brown, about 2 minutes per side. Then, transfer the tofu slices to the rimmed baking sheet. Repeat with the remaining tofu. 
-
-To Serve: 
-
-1. To finish, drizzle with the coconut dressing and enjoy. 
+2. Heat 1/4 cup oil in a cast-iron or stainless-steel skillet over medium-low heat. 
+3. Test the oil heat by frying one tofu slice, adjust the heat accordingly. 
+4. Then small batches, pan-fry the tofu until golden brown, about 2 minutes per side. Then, transfer the tofu slices to the rimmed baking sheet. Repeat with the remaining tofu. 
+5. Allow the tofu slices to cool on the wire rack. To serve, drizzle with the coconut dressing and enjoy. 
 
 ### ABOUT THE MEAL
 
@@ -101,8 +100,7 @@ For the Tofu:
 For the Frying: 
 
 1. Set a wire rack into the rimmed baking sheet.
-2. Heat 1/4 cup oil in a cast-iron or stainless-steel skillet over medium-low heat. In small batches, pan-fry the tofu until golden brown, about 2 minutes per side. Then, transfer the tofu slices to the rimmed baking sheet. Repeat with the remaining tofu. 
-
-To Serve: 
-
-1. To finish, drizzle with the coconut dressing and enjoy. 
+2. Heat 1/4 cup oil in a cast-iron or stainless-steel skillet over medium-low heat. 
+3. Test the oil heat by frying one tofu slice, adjust the heat accordingly. 
+4. Then small batches, pan-fry the tofu until golden brown, about 2 minutes per side. Then, transfer the tofu slices to the rimmed baking sheet. Repeat with the remaining tofu. 
+5. Allow the tofu slices to cool on the wire rack. To serve, drizzle with the coconut dressing and enjoy. 
