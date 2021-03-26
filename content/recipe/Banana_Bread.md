@@ -83,9 +83,24 @@ You sure can. First, allow the banana bread to cool completely and then wrap it 
 
 1. Stir the dry ingredients together in a large bowl. Set aside. 
 2. In another bowl, add the butter and blend it with a hand mixer. Then add the bananas and mush them into the butter with a fork until smooth. 
+
+{{< figure src="/images/bb1.jpg" class="instructionFigure">}}
+
 3. Add the eggs and milk to the butter and banana mixture and stir until smooth. 
+
+{{< figure src="/images/bb2.jpg" class="instructionFigure">}}
+
 4. Combine the dry ingredients with the wet ingredients. Do not overmix. Instead, fold the ingredients together until incorporated.
+
+{{< figure src="/images/bb4.jpg" class="instructionFigure">}}
+
 5. Cover and set aside for 1 hour at room temperature. 
+
+{{< figure src="/images/bb5.jpg" class="instructionFigure">}}
+ 
 6. Pre-heat the oven to 350 degrees. 
 7. Pour the mixture into two greased 9x5 loaf pans and bake them for 1 hour. 
 8. Let the banana bread cool before serving. 
+
+{{< figure src="/images/bb6.jpg" class="instructionFigure">}}
+
