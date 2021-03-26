@@ -33,7 +33,8 @@ For the Tofu:
 
 * 1 Package Firm Tofu, cut into rectangles 
 * ½ cup Panko 
-* ½ cup White Sesame Seeds 
+* 1/3 cup White Sesame Seeds 
+* 1 tsp Black Sesame Seeds 
 * ½ tsp Black Pepper
 * 1/2 tsp Red Chili Flakes
 * 2 tbsp Tapioca Flour 
