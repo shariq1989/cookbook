@@ -24,7 +24,7 @@ For the Dressing:
 
 * ¼ cup Unsweetened Coconut Milk
 * 1 Lime, zest, and juiced 
-* 2 tbsp Chili Paste
+* 2 tbsp Chili Garlic Sauce 
 * 1 tsp Chili Oil   
 * 1 tsp Brown Sugar
 * ¼ cup Sesame Oil, toasted 
@@ -34,7 +34,7 @@ For the Tofu:
 * 1 Package Firm Tofu, cut into rectangles 
 * ½ cup Panko 
 * ½ cup White Sesame Seeds 
-*  ½ tsp Black Pepper
+* ½ tsp Black Pepper
 * 1/2 tsp Red Chili Flakes
 * 2 tbsp Tapioca Flour 
 * 6 tsp Water 
@@ -65,7 +65,7 @@ For the Frying:
 
 #### What main ingredients do you need for this meal?
 
-* Firm Tofu
+* Extra-Firm Tofu: This is the best tofu to use for frying. 
 
 * Sesame Flavor: We introduce sesame into this dish in two ways: the sesame oil and sesame seeds. 
 
