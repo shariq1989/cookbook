@@ -86,6 +86,8 @@ You sure can. First, allow the banana bread to cool completely and then wrap it 
 
 {{< figure src="/images/bb1.jpg" class="instructionFigure">}}
 
+{{< figure src="/images/bb3.jpg" class="instructionFigure">}}
+
 3. Add the eggs and milk to the butter and banana mixture and stir until smooth. 
 
 {{< figure src="/images/bb2.jpg" class="instructionFigure">}}
