@@ -90,17 +90,41 @@ For the Dressing:
 
 1. In a small bowl, whisk together the coconut milk, lime zest, chili paste, chili oil, and brown sugar until sugar dissolves completely. Slowly pour in the sesame oil and whisk until creamy. 
 
+{{< figure src="/images/cst1.jpg" class="instructionFigure">}}
+
+
 For the Tofu: 
 
 1. Pat dry the tofu with a paper towel and cut the tofu into rectangles. Season them lightly with salt and set them aside. 
 2. In a small bowl, mix the panko, sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast for 2-4 minutes. 
+
+{{< figure src="/images/cst3.jpg" class="instructionFigure">}}
+
 3. Whisk the tapioca flour and water together in another bowl. 
+
+{{< figure src="/images/cst2.jpg" class="instructionFigure">}}
+
 4. Dip the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a plate. Repeat with remaining tofu slices.
+
+
+{{< figure src="/images/cst4.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/cst5.jpg" class="instructionFigure">}}
 
 For the Frying: 
 
 1. Set a wire rack into the rimmed baking sheet.
 2. Heat 1/4 cup oil in a cast-iron or stainless-steel skillet over medium-low heat. 
 3. Test the oil heat by frying one tofu slice, adjust the heat accordingly. 
+
+{{< figure src="/images/cst6.jpg" class="instructionFigure">}}
+
 4. Then small batches, pan-fry the tofu until golden brown, about 2 minutes per side. Then, transfer the tofu slices to the rimmed baking sheet. Repeat with the remaining tofu. 
+
+{{< figure src="/images/cst7.jpg" class="instructionFigure">}}
+
 5. Allow the tofu slices to cool on the wire rack. To serve, drizzle with the coconut dressing and enjoy. 
+
+{{< figure src="/images/cst8.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/cst9.jpg" class="instructionFigure">}}
