@@ -26,7 +26,7 @@ For Gosht:
 * 1½ lb Goat, cut into 1-inch pieces  
 * 2  Large Yellow Onions, thinly sliced
 * ¼ cup Garlic Cloves
-* 4-inch Fresh Ginger, julienne
+* 4-inch Fresh Ginger, julienne, divided 
 * ¾ cup Full-Fat Yogurt 
 * 2½ tbsp [Coriander Powder](https://amzn.to/3tppHMD) 
 * 2 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
@@ -51,7 +51,7 @@ For Whole Spices:
 1. Begin by rinsing the goat and then add it to a heavy-bottomed pan along with 1 cup of water and 1 tsp of salt. Cook for 1 hour over medium heat. Set aside. 
 2. Gather the whole spices and stir in the nutmeg.
 3. When the meat is done, heat 1/3 cup of ghee in the pan used to cook the meat and add the reserved spice mixture until they begin to sputter.
-4. Then, add the garlic and ginger, saute until golden.
+4. Then, add the garlic and half of the ginger, saute until golden.
 5. Next, add the onions and fry them until they become translucent and soften, about 8 minutes 
 6. Return the goat to the pan and mix in the yogurt and salt. Stir to combine and let it cook over high heat until the yogurt releases liquid.
 7. Reduce the heat to medium and cover the pan with a lid. Allow the dish to simmer for about 5 minutes.
@@ -66,7 +66,7 @@ For Whole Spices:
 1. Begin by rinsing the goat and then add it to an [Instant Pot](https://amzn.to/3qfNYCZ) with 1 cup water and 1 tsp salt. Cook on manual high pressure for 40 minutes with quick release. Set the meat aside. Note: This cooking time is for high-elevation; you can reduce the cooking time for lower elevation. 
 2. Gather the whole spices and stir in the nutmeg, set aside.
 3. Remove the meat and all the contents inside the Instant Pot and then add 1/3 cup of ghee and the reserved spice mixture. Cook on saute mode until they begin to sputter. 
-4. Then, add the garlic and ginger, saute until golden.
+4. Then, add the garlic and half of the ginger, saute until golden.
 5. Next, add the onions and fry them until they become translucent and soften, about 8 minutes. 
 6. Return the goat to the pan and mix in the yogurt and salt. Stir to combine, and let it cook on saute mode until the yogurt releases liquid.
 7. Cover the Instant Pot with the lid, but do not seal. Allow the dish to simmer for about 5 minutes.
@@ -104,7 +104,7 @@ Yes, allow the dish to cool completely, and then add it to a freezer-safe contai
 1. Begin by rinsing the goat and then add it to a heavy-bottomed pan along with 1 cup of water and 1 tsp of salt. Cook for 1 hour over medium heat. Set aside. 
 2. Gather the whole spices and stir in the nutmeg.
 3. When the meat is done, heat 1/3 cup of ghee in the pan used to cook the meat and add the reserved spice mixture until they begin to sputter.
-4. Then, add the garlic and ginger, saute until golden.
+4. Then, add the garlic and half of the ginger, saute until golden.
 5. Next, add the onions and fry them until they become translucent and soften, about 8 minutes 
 6. Return the goat to the pan and mix in the yogurt and salt. Stir to combine and let it cook over high heat until the yogurt releases liquid.
 7. Reduce the heat to medium and cover the pan with a lid. Allow the dish to simmer for about 5 minutes.
