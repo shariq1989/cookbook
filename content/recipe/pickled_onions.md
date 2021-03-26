@@ -6,7 +6,7 @@ tags = [
     "side dish",
    
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/pickledonion.jpg"
 +++
 
 Servings: 4 <!--more-->
