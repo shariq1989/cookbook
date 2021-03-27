@@ -46,7 +46,7 @@ For the Biryani:
 * 3 cup Long-Grain Basmati Rice, pre-soaked and divided. 
 * Optional: 2-3 Thai Green Chilis, to serve 
 
-#### DIRECTIONS 
+#### INSTANT POT DIRECTIONS 
 
 1. Mix the ingredients for the paste in a large bowl. Stir in the chicken and coat evenly. Refrigerate for 30 minutes. 
 2. Wash the rice and soak it in water for 20 minutes. 
@@ -76,24 +76,25 @@ Like many well-known Indian dishes, biryani varies from region to region. Intere
 
 #### What main ingredients do I need for this meal?
 
-* Long-Grained Basmati Rice: Basmati rice is the most crucial ingredient for any biryani, but how do you choose the right one? I recommend using [Royal Chef Secret Basmati Rice](https://amzn.to/3tbFMW20), [Royal Authentic Basmati Rice](https://amzn.to/3cuai6I), or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). The key to a quality rice dish is taking the time to soak it; the longer, the better. By taking this step, your rice will have the length and luxury you want from good biryani.
+* Authentic Basmati Rice](https://amzn.to/3cuai6I), or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). The key to a quality rice dish is taking the time to soak it; the longer, the better. By taking this step, your rice will have the length and luxury you want from good biryani.
 
 * Biryani Masala: I chose to make a quick and easy biryani masala using a combination of Kashmiri chili powder, garam masala, turmeric, salt, and Laziza Karahi Masala. You can also use a pre-made biryani masala like [Shan](https://amzn.to/3cGWNk9) to make the recipe even more manageable. 
 
+* Chicken: I prefer to use bone-in chicken like thighs, legs, and quarters. If you favor boneless chicken, I suggest using thighs.
+
 #### What equipment do I need to make this recipe?
 
-* A large bowl 
-* A set of [measuring spoons](https://amzn.to/38O25JK)
+* A large serving bowl or plate
 * An [Instant Pot](https://amzn.to/3rJDIEg) 
 * A [rice cooker](https://amzn.to/2OJpyED)
 
 #### Can I make chicken biryani vegetarian? Can I make it vegan? 
 
-I love biryani because the options for protein are endless. Some of the more common biryanis include boiled eggs, mixed vegetables, or a mixture of the two. If making a mixed vegetable biryani, I suggest using a combination of green beans, cauliflower, carrots, and peas. To make the biryani vegan, you will want to replace the yogurt and the ghee with something more vegan-friendly. I suggest using coconut-based yogurt and vegan butter instead. 
+I love biryani because the options for protein are endless. Some of the more common biryani's include boiled eggs, mixed vegetables, or a mixture of the two. If making a mixed vegetable biryani, I suggest using a combination of green beans, cauliflower, carrots, and peas. To make the biryani vegan, you will want to replace the yogurt and the ghee with something more vegan-friendly. I suggest using coconut-based yogurt and vegan butter instead. 
 
 #### Can I make chicken biryani non-dairy? 
 
-Yogurt breaks down and tenderizes the meat, so you could directly substitute it with a coconut-based yogurt. Using tomatoes in place of the yogurt could also achieve the same effect. 
+The yogurt tenderizes the meat; you could directly substitute a coconut-based yogurt. Using tomatoes in place of yogurt can also achieve the same effect. 
 
 #### Why do I separate the rice in this recipe? 
 
