@@ -8,7 +8,7 @@ tags = [
     "instant pot",
  
 ]
-thumbnail= "images/BhunaGosht.jpg "
+thumbnail= "images/bhunagosht.jpg"
 +++
 
 Servings: 5 <!--more-->
@@ -102,14 +102,37 @@ Yes, allow the dish to cool completely, and then add it to a freezer-safe contai
 ### STOVE-TOP DIRECTIONS: STEP-BY-STEP
 
 1. Begin by rinsing the goat and then add it to a heavy-bottomed pan along with 1 cup of water and 1 tsp of salt. Cook for 1 hour over medium heat. Set aside. 
+
+{{< figure src="/images/bgh1.jpg" class="instructionFigure">}}
+
 2. Gather the whole spices and stir in the nutmeg.
 3. When the meat is done, heat 1/3 cup of ghee in the pan used to cook the meat and add the reserved spice mixture until they begin to sputter.
+
+{{< figure src="/images/bgh2.jpg" class="instructionFigure">}}
+
 4. Then, add the garlic and half of the ginger, saute until golden.
+
+{{< figure src="/images/bgh3.jpg" class="instructionFigure">}}
+
 5. Next, add the onions and fry them until they become translucent and soften, about 8 minutes 
+
+{{< figure src="/images/bgh4.jpg" class="instructionFigure">}}
+
 6. Return the goat to the pan and mix in the yogurt and salt. Stir to combine and let it cook over high heat until the yogurt releases liquid.
+
+{{< figure src="/images/bgh5.jpg" class="instructionFigure">}}
+
 7. Reduce the heat to medium and cover the pan with a lid. Allow the dish to simmer for about 5 minutes.
 8. Stir in the coriander powder, turmeric, Kashmiri chili powder, and mix well.
+
+{{< figure src="/images/bgh6.jpg" class="instructionFigure">}}
+
 9. Adjust to high heat once again and fry until the ghee escapes to the sides of the pan. Add more ghee as needed while frying (up to 4 tbsp).
 10. Once the ghee separates, check the salt and adjust if needed.
 11. Allow the mixture to cook on high, stirring regularly. It will begin to thicken and turn a rich brown color.
+
+{{< figure src="/images/bgh7.jpg" class="instructionFigure">}}
+
 12. Garnish with cilantro and fresh ginger slices. Serve with naan or long-grained basmati rice. 
+
+{{< figure src="/images/bgh8.jpg" class="instructionFigure">}}
