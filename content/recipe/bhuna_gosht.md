@@ -1,6 +1,6 @@
 +++
 title = "Bhuna Gosht - Pan Fried Goat"
-date = "2020-01-29"
+date = "2021-03-26"
 description = ""
 tags = [
     "entree",
