@@ -1,7 +1,7 @@
 +++
 title = "Bhuna Gosht - Pan Fried Goat"
 date = "2021-03-26"
-description = ""
+description = "Our whole family loves this authentic Pakistani bhuna gosht recipe."
 tags = [
     "entree",
     "indian",
