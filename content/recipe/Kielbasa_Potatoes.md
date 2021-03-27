@@ -51,6 +51,8 @@ Cuisine: Polish
 
 * Potatoes: I use a combination of red potatoes and yukon gold, but you can easily substitute larger whatever you have on hand. Just be sure to cut the potatoes into about one-inch pieces so they roast at the same pace as the other ingredients. 
 
+* Parsely: Unlike most of my recipes, I like dried parsley for this recipe. Use can use fresh parsley to brighten the plate and bring a peppery taste to this dish.
+
 #### What equipment do I need to make this recipe?
 
 * A rimmed baking sheet or large skillet 
