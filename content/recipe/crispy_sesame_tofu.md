@@ -98,7 +98,7 @@ For the Tofu:
 
 1. Pat dry the tofu with a paper towel and cut the tofu into rectangles. Season them lightly with salt and set them aside. 
 
-{{< figure src="/images/cst11.jpg" class="instructionFigure">}}
+{{< figure src="/images/cst10.jpg" class="instructionFigure">}}
 
 2. In a small bowl, mix the panko, sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast for 2-4 minutes. 
 
