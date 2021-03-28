@@ -1,11 +1,9 @@
 +++
 title = "Beef and Chickpea Stew"
 date = "2021-03-12"
-description = "This beef and chickpea stew is flavorful and hearty. It can be modified to be vegetarian or vegan."
+description = "This Moroccan beef and chickpea stew are flavorful and hearty. The main ingredient for the  stew is beef, but it can be modified to be vegetarian or vegan with substitutions."
 tags = [
     "entree",
-    "vegan",
-    "vegetarian",
     "instant pot"
 ]
 thumbnail= "images/beefandchickpea.jpg"
@@ -17,11 +15,12 @@ Preparation Time: 15 minutes
 
 Cooking Time: 1 hour, 45 minutes 
 
-Cuisine: American 
+Cuisine: Moroccan 
 
 #### INGREDIENTS 
 
 * 1 tbsp [Sweet Paprika](https://amzn.to/30GYLeZ)
+* 1/2 tsp Turmeric
 * 2 tbsp Cumin, ground
 * 1 tsp Green Cardamom, ground
 * 1 tsp Cinnamon, ground
@@ -42,9 +41,9 @@ Cuisine: American
   
 #### STOVE-TOP DIRECTIONS 
 
-1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
+1. In a small bowl, mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
-3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they become translucent and soften, about 5 to 8 minutes. 
 4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
 5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
 6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
@@ -53,7 +52,7 @@ Cuisine: American
 
 #### INSTANT POT DIRECTIONS
 
-1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
+1. In a small bowl, mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
 3. In an [Instant Pot](https://amzn.to/3rRWIjZ),  melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
 4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down. 
@@ -67,17 +66,22 @@ Cuisine: American
 
 The development of this recipe came about by happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use chuck short rib instead. We also fine-tuned the recipes with a few tasty additions along the way.  
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
 * Chuck Short Rib: Short rib tenderizes well and has a rich flavor. You could also use a chuck roast. 
 
 * Chickpeas: They are a quality source of fiber and complement the beef well in this stew. 
+
+*Warm Spices: We use sweet paprika, turmeric, cumin, green cardamom, and cinnamon. 
+
+*Vegetables: Garlic, onion, carrots, and spinach complement the stew. 
 
 #### What equipment do I need to make this recipe?
 
 * A small bowl 
 * A large [dutch oven](https://amzn.to/38xuVO8) or an [Instant Pot](https://amzn.to/3rRWIjZ)
 * A pair of [tongs](https://amzn.to/2OqsiXM)
+* A lemon [juicer](https://amzn.to/2PFi7yB)
 
 #### Is this stew vegetarian? Is this stew Vegan?
 
@@ -85,7 +89,7 @@ Yes, it is, with a few modifications.
 
 * Vegetarian: Use potatoes instead of beef, or double the chickpea amount. 
 
-* Vegan: Use potatoes instead of beef, or double the chickpea amount. You should also replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
+* Vegan: Use potatoes instead of beef, or double the chickpea amount. You can also replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
 
 #### Can I freeze the beef and chickpea stew? 
 
