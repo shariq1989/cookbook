@@ -7,7 +7,7 @@ tags = [
     "low carb",
     "keto", 
 ]
-thumbnail= "images/LettuceWrap.jpg "
+thumbnail= "images/lettucewraps.jpg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -115,3 +115,4 @@ Yes, first allow the meat to cool completely and then add it to a freezer-safe c
 
 7. Remove the meat mixture from heat. To serve, spoon the meat into butter lettuce. Garnish with scallion greens and toasted peanuts. Use the reserved hoisin as a dipping sauce alongside the lettuce wraps.  
 
+{{< figure src="/images/lw5.jpg" class="instructionFigure">}}
