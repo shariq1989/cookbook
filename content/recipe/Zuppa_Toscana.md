@@ -22,20 +22,22 @@ Cuisine: Italian, American
 * 1 lb Mild Italian Sausage, ground 
 * 1 medium Onion, finely diced 
 * 4 Garlic Cloves, minced 
-* 1 1/2 tbsp [Chicken Better than Bouillon](https://amzn.to/38081yU)
+* 1 tbsp [Chicken Better than Bouillon](https://amzn.to/38081yU)
 * 4 cup water
 * 4 small Red Potatoes, quartered 
+* 1/2 tsp Oregano, dried
+* 1/2 tsp Garlic Powder
+* Coarse Black Pepper, to taste
+* Kosher Salt, to taste
 * 1 cups Heavy Cream 
 * 4 Kale Leaves, stem removed and chopped 
-* 1 tsp Oregano, dried
-* Coarse Black Pepper, to taste
 * Parmesan Cheese, to garnish 
 
 #### STOVE-TOP DIRECTIONS 
 
-1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. Remove from heat and set aside to drain. 
+1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the potatoes. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the dutch oven. Then, add the potatoes. Season with the oregano, garlic powder, salt, and pepper. 
 4. Cook the soup on low-medium heat for 1 hour, stirring occasionally.  
 5. Off heat, mix in the kale and heavy cream about 10 minutes before serving. 
 
@@ -43,9 +45,9 @@ Cuisine: Italian, American
 
 1. In an Instant Pot, cook the sausage on saute mode until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the potatoes. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes. Season with the oregano, garlic powder, salt, and pepper. 
 4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
-5. Unplug and allow the soup to cool, then mix in the kale and heavy cream. Do this about 10 minutes before serving. 
+5. Unplug and allow the soup to cool, then mix in the kale and heavy cream about 10 minutes before serving. 
 
 #### ABOUT THE MEAL
 
@@ -56,6 +58,7 @@ There are multiple versions of this recipe floating around the internet. Honestl
 * Ground Italian Sausage 
 * Heavy Cream 
 * Kale
+* Bacon: Adding in some crumbled, crispy bacon is a great addition to this dish as well. 
 
 #### What equipment do I need to make this recipe? 
 
@@ -80,6 +83,6 @@ Yes, first allow the dish to cool completely and then add it to a freezer-safe c
 
 1. In an Instant Pot, cook the sausage on saute mode until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the potatoes. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes. Season with the oregano, garlic powder, salt, and pepper. 
 4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
-5. Unplug and allow the soup to cool, then mix in the kale and heavy cream. Do this about 10 minutes before serving. 
+5. Unplug and allow the soup to cool, then mix in the kale and heavy cream about 10 minutes before serving. 
