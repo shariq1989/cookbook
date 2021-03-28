@@ -95,12 +95,23 @@ Yes, first allow the meat to cool completely and then add it to a freezer-safe c
 
 1. Before cooking, whisk the ingredients for the homemade hoisin sauce in a small bowl. Set aside. 
 
-{{< figure src="/images/bandc1.jpg" class="instructionFigure">}}
 
 2. In a large skillet, warm sesame oil over medium heat, and then add the ground beef. Break up the meat with a [meat chopper](https://amzn.to/38BSlBY) until finely minced. Cook until beef browns and cooked through about 8-10 minutes.  
+
+{{< figure src="/images/lw1.jpg" class="instructionFigure">}}
+
 3. While the meat is cooking, mix the garlic, ginger, scallion whites, soy sauce, white wine vinegar, and sriracha into a small bowl. Stir the mixture into the beef, along with the homemade hoisin, until thoroughly combined. 
+
+{{< figure src="/images/lw2.jpg" class="instructionFigure">}}
+
 4. Cover the mixture with a lid and simmer for about 5 minutes. 
 5. Remove the lid and lower the heat, allow the beef mixture to reduce, about 2-5 minutes. 
-6. While the meat is cooking, prepare a small skillet with chili oil over medium-high heat. Toast the peanuts until they turn light brown. Set aside. 
+
+{{< figure src="/images/lw3.jpg" class="instructionFigure">}}
+
+7. While the meat is cooking, prepare a small skillet with chili oil over medium-high heat. Toast the peanuts until they turn light brown. Set aside. 
+
+{{< figure src="/images/lw4.jpg" class="instructionFigure">}}
+
 7. Remove the meat mixture from heat. To serve, spoon the meat into butter lettuce. Garnish with scallion greens and toasted peanuts. Use the reserved hoisin as a dipping sauce alongside the lettuce wraps.  
 
