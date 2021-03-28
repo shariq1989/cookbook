@@ -35,17 +35,17 @@ Cuisine: Italian, American
 
 1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. Remove from heat and set aside to drain. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-4. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the potatoes. 
-5. Cook the soup on low-medium heat for 1 hour, stirring occasionally.  
-6. Off heat, mix in the kale and heavy cream about 10 minutes before serving. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the potatoes. 
+4. Cook the soup on low-medium heat for 1 hour, stirring occasionally.  
+5. Off heat, mix in the kale and heavy cream about 10 minutes before serving. 
 
 #### INSTANT POT DIRECTIONS 
 
 1. In an Instant Pot, cook the sausage on saute mode until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-4. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the potatoes. 
-5. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
-6. Unplug and allow the soup to cool, then mix in the kale and heavy cream. Do this about 10 minutes before serving. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the potatoes. 
+4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
+5. Unplug and allow the soup to cool, then mix in the kale and heavy cream. Do this about 10 minutes before serving. 
 
 #### ABOUT THE MEAL
 
@@ -76,3 +76,10 @@ You can also substitute half in half for the heavy cream to reduce the carbs and
 
 Yes, first allow the dish to cool completely and then add it to a freezer-safe container. Zuppa Toscana will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove and enjoy.
 
+### DIRECTIONS: STEP-BY-STEP  
+
+1. In an Instant Pot, cook the sausage on saute mode until brown. 
+2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot with the cooked onions. Then, add the potatoes. 
+4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
+5. Unplug and allow the soup to cool, then mix in the kale and heavy cream. Do this about 10 minutes before serving. 
