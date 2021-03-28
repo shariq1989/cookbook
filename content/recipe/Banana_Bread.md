@@ -1,10 +1,9 @@
 +++
 title = "Banana Bread"
-date = "2020-01-18"
-description = "A moist and delicious baked banana bread recipe that our family loves, especially our kids."
+date = "2020-12-18"
+description = "A moist and delicious baked banana bread recipe that our family loves, especially our kids. It is easy to make, and there is no need for a mixer! All you need is ripe bananas, butter, sugar, egg, baking powder, milk, baking soda, and flour."
 tags = [
     "dessert",
-    "vegan",
     "vegetarian",
     "breakfast",
     "bread"
@@ -23,13 +22,14 @@ Cuisine: American
 #### INGREDIENTS
 
 * 2 cups All-Purpose Flour 
-* 1 cup White Granulated Sugar
+* 1/2 cup White Granulated Sugar
 * 1/2 cup Brown Sugar
-* 2 tsp Baking Soda
+* 1 tsp Baking Soda
+* 1 tsp Baking Powder
 * 1 tsp Cinnamon  
-* 2 sticks Butter, softened 
-* 5 small Bananas, peeled and cut into chunks 
-* 4 Eggs 
+* 1 stick Butter, softened 
+* 3-4 small Bananas, peeled and cut into chunks 
+* 3 Eggs 
 * 6 tbsp Milk 
 
 #### DIRECTIONS 
@@ -45,11 +45,23 @@ Cuisine: American
 
 ### ABOUT THE BREAD 
 
-Everyone has their favorite banana bread recipe; this is our family's. 
+Everyone has their favorite banana bread recipe; this is ours. 
 
-#### What main ingredients are needed for this bread?
+#### What main ingredients do I need for this bread?
 
-* Over-Ripe Bananas: You will want to use bananas that have gotten to the point where they have developed freckles and have become just a little too soft to want to snack on. The riper the banana, the more richly banana-flavored your bread will become. 
+* Over-Ripe Bananas: Use bananas that have begun to freckle and are a little too soft to snack on. The riper the banana, the richer the banana-flavor will become. 
+
+* Unsalted Butter: Other banana bread recipes use oil, but I enjoy the flavor and texture butter lends to the bread. 
+
+* Sugar: I use a mix of brown and white sugar for this recipe. 
+
+* Eggs & Milk: I use eggs and milk to bind everything together.
+
+* All-Purpose Flour
+
+* Baking Soda & Baking Powder
+
+* Cinnamon: Cinnamon is optional, but I think it balances the flavors well and adds a rich brown coloring to the bread. 
 
 #### What equipment do I need to make this recipe?
 
@@ -57,11 +69,6 @@ Everyone has their favorite banana bread recipe; this is our family's.
 * A small bowl
 * A [hand-mixer](https://amzn.to/2OXaeEn) 
 * 2- 9x5 [loaf pans](https://amzn.to/3lhGhv0)
-* A set a [measuring spoons](https://amzn.to/3qIy2cl) 
-
-#### How should I store my banana bread? 
-
-To keep your banana bread moist, allow it to cool completely and wrap it in a layer of saran wrap. Then, store it in a Ziploc bag or a container with a tight-fitting lid. It will last on the counter for up to 3 days. 
 
 #### What can I add to my banana bread?
 
@@ -74,6 +81,10 @@ To keep your banana bread moist, allow it to cool completely and wrap it in a la
 * Orange Zest 
 * Dried Fruit: Cranberries, Raisins, apricots
 * Pumpkin Puree 
+
+#### How should I store my banana bread? 
+
+To keep your banana bread moist, allow it to cool completely and wrap it in a layer of saran wrap. Then, store it in a Ziploc bag or a container with a tight-fitting lid. It will last on the counter for up to 3 days. 
 
 #### Can I freeze banana bread?
 
@@ -105,4 +116,3 @@ You sure can. First, allow the banana bread to cool completely and then wrap it 
 8. Let the banana bread cool before serving. 
 
 {{< figure src="/images/bb6.jpg" class="instructionFigure">}}
-
