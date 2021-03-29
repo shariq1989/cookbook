@@ -65,7 +65,7 @@ There are multiple versions of this recipe floating around the internet. Honestl
 
 #### What equipment do I need to make this recipe? 
 
-* A [dutch oven](https://amzn.to/3sFYTY1) or an [Instant Pot[(https://amzn.to/3w5GDtJ)
+* A [dutch oven](https://amzn.to/3sFYTY1) or an [Instant Pot](https://amzn.to/3w5GDtJ)
 
 #### Is Zuppa Toscana keto or low-carb? 
 
