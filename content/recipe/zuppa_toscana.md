@@ -1,5 +1,5 @@
 +++
-title = "Zuppa Toscana Copycat"
+title = "Olive Garden Zuppa Toscana Copycat"
 date = "2021-03-28"
 description = "This is a delicious Olive Garden Zuppa Toscana Copycat. It is healthy and low carb and can be modified to be vegetarian."
 tags = [
@@ -43,7 +43,7 @@ Cuisine: Italian, American
 
 #### INSTANT POT DIRECTIONS 
 
-1. In an Instant Pot, cook the sausage on saute mode until brown. 
+1. In an [Instant Pot](https://amzn.to/3w5GDtJ), cook the sausage on saute mode until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
 3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes. Season with the oregano, garlic powder, salt, and pepper. 
 4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
@@ -56,18 +56,20 @@ There are multiple versions of this recipe floating around the internet. Honestl
 #### What main ingredients do you need for this meal?
 
 * Ground Italian Sausage 
+
 * Heavy Cream 
+
 * Kale
-* Bacon: Adding in some crumbled, crispy bacon is a great addition to this dish as well. 
+
+* Bacon: Adding in some crumbled, crispy bacon is a great addition to this dish. 
 
 #### What equipment do I need to make this recipe? 
 
-* A [dutch oven](https://amzn.to/3sFYTY1) or an Instant Pot  
-* A pair of tongs
+* A [dutch oven](https://amzn.to/3sFYTY1) or an [Instant Pot[(https://amzn.to/3w5GDtJ)
 
 #### Is Zuppa Toscana keto or low-carb? 
 
-The macros are high for a keto diet, but for a low-carb diet, we suggest one substitution. Replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get the flavor of the original recipe. We even calculated the macros to make it easy for you.
+The macros are high for a keto diet, but for low-carb diet it is great with one major substitution. Replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get the flavor of the original recipe. We even calculated the macros to make it easy for you.
 
 * CARBS– 13 net carbs
 * PROTEIN– 62g
