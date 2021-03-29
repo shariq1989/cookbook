@@ -6,7 +6,7 @@ tags = [
     "entree",
     "low carb",
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+thumbnail= "images/zuppatoscana.jpg"
 +++
 
 Servings: 5-6 <!--more-->
@@ -84,7 +84,18 @@ Yes, first allow the dish to cool completely and then add it to a freezer-safe c
 ### DIRECTIONS: STEP-BY-STEP  
 
 1. In an Instant Pot, cook the sausage on saute mode until brown. 
+
+{{< figure src="/images/zt1.jpg" class="instructionFigure">}}
+
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
+
+{{< figure src="/images/zt2.jpg" class="instructionFigure">}}
+
 3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes. Season with the oregano, garlic powder, salt, and pepper. 
+
+{{< figure src="/images/zt3.jpg" class="instructionFigure">}}
+
 4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
 5. Unplug and allow the soup to cool, then mix in the kale and heavy cream about 10 minutes before serving. 
+
+{{< figure src="/images/zt4.jpg" class="instructionFigure">}}
