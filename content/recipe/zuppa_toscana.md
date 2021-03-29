@@ -1,7 +1,7 @@
 +++
 title = "Olive Garden Zuppa Toscana Copycat"
 date = "2021-03-28"
-description = "This is a delicious Olive Garden Zuppa Toscana Copycat. It is healthy and low carb and can be modified to be vegetarian."
+description = "One Pot Olive Garden Zuppa Toscana Soup. Comfort food at it’s best, loaded with sausage, potatoes, and kale! So delicious and filling, the whole family will love this soup!"
 tags = [
     "entree",
     "low carb",
@@ -9,7 +9,7 @@ tags = [
 thumbnail= "images/zuppatoscana.jpg"
 +++
 
-Servings: 5-6 <!--more-->
+Servings: 4-6 <!--more-->
 
 Preparation Time: 10 minutes 
 
@@ -55,11 +55,13 @@ There are multiple versions of this recipe floating around the internet. Honestl
 
 #### What main ingredients do you need for this meal?
 
-* Ground Italian Sausage 
+* Ground Italian Sausage: Control the heat by using mild or spicy Italian sausage.  
 
-* Heavy Cream 
+* Heavy Cream: I use heavy cream, but you could easily substitute half and half or coconut milk.  
 
 * Kale
+
+* Potatoes: I use red or Yukon potatoes. 
 
 * Bacon: Adding in some crumbled, crispy bacon is a great addition to this dish. 
 
