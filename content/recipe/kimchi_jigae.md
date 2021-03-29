@@ -1,11 +1,9 @@
 +++
 title = "Kimchi Jjigae - Kimchi Stew"
 date = "2021-03-20"
-description = ""
+description = "This recipe for kimchi jjigae or kimchi stew is delicious and flavorful. It is made on the stove-top or in the Instant Pot. This recipe can be vegan and vegetarian-friendly with a few modifications."
 tags = [
     "entree",
-    "vegan",
-    "vegetarian",
     "instant pot"
 ]
 thumbnail= "images/sdj6.jpg"
@@ -55,7 +53,7 @@ For the Jjigae:
 
 ### ABOUT THE MEAL
 
-Kimchi jjigae or kimchi stew is quickly becoming a favorite in our home, mainly because of the flexible ingredients and how easy it is to make. I still need to get my hands on one of those cute [earthenware pots](https://amzn.to/3soWXDL) this stew is traditionally prepared and served within. 
+Kimchi jjigae or kimchi stew is quickly becoming a favorite in our home, mainly because of the flexible ingredients and how easy it is to make. I still need to get my hands on one of those cute [earthenware pots](https://amzn.to/3soWXDL) that this stew is traditionally prepared and served within. 
 
 #### What main ingredients do I need for this meal?
 
