@@ -59,7 +59,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 #### What main ingredients do I need for this meal?
 
-* Bones: The purpose of eating yakhni is for the nutrients that come from bones, so as long as you have bones, it will be tasty. We prefer goat meat and bones because we re-purpose the goat meat to make a separate dish, called yakhni pulao. Essentially, we get two meals out of one. 
+* Goat Bones: The purpose of eating yakhni is for the nutrients that come from bones, so as long as you have bones, it will be tasty. I prefer goat meat and bones because we re-purpose the goat meat to make a separate dish, called yakhni pulao. Essentially, we get two meals out of one. 
 
 * Yakhni Masala: I make homemade yakhni masala with whole spices. I sometimes play with the blend, but this one is always tasty and includes: Black Cardamon Pods, Green Cardamon Pods, Cloves, Cumin Seeds, Coriander Seeds, Star Anise, Bay Leaves, and Salt.   
 
@@ -70,20 +70,20 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 * A colander or strainer 
 * A large bowl 
 
-#### Is yakhni keto? Is it lowcarb?
+#### Is yakhni keto? Is it low-carb?
 
-Yakhni both is keto and low-carb and packed full of nutrients that can even help with keto flu. We calculated the macros to make it easier for you. 
+Yakhni both is keto and low-carb and packed full of nutrients that can even help with the all too common keto flu. We calculated the macros to make it easier for you. 
 
 * CARBS– 2 Net Carbs
 * PROTEIN– 25g
 * FAT– 8g
 
-If you fully strain the onions, the net carbs drop to 1g.
+If you strain the onions, the net carbs drop to 1g.
 
 #### What is Yakhni good for? 
 
-Yakhni is highly nutritious and a meal all on its own. It has soothing qualities, helpful for people with colds, stomachaches, and morning sickness well. The meat and spices marinate to create the soup, leaving it tasty and mineral-dense. Because of the bones, the soup also contains collagen, which is crucial for hair and nail health, as well as joint wellness.
+Yakhni is highly nutritious and a meal all on its own. It has soothing qualities, helpful for people with colds, stomachaches, and morning sickness. The meat and spices marinate to create the soup, leaving it tasty and mineral-dense. One of the main ingredients for yakhni is goat bones, or collagen; collagen is essential for hair and nail health, as well as joint wellness.
 
-#### Can I freeze the Yakni?
+#### Can I freeze the Yakhni?
 
-You sure can. As I mentioned, my mother-in-law often made multiple batches of yakhni soup and froze them for me before teaching me how to make it on my own. First, allow the yakhni to cool completely and then add it to a freezer-safe container. I prefer to freeze it in individual containers to make defrosting it easier. Yakhni can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the microwave and enjoy. 
+You sure can. As I mentioned, my mother-in-law often made multiple batches of yakhni soup and froze them for me before teaching me how to make it. First, allow the yakhni to cool completely and then add it to a freezer-safe container. I prefer to freeze it in individual containers to make defrosting it easier. Yakhni can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the microwave and enjoy. 
