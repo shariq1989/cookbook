@@ -1,7 +1,7 @@
 +++
 title = "Pakistani Garam Masala"
 date = "2021-03-12"
-description = "This recipe is for an authentic Pakistani Garam Masala Spice Blend."
+description = "This recipe is for an authentic, Pakistani Garam Masala Spice Blend."
 tags = [
     "spices",
 ]
@@ -39,16 +39,16 @@ Cuisine: Pakistani
 
 I always recommend making a garam masala blend at home that suits your family's taste and preferences. The reason for this is, every region and every family has a preferred combination and proportion of spices to make their garam masala. Since this spice blend is an essential ingredient for Indian cuisine, finding the right combination is crucial. Here is the spice blend we most often use in our home. 
 
-#### What are the most common spices used to make garam masala? 
+#### What spices are used to make garam masala? 
 
 We use green cardamom pods, black cardamom pods, a cinnamon stick, cloves, cumin seeds, coriander seeds, nutmeg, mace, and bay leaves. 
 
-Other ingredients used to make this blend include peppercorn, star anise, dried ginger, asafoetida powder, caraway seeds, fenugreek, among other spices based on specific preferences. 
+Other ingredients used to make garam masala include peppercorn, star anise, dried ginger, asafoetida powder, caraway seeds, fenugreek, among other spices based on specific preferences. 
 
 #### What equipment do I need to make this recipe?
 
 * A non-stick skillet 
-* A spice grinder or mortar and pestle. 
+* A [spice grinder](https://amzn.to/3u3oYAU) or [mortar and pestle](https://amzn.to/3dc5ALn). 
 
 #### How do I store the garam masala? 
 
