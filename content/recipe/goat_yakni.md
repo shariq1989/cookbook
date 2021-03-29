@@ -1,7 +1,7 @@
 +++
-title = "Instant Pot Yakhni - Goat Bone Broth"
+title = "Goat Yakhni - Goat Bone Broth"
 date = "2021-03-13"
-description = ""
+description = "This recipe for teaches how to make an Indian bone broth or soup called yakhni. It is made with goat and is also the base for another recipe on our site called yakhni pulao" 
 tags = [
     "entree",
     "indian",
