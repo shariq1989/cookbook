@@ -1,7 +1,7 @@
 +++
 title = "Beef and Chickpea Stew"
 date = "2021-03-12"
-description = "This Moroccan beef and chickpea stew are flavorful and hearty. The main ingredient for the  stew is beef, but it can be modified to be vegetarian or vegan with substitutions."
+description = "This Moroccan beef and chickpea stew recipe is both flavorful and hearty. The main ingredient for the stew is beef, but it can be modified to be vegetarian or vegan with substitutions."
 tags = [
     "entree",
     "instant pot"
@@ -9,7 +9,7 @@ tags = [
 thumbnail= "images/beefandchickpea.jpg"
 +++
 
-Servings: 6 <!--more-->
+Servings: 6-8 <!--more-->
 
 Preparation Time: 15 minutes 
 
@@ -43,7 +43,7 @@ Cuisine: Moroccan
 
 1. In a small bowl, mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
-3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they become translucent and soften, about 5 to 8 minutes. 
+3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
 4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
 5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
 6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
@@ -64,7 +64,7 @@ Cuisine: Moroccan
 
 ### ABOUT THE MEAL
 
-The development of this recipe came about by happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use chuck short rib instead. We also fine-tuned the recipes with a few tasty additions along the way.  
+The development of this recipe came about by happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use chuck short rib instead. I also fine-tuned the dish with a few tasty additions along the way.  
 
 #### What main ingredients do I need for this meal?
 
@@ -72,20 +72,20 @@ The development of this recipe came about by happy mistake. Have you ever taken 
 
 * Chickpeas: They are a quality source of fiber and complement the beef well in this stew. 
 
-*Warm Spices: We use sweet paprika, turmeric, cumin, green cardamom, and cinnamon. 
+*Warm Spices: I use sweet paprika, turmeric, cumin, green cardamom, and cinnamon to flavor the dish. 
 
-*Vegetables: Garlic, onion, carrots, and spinach complement the stew. 
+*Vegetables: I use garlic, onion, carrots, and spinach.
 
 #### What equipment do I need to make this recipe?
 
 * A small bowl 
 * A large [dutch oven](https://amzn.to/38xuVO8) or an [Instant Pot](https://amzn.to/3rRWIjZ)
-* A pair of [tongs](https://amzn.to/2OqsiXM)
+* [Tongs](https://amzn.to/2OqsiXM)
 * A lemon [juicer](https://amzn.to/2PFi7yB)
 
-#### Is this stew vegetarian? Is this stew Vegan?
+#### Is this stew vegetarian? Is it Vegan?
 
-Yes, it is, with a few modifications. 
+One of the main ingredients of this stew is beef, so the answer to that question would appear to be no. However, with a few modifications, you could create a delicious vegetarian and vegan stew. 
 
 * Vegetarian: Use potatoes instead of beef, or double the chickpea amount. 
 
