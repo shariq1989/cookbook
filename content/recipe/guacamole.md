@@ -2,7 +2,7 @@
 +++
 title = "Guacamole"
 date = "2020-01-29"
-description = "This recipe makes the best guacamole recipe. It is simple to make and uses fresh, high-quality ingredients. There is no tomato in this guacamole; all you need is avocados, onions, jalapenos, lime juice, and salt. It is easy and delicious."
+description = "This recipe makes the best guacamole. It is simple to make and uses fresh, high-quality ingredients. There is no tomato in this guacamole; all you need is avocados, onions, jalapenos, lime juice, and salt. This guacamole is easy and delicious."
 tags = [
     "mexican",
     "side dish",
