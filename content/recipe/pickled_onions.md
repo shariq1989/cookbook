@@ -1,7 +1,7 @@
 +++
 title = "Pickled Onions"
 date = "2020-12-21"
-description = ""
+description = "Transform raw red onions from pungent and crunchy to irresistibly tangy and crisp with this quick and easy pickled onion recipe."
 tags = [
     "side dish",
    
@@ -65,7 +65,7 @@ After the onions have cooled, seal the mason jar and refrigerate it. The onions 
 
 #### How can I use pickled onions? 
 
-Use pickled onions to dress up tacos, sandwiches, bean dishes, and salads, or use them as a side to go along with BBQ pulled meats.  
+Use pickled onions to dress up all sorts of Mexican dishes, like tacos or burritos. You can also add them to sandwiches, bean dishes, soups, pitas, and salads, or use them as a side to go along with BBQ pulled meats. 
 
 ### DIRECTIONS: STEP-BY-STEP 
 
