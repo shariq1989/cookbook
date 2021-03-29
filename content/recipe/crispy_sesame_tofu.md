@@ -1,7 +1,7 @@
 +++
 title = "Crispy Sesame Tofu with Coconut Dressing"
 date = "2021-03-26"
-description = ""
+description = "This crispy sesame tofu is easy to make and tastes amazing. The tofu is fried to make it extra crispy. We then top the tofu with a sweet and savory coconut dressing. This recipe is vegetarian and vegan."
 tags = [
     "entree",
     "vegan",
@@ -31,7 +31,7 @@ For the Dressing:
 
 For the Tofu:
 
-* 1 Package Firm Tofu, cut into rectangles 
+* 1 Package Extra-Firm Tofu, cut into rectangles 
 * ½ cup Panko 
 * 1/3 cup White Sesame Seeds 
 * 1 tsp Black Sesame Seeds 
@@ -60,7 +60,8 @@ For the Frying:
 2. Heat 1/4 cup oil in a cast-iron or stainless-steel skillet over medium-low heat. 
 3. Test the oil heat by frying one tofu slice, adjust the heat accordingly. 
 4. Then small batches, pan-fry the tofu until golden brown, about 2 minutes per side. Then, transfer the tofu slices to the rimmed baking sheet. Repeat with the remaining tofu. 
-5. Allow the tofu slices to cool on the wire rack. To serve, drizzle with the coconut dressing and enjoy. 
+5. Allow the tofu slices to cool on the wire rack. 
+6. To garnish, drizzle with the coconut dressing and serve with steamed jasmine rice, steamed broccoli, or steamed mixed vegetables as we did. 
 
 ### ABOUT THE MEAL
 
@@ -127,8 +128,9 @@ For the Frying:
 
 {{< figure src="/images/cst7.jpg" class="instructionFigure">}}
 
-5. Allow the tofu slices to cool on the wire rack. To serve, drizzle with the coconut dressing and enjoy. 
+5. Allow the tofu slices to cool on the wire rack. 
+6. To garnish, drizzle with the coconut dressing and serve with steamed jasmine rice, steamed broccoli, or steamed mixed vegetables as we did. 
 
 {{< figure src="/images/cst8.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/cst9.jpg" class="instructionFigure">}}
+{{< figure src="/images/cst9.jpg" class="instructionFigure">}}ss="instructionFigure">}}
