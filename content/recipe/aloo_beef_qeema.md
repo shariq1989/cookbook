@@ -2,7 +2,7 @@
 title = "Aloo Beef Qeema- Spiced Minced Beef with Potato"
 date = "2021-03-10"
 description = "Nothing beats mom's cooking, and this Pakistani aloo beef qeema or keema recipe is the epitome of comfort food. It is even better with our homemade paratha recipe."
-tags = .[
+tags = [
     "entree",
     "low carb",
     "keto", 
