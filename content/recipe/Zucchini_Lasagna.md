@@ -1,7 +1,7 @@
 +++
 title = "Zucchini Lasagna"
 date = "2021-03-14"
-description = ""
+description = "Zucchini lasagna is a fresh take on classic comfort food. It’s loaded with veggies, but still has all the rich flavor and texture of a traditional lasagna. This is the perfect easy, weeknight meal for the whole family to enjoy. Zucchini Lasagna is low fat, gluten-free, low-carb, and keto-friendly"
 tags = [
     "entree",
     "instant pot",
@@ -31,7 +31,7 @@ Cuisine: American
 * 4 medium Zucchini, sliced length-wise 
 * 1 block Creamed Cheese
 * 1 Egg 
-* 1 ontainer Ovaline Mozzarella, 4 oz, sliced 
+* 1 container Ovaline Mozzarella, 4 oz, sliced 
 * 1/4 cup Parmesan Cheese, to garnish  
 * Optional- Fresh Basil, to garnish
 
@@ -50,13 +50,13 @@ Cuisine: American
 
 ### ABOUT THE MEAL 
 
-If you're craving lasagna, but you want to skip out on all the carbs or perhaps introduce more vegetables, try this delectable zucchini lasagna. You won't even miss the real thing. 
+Craving lasagna, but want to skip out on all the carbs or introduce more vegetables? Try this tasty zucchini lasagna. You won't even miss the real thing. 
 
 #### What main ingredients do you need for this meal?
 
 * Lean Ground Beef: Moisture is an issue with zucchini lasagna since the zucchinis release a lot of moisture. Lean ground beef has less fat and releases less moisture as a result. 
 
-* Zucchini: Since moisture can be an issue because of the zucchinis, follow the instructions for preparing the zucchinis. If not, you will end up with zucchini soup. I only know this because I have done it. Don't get me wrong, the soup was delicious, but it wasn't really what we were going for that night. 
+* Zucchini: Since moisture can be an issue due to the zucchinis, follow my instructions for preparing them. If not, you will end up with zucchini soup. I only know this because I have done it. Don't get me wrong, the soup was delicious, but it wasn't really what we were going for that night. 
 
 * Pasta Sauce: Use your favorite pasta sauce, but only 1 1/2 cup. Again, you don't want watery lasagna. We prefer to use [Rao's](https://amzn.to/30I67Pj) because it is tasty and lower in carbohydrates. 
 
@@ -74,7 +74,7 @@ If you're craving lasagna, but you want to skip out on all the carbs or perhaps 
 
 #### Is zucchini lasagna keto? Is zucchini lasagna low-carb? 
 
-Zucchini Lasagna is a delicious low-carb alternative and it will easily fit your keto macros. We took the time to calculate the macros to make it easier. These calculations were made for one piece of lasagna (see photo below). 
+Zucchini Lasagna is a delicious low-carb alternative, and it will easily fit your keto macros. We took the time to calculate the macros to make it easier. The serving size for these calculations is one slice of lasagna. You can see the photo below for scale. 
 
 * CARBS– 6 Net Carbs 
 * PROTEIN– 22g
