@@ -1,7 +1,7 @@
 +++
 title = "Olive Garden Zuppa Toscana Copycat"
 date = "2021-03-28"
-description = "One Pot Olive Garden Zuppa Toscana Soup. Comfort food at it’s best, loaded with sausage, potatoes, and kale! So delicious and filling, the whole family will love this soup!"
+description = "One Pot Olive Garden Zuppa Toscana Soup. Comfort food at its best, loaded with sausage, potatoes, and kale! So delicious and filling, the whole family will love this soup!"
 tags = [
     "entree",
     "low carb",
@@ -37,7 +37,7 @@ Cuisine: Italian, American
 
 1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the dutch oven. Then, add the potatoes. Season with the oregano, garlic powder, salt, and pepper. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the dutch oven. Then, add the potatoes; season with oregano, garlic powder, salt, and pepper. 
 4. Cook the soup on low-medium heat for 1 hour, stirring occasionally.  
 5. Off heat, mix in the kale and heavy cream about 10 minutes before serving. 
 
@@ -45,7 +45,7 @@ Cuisine: Italian, American
 
 1. In an [Instant Pot](https://amzn.to/3w5GDtJ), cook the sausage on saute mode until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes. Season with the oregano, garlic powder, salt, and pepper. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes; season with oregano, garlic powder, salt, and pepper. 
 4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
 5. Unplug and allow the soup to cool, then mix in the kale and heavy cream about 10 minutes before serving. 
 
@@ -55,15 +55,15 @@ There are multiple versions of this recipe floating around the internet. Honestl
 
 #### What main ingredients do you need for this meal?
 
-* Ground Italian Sausage: Control the heat by using mild or spicy Italian sausage.  
+* Ground Italian Sausage: Control the heat using mild or spicy Italian sausage.  We prefer to switch it up depending on who we are serving.
 
 * Heavy Cream: I use heavy cream, but you could easily substitute half and half or coconut milk.  
 
-* Kale
+* Kale: Remove the stems and chop the kale. I prefer larger pieces, but it is totally up to your preferences. 
 
-* Potatoes: I use red or Yukon potatoes. 
+* Potato: I use red or Yukon. 
 
-* Bacon: Adding in some crumbled, crispy bacon is a great addition to this dish. 
+* Bacon: Adding in some crumbled, crispy bacon is a tasty addition to this dish. I chose to leave it out personally since the meal is already high in fat. 
 
 #### What equipment do I need to make this recipe? 
 
@@ -71,7 +71,7 @@ There are multiple versions of this recipe floating around the internet. Honestl
 
 #### Is Zuppa Toscana keto or low-carb? 
 
-The macros are high for a keto diet, but for low-carb diet it is great with one major substitution. Replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get the flavor of the original recipe. We even calculated the macros to make it easy for you.
+The macros are high for a keto diet. For a low-carb diet, it is a solid meal with one substitution. Replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get the flavor of the original recipe. We even calculated the macros to make it easy for you.
 
 * CARBS– 13 net carbs
 * PROTEIN– 62g
@@ -93,7 +93,7 @@ Yes, first allow the dish to cool completely and then add it to a freezer-safe c
 
 {{< figure src="/images/zt2.jpg" class="instructionFigure">}}
 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes. Season with the oregano, garlic powder, salt, and pepper. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes; season with oregano, garlic powder, salt, and pepper. 
 
 {{< figure src="/images/zt3.jpg" class="instructionFigure">}}
 
