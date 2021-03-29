@@ -1,18 +1,10 @@
 +++
 title = "High Elevation Nutella and Peanut Butter Cookies"
 date = "2021-03-11"
-description = ""
+description = "This recipe is for easy to make, no fail peanut butter and nutella cookies."
 tags = [
     "cookies",
-    "nutella",
-    "peanutbutter",
-    "dessert",
-    "baking",
-    "highelevation",
-    "sweets", 
-    "sweettooth", 
-    "foodie",
-    "thejamilghar"
+ 
 ]
 thumbnail= "images/PButterandNutellaCookie.jpg"
 
@@ -53,6 +45,15 @@ Cuisine: American
 #### ABOUT THIS DESSERT  
 
 I've always loved cooking and baking, but I haven't always been great at it, especially baking. Back then, I wanted so badly to make something people actually wanted to eat, but no matter how much I tried, my attempts always failed. Then something incredible happened, Pinterest. While searching one day, I stumbled upon a Nutella cookie recipe; I was determined to master it. My poor mom and sisters ate cookies for a week straight as I experimented with their recipe to transform it into something tasty. Finally, with a few adjustments for high elevation (I didn't realize this was the issue for far too long) and the addition of peanut butter, this recipe was born. 
+
+#### What main ingredients do I need for this meal?
+
+* Peanut Butter
+* Nutella  
+* Sugar: I like the combination of white and brown sugar. 
+* All-Purpose Flour
+* Baking Powder and Baking Soda 
+* Butter and Eggs 
 
 #### What equipment do I need to make this recipe?
 
