@@ -72,9 +72,9 @@ The development of this recipe came about by happy mistake. Have you ever taken 
 
 * Chickpeas: They are a quality source of fiber and complement the beef well in this stew. 
 
-*Warm Spices: I use sweet paprika, turmeric, cumin, green cardamom, and cinnamon to flavor the dish. 
+* Warm Spices: I use sweet paprika, turmeric, cumin, green cardamom, and cinnamon to flavor the dish. 
 
-*Vegetables: I use garlic, onion, carrots, and spinach.
+* Vegetables: I use garlic, onion, carrots, and spinach.
 
 #### What equipment do I need to make this recipe?
 
