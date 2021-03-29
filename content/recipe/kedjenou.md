@@ -1,7 +1,7 @@
 +++
 title = "Kedjenou- Ivorian Stew"
 date = "2020-01-27"
-description = ""
+description = "Kedjenou is a delicious chicken dish that is easy to make at home. It is a chicken dish that slow cooks in its juice, along with vegetables in a traditional pot called a “canary. Because of this method of cooking, Kedjenou is highly concentrated and flavorful.”
 tags = [
     "entree",
     "instant pot",
@@ -66,7 +66,7 @@ For the Kedjenou Spice:
 
 ### ABOUT THE MEAL
 
-Kedjenou is popular in the Ivory Coast, a place known for its savory, slow-cooked stews. This dish is traditionally cooked in a clay pot, called a canary. Using the canary allows the chicken to cook in all of the flavors and spices. "Kedjenou" means, "to shake," which is why the stew is shaken a few times throughout the cooking process, to prevent sticking or burning, but without being disturbed. 
+Kedjenou is popular in the Ivory Coast, a place known for its savory, slow-cooked stews. This dish is traditionally cooked in a clay pot, called a canary. Using the canary allows the chicken to slow cook in all of the juices and spices. The word "kedjenou," means, "to shake," which is why the stew is shaken a few times throughout the cooking process, to prevent sticking or burning, but without being disturbed. 
 
 #### What main ingredients do I need for this meal?
 
@@ -74,7 +74,7 @@ Kedjenou is popular in the Ivory Coast, a place known for its savory, slow-cooke
 
 * Vegetables: I use tomato, onion, carrot, and potato in the stew. You can also include green onion, bell pepper, and eggplant. Eggplant is especially common. 
 
-* Kedjenou Spice Blend: Like all good spice blends, Kedjenou varies from home to home. This recipe contains the blend we use. The leftover spice blend can last for three months if stored in a sealed mason jar. 
+* Kedjenou Spice Blend: Like all good spice blends, Kedjenou varies from home to home. This recipe contains the spice blend we use. The leftover spice blend can last for three months if stored in a sealed mason jar. 
 
 #### What equipment do I need to make this recipe?
 
