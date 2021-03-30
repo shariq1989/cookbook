@@ -1,7 +1,7 @@
 +++
 title = "Kedjenou- Ivorian Stew"
 date = "2020-01-27"
-description = "Kedjenou is a delicious chicken dish that is easy to make at home. It is a chicken dish that slow cooks in its juice, along with vegetables in a traditional pot called a “canary. Because of this method of cooking, Kedjenou is highly concentrated and flavorful.”
+description = "Kedjenou is a delicious chicken dish that is easy to make at home. It is a chicken dish that slow cooks in its juice, along with vegetables in a traditional pot called a canary. Because of this method of cooking, Kedjenou is highly concentrated and flavorful.”
 tags = [
     "entree",
     "instant pot",
