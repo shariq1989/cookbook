@@ -18,7 +18,7 @@ Preparation Time: 10 minutes
 
 Cooking Time: 30 minutes 
 
-Cuisine: Pakistani
+Cuisine: Indian, Pakistani
 
 #### INGREDIENTS 
 
@@ -64,10 +64,11 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 #### Can I make qeema vegetarian? Can I make it vegan?
 
-Yes, I like The Ultimate Beefless Ground from Gardein. I tried to link it for you all, but they only have it by the case on the Amazon affiliate site, and who needs that? Anyway, use the Beefless Ground in place of the meat. To make the recipe vegan, you will also need to replace the ghee. I suggest using vegan butter because it would have the same or similar effect. 
+Yes, I like The Ultimate Beefless Ground from Gardein. I tried to link it, but they only have it by the case on the Amazon affiliate site, and who needs that? Anyway, use the Beefless Ground in place of meat. To make the recipe vegan, you will also need to also replace the ghee. I suggest using vegan butter because it would have the same or similar effect. 
 
 #### Is qeema keto or low-carb?
-It is, as long as you omit the potatoes from this recipe. I even calculated the macros for one serving to make it easier.
+
+Qeema fits both low-carb and keto macros. I even calculated the macros for one serving to make it easier.
 
 * CARBS– 4 Net Carbs
 * PROTEIN– 26g
@@ -78,3 +79,6 @@ I recommend serving qeema with a side of cauliflower rice, zucchini noodles, or 
 #### Can I freeze qeema?
 
 Yes, first allow the qeema to cool completely and then add it to a freezer-safe container. To prevent freezer burn, you can also layer saran wrap over the container before securing the lid. Qeema will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
+
+### DIRECTIONS: STEP-BY-STEP 
+
