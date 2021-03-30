@@ -6,7 +6,7 @@ tags = [
     "entree",
     "low carb",
 ]
-thumbnail= "images/zuppatoscana.jpg"
+thumbnail= "images/zuppa.jpg"
 +++
 
 Servings: 4-6 <!--more-->
