@@ -1,7 +1,7 @@
 +++
 title = "Bhuna Gosht - Pan Fried Goat"
 date = "2021-03-26"
-description = "Our whole family loves this authentic Pakistani bhuna gosht recipe."
+description = "Our whole family loves this authentic Pakistani bhuna hua gosht recipe, made with goat or mutton and favorful masala."
 tags = [
     "entree",
     "indian",
@@ -37,7 +37,7 @@ For Gosht:
 
 For Whole Spices:
 
-* 6 Boriya Chilis, dry 
+* 6 [Boriya Chilis](https://amzn.to/2O4Zynb), dry 
 * 2 Bay Leaves
 * 1½-inch Cinnamon Stick
 * 3 Whole Cloves
@@ -84,11 +84,11 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 #### What main ingredients do I need for this meal?
 
-* Gosht: In Hindi, "gosht" means meat, but more often than not, in Indian and Pakistani cuisine, gosht refers to goat or lamb; we prefer goat for this dish. 
+* Gosht: In Hindi, gosht means meat, but more often than not, in Indian and Pakistani cuisine, gosht refers to goat or lamb; we prefer goat for this dish. 
 
 * Onions: Thinly slice the onions and use a lot of them. 
 
-* Whole Spices: We use boriya chilis, bay leaves, whole cinnamon stick, cloves, black peppercorns, green cardamom, black cardamom, and then stir in ground nutmeg since we don't often have whole nutmeg on hand. 
+* Whole Spices: We use boriya chilis, bay leaves, whole cinnamon stick, cloves, black peppercorns, green cardamom, black cardamom, and then stir in ground nutmeg since whole nutmeg is difficult to come by. 
 
 #### What equipment do I need to make this recipe?
 
