@@ -1,7 +1,7 @@
 +++
 title = "BBQ Chicken Drumsticks"
 date = "2021-02-09"
-description = ""
+description = "Enjoy these grilled, marinated barbeque chicken drumsticks. We glaze ours with Sweet Baby Ray's and use a rub of our own for maximum flavor."
 tags = [
     "entree",
     "low carb",
@@ -49,29 +49,36 @@ For the Chicken:
 
 ### ABOUT THE MEAL 
 
-We love get-togethers with family and friends; these drumsticks are the perfect addition to any cookout, picnic, or backyard gathering. 
+We love get-togethers with family and friends; these BBQ chicken drumsticks are the perfect addition to any cookout, picnic, or backyard gathering. 
 
 #### What main ingredients do you need for this meal?
 
-* Drumsticks: You can use any part of the chicken, but we love barbequing drumsticks for entertaining because they are easy to eat and universally well-liked. 
+* Chicken Drumsticks: You can grill any part of the chicken with BBQ sauce, but I love barbequing drumsticks. They are easy to eat and universally well-liked. Bonus, our kids devour them. 
 
-* BBQ Sauce: I am sure there are many tasty BBQ sauces out there that I don't know about, but our go-to time and time again is Sweet Baby Ray's. This brand is always delicious, and they offer sugar-free, which makes everyone in the family happy. 
+* BBQ Sauce: I am sure there are many tasty BBQ sauces out there I don't know about, but our family go-to is Sweet Baby Ray's. This brand is always delicious, and they offer sugar-free, which makes everyone in the family happy. 
 
-* You can use any rub you prefer, but we like the homemade rub noted above. 
+*BBQ Rub: You can use your favorite rub, but we like the homemade blend noted above. 
 
 #### What equipment do I need to make this recipe?
 
 * A large bowl 
 
-* 2 baking sheets: To transport the marinated chicken and the cooked chicken 
+* 2 baking sheets: Use the baking sheets to transport the marinated chicken and the cooked chicken back and forth between the grill and the kitchen.
 
 #### Are these BBQ chicken drumsticks keto? Are they low-carb?
 
-It is, as long as you use sugar-free barbeque sauce and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar. I even calculated the macros for you to make it easier.
+They are, as long as you use sugar-free barbeque sauce and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar replacement. I even calculated the macros for you to make it easier.
 
-* CARBS– 
-* PROTEIN– 
-* FAT–
+For the Chicken with Rub: 
+
+* CARBS– 1 Net Carb
+* PROTEIN– 55g
+* FAT– 13g
+The serving size for the chicken is two drumsticks. 
+
+For the BBQ Sauce: 
+
+* CARBS– 1 Net Carb
 
 #### Can I freeze the BBQ Drumsticks?
 
