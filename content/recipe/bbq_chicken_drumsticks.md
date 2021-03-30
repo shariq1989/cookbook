@@ -33,7 +33,7 @@ For the Rub:
 
 For the Chicken: 
 
-* 8 Chicken Drumsticks, skin on, and bone-in 
+* 8 Chicken Drumsticks, skin on, and bone-in
 * BBQ Sauce of your choice, we like [Sweet Baby Rays](https://amzn.to/2NsxauJ) or the [sugar-free](https://amzn.to/2MYvhWR) version
 
 #### INSTRUCTIONS
@@ -55,9 +55,9 @@ We love get-togethers with family and friends; these BBQ chicken drumsticks are 
 
 * Chicken Drumsticks: You can grill any part of the chicken with BBQ sauce, but I love barbequing drumsticks. They are easy to eat and universally well-liked. Bonus, our kids devour them. 
 
-* BBQ Sauce: I am sure there are many tasty BBQ sauces out there I don't know about, but our family go-to is Sweet Baby Ray's. This brand is always delicious, and they offer sugar-free, which makes everyone in the family happy. 
+* BBQ Sauce: I am sure there are many tasty BBQ sauces out there I don't know about, but our family go-to is [Sweet Baby Ray's](https://amzn.to/2NsxauJ). This brand is always delicious, and they offer [sugar-free](https://amzn.to/2MYvhWR), which makes everyone in the family happy. 
 
-*BBQ Rub: You can use your favorite rub, but we like the homemade blend noted above. 
+* BBQ Rub: You can use your favorite rub, but we like our homemade used in this recipe. If you choose to go the store-bought route, we suggest using [Montreal's](https://amzn.to/2QOX1P8).
 
 #### What equipment do I need to make this recipe?
 
@@ -74,6 +74,7 @@ For the Chicken with Rub:
 * CARBS– 1 Net Carb
 * PROTEIN– 55g
 * FAT– 13g
+
 The serving size for the chicken is two drumsticks. 
 
 For the BBQ Sauce: 
