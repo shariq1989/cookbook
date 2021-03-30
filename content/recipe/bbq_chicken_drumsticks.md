@@ -3,17 +3,10 @@ title = "BBQ Chicken Drumsticks"
 date = "2021-02-09"
 description = ""
 tags = [
-    "grilled",
-    "grilling",
-    "chicken",
-    "chickenrecipes",
-    "dinner",
-    "healthy",
-    "lowcarb",
-    "bbq",
-    "drumsticks",
+    "entree",
+    "low carb",
     "keto",
-    "thejamilghar"
+    
 ]
 thumbnail= "images/bbqchicken.jpg "
 +++
