@@ -1,7 +1,7 @@
 +++
 title = "Vinegar Chicken with Crushed Olive Dressing"
 date = "2021-02-11"
-description = ""
+description = "This recipe was inspired by Alison Roman’s Vinegar Chicken with Crushed Olive Dressing. This recipe yields a tangy and flavorful vinegar chicken with crushed olives. It's an easy weeknight meal that roasts in under 1 hour. It has the perfect balance of fat and fresh herbs."
 tags = [
     "entree",
     "low carb",
@@ -43,4 +43,25 @@ Adapted from: New York Times, Alison Roman
 
 ### ABOUT THE MEAL
 
-This recipe is by Alison Roman. Her dish was so bright and flavorful; I wanted to share how I modified it slightly to our family's liking. You can eat this with or without the olive dressing, though I don't know why you would want to skip it.
+This recipe is by Alison Roman. Her dish was so bright and flavorful; I wanted to share how I modified it slightly to our family's preferences. You can eat this with or without the olive dressing, though I don't know why you would want to skip it.
+
+#### What main ingredients do I need for this meal?
+
+* Chicken: I use chicken thighs, but feel free to use drumsticks or wings if you prefer. Bone-in and skin-on will give you the best flavor. If you're feeding a crowd, why not use a whole chicken? Just be sure that you adjust the cooking time depending on your choice. 
+– The safe cooking temperature for chicken is 160 degrees.
+
+* Vinegar: Vinegar provides tanginess to the dish and balances all of the fat in this recipe.
+
+* Olives and Olive Oil: What I love most about this dish is the balance of fat from the oil, olives, and chicken with the bite of vinegar and fresh herbs. 
+
+* Turmeric: Not only does this spice flavor the dish, but it also brings it that vibrant yellow color. 
+
+#### What equipment do I need to make this recipe?
+
+* A bag to season the chicken 
+
+* A prepared baking dish 
+
+* A small bowl 
+
+### DIRECTIONS: STEP-BY-STEP 
