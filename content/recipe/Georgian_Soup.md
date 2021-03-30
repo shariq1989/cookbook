@@ -4,22 +4,15 @@ date = "2020-01-18"
 description = ""
 tags = [
     "soup",
-    "lunch",
-    "dinner",
-    "healthy",
-    "chickennoodlesoup", 
-    "hearty",
-    "stew",
-    "instantpot",
-    "pressurecooking",
-    "pressurecooker"
+    "entree",
+    "instant pot",
 ]
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
 Servings: 6 <!--more-->
 
-Preparation Time: 20 minutes 
+Preparation Time: 30 minutes 
 
 Cooking Time: 1 hour, 20 minutes
 
@@ -27,7 +20,7 @@ Adapted from: Milk Street
 
 #### INGREDIENTS 
 
-For the Broth: 
+For the Chicken Broth: 
 
 * 1 bunch Cilantro, ends reserved
 * 1 bunch Dill, ends reserved
@@ -50,6 +43,7 @@ For the Soup:
 * ½ tsp Kosher Salt  
 * ½ cup Dry Vermouth 
 * 1 tsp Flour 
+* 1 tbsp Soy Sauce
 * 6 Egg Yolks 
 * ½ cup Lemon Juice, about 1-2 lemons
 * Coarse Black Pepper, to taste
@@ -61,7 +55,7 @@ For the Broth:
 1. Tie the stems of the cilantro and dill bundles, then trim the leaves, reserving ¼ cup of each for garnish. Cut off and discard the top third of the garlic head, leaving the head intact. 
 2. In a large pot, combine the stems, garlic, chicken, and the remaining broth ingredients. Bring to a boil and reduce to medium-low. Simmer until chicken is tender, about 45 minutes.
 3. Remove and set aside the garlic head. 
-4. Transfer the chicken to a plate and cool. Shred the chicken into bite-sized pieces, discarding the skin, bones, and cartilage. 
+4. Transfer the chicken to a baking sheet and cool. Shred the chicken into bite-sized pieces, discarding the skin, bones, and cartilage. 
 
 For the Soup: 
 
@@ -73,3 +67,11 @@ For the Soup:
 6. Add the chicken and any accumulated juices. Cook until heated through (do not simmer once the eggs are in the mixture). Taste and season with salt and pepper.
 7. Garnish the soup with cilantro and dill.  
 
+#### INSTANT POT DIRECTIONS
+
+For the Broth: 
+
+1. Tie the stems of the cilantro and dill bundles, then trim the leaves, reserving ¼ cup of each for garnish. Cut off and discard the top third of the garlic head, leaving the head intact. 
+2. In the Instant Pot, combine the stems, garlic, chicken, and the remaining broth ingredients. Secure the lid and set the Instant Pot to high pressure for 45 minutes with a quick release.
+3. Remove the lid and set aside the garlic head. 
+4. Transfer the chicken to a baking sheet and cool. Shred the chicken into bite-sized pieces, discarding the skin, bones, and cartilage. 
