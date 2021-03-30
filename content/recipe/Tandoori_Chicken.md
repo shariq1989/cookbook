@@ -1,7 +1,7 @@
 +++
 title = "Tandoori Chicken Drumsticks"
 date = "2021-02-09"
-description = ""
+description = "This grilled Tandoori Chicken recipe is both delicious and healthy. The Tandoori chicken is marinated in a creamy, well spiced, yogurt and then cooked on the grill to get that restaurant traditional char."
 tags = [
     "entree",
     "low carb",
@@ -25,7 +25,7 @@ Cuisine: Indian, Pakistani
 * 1 tbsp Olive Oil 
 * 1 tsp Coriander, ground
 * 1 tsp Cumin, ground
-* 1 tsp Turmeric
+* 1 tsp [Turmeric](https://amzn.to/3cx3iao)
 * 1 tsp Cayenne Pepper
 * 1 tbsp [Garam Masala](https://amzn.to/3u0tvEX)
 * 1 tbsp Paprika
