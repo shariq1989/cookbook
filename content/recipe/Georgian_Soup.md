@@ -22,10 +22,10 @@ Adapted from: Milk Street
 
 For the Chicken Broth: 
 
+* 2½ - 3 lbs Bone-in, Skin-on Chicken 
 * 1 bunch Cilantro, ends reserved
 * 1 bunch Dill, ends reserved
 * 1 Garlic Head 
-* 2½ - 3 lbs Bone-in, Skin-on Chicken 
 * 10 cup Water 
 * 1 large White Onion, quartered 
 * 3 tsp Kosher Salt 
@@ -37,15 +37,16 @@ For the Chicken Broth:
 
 For the Soup: 
 
+* 3 tsp Salted Butter 
 * 5 medium Carrots, chopped 
 * 1 large White Onion, diced 
-* 3 tsp Salted Butter 
 * 1 tsp Kosher Salt  
 * ½ cup Dry Vermouth 
 * 1 tsp Flour 
 * 1 tbsp Soy Sauce
 * 6 Egg Yolks 
 * ½ cup Lemon Juice, about 1-2 lemons
+* Red Chili Flakes, to taste
 * Coarse Black Pepper, to taste
 
 #### STOVE-TOP DIRECTIONS 
@@ -61,10 +62,10 @@ For the Chicken Broth:
 For the Soup: 
 
 1. Wipe out the empty pot, add butter, carrots, onions, and salt. Set over medium heat and cook, stir occasionally, until the onions begin to brown, about 10-12 minutes. Add the vermouth, scraping up any brown bits. Cook for about 1-2 minutes. 
-2. Add flour and stir for 1 minute. 
+2. Add flour and stir for 1 minute, and then add the soy sauce. 
 3. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
 4. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the pot, whisk to combine. 
-5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt and pepper.
+5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt, pepper, and red chili flakes.
 6. Garnish the soup with cilantro, dill, and red chili flakes.  
 
 #### INSTANT POT DIRECTIONS
@@ -80,10 +81,10 @@ For the Chicken Broth:
 For the Soup: 
 
 1. Wipe out the Instant Pot, add butter, carrots, onions, and salt. Set to saute and cook, stir occasionally, until the onions begin to brown, about 10-12 minutes. Add the vermouth, scraping up any brown bits. Cook for about 1-2 minutes. 
-2. Add flour and stir for 1 minute. 
+2. Add flour and stir for 1 minute, and then add the soy sauce.  
 3. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
 4. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the Instant Pot, whisk to combine. 
-5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt and pepper.
+5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt, pepper, and red chili flakes.
 6. Garnish the soup with cilantro, dill, and red chili flakes.  
 
 ### ABOUT THE MEAL
@@ -129,7 +130,7 @@ For the Chicken Broth:
 For the Soup: 
 
 1. Wipe out the Instant Pot, add butter, carrots, onions, and salt. Set to saute and cook, stir occasionally, until the onions begin to brown, about 10-12 minutes. Add the vermouth, scraping up any brown bits. Cook for about 1-2 minutes. 
-2. Add flour and stir for 1 minute. 
+2. Add flour and stir for 1 minute, and then add the soy sauce. 
 
 {{< figure src="/images/gcs1.jpg" class="instructionFigure">}}
 
@@ -146,7 +147,7 @@ For the Soup:
 
 {{< figure src="/images/gcs5.jpg" class="instructionFigure">}}
 
-5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt and pepper.
+5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt, pepper, and red chili flakes.
 
 {{< figure src="/images/gcs6.jpg" class="instructionFigure">}}
 
