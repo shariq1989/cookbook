@@ -7,7 +7,7 @@ tags = [
     "entree",
     "instant pot",
 ]
-#thumbnail= "images/georgian_chicken_soup.jpg"
+#thumbnail= "images/Channa Masala.jpg"
 +++
 
 Servings: 6-8 <!--more-->
