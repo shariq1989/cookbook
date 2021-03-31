@@ -8,7 +8,7 @@ tags = [
     "vegan",
     "vegetarian",
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/bainganbharta.jpg"
 +++
 
 Servings: 2-3 <!--more-->
@@ -97,16 +97,38 @@ For the Roasted Eggplant:
 
 1. Rinse the eggplants and pat them dry. Then, make three slits on either side of each eggplant with a knife and tuck a few garlic cloves into the slits. I usually use about 4-5 garlic cloves. 
 2. Brush the eggplants with oil and add them to a skewer. Put the eggplant directly on heat (gas oven or grill) and roast. Cook for 10-12 minutes, and flip halfway through. 
+
+{{< figure src="/images/bb1.jpg" class="instructionFigure">}}
+
 3. To see if the eggplants are roasted through, check by inserting a knife into the eggplant; it should go through with ease. Use a pair of tongs to remove the eggplant from heat and wrap it in aluminum foil to cool.
 4. Once cooled, remove the skin. 
+
+{{< figure src="/images/bb2.jpg" class="instructionFigure">}}
+
 5. Transfer the roasted eggplant and garlic to a bowl and mash using a fork. Set it aside.
+
+{{< figure src="/images/bb3.jpg" class="instructionFigure">}}
 
 For the Baingan Bharta: 
 
 1. Heat oil in a medium skillet over medium heat. Then add the cumin seeds. Cook until they begin to sputter. 
 2. Next, add in the onion and cook until the onions become translucent and soften, about 8-10 minutes. 
+
+{{< figure src="/images/bb4.jpg" class="instructionFigure">}}
+
 3. Add the tomatoes, garlic, and ginger to the mixture. Cook for about 5 minutes until the tomatoes release liquid. 
 4. Combine the mashed roasted eggplant and mix well. Use a meat chopper or potato masher to break up the tomatoes and eggplant even more. You can leave it chunky if you prefer it that way. 
+
+{{< figure src="/images/bb5.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/bb6.jpg" class="instructionFigure">}}
+
 5. In a small bowl, combine the chili powder, coriander powder, and salt. Add the spices and the water to the pan and stir to combine. Cook for another 5-10 minutes on medium heat
+
+{{< figure src="/images/bb7.jpg" class="instructionFigure">}}
+
 6. Stir in the cilantro and remove the pan from heat.
+
+{{< figure src="/images/bb8.jpg" class="instructionFigure">}}
+
 7. Season with salt, to taste. Serve with long-grained basmati rice or fresh roti. 
