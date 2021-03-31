@@ -2,7 +2,7 @@
 # navigate out to the images directory
 cd ..
 # move any JPG files larger than 1 MB to optimize dir
-find . -type f -size +1M -name '*.jpg' -exec mv {} optimize/ \;
+find .  -maxdepth 1 -type f -size +1M -name '*.jpg' -exec mv {} optimize/ \;
 # go back to optimize dir
 cd optimize/
 # backup images
