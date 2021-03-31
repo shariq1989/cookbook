@@ -131,25 +131,25 @@ For the Soup:
 1. Wipe out the Instant Pot, add butter, carrots, onions, and salt. Set to saute and cook, stir occasionally, until the onions begin to brown, about 10-12 minutes. Add the vermouth, scraping up any brown bits. Cook for about 1-2 minutes. 
 2. Add flour and stir for 1 minute. 
 
-{{< figure src="/images/gsc1.jpg" class="instructionFigure">}}
+{{< figure src="/images/gcs1.jpg" class="instructionFigure">}}
 
 3. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
 
-{{< figure src="/images/gsc2.jpg" class="instructionFigure">}}
+{{< figure src="/images/gcs2.jpg" class="instructionFigure">}}
 
 
 4. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the Instant Pot, whisk to combine. 
 
-{{< figure src="/images/gsc3.jpg" class="instructionFigure">}}
+{{< figure src="/images/gcs3.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/gsc4.jpg" class="instructionFigure">}}
+{{< figure src="/images/gcs4.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/gsc5.jpg" class="instructionFigure">}}
+{{< figure src="/images/gcs5.jpg" class="instructionFigure">}}
 
 5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt and pepper.
 
-{{< figure src="/images/gsc6.jpg" class="instructionFigure">}}
+{{< figure src="/images/gcs6.jpg" class="instructionFigure">}}
 
 6. Garnish the soup with cilantro, dill, and red chili flakes.  
 
-{{< figure src="/images/gsc8.jpg" class="instructionFigure">}}
+{{< figure src="/images/gcs8.jpg" class="instructionFigure">}}
