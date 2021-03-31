@@ -7,7 +7,7 @@ tags = [
     "entree",
     "instant pot",
 ]
-#thumbnail= "images/Channa Masala.jpg"
+thumbnail= "images/georgianchicken.jpg"
 +++
 
 Servings: 6-8 <!--more-->
@@ -112,15 +112,44 @@ For the Chicken Broth:
 
 1. Tie the stems of the cilantro and dill bundles, then trim the leaves, reserving ¼ cup of each for garnish. Cut off and discard the top third of the garlic head, leaving the head intact. 
 2. In an Instant Pot, combine the chicken, stems, garlic, and the remaining broth ingredients. Secure the lid and set the Instant Pot to manual high pressure for about 45 minutes.
+
+{{< figure src="/images/broth1.jpg" class="instructionFigure">}}
+
 3. Remove the lid and scoop up the garlic head. Set aside. 
 4. Transfer the chicken to a baking sheet and cool. Shred the chicken into bite-sized pieces, discarding the skin, bones, and cartilage. 
+
+{{< figure src="/images/broth2.jpg" class="instructionFigure">}}
+
 5. Strain the broth into another pot or bowl, discarding the solids. Using tongs, squeeze the garlic head into the broth; the tender cloves should pop out of their skins. Whisk into the broth. 
+
+{{< figure src="/images/broth3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/broth4.jpg" class="instructionFigure">}}
 
 For the Soup: 
 
 1. Wipe out the Instant Pot, add butter, carrots, onions, and salt. Set to saute and cook, stir occasionally, until the onions begin to brown, about 10-12 minutes. Add the vermouth, scraping up any brown bits. Cook for about 1-2 minutes. 
 2. Add flour and stir for 1 minute. 
+
+{{< figure src="/images/gsc1.jpg" class="instructionFigure">}}
+
 3. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
+
+{{< figure src="/images/gsc2.jpg" class="instructionFigure">}}
+
+
 4. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the Instant Pot, whisk to combine. 
+
+{{< figure src="/images/gsc3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/gsc4.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/gsc5.jpg" class="instructionFigure">}}
+
 5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt and pepper.
+
+{{< figure src="/images/gsc6.jpg" class="instructionFigure">}}
+
 6. Garnish the soup with cilantro, dill, and red chili flakes.  
+
+{{< figure src="/images/gsc8.jpg" class="instructionFigure">}}
