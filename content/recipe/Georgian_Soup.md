@@ -10,7 +10,7 @@ tags = [
 #thumbnail= "images/georgian_chicken_soup.jpg"
 +++
 
-Servings: 6 <!--more-->
+Servings: 6-8 <!--more-->
 
 Preparation Time: 30 minutes 
 
@@ -28,19 +28,19 @@ For the Chicken Broth:
 * 2½ - 3 lbs Bone-in, Skin-on Chicken 
 * 10 cup Water 
 * 1 large White Onion, quartered 
-* 2 tsp Kosher Salt 
+* 3 tsp Kosher Salt 
 * 1 tsp Peppercorns 
 * ½ tsp Coriander Seeds 
-* ½ tsp Red Pepper Flakes 
+* 1 tsp Red Pepper Flakes 
 * 1 Cinnamon Stick 
 * 2 Bay Leaves 
 
 For the Soup: 
 
 * 5 medium Carrots, chopped 
-* 1 large White Onion, finely diced 
+* 1 large White Onion, diced 
 * 3 tsp Salted Butter 
-* ½ tsp Kosher Salt  
+* 1 tsp Kosher Salt  
 * ½ cup Dry Vermouth 
 * 1 tsp Flour 
 * 1 tbsp Soy Sauce
@@ -50,28 +50,77 @@ For the Soup:
 
 #### STOVE-TOP DIRECTIONS 
 
-For the Broth: 
+For the Chicken Broth: 
 
 1. Tie the stems of the cilantro and dill bundles, then trim the leaves, reserving ¼ cup of each for garnish. Cut off and discard the top third of the garlic head, leaving the head intact. 
-2. In a large pot, combine the stems, garlic, chicken, and the remaining broth ingredients. Bring to a boil and reduce to medium-low. Simmer until chicken is tender, about 45 minutes.
-3. Remove and set aside the garlic head. 
+2. In a large pot, combine the chicken, stems, garlic, and the remaining broth ingredients. Bring to a boil and reduce to medium-low. Simmer until chicken is tender, about 45 minutes.
+3. Remove the lid and scoop up the garlic head. Set aside. 
 4. Transfer the chicken to a baking sheet and cool. Shred the chicken into bite-sized pieces, discarding the skin, bones, and cartilage. 
+5. Strain the broth into another pot or bowl, discarding the solids. Using tongs, squeeze the garlic head into the broth; the tender cloves should pop out of their skins. Whisk into the broth. 
 
 For the Soup: 
 
-1. Strain the broth into another pot, discarding the solids. Using tongs, squeeze the garlic head into the broth; the tender cloves should pop out of their skins. Whisk into the broth. 
-2. Wipe out the empty pot, add butter, carrots, onions, and salt. Set over medium heat and cook, stir occasionally, until the onions begin to brown, 10-12 minutes. Add the vermouth, scraping up any brown bits, and cook for about 1-2 minutes. 
-3. Add flour and stir for 1 minute. 
-4. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
-5. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the pot, whisk to combine. 
-6. Add the chicken and any accumulated juices. Cook until heated through (do not simmer once the eggs are in the mixture). Taste and season with salt and pepper.
-7. Garnish the soup with cilantro and dill.  
+1. Wipe out the empty pot, add butter, carrots, onions, and salt. Set over medium heat and cook, stir occasionally, until the onions begin to brown, about 10-12 minutes. Add the vermouth, scraping up any brown bits. Cook for about 1-2 minutes. 
+2. Add flour and stir for 1 minute. 
+3. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
+4. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the pot, whisk to combine. 
+5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt and pepper.
+6. Garnish the soup with cilantro, dill, and red chili flakes.  
 
 #### INSTANT POT DIRECTIONS
 
-For the Broth: 
+For the Chicken Broth: 
 
 1. Tie the stems of the cilantro and dill bundles, then trim the leaves, reserving ¼ cup of each for garnish. Cut off and discard the top third of the garlic head, leaving the head intact. 
-2. In the Instant Pot, combine the stems, garlic, chicken, and the remaining broth ingredients. Secure the lid and set the Instant Pot to high pressure for 45 minutes with a quick release.
-3. Remove the lid and set aside the garlic head. 
+2. In an Instant Pot, combine the chicken, stems, garlic, and the remaining broth ingredients. Secure the lid and set the Instant Pot to manual high pressure for about 45 minutes.
+3. Remove the lid and scoop up the garlic head. Set aside. 
 4. Transfer the chicken to a baking sheet and cool. Shred the chicken into bite-sized pieces, discarding the skin, bones, and cartilage. 
+5. Strain the broth into another pot or bowl, discarding the solids. Using tongs, squeeze the garlic head into the broth; the tender cloves should pop out of their skins. Whisk into the broth. 
+
+For the Soup: 
+
+1. Wipe out the Instant Pot, add butter, carrots, onions, and salt. Set to saute and cook, stir occasionally, until the onions begin to brown, about 10-12 minutes. Add the vermouth, scraping up any brown bits. Cook for about 1-2 minutes. 
+2. Add flour and stir for 1 minute. 
+3. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
+4. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the Instant Pot, whisk to combine. 
+5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt and pepper.
+6. Garnish the soup with cilantro, dill, and red chili flakes.  
+
+### ABOUT THE MEAL
+
+#### What main ingredients do I need for this meal?
+
+* Chicken: For this recipe you I use a whole chicken, but you could just use thighs or breasts to make the broth as well. 
+
+* Vegetables: I use carrots, onion, garlic, 
+
+* Egg Yolks: Using egg yolks thickens and flavors the soup, while adding tasty fat. 
+
+* Lemon Juice: Lemon juice provides just the right amount of acid for this dish, and I personally love the sour notes it lends to the soup.
+
+#### What equipment do I need to make this recipe?
+
+* A large pot or Instant Pot
+
+#### Can I freeze the chikhirtma?
+
+Yes, first allow the dish to cool completely and then add it to a freezer-safe container or Ziploc bag. The chikhirtma will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove and enjoy.
+
+### DIRECTIONS: STEP-BY-STEP 
+
+For the Chicken Broth: 
+
+1. Tie the stems of the cilantro and dill bundles, then trim the leaves, reserving ¼ cup of each for garnish. Cut off and discard the top third of the garlic head, leaving the head intact. 
+2. In an Instant Pot, combine the chicken, stems, garlic, and the remaining broth ingredients. Secure the lid and set the Instant Pot to manual high pressure for about 45 minutes.
+3. Remove the lid and scoop up the garlic head. Set aside. 
+4. Transfer the chicken to a baking sheet and cool. Shred the chicken into bite-sized pieces, discarding the skin, bones, and cartilage. 
+5. Strain the broth into another pot or bowl, discarding the solids. Using tongs, squeeze the garlic head into the broth; the tender cloves should pop out of their skins. Whisk into the broth. 
+
+For the Soup: 
+
+1. Wipe out the Instant Pot, add butter, carrots, onions, and salt. Set to saute and cook, stir occasionally, until the onions begin to brown, about 10-12 minutes. Add the vermouth, scraping up any brown bits. Cook for about 1-2 minutes. 
+2. Add flour and stir for 1 minute. 
+3. Add 2 cups of broth and stir until smooth, then add the remaining broth. Bring to a simmer. 
+4. In a medium bowl, whisk the yolks. Continue whisking while slowly adding 1 cup of hot broth from the pot. Whisk in the lemon juice, and return the mixture to the Instant Pot, whisk to combine. 
+5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt and pepper.
+6. Garnish the soup with cilantro, dill, and red chili flakes.  
