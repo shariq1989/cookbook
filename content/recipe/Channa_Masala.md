@@ -73,17 +73,17 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 * Onion and Tomato: The slow-cooked onion and tomatoes, along with ginger, garlic, and green chilis, bring so much flavor to the dish. 
 
-* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) we make in our home. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3qNCcQk), Spice House, or Penzey’s garam masala.
+* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spices used in the mix and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) we make in our home. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3qNCcQk), Spice House, or Penzey’s garam masala.
 
 #### What equipment do I need to make this recipe?
 
-* A heavy-bottomed pan with a lid
+* A heavy-bottomed pan with a lid or an Instant Pot
 * A small bowl
 * A food processor or blender
 
 #### Is channa masala vegetarian? Is it vegan? 
 
-Channa masala caters well to both a vegetarian and vegan diet. To make this particular recipe vegan, you will need to substitute another oil for the ghee. I suggest using [grapeseed oil](https://amzn.to/3cLwWYG).
+Channa masala caters to a vegetarian and vegan diet. To make this particular recipe vegan, you will need to substitute another oil for the ghee. I suggest using [grapeseed oil](https://amzn.to/3cLwWYG).
 
 #### Can I freeze channa masala? 
 
@@ -95,7 +95,7 @@ Yes, first allow the dish to cool completely and then add it to a freezer-safe c
 
 {{< figure src="/images/cms1.jpg" class="instructionFigure">}}
 
-2. Add the onion, stirring frequently, until the onions brown and caramelize. This step may take a while, that’s okay. You are building flavor for the dish.
+2. Add the onion and cook until the onions brown and caramelize. This step may take a while, that’s okay. You are building flavor for the dish.
 
 {{< figure src="/images/cms2.jpg" class="instructionFigure">}}
 
@@ -112,7 +112,7 @@ Yes, first allow the dish to cool completely and then add it to a freezer-safe c
 {{< figure src="/images/cms5.jpg" class="instructionFigure">}}
 
 6. Remove the green chilis and set them aside. Then remove the entire mixture from heat and put it into a food processor, blend until smooth.
-7. Return the mixture to the pan, along with the reserved chilis. Then add the chickpeas, cilantro, 1/2 cup water, and bring it to a simmer on saute mode.
+7. Return the mixture to the pan, along with the reserved chilis. Then add the chickpeas, cilantro, 1/2 cup water, and bring it to a simmer using saute mode.
 
 {{< figure src="/images/cms6.jpg" class="instructionFigure">}}
 
