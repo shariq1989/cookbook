@@ -8,7 +8,7 @@ tags = [
     "Persian"
     
 ]
-thumbnail= "images/SaffronRice.jpg"
+thumbnail= "images/saffronrice.jpg"
 +++
 
 Servings: 5 <!--more-->
