@@ -1,6 +1,6 @@
 +++
 title = "Baingan Bharta – Roasted Eggplant"
-date = "2021-03-12"
+date = "2021-03-31"
 description = "Enjoy this restaurant-style roasted eggplant Baingan Bharta from your own home, made with delicious Indian spices."
 tags = [
     "entree",
