@@ -35,7 +35,7 @@ Cuisine: Mexican
 * 1/3 cup Cilantro, finely chopped
 * Juice from 1 Lime, plus wedges to garnish 
   
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. Add the tomatoes and diced onion to a blender or food processor. Blend until smooth. 
 2. Pour the mixture into a saucepan. Stir in the vegetable to chicken broth, salt, and cumin and bring to a boil over medium heat.
@@ -46,7 +46,7 @@ Cuisine: Mexican
 7. Remove the rice from heat and fluff it with a fork. Cover with the lid and set it aside steam for 5 minutes before serving. 
 8. To serve, add the cilantro and lime juice and fluff again to combine. Garnish with lime wedges and enjoy.  
 
-#### INSTANT POT DIRECTIONS
+#### INSTANT POT INSTRUCTIONS
 
 1. Add the tomatoes and diced onion to a blender or food processor. Blend until smooth. 
 2. Pour the mixture into a saucepan. Stir in the vegetable to chicken broth, salt, and cumin and bring to a boil over medium heat.
@@ -77,15 +77,15 @@ Cuisine: Mexican
 * A sauce pan
 * A large [dutch oven](https://amzn.to/38xuVO8) or an [Instant Pot](https://amzn.to/3rRWIjZ)
 
-#### Is Mexican rice vegetarian? Is Mexican rice Vegan?
+#### Is Mexican rice vegetarian? Is Mexican rice vegan?
 
 Mexican rice caters well to both a vegetarian and vegan diet. Just be sure to use the [Vegetable Better than Bouillion](https://amzn.to/31eZDI9). 
 
-#### Can I freeze the Mexican rice? 
+#### Can I freeze Mexican rice? 
 
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The Mexican rice can freeze for up to 6 months. When you’re ready to eat, let it defrost in the refrigerator. To serve, warm on the stovetop and enjoy. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Add the tomatoes and diced onion to a blender or food processor. Blend until smooth. 
 
