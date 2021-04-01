@@ -35,7 +35,7 @@ Cuisine: Indian, Pakistani
 * 2 tbsp Garlic and Ginger Paste 
 * 8 Chicken Drumsticks, skin-on, bone-in 
 
-#### OVEN DIRECTIONS 
+#### OVEN INSTRUCTIONS 
 
 1. In a blender or food processor, mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, garam masala, red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
 2. Make 1-2 small slits in each drumstick and then add the chicken and toss until drumsticks are fully coated. Cover and marinate in the refrigerator for at least 6-8 hours, preferably 24 hours.
@@ -45,7 +45,7 @@ Cuisine: Indian, Pakistani
 6. Let the chicken rest for about 10 minutes before serving. 
 7. Garnish with lemon wedges and [raita](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad. 
 
-#### GRILL DIRECTIONS
+#### GRILL INSTRUCTIONS
 
 1. In a blender or food processor, mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, garam masala, red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
 2. Make 1-2 small slits in each drumstick and then add the chicken and toss until drumsticks are fully coated. Cover and marinate in the refrigerator for at least 6-8 hours, preferably 24 hours.
@@ -83,4 +83,4 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 Yes, first allow the drumsticks to cool completely and then add them to a freezer-safe container. Chicken drumsticks will freeze for up to 4months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the oven or the microwave. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
