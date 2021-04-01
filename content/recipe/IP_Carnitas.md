@@ -45,7 +45,7 @@ To Serve:
 * Cilantro, chopped 
 * Red Onion, chopped 
   
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. In a small bowl, combine salt, cumin, chipotles en adobo sauce, black pepper, cinnamon, and oregano to create a rub. 
 2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Massage the rub into the pork. 
@@ -77,7 +77,7 @@ Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder t
 * An [Instant Pot](https://amzn.to/3qfNYCZ)
 * A rimmed baking sheet 
 
-#### Is carnitas keto? Is carnitas low-carb?
+#### Are carnitas keto? Are they low-carb?
 
 Yes, replace the orange juice with water and add 1 tsp of [Chicken Better than Bouillion](https://amzn.to/2P3CipM) for added flavor.  These macros account for the pork in the taco and not the tortilla or the toppings.  The serving size for this dish is three tacos. 
 
@@ -91,14 +91,14 @@ We recommend serving the carnitas with a low-carb tortilla. I like Mr. Tortilla 
 
 Don't feel like making tacos for the second night in a row? No worries, use the leftover meat to make enchiladas, nachos, sliders, quesadillas, breakfast burritos, or Mexican pizza. 
 
-#### Can I freeze the Carnitas?
+#### Can I freeze carnitas?
 
 You sure can. For best results, reserve some of the meat and juice before broiling. I prefer to put the pork into a freezer-safe container and store the reserved juices separately in a Ziploc bag. The carnitas will freeze for up to 3 months. 
 
 When you’re ready to eat, let both defrost in the refrigerator overnight. 
 To serve, pour the contents of the Ziploc bag into a bowl and warm it in the microwave for thirty seconds. Reheat the carnitas by frying them in a cast-iron skillet or frying pan. When the pork is thoroughly reheated, drizzle the meat with the reserved juices. Prepare your tortillas and toppings, and enjoy!
 
-### INSTANT POT DIRECTIONS: STEP-BY-STEP
+### INSTANT POT INSTRUCTIONS: STEP-BY-STEP
 
 1. In a small bowl, combine salt, cumin, chipotles en adobo sauce, black pepper, cinnamon, and oregano to create a rub. 
 2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Massage the rub into the pork. 
