@@ -3,23 +3,18 @@ title = "Deviled Eggs"
 date = "2020-01-18"
 description = ""
 tags = [
-    "egg",
-    "lunch",
-    "snack",
-    "healthy",
+    "side dish",
     "keto", 
-    "lowcarb",
+    "low carb",
     "vegetarian",
-    "instantpot"
+    "instant pot"
 ]
 #thumbnail= "images/deviledegg.jpg"
 +++
 
 Servings: 12 <!--more-->
 
-Preparation Time: 
-
-Cuisine: American 
+Cooking Time: 20 minutes 
 
 #### INGREDIENTS 
 
@@ -30,7 +25,7 @@ Cuisine: American
 * 1 tsp Fresh Dill, chopped
 * Salt, to taste  
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Place eggs in a single layer on the [trivet](https://amzn.to/38G3NNi) in an [Instant Pot](https://amzn.to/3qfNYCZ) and add 1 cup of water. Secure the lid and set it to manual high pressure for 5 minutes. Allow for natural release for 5 minutes, followed by an ice bath for another 5 minutes.  
 2. Crack egg shells and carefully peel under cool running water. Gently dry with paper towels. 
