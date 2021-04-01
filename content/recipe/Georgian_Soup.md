@@ -49,7 +49,7 @@ For the Soup:
 * Red Chili Flakes, to taste
 * Coarse Black Pepper, to taste
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 For the Chicken Broth: 
 
@@ -68,7 +68,7 @@ For the Soup:
 5. Add the chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. Taste and season with salt, pepper, and red chili flakes.
 6. Garnish the soup with cilantro, dill, and red chili flakes.  
 
-#### INSTANT POT DIRECTIONS
+#### INSTANT POT INSTRUCTIONS
 
 For the Chicken Broth: 
 
@@ -107,7 +107,7 @@ For the Soup:
 
 Yes, first allow the dish to cool completely and then add it to a freezer-safe container or Ziploc bag. The chikhirtma will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove and enjoy.
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Chicken Broth: 
 
