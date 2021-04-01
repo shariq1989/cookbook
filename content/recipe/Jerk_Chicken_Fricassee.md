@@ -49,7 +49,7 @@ For the Fricassee
 * 1 tbsp Lime Juice 
 * Lime Wedges for garnish 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. In a small bowl, combine ingredients for the jerk seasoning and set aside (any leftovers will store for up to 3 months in a sealed mason jar).
 2. In another bowl, combine 2 tbsp jerk seasoning with salt and pepper and season the chicken with the mixture.
@@ -80,7 +80,7 @@ You will absolutely love this jerk chicken fricassee, also called Jamaican brown
 * 2 small bowls 
 * A large skillet 
 
-### DIRECTIONS: STEP-BY-STEP
+### INSTRUCTIONS: STEP-BY-STEP
 
 1. In a small bowl, combine ingredients for the jerk seasoning and set aside (any leftovers will store for up to 3 months in a sealed mason jar).
 2. In another bowl, combine 2 tbsp jerk seasoning with salt and pepper and season the chicken with the mixture.
