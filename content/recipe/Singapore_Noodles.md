@@ -39,7 +39,7 @@ Adapted from: Serious Eats, Shao Z.
 * 2 Scallions, greens thinly sliced
 * 2 tsp [Toasted Sesame Oil](https://amzn.to/2OXcBaE)
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Pat the shrimp dry and place them into a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and refrigerate for 30 minutes. 
 2. Place the rice-stick noodles into a large bowl and cover them with boiling water. Let the noodles stand for 5 minutes. Put the rice noodles into a colander and rinse with cold running water before draining. Using scissors, cut the bundle of noodles in half.
@@ -82,7 +82,7 @@ It's not entirely clear where Singapore noodles began. Many sources say Hong Kon
 
 I do not recommend it; cooked vermicelli noodles end up mushy when thawed. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Pat the shrimp dry and place them into a small bowl. Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and refrigerate for 30 minutes. 
 2. Place the rice-stick noodles into a large bowl and cover them with boiling water. Let the noodles stand for 5 minutes. Put the rice noodles into a colander and rinse with cold running water before draining. Using scissors, cut the bundle of noodles in half.
