@@ -5,7 +5,6 @@ description = "A moist and delicious baked banana bread recipe that our family l
 tags = [
     "dessert",
     "vegetarian",
-    "breakfast",
     "bread"
 ]
 thumbnail= "images/bananabread.jpg"
@@ -32,7 +31,7 @@ Cuisine: American
 * 3 Eggs 
 * 6 tbsp Milk 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Stir the dry ingredients together in a large bowl. Set aside. 
 2. In another bowl, add the butter and blend it with a hand mixer. Then add the bananas and mush them into the butter with a fork until smooth. 
@@ -90,7 +89,7 @@ To keep your banana bread moist, allow it to cool completely and wrap it in a la
 
 You sure can. First, allow the banana bread to cool completely and then wrap it in saran wrap, followed by aluminum foil. The banana bread will freeze for up to 2 months. When you're ready to eat, let it defrost at room temperature. This process can take up to 24 hours. 
 
-### DIRECTIONS: STEP-BY-STEP
+### INSTRUCTIONS: STEP-BY-STEP
 
 1. Stir the dry ingredients together in a large bowl. Set aside. 
 2. In another bowl, add the butter and blend it with a hand mixer. Then add the bananas and mush them into the butter with a fork until smooth. 
