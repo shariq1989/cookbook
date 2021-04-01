@@ -29,7 +29,7 @@ Cuisine: Sicilian
 * 1 cup Basil
 * 2 tbsp [Pine Nuts](https://amzn.to/3amamWp), toasted 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Cook the pasta shells according to the package, al dente, and strain. Set them aside. 
 2. In a small skillet, saute the spinach with 1 tsp of olive oil until wilted. Set aside. 
