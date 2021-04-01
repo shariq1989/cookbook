@@ -3,16 +3,10 @@ title = "Peruvian Roasted Chicken"
 date = "2020-01-29"
 description = ""
 tags = [
-    "peru",
-    "chicken",
-    "lunch",
-    "dinner",
-    "lowcarb",
+    "entree",
+    "low carb",
     "keto",
-    "roastedchicken",
-    "food",
-    "foodie",
-    "thejamilghar"
+   
 ]
 thumbnail= "images/PeruvianChicken.jpg"
 +++
@@ -38,7 +32,7 @@ Adapted from: The Food Lab
 * 1 tbsp Distilled White Vinegar 
 * 1 tbsp Olive Oil 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Adjust the oven rack to the upper-middle position and preheat the oven to 450 degrees. 
 2. Prepare a wire rack in a rimmed baking sheet lined with aluminum foil.  
@@ -51,7 +45,7 @@ Adapted from: The Food Lab
 
 #### ABOUT THE MEAL 
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
 * Chicken: We used a whole butterflied chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. You could also use this rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry. You should still use the suggested cooking time for this recipe. 
 – The safe cooking temperature for chicken is 160 degrees.
@@ -66,7 +60,7 @@ Adapted from: The Food Lab
 * Cutting board
 * A set of [measuring spoons](https://amzn.to/2OKV5WW)
 
-#### Is Peruvian chicken keto or low-carb?
+#### Is Peruvian chicken keto? Is it low-carb?
 
 It is and we even calculated the macros for you. 
 
