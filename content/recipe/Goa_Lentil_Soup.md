@@ -41,7 +41,7 @@ Adapted from: Milk Street
 * 2 tsp Lime Juice 
 * Lime Wedges for garnish
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. Gather 1 cup of masoor dal. Rinse it in a colander and set it aside. 
 2. In a large saute pan, add the coconut oil and onion. Cook on low heat until the onions brown and caramelize. 
@@ -53,7 +53,7 @@ Adapted from: Milk Street
 8. Off heat, add the last 1 tbsp of ginger, lime juice, and kosher salt to taste. Stir well. 
 9. Garnish with lime wedges and serve with long-grain basmati rice.
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Gather 1 cup of masoor dal. Rinse it in a colander and set it aside. 
 2. In an [Instant Pot](https://amzn.to/3qfNYCZ), add the coconut oil and the onion. Cook on saute mode until the onions brown and caramelize. 
@@ -79,7 +79,7 @@ Goa is a coastal city and happens to be the smallest state in India. The food th
 
 * A large saute pan with a lid or [Instant Pot](https://amzn.to/3qfNYCZ)
 
-#### Is Goa red dal vegetarian? Is red Goa dal vegan? 
+#### Is Goa red dal vegetarian? Is it vegan? 
 
 This dish is both vegetarian and vegan-friendly. 
 
@@ -88,6 +88,7 @@ This dish is both vegetarian and vegan-friendly.
 Yes, first allow the dal to cool and gather several freezer-safe resealable plastic bags. Scoop a small amount of dal into each plastic bag, making sure to leave a few inches of space so the dish can expand if needed. Squeeze out as much air as you can before sealing the bag. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
 
 ### INSTRUCTIONS: STEP-BY-STEP
+
 1. In a large saute pan, add the coconut oil and onion. Cook on low heat until the onions brown and caramelize. This step may take a while, but that's okay. You are building flavor for the dish. 
 
 {{< figure src="/images/gd1.jpg" class="instructionFigure">}}
