@@ -27,7 +27,7 @@ Cuisine: Polish
 * 1 tsp Kosher Salt
 * 1 tsp Parsely, dried 
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. Preheat a large skillet over medium-high heat.
 2. Add the kielbasa to the heated pan. Stir regularly to prevent burning or sticking.
@@ -35,7 +35,7 @@ Cuisine: Polish
 4. In the same pan, add the potatoes and cook on medium heat for about 10-15 minutes. 
 5. Next, add the peppers and reduce to low heat. Cook for another 10 minutes, and then return the kielbasa to the pan. 
 
-#### OVEN DIRECTIONS 
+#### OVEN INSTRUCTIONS 
 
 1. Preheat the oven to 400 degrees and prepare a rimmed baking sheet. 
 2. Slice the potatoes, keilbasa, and peppers. Spread the potatoes and keilbasa onto the baking sheet. Season the potatoes with salt and parsely and then set the peppers aside. 
@@ -57,7 +57,7 @@ Cuisine: Polish
 
 * A rimmed baking sheet or large skillet 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Preheat the oven to 400 degrees and prepare a rimmed baking sheet. 
 2. Slice the potatoes, keilbasa, and peppers. Spread the potatoes and keilbasa onto the baking sheet. Season the potatoes with salt and parsely and then set the peppers aside. 
