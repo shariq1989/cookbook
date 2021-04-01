@@ -4,7 +4,7 @@ date = "2021-03-26"
 description = "Our whole family loves this authentic Pakistani bhuna hua gosht recipe, made with goat or mutton and favorful masala."
 tags = [
     "entree",
-    "indian",
+    "Indian",
     "instant pot",
  
 ]
@@ -46,7 +46,7 @@ For Whole Spices:
 * 2 [Black Cardamom Pods](https://amzn.to/3vvGj77)
 * ½ tsp Nutmeg, ground
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. Begin by rinsing the goat and then add it to a heavy-bottomed pan along with 1 cup of water and 1 tsp of salt. Cover with the lid and cook for 1 hour over low-medium heat. Set aside. 
 2. Gather the whole spices and stir in the nutmeg.
@@ -61,7 +61,7 @@ For Whole Spices:
 11. Continue cooking on high, stirring regularly. The goat mixture will begin to thicken and turn a rich brown color.
 12. Garnish with cilantro and fresh ginger slices. Serve with naan or long-grained basmati rice. 
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Begin by rinsing the goat and then add it to an [Instant Pot](https://amzn.to/3qfNYCZ) with 1 cup water and 1 tsp salt. Cook on manual high pressure for 40 minutes with quick release. Set the meat aside. 
 2. Gather the whole spices and stir in the nutmeg, set aside.
@@ -94,12 +94,11 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 * A Heavy-Bottomed Pan or [Instant Pot](https://amzn.to/3vv0Usv)
 
-#### Can you freeze bhuna gosht?
+#### Can I freeze bhuna gosht?
 
 Yes, allow the dish to cool completely, and then add it to a freezer-safe container. Bhuna gosht will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop, and prepare your rice or naan. 
 
-
-### STOVE-TOP DIRECTIONS: STEP-BY-STEP
+### STOVE-TOP INSTRUCTIONS: STEP-BY-STEP
 
 1. Begin by rinsing the goat and then add it to a heavy-bottomed pan along with 1 cup of water and 1 tsp of salt. Cover and cook for 1 hour over medium heat. Set aside. 
 
