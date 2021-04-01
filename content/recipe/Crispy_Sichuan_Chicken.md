@@ -47,7 +47,7 @@ For the Dish:
 * 8 Scallion, thinly sliced
 * 1 tsp Toasted Sesame Seeds
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. In a large bowl, combine the ingredients for the marinade: soy sauce, vinegar, sugar, and egg whites. Stir until the sugar dissolves. Add the chicken to the bowl and stir to coat, cover, and let the meat marinate for 30 minutes.  
 2. Meanwhile, set the wire racks into the rimmed baking sheets. 
