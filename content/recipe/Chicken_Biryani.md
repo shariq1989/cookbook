@@ -46,7 +46,7 @@ For the Biryani:
 * 3 cup Long-Grain Basmati Rice, pre-soaked and divided. 
 * Optional: 2-3 Thai Green Chilis, to serve 
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Mix the ingredients for the paste in a large bowl. Stir in the chicken and coat evenly. Refrigerate for 30 minutes. 
 2. Wash the rice and soak it in water for 20 minutes. 
@@ -104,7 +104,7 @@ The rice at the bottom can end up a bit sticky because of cooking in the Instant
 
 Yes, allow the dish to cool completely, and then add it to a gallon Ziploc bag. The biryani will freeze for up to 2 months. When you're ready to eat, let it defrost in the refrigerator overnight. To serve, warm up a single serving in the microwave or add it all to a pan for a quick and easy meal the whole family will enjoy.
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Mix the ingredients for the paste in a large bowl. Stir in the chicken and coat evenly. Refrigerate for 30 minutes. 
 2. Wash the rice and soak it in water for 20 minutes. 
