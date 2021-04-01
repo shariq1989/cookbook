@@ -3,14 +3,9 @@ title = "Crockpot Stroganoff"
 date = "2020-12-03"
 description = ""
 tags = [
-    "dinner",
-    "beef",
-    "italian",
-    "crockpot",
-    "slowcooker", 
-    "noodles",
-    "hearty"
-]
+    "entree",
+    "slow cooker", 
+
 #thumbnail= "images/stroganoff.jpg"
 +++
 
@@ -23,6 +18,7 @@ Cooking Time: 4-6 hours
 Cuisine: American 
 
 #### INGREDIENTS 
+
 * 1 package Egg Noodles 
 * 2 lb Beef Stew Meat 
 * 2 cans Cream of Mushroom 
@@ -32,7 +28,8 @@ Cuisine: American
 * ½ cup Button Mushrooms, sliced 
 * Optional: Sour Cream, to garnish
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
+
 1. Add beef and the rest of the ingredients to the crockpot. 
 2. Cook on low for 6 hours or high for 4 hours, depending on your preference.
 3. Garnish with a spoonful of sour cream to serve. 
