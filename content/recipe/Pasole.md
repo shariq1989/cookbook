@@ -46,7 +46,7 @@ To Garnish:
 * Chili Flakes 
 * Oregano 
   
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. 
 2. Add the pork to the Instant Pot in a single layer and let it brown, 3-4 minutes. Repeat this until all the made has had a chance to brown. Set aside. 
@@ -56,7 +56,7 @@ To Garnish:
 
 #### ABOUT THE MEAL 
 
-#### What main ingredients do you need for this meal?
+#### What main ingredients do I need for this meal?
 
 * Pork Shoulder
 
@@ -82,7 +82,7 @@ I often prepare my pozole with just hominy since my sisters are all vegetarian. 
 
 Yes, first allow the dish to cool completely and then add it to a freezer-safe container. Pozole Rojo can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop, prepare your toppings, and enjoy! 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. 
 2. Add the pork to the Instant Pot in a single layer and let it brown, 3-4 minutes. Repeat this until all the made has had a chance to brown. Set aside. 
