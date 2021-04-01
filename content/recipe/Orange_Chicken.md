@@ -51,7 +51,7 @@ For the Sauce:
 * 1 tbsp Corn Starch
 * 1 tsp Toasted Sesame Seeds 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 For the Chicken: 
 
@@ -81,7 +81,7 @@ On the occasion that I go out of town without my family, my husband and children
 
 Orange chicken is famous in the United States, thanks in large part to Panda Express. Orange chicken includes flavors inspired by cooking in the Hunan Province in China, but the orange chicken we know in the U.S. is Chinese-American.  
 
-#### What main ingredients are needed for this meal?
+#### What main ingredients do I need for this meal?
 
 * Chicken: I use chicken thighs since dark meat is more flavorful than white meat. You can use chicken breast if you prefer.
 
