@@ -5,7 +5,6 @@ description = "Our chili con carne recipe can be made in the Instant Pot or in a
 tags = [
     "entree",
     "instant pot",
-    "international",
     "mexican",
     "keto",
     "low carb",
@@ -49,7 +48,7 @@ For the Toppings
 * 1 Avocado, cubed 
 * 1 Serrano Chili, thinly sliced
   
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Add the dried chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
 2. Remove the chilis and add them to a blender or food processor, along with the chicken broth. Add the 2 chipotle chilis and 2 tbsp sauce. Mix thoroughly and set aside.
