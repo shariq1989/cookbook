@@ -40,7 +40,7 @@ For the Cream Cheese Frosting:
 * 1 tsp Milk 
 * Sprinkle with Powdered Sugar 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Preheat the oven to 350 degrees. 
 2. Beat ingredients for the bars together with a hand mixer and pour them into a greased jelly roll. 
