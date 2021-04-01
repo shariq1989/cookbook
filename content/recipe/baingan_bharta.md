@@ -41,7 +41,7 @@ For the Baingan Bharta:
 * 1/4 cup Water
 * 1/4 cup Cilantro, chopped
   
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 For the Roasted Eggplant: 
 
@@ -87,11 +87,11 @@ Not a fan of eggplant? Cool, me either, but I love this dish! I will never forge
 
 This dish is both vegetarian and vegan-friendly. 
 
-#### Can I freeze the baingan bharta?
+#### Can I freeze baingan bharta?
 
 Yes, allow the baingan bharta to cool and prepare a freezer-safe resealable bag. Scoop the leftovers into the bag, making sure to leave a few inches of space so the dish can expand if needed. Squeeze out as much air as you can before sealing the bag. Baingan bharta will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your sides.
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Roasted Eggplant: 
 
