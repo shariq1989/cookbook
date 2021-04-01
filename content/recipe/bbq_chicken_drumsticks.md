@@ -51,7 +51,7 @@ For the Chicken:
 
 We love get-togethers with family and friends; these BBQ chicken drumsticks are the perfect addition to any cookout, picnic, or backyard gathering. 
 
-#### What main ingredients do you need for this meal?
+#### What main ingredients do I need for this meal?
 
 * Chicken Drumsticks: You can grill any part of the chicken with BBQ sauce, but I love barbequing drumsticks. They are easy to eat and universally well-liked. Bonus, our kids devour them. 
 
@@ -65,24 +65,22 @@ We love get-togethers with family and friends; these BBQ chicken drumsticks are 
 
 * 2 baking sheets: Use the baking sheets to transport the marinated chicken and the cooked chicken back and forth between the grill and the kitchen.
 
-#### Are these BBQ chicken drumsticks keto? Are they low-carb?
+#### Are BBQ chicken drumsticks keto? Are they low-carb?
 
-They are, as long as you use sugar-free barbeque sauce and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar replacement. I even calculated the macros for you to make it easier.
+They are, just substitute with sugar-free barbeque sauce and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar replacement. I calculated one serving of BBQ drumsticks to make it easy for you. The serving size for the chicken is two drumsticks. 
 
-For the Chicken with Rub: 
+For Chicken with the Rub: 
 
 * CARBS– 1 Net Carb
 * PROTEIN– 55g
 * FAT– 13g
 
-The serving size for the chicken is two drumsticks. 
+For the BBQ Sauce- 2 tbsp: 
 
-For the BBQ Sauce: 
+* CARBS– 1 Net Carb 
 
-* CARBS– 1 Net Carb
-
-#### Can I freeze the BBQ Drumsticks?
+#### Can I freeze BBQ Drumsticks?
 
 Yes, first allow the drumsticks to cool completely, wrap them in aluminum foil, and add them to a freezer-safe container or Ziploc bag. The BBQ drumsticks will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm them in the oven or microwave. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
