@@ -3,13 +3,8 @@ title = "Peanut and Lime Shrimp"
 date = "2021-02-09"
 description = ""
 tags = [
-    "shrimp",
-    "lunch",
-    "dinner",
-    "healthy",
-    "peanut",
-    "lime",
-    "panseared"
+    "entree",
+  
 ]
 thumbnail= "images/peanutshrimp.jpg "
 +++
@@ -37,7 +32,7 @@ Cuisine: American
 * 1 tbsp Lime Juice, plus lime wedges to garnish
 * 3 tbsp Peanuts, coarsely chopped
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Toss the shrimp and 1/4 tsp of salt in a bowl and set aside for 15 minutes.
 2. Grind the peppercorns and coriander seeds until coarsely ground. Transfer to a small bowl and stir in the paprika, garlic, 1 teaspoon sugar, remaining ¼ teaspoon salt, and red pepper flakes.
