@@ -33,6 +33,7 @@ Cuisine: Indian, Pakistani
 * 1 cup Plain Full-Fat Yogurt 
 * 2 tbsp Lemon Juice, plus lemon wedges to garnish
 * 2 tbsp Garlic and Ginger Paste 
+* 1/2 Red onion, roughly chopped 
 * 8 Chicken Drumsticks, skin-on, bone-in 
 
 #### OVEN INSTRUCTIONS 
