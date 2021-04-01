@@ -39,7 +39,7 @@ Cuisine: Indian, Pakistani
 * 1/2 cup Cilantro, chopped 
 * Salt, to taste
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. Heat the ghee in a heavy-bottomed pan over medium-high heat. Add 1 tsp kalonji seed, cumin seed, and chilis. Cook until they begin to sputter.
 2. Add the onion, stirring frequently, until the onions brown and caramelize. This step may take a while, that’s okay. You are building flavor for the dish.
@@ -51,7 +51,7 @@ Cuisine: Indian, Pakistani
 8. Sprinkle the dish with kalonji seeds and cover the pan with the lid slightly ajar. Reduce the heat to maintain a gentle bubbling. Cook, stirring occasionally until the liquid has reduced, about 12-15 minutes.
 9. Season with salt, to taste, and garnish with cilantro. Serve with long-grain basmati rice or naan.
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Heat the ghee in an Instant Pot on saute mode. Add 1 tsp kalonji seed, cumin seed, and chilis. Cook until they begin to sputter.
 2. Add the onion, stirring frequently, until the onions brown and caramelize. This step may take a while, that’s okay. You are building flavor for the dish.
@@ -89,7 +89,7 @@ Channa masala caters to a vegetarian and vegan diet. To make this particular rec
 
 Yes, first allow the dish to cool completely and then add it to a freezer-safe container. Channa masala will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop and enjoy. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Heat the ghee in an Instant Pot on saute mode. Add 1 tsp kalonji seed, cumin seed, and chilis. Cook until they begin to sputter.
 
