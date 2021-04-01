@@ -43,7 +43,7 @@ Cuisine: Indian, Pakistani
 4. Preheat the oven to 400 degrees and then set a wire rack into a rimmed baking sheet; line the drumsticks onto it. 
 5. Cook for 25-30 minutes, flipping the drumsticks halfway through.
 6. Let the chicken rest for about 10 minutes before serving. 
-7. Garnish with lemon wedges and serve with [raita](https://www.jamilghar.com/recipe/raita/). 
+7. Garnish with lemon wedges and [raita](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad. 
 
 #### GRILL DIRECTIONS
 
@@ -57,7 +57,7 @@ Cuisine: Indian, Pakistani
 8. Move the drumsticks to the cool side of the grill, the rightmost burner you turned off, and cook them for 25 minutes.
 9. Flip the drumsticks; continue cooking until the chicken has reached over 170 degrees, about 20-30 minutes. 
 10. Let the chicken rest for about 10 minutes before serving. 
-11. Garnish with lemon wedges and serve with [raita](https://www.jamilghar.com/recipe/raita/). 
+11. Garnish with lemon wedges and [raita](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad. 
 
 ### ABOUT THE MEAL 
 
