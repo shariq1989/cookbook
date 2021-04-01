@@ -44,7 +44,7 @@ For the Homemade Hoisin Sauce:
 * 1 1/2 tbsp [Monk Fruit Sweetener](https://amzn.to/38Bp8aG) or Honey 
 * 1 tbsp Natural [Almond Butter Powder](https://amzn.to/3laVGgE)
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Before cooking, whisk the ingredients for the homemade hoisin sauce in a small bowl. Set aside. 
 2. In a large skillet, warm sesame oil over medium heat, and then add the ground beef. Break up the meat with a [meat chopper](https://amzn.to/38BSlBY) until finely minced. Cook until beef browns and cooked through about 8-10 minutes.  
@@ -73,7 +73,7 @@ There are many versions of this copycat on the internet; this is the Jamil Famil
 * A small skillet  
 * A [meat chopper](https://amzn.to/38BSlBY)
 
-#### Are these lettuce wraps keto? Are these lettuce wraps low-carb?
+#### Are these lettuce wraps keto? Are they low-carb?
 
 Yes, they are, as long as you omit the peanuts and make the homemade hoisin sauce with monk fruit sugar. We even calculated the macros to make it easier for you.
 
@@ -91,7 +91,7 @@ Macros for the Hoisin Sauce:
 
 Yes, first allow the meat to cool completely and then add it to a freezer-safe container. To prevent freezer burn, you can also layer saran wrap over the dish before securing the lid. The beef mixture will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your lettuce and hoisin sauce.
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Before cooking, whisk the ingredients for the homemade hoisin sauce in a small bowl. Set aside. 
 
