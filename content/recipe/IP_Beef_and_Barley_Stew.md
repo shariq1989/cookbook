@@ -4,17 +4,9 @@ date = "2021-02-16"
 description = ""
 tags = [
     "soup",
-    "lunch",
-    "dinner",
-    "hearty",
-    "beef",
-    "instantpot",
-    "pressurecooker",
-    "pressurecooking",
-    "barley",
-    "rich",
-    "savory",
-    "thejamilghar"
+    "entree",
+    "instant pot",
+  
 ]
 thumbnail= "images/BeefandBarley.jpg "
 +++
@@ -43,7 +35,7 @@ Adapted from: Serious Eats, Daniel Gritzer
 * 1 cup Kale, chopped and stems removed 
 * Salt and Pepper, to taste
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Season the short ribs with salt and pepper. 
 2. Heat the oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until smoking. 
