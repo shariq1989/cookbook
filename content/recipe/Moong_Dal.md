@@ -41,7 +41,7 @@ For the Tadka:
 * 3-4 Fresh Curry Leaves   
 * 1 1/2 large Red Onion, thinly sliced
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Set an [Instant Pot](https://amzn.to/3qfNYCZ) to saute mode and warm the ghee. 
 2. Add the boriya chili, cumin seed, mustard seed, and curry leaves. 
@@ -68,10 +68,10 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 * An [Instant Pot](https://amzn.to/3qCCLwi) 
 
-#### Is Moong Dal Vegan? 
+#### Is moong dal Vegan? 
 
 With one substitution, yes. Fry the onions in canola oil or vegetable oil instead of ghee. 
 
-#### Can I freeze Moong Dal? 
+#### Can I freeze moong dal? 
 
 Yes, allow the Moong Dal to cool and prepare several freezer-safe resealable plastic bags. Scoop a small amount of dal into each plastic bag, making sure to leave a few inches of space so the dish can expand if needed. Squeeze out as much air as you can before sealing the bag. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
