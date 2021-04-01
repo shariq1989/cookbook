@@ -40,7 +40,7 @@ Adapted from: Milk Street
 * 1 Package [Egg Noodles](https://amzn.to/2Zf7O60) 
 * Sour Cream, to garnish  
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Season the beef with 1 tbsp sweet paprika, 2 tsp salt, 1 tsp pepper. Toss the meat to coat and set aside. 
 2. Mix the broth and tomato paste in a small bowl. 
