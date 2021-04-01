@@ -36,7 +36,7 @@ Cuisine: Chinese, American
 * ¼ tsp Black Pepper, coarse ground 
 * ¼ tsp Toasted Sesame Seeds   
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Preheat the oven to 350 degrees and lightly oil a rimmed sheet pan. 
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes and lightly season with salt and pepper. 
@@ -75,7 +75,7 @@ This dish caters to both a vegetarian and vegan way of eating. Easily replace th
 
 While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing stir-fried tofu, especially once it's cooked in a sauce; freezing and re-heating will alter the desired texture of the tofu. 
 
-### DIRECTIONS: STEP-BY-STEP
+### INSTRUCTIONS: STEP-BY-STEP
 
 1. Preheat the oven to 350 degrees and lightly oil a rimmed sheet pan. 
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes; I let my kids cut the tofu, which explains the varied sizing. 
