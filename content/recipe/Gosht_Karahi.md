@@ -14,6 +14,7 @@ thumbnail= "images/karahigosht.jpg"
 Servings: 3-4 <!--more-->
 
 #### INGREDIENTS 
+
 * 1/2 cup [Ghee](https://amzn.to/2ZkJkrW), divided
 * 1 1/2 lb Goat, bone-in, cut into 1-inch pieces
 * 1 medium Yellow Onion, sliced
@@ -27,7 +28,7 @@ Servings: 3-4 <!--more-->
 * 1 cup Cilantro, chopped, divided, for garnish 
 * 1/4 cup Fresh Ginger, cut into batons, for garnish
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. In a heavy-bottomed pan, warm the ghee (1/4 cup) over medium-low heat.
 2. Add onion and cook until they become brown and caramelized. This step can take some time, that’s okay. You are building flavor for the dish. 
