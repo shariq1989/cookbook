@@ -28,7 +28,8 @@ Cuisine: Mexican, American
 * ½ cup Shredded Cheese 
 * ½ Yellow Onion, diced 
 * 1/2 tsp Chipotle Pepper, ground  
-#### DIRECTIONS 
+
+#### INSTRUCTIONS 
 
 1. Warm oil in a skillet over medium heat and add the white onions and potatoes. Cover the pan with a lid and cook until tender.
 2. Remove the lid and cook until the potatoes turn golden brown. 
@@ -64,7 +65,7 @@ Yes, you can. What I like to do, is to make a couple of batches so that I can fr
 
 To serve, reheat the burritos uncovered in the oven and 325 degrees until the burritos are warmed through, about 30 minutes. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Warm oil in a skillet over medium heat and add the white onions and potatoes. Cover the pan with a lid and cook until tender.
 
