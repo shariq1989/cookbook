@@ -41,7 +41,7 @@ For the Ranch Dressing:
 * ½ tsp Fresh Dill, finely chopped
 * ¼ tsp Paprika 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. In a small bowl, mix the flour, salt, and pepper. Rub the roast with the seasoning.
 2. Add oil to an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. Then, add the roast and brown the meat on all sides, 4-5 minutes per side, creating a crust. 
@@ -60,7 +60,7 @@ It's midweek, and you need a quick and easy meal. Reach for this Mississippi Roa
 
 I love a solid roast, but even more so because the original recipe began with a woman making food in her home. Hey, that sounds familiar. Back then, it didn't have the name Mississippi roast, but as it took the internet by storm, the name followed. 
 
-#### What main ingredients do you need for this meal?
+#### What main ingredients do I need for this meal?
 
 * Chuck Roast: Chuck roast is often the main ingredient of a Mississippi. I like chuck roast for this dish because it is inexpensive and holds up well in the cooking process. It takes a while to cook to make it easy enough to pull, but it will also feed a crowd.
 
@@ -73,7 +73,7 @@ I love a solid roast, but even more so because the original recipe began with a 
 * 2 small bowls
 * An [Instant Pot](https://amzn.to/3rOOdWW)
 
-#### Is Mississippi roast keto? Is Mississippi roast low-carb?
+#### Is Mississippi roast keto? Is it low-carb?
 
 Yes, it is. My suggestion would be to omit the flour from the recipe. You can still season the chuck roast with salt and pepper and sear it without the flour. I calculated the macros for the Mississippi roast to make it easier for you.  
 
