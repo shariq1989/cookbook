@@ -5,7 +5,8 @@ date = "2021-02-28"
 description = ""
 tags = [
     "side dish",
-    "Persian"
+    "vegan",
+    "vegetarian"
     
 ]
 thumbnail= "images/saffronrice.jpg"
@@ -29,7 +30,7 @@ Cuisine: Persian
 * 2 tbsp Boiling Water or Milk
 * 3 tbsp Butter, cut into tabs
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. Rinse the rice until the water runs clear, then soak in water for at least 20 minutes. 
 2. While waiting on the rice, add saffron to a mortar and pestle. You can also use a small bowl and the back of a spoon. Gently break down the stems into smaller pieces. Then, add boiling water or milk to the saffron. Stir and let it stand for 5 minutes.  
@@ -40,7 +41,7 @@ Cuisine: Persian
 7. Remove the rice from heat and layer the tabs of butter overtop the rice. Cover with the lid and set it aside steam for 5 minutes before serving. Let the rice stand until the butter infuses with the rice. 
 8. Using a fork, lightly fluff the rice and serve.
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Rinse the rice until the water runs clear, then soak in water for 20 minutes. 
 2. While waiting on the rice, add saffron to a mortar and pestle. You can also use a small bowl and the back of a spoon. Gently break down the stems into smaller pieces. Then, add boiling water or milk to the saffron. Stir and let it stand for 5 minutes. 
@@ -55,7 +56,7 @@ Cuisine: Persian
 
 Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. While expensive, a little goes a long way. As a rule of thumb, I use ½ teaspoon of saffron for every 1 cup of rice. 
 
-#### What main ingredients do you need for this meal?
+#### What main ingredients do I need for this meal?
 
 * Long Grained Basmati Rice: You can use other long-grained rice, but I recommend basmati. The key to a quality rice dish is taking the time to soak it; the longer, the better. By taking this step, your rice will have the length and luxury you want from good saffron rice. 
  
@@ -79,9 +80,7 @@ Saffron rice is easy to make and naturally vegetarian. To make this particular r
 
 Yes, allow the dish to cool completely, and then add it to a gallon Ziploc bag. The saffron rice will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm up a single serving in the microwave or add it all to a pan for a quick and easy side the whole family will enjoy.
 
-### DIRECTIONS: STEP-BY-STEP 
-
-#### STOVE-TOP DIRECTIONS 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Rinse the rice until the water runs clear, then soak in water for at least 20 minutes. 
 2. While waiting on the rice, add saffron to a mortar and pestle. You can also use a small bowl and the back of a spoon. Gently break down the stems into smaller pieces. Then, add boiling water or milk to the saffron. Stir and let it stand for 5 minutes.  
