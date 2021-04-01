@@ -40,7 +40,7 @@ For the Kabob:
 * 2-3 Serrano Peppers, whole 
 * Salt and Pepper, to taste 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 For the Marinade: 
 
