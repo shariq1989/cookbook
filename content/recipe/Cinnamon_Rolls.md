@@ -45,7 +45,7 @@ For the Frosting:
 * 1 tsp Vanilla
 * 1 tbsp Milk 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Preheat the oven to 425 degrees and combine the ingredients for the filling in a small bowl. Mix well and set aside. 
 2. In a large bowl, add all of the dry ingredients: flour, sugar, baking powder, baking soda, and salt. Set aside. 
@@ -101,7 +101,7 @@ If you somehow ended up with leftover cinnamon rolls, they will keep at room tem
 
 I do not recommend freezing already baked rolls unless you bake them and leave the frosting off of them. I often make two batches instead; I bake one and then freeze the other rolls for quick baking next time. To freeze, all you have to do is gather the rolls together and wrap them tightly in Saran wrap, then place them into a freezer-safe bag. The rolls will keep for up to 2 months. When you're ready to eat, let them defrost in the refrigerator overnight. Prepare the icing, warm your cinnamon rolls in the oven according to the baking instructions, and enjoy. 
 
-### DIRECTIONS: STEP-BY-STEP
+### INSTRUCTIONS: STEP-BY-STEP
 
 1. Preheat the oven to 425 degrees and combine the ingredients for the filling in a small bowl. Mix well and set aside.
 
