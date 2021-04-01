@@ -50,7 +50,7 @@ For the Curry:
 * 1/4 cup Heavy Cream
 * Cilantro, finely chopped, to garnish
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 For the Chicken: 
 
@@ -66,7 +66,7 @@ For the Curry:
 5. Return the mixture to the pan over low heat and stir in the butter and cream. Then, nestle the reserved chicken into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes. Adjust the temperature as necessary. 
 6. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
 
-#### INSTANT POT DIRECTIONS
+#### INSTANT POT INSTRUCTIONS
 
 For the Chicken: 
 
@@ -133,7 +133,7 @@ It is. We even calculated the macros for one chicken thigh and some of the sauce
 
 Yes, first allow the dish to cool completely and add it to a freezer-safe container. It will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop and prepare your sides.
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Chicken: 
 
