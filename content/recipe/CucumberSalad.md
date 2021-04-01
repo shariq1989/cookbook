@@ -30,7 +30,7 @@ Adapted From: Outdoor Chef Life
 * 6 Cocktail Cucumber, thinly sliced into rounds
 * 1/2 tbsp Toasted White Sesame Seeds
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. In a bowl, combine the kosher salt, rice wine vinegar, sesame oil, and soy sauce. Whisk together and set aside.  
 2. Thinly slice the cucumbers into rounds. 
@@ -55,14 +55,11 @@ Adapted From: Outdoor Chef Life
 
 * A small bowl 
 
-#### Is sunomono keto? Is sunomono low-carb?
-
-
 #### Can I freeze the sunomono?
 
-I would not recommend freezing the cucumbers. 
+I would not recommend freezing cucumbers. 
 
-### DIRECTION: STEP-BY-STEP
+### INSTRUCTIONS: STEP-BY-STEP
 
 1. In a bowl, combine the kosher salt, rice wine vinegar, sesame oil, and soy sauce. Whisk together and set aside.  
 
