@@ -33,7 +33,7 @@ Cuisine: Thai
 * 1/2 cup Mushrooms of your choice, quartered
 * Thai Basil, for garnish 
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. Warm the red curry paste and ginger paste in a heavy-bottomed pan over medium heat until fragrant, about 2 minutes.
 2. Add the onions and chicken to the pan and stir to coat. Fry for 3-5 minutes, then add the bell peppers and zucchini, saute for another minute.
@@ -41,7 +41,7 @@ Cuisine: Thai
 4. Reduce the heat to a light simmer and add the remaining coconut milk and fish sauce, along with the mushrooms. Allow the mixture to cook for 10 minutes. The curry should thicken, and the vegetables will reach a crisp-tenderness. If the curry does not thicken, add 2 tbsp cold water and stir to mix.
 5. Garnish with Thai basil leaves and serve with jasmine rice.
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. Warm the red curry paste and ginger paste in an [Instant Pot](https://amzn.to/2QR1gcY) on saute mode until fragrant, about 2 minutes.
 2. Add the onions and chicken, stir to coat. Fry for 3-5 minutes, then add the bell peppers and zucchini, saute for another minute.
@@ -66,7 +66,7 @@ Cuisine: Thai
 
 * A heavy-bottomed pan or [Instant Pot](https://amzn.to/2QR1gcY)
 
-#### Is vegetarian? Is it vegan?
+#### Is red Thai curry vegetarian? Is it vegan?
  
 This Thai red curry can easily be made vegetarian or vegan with a few substitutions. 
 
@@ -74,4 +74,4 @@ This Thai red curry can easily be made vegetarian or vegan with a few substituti
 
 * Be sure to omit the fish sauce. It won't alter the flavor of the dish too much. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
