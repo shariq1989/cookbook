@@ -29,7 +29,7 @@ Cuisine: Indian, Pakistani
 * 1/4 Cucumber, finely chopped
 * Optional: 1/2 Serrano Chili, finely chopped 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Combine the yogurt and the remaining ingredients, except the cucumber, into a food processor and blend until smooth. 
 2. Stir in the cucumber. 
