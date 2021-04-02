@@ -35,7 +35,7 @@ Cuisine: American
 * 1/4 cup Parmesan Cheese, to garnish  
 * Optional- Fresh Basil, to garnish
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Slice zucchinis length-wise and microwave in a dish for 3 minutes. Drain the excess fluid. 
 2. Lightly salt the strips and lay them on a cloth to dry. 
@@ -52,7 +52,7 @@ Cuisine: American
 
 Craving lasagna, but want to skip out on all the carbs or introduce more vegetables? Try this tasty zucchini lasagna. You won't even miss the real thing. 
 
-#### What main ingredients do you need for this meal?
+#### What main ingredients do I need for this meal?
 
 * Lean Ground Beef: Moisture is an issue with zucchini lasagna since the zucchinis release a lot of moisture. Lean ground beef has less fat and releases less moisture as a result. 
 
@@ -72,7 +72,7 @@ Craving lasagna, but want to skip out on all the carbs or introduce more vegetab
 * A small bowl 
 * A 9x13 [casserole dish](https://amzn.to/3bQmY8R) 
 
-#### Is zucchini lasagna keto? Is zucchini lasagna low-carb? 
+#### Is zucchini lasagna keto? Is it low-carb? 
 
 Zucchini Lasagna is a delicious low-carb alternative, and it will easily fit your keto macros. We took the time to calculate the macros to make it easier. The serving size for these calculations is one slice of lasagna. You can see the photo below for scale. 
 
@@ -80,12 +80,12 @@ Zucchini Lasagna is a delicious low-carb alternative, and it will easily fit you
 * PROTEIN– 22g
 * FAT– 22g
 
-#### Can I freeze the zucchini lasagna?
+#### Can I freeze zucchini lasagna?
 
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The zucchini lasagna can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, bake it uncovered in the oven at 375 degrees for 30 minutes. 
 
 
-### DIRECTIONS: STEP-BY-STEP
+### INSTRUCTIONS: STEP-BY-STEP
 
 1. Slice zucchinis length-wise and microwave in a dish for 3 minutes. Drain the excess fluid. 
 
@@ -130,4 +130,3 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 10. Let the lasagna cool before serving.
 
 {{< figure src="/images/zl12.jpg" class="instructionFigure">}}
-
