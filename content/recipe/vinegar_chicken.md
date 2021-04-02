@@ -31,7 +31,7 @@ Adapted from: New York Times, Alison Roman
 * 2-4 Garlic Cloves, minced 
 * 1 tbsp Fresh Parsley, chopped 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Preheat the oven to 450 degrees. 
 2. Place the chicken into a bag with olive oil and turmeric. Mix well. 
@@ -64,4 +64,4 @@ This recipe is by Alison Roman. Her dish was so bright and flavorful; I wanted t
 
 * A small bowl 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
