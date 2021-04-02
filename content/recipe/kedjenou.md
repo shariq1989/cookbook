@@ -46,7 +46,7 @@ For the Kedjenou Spice:
 * Salt, to taste
 * Pepper, to taste
 
-#### OVEN DIRECTIONS 
+#### OVEN INSTRUCTIONS 
 
 1. Preheat the oven to 350 degrees. 
 2. In a small bowl, mix the ingredients for the Kedjenou Spice. Use 2-3 tbsp to cover the chicken or lamb. Set aside to marinate for 30 minutes. 
@@ -55,7 +55,7 @@ For the Kedjenou Spice:
 5. Next, add ½ cup water, bay leaves, and thyme, then cover with a lid. Place it in the oven to cook for 1 hour, removing to shake the pot back and forth 2-3 times during the cooking process, as is custom.   
 6. Remove from the oven and allow the dish to cool some before serving. Eat as a stew or over a bed of rice. 
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. In a small bowl, mix the ingredients for the Kedjenou Spice Mix. Use 2 tbsp to cover the chicken or lamb. Set aside to marinate for 30 minutes. 
 2. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the lamb or chicken and saute for 4 minutes, moving around so that all the sides sear evenly. 
@@ -84,7 +84,7 @@ Kedjenou is popular in the Ivory Coast, a place known for its savory, slow-cooke
 
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. Kedjenou can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm on the stovetop, and enjoy!
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Preheat the oven to 350 degrees. 
 2. In a small bowl, mix the ingredients for the Kedjenou Spice. Use 2-3 tbsp to cover the chicken or lamb. Set aside to marinate for 30 minutes. 
