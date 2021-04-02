@@ -40,7 +40,7 @@ For the Jjigae:
 * ¼ tsp Ground Black Pepper
 * 1 Egg
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. In a saucepan, add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillion. If you're adding dried mushrooms to the dish, you can also add them during this step. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste with the Gochugaru, 2 tsp sesame oil, and ground black pepper. Set aside. 
@@ -71,11 +71,11 @@ Kimchi jjigae or kimchi stew is quickly becoming a favorite in our home, mainly 
 * A small bowl 
 * A [dutch oven](https://amzn.to/3lC91Pi) or [earthenware pot](https://amzn.to/3soWXDL)
 
-#### Is this kimchi jjigae vegetarian? Is this kimchi jjigae Vegan?
+#### Is kimchi jjigae vegetarian? Is it vegan?
 
 To make this particular recipe vegetarian and vegan-friendly, you will need to omit the fish sauce and the egg. Also, be sure to use the [Vegetable Better than Bouillion](https://amzn.to/3f8LK6e). 
 
-#### Is kimchi jjigae keto? Is kimchi jjigae low-carb?
+#### Is kimchi jjigae keto? Is it low-carb?
 
 Kimchi jjigae doesn't fit the macros for the keto diet, but it suits a low-carb way of eating. We even calculated the macros to make it easier for you.
 
@@ -83,11 +83,11 @@ Kimchi jjigae doesn't fit the macros for the keto diet, but it suits a low-carb 
 * PROTEIN– 14g
 * FAT– 14g
 
-#### Can I freeze the kimchi jjigae? 
+#### Can I freeze kimchi jjigae? 
 
 You sure can, but before freezing, remove the tofu from the dish. It doesn't reheat well. Then add the rest of the stew to a freezer-safe container. The kimchi stew will freeze for up to 3 months.
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 1. In a saucepan, add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillion. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 
@@ -114,6 +114,3 @@ You sure can, but before freezing, remove the tofu from the dish. It doesn't reh
 {{< figure src="/images/sdj5.jpg" class="instructionFigure">}}
 
 8. Garnish with extra Gochugaru if you prefer more spice and serve with a side of sticky rice. 
-
-
-
