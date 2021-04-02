@@ -34,7 +34,7 @@ Cuisine: Italian, American
 * 4 Kale Leaves, stem removed and chopped 
 * Parmesan Cheese, to garnish 
 
-#### STOVE-TOP DIRECTIONS 
+#### STOVE-TOP INSTRUCTIONS 
 
 1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
@@ -42,7 +42,7 @@ Cuisine: Italian, American
 4. Cook the soup on low-medium heat for 1 hour, stirring occasionally.  
 5. Off heat, mix in the kale and heavy cream about 10 minutes before serving. 
 
-#### INSTANT POT DIRECTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. In an [Instant Pot](https://amzn.to/3w5GDtJ), cook the sausage on saute mode until brown. 
 2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
@@ -50,11 +50,11 @@ Cuisine: Italian, American
 4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
 5. Unplug and allow the soup to cool, then mix in the kale and heavy cream about 10 minutes before serving. 
 
-#### ABOUT THE MEAL
+### ABOUT THE MEAL
 
 There are multiple versions of this recipe floating around the internet. Honestly, it makes sense. Zuppa Toscana is tasty! Before learning to make it at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks,
 
-#### What main ingredients do you need for this meal?
+#### What main ingredients do I need for this meal?
 
 * Ground Italian Sausage: Control the heat using mild or spicy Italian sausage.  We prefer to switch it up depending on who we are serving.
 
@@ -70,7 +70,7 @@ There are multiple versions of this recipe floating around the internet. Honestl
 
 * A [dutch oven](https://amzn.to/3sFYTY1) or an [Instant Pot](https://amzn.to/3w5GDtJ)
 
-#### Is Zuppa Toscana keto or low-carb? 
+#### Is Zuppa Toscana keto? Is it low-carb? 
 
 The macros are high for a keto diet. For a low-carb diet, it is a solid meal with one substitution. Replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get the flavor of the original recipe. We even calculated the macros to make it easy for you.
 
@@ -84,7 +84,7 @@ You can also substitute half in half for the heavy cream to reduce the carbs and
 
 Yes, first allow the dish to cool completely and then add it to a freezer-safe container. Zuppa Toscana will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove and enjoy.
 
-### DIRECTIONS: STEP-BY-STEP  
+### INSTRUCTIONS: STEP-BY-STEP  
 
 1. In an Instant Pot, cook the sausage on saute mode until brown. 
 
