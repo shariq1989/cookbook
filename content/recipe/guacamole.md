@@ -32,7 +32,7 @@ Cuisine: Mexican
 * 1/2 tsp Salt 
 * 1/4 tsp Cumin 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 1. Slice the avocados in half, remove the pit, and scoop them into a small bowl. 
 2. Mash the avocados with a fork. Leave it chunky or whip it smooth, whichever you prefer. 
@@ -43,7 +43,7 @@ Cuisine: Mexican
 
 The only thing you need to make guacamole is a few ripe avocados and a little bit of salt; everything else is extra but oh so tasty. This recipe is how our family likes to prepare it. 
 
-#### What main ingredients do you need for this meal?
+#### What main ingredients do I need for this meal?
 
 * Avocado: You will want to use large avocados for this recipe- the riper, the better. If you cannot find large avocadoes, use 4-5 smaller ones. Check for ripeness by gently pressing the outside of the avocado. If there is no give, the avocado is not ripe. If there is just a little give, the avocado is ripe. If there is too much give, the avocado may be past ripe. 
 
@@ -59,11 +59,11 @@ The only thing you need to make guacamole is a few ripe avocados and a little bi
 
 * A small bowl 
 
-#### Is guacamole vegetarian? Is guacamole vegan?
+#### Is guacamole vegetarian? Is it vegan?
 
 This guacamole recipe is easy to make, and naturally vegetarian and vegan-friendly. 
 
-#### Is guacamole keto? Is guacamole low-carb? 
+#### Is guacamole keto? Is it low-carb? 
 
 Yes, it is, and we even calculated the macros to make it easier for you.
 
@@ -71,11 +71,11 @@ Yes, it is, and we even calculated the macros to make it easier for you.
 * PROTEIN– 2g
 * FAT– 16g 
 
-#### How should I store my guacamole?
+#### How should I store guacamole?
 
 This guacamole keeps well in the refrigerator if stored properly. Add the guacamole to an airtight container. I leave the pit in the guacamole and place Saran wrap on top, press down so that the plastic covers any exposed guacamole. Cover the dish with the lid; it will keep up to 3-5 days.
 
- ### DIRECTIONS: STEP-BY-STEP
+ ### INSTRUCTIONS: STEP-BY-STEP
 
 1. Slice the avocados in half, remove the pit, and scoop them into a small bowl. 
 
