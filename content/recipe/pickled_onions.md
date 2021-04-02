@@ -24,7 +24,7 @@ Cooling Time: 30 minutes
 * 1 tsp Himalayan Salt 
 * 1 tbsp Honey
   
-#### DIRECTIONS
+#### INSTRUCTIONS
 
  1. Slice the onions thinly and pack them into the bottom of a mason jar. Set aside. 
  2. In a saucepan, add the water, distilled vinegar, apple cider vinegar, salt, and honey. Whisk the ingredients together and bring them to a simmer over medium heat. 
@@ -59,7 +59,7 @@ This recipe doesn't fit strict keto macros, but if you're using them as a small 
 
 The serving size for this calculation is 1/2 cup. 
 
-#### How do I store the pickled onions?
+#### How do I store pickled onions?
 
 After the onions have cooled, seal the mason jar and refrigerate it. The onions will keep in the refrigerator for 2-3 weeks. 
 
@@ -67,7 +67,7 @@ After the onions have cooled, seal the mason jar and refrigerate it. The onions 
 
 Use pickled onions to dress up all sorts of Mexican dishes, like tacos or burritos. You can also add them to sandwiches, bean dishes, soups, pitas, and salads, or use them as a side to go along with BBQ pulled meats. 
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
  1. Slice the onions and pack them into a mason jar. Set aside. 
  
