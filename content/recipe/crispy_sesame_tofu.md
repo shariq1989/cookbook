@@ -41,7 +41,7 @@ For the Tofu:
 * 6 tsp Water 
 * ¼ cup Vegetable Oil, for pan-frying
    
-#### DIRECTIONS 
+#### INSTRUCTIONS 
 
 For the Dressing: 
 
@@ -65,7 +65,7 @@ For the Frying:
 
 ### ABOUT THE MEAL
 
-#### What main ingredients do you need for this meal?
+#### What main ingredients do I need for this meal?
 
 * Extra-Firm Tofu: This is the best tofu to use for frying. 
 
@@ -86,7 +86,7 @@ For the Frying:
 
 This dish is flavorful and both vegetarian and vegan-friendly.
 
-### DIRECTIONS: STEP-BY-STEP 
+### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Dressing: 
 
@@ -110,7 +110,6 @@ For the Tofu:
 {{< figure src="/images/cst2.jpg" class="instructionFigure">}}
 
 4. Dip the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a plate. Repeat with remaining tofu slices.
-
 
 {{< figure src="/images/cst4.jpg" class="instructionFigure">}}
 
