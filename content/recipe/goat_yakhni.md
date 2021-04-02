@@ -40,7 +40,8 @@ Cuisine: Indian, Pakistani
 * 1 lb Goat, cut into 1-inch pieces, bone-in, plus extra bones if you have them 
 * 4 cup Water 
 
-#### DIRECTIONS 
+#### INSTRUCTIONS
+
 1. In the [Instant Pot](https://amzn.to/3qLtTEw), warm the ghee on saute mode. Then add the onions and cook until they become translucent and soften. 
 2. While the onions are cooking, add the spices, apart from salt, to the [spice infuser](https://amzn.to/38zcQ2w). Set aside. 
 3. Add the garlic, ginger, green chili, and cinnamon stick to the Instant Pot and let it cook until aromatic. 
@@ -80,10 +81,10 @@ Yakhni both is keto and low-carb and packed full of nutrients that can even help
 
 If you strain the onions, the net carbs drop to 1g.
 
-#### What is Yakhni good for? 
+#### What are the benefits of Yakhni? 
 
 Yakhni is highly nutritious and a meal all on its own. It has soothing qualities, helpful for people with colds, stomachaches, and morning sickness. The meat and spices marinate to create the soup, leaving it tasty and mineral-dense. One of the main ingredients for yakhni is goat bones, or collagen; collagen is essential for hair and nail health, as well as joint wellness.
 
-#### Can I freeze the Yakhni?
+#### Can I freeze Yakhni?
 
 You sure can. As I mentioned, my mother-in-law often made multiple batches of yakhni soup and froze them for me before teaching me how to make it. First, allow the yakhni to cool completely and then add it to a freezer-safe container. I prefer to freeze it in individual containers to make defrosting it easier. Yakhni can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the microwave and enjoy. 
