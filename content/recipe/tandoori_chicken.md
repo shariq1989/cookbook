@@ -85,3 +85,23 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 Yes, first allow the drumsticks to cool completely and then add them to a freezer-safe container. Chicken drumsticks will freeze for up to 4months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the oven or the microwave. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
+
+1. In a blender or food processor, mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, garam masala, red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
+
+{{< figure src="/images/tc1.jpg" class="instructionFigure">}}
+
+2. Make 1-2 small slits in each drumstick and then add the chicken and toss until drumsticks are fully coated. Cover and marinate in the refrigerator for at least 6-8 hours, preferably 24 hours.
+
+{{< figure src="/images/tc2.jpg" class="instructionFigure">}}
+
+
+3. Remove the drumsticks from the refrigerator and leave the excess marinade behind before cooking the chicken.
+4. Preheat the oven to 400 degrees and then set a wire rack into a rimmed baking sheet; line the drumsticks onto it. 
+5. Cook for 25-30 minutes, flipping the drumsticks halfway through.
+
+{{< figure src="/images/tc3.jpg" class="instructionFigure">}}
+
+6. Let the chicken rest for about 10 minutes before serving. 
+7. Garnish with lemon wedges and [raita](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad.
+
+{{< figure src="/images/tc4.jpg" class="instructionFigure">}}
