@@ -5,7 +5,7 @@ description = ""
 tags = [
     "entree",
     "slow cooker", 
-
+]
 #thumbnail= "images/stroganoff.jpg"
 +++
 
