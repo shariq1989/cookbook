@@ -1,7 +1,7 @@
 
 +++
 title = "Peanut and Lime Shrimp"
-date = "2021-02-09"
+date = "2021-04-05"
 description = ""
 tags = [
     "entree",
@@ -64,10 +64,6 @@ Cuisine: American
 * A small bowl 
 * A spice grinder, coffee grinder, or mortar and pestle
 * A large skillet 
-
-#### Is peanut and lime shrimp keto? Is it low-carb?
-
-#### Can I freeze peanut and lime shrimp?
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
