@@ -2,7 +2,7 @@
 +++
 title = "Peanut and Lime Shrimp"
 date = "2021-04-05"
-description = "This shrimp dish is both light and fresh. The crunch of the peanuts, the warmth of the spices, and the zest of the lime make for the complete meal."
+description = "This shrimp dish is light and fresh. The crunch of the peanuts, the warmth of the spices, and the zest of the lime make a complete meal."
 tags = [
     "entree",
   
@@ -20,7 +20,7 @@ Cuisine: American
 
 #### INGREDIENTS 
 
-* 1 ½ lb colossal or extra-large Shrimp, peeled and deveined, tails removed and set aside
+* 1-2 lb colossal Shrimp, peeled and deveined, tails removed and set aside
 * ½ tsp Kosher Salt
 * 1 tsp Black Peppercorns
 * 2 tsp [Coriander Seeds](https://amzn.to/3rVIRcC)
@@ -28,7 +28,7 @@ Cuisine: American
 * 1/2 tsp Cayenne Powder 
 * 2 Garlic Clove, minced
 * 1 ⅛ tsp Sugar, divided
-* ⅛ tsp Red Pepper Flakes
+* ⅛ tsp Crushed Red Peppers
 * 4 tsp Avocado Oil, divided
 * ½ cup Cilantro, chopped
 * 1 tbsp Lime Juice, plus lime wedges to garnish
@@ -50,15 +50,17 @@ Cuisine: American
 
 ### ABOUT THE MEAL 
 
+We love this meal because it is healthy and fresh, but also easy to make. 
+
 #### What main ingredients do I need for this meal?
 
 * Shrimp: Use any size shrimp, but be sure to adjust the cooking time accordingly. I highly recommend using colossal shrimp. 
 
-* Spices: I use a combination of peppercorns, coriander, paprika, cayenne, and salt. 
+* Spices: I use a combination of peppercorns, coriander, paprika, cayenne, and salt to season the shrimp.  
 
-* Peanuts: Peanuts deliver a nice crunch to balance the other textures. 
+* Peanuts: Peanuts deliver a nice crunch and nuttiness. 
 
-* Lime: The zest from the lime brings much-needed acid to the dish. 
+* Lime: I always love lime paired with shrimp. 
 
 #### What equipment do I need to make this recipe?
 
@@ -68,7 +70,7 @@ Cuisine: American
 
 #### Can I freeze peanut and lime shrimp?
 
-I would not recommend freezing this dish. 
+I would not recommend freezing the shrimp. On the flip side, this leaves more for you to eat. Leftovers will keep well in the refrigerator for 2-4 days. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
