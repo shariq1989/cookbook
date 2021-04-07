@@ -7,7 +7,7 @@ tags = [
     "entree",
    
 ]
-#thumbnail= "images/rindsgulasch.jpg"
+thumbnail= "images/rindsgulasch.jpg"
 +++
 
 Servings: 6<!--more-->
@@ -77,3 +77,35 @@ Adapted from: Milk Street
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. Rindsgulasch will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on a stovetop and prepare your sides.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
+
+1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, stir to coat, and set aside. 
+
+{{< figure src="/images/rgl1.jpg" class="instructionFigure">}
+
+2. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter on saute mode. Add the onion and cook until the onions become translucent and soften. 
+
+{{< figure src="/images/rgl2.jpg" class="instructionFigure">}
+
+3. Stir in the caraway seeds, garlic, and flour, cooking until flour browns. 
+
+{{< figure src="/images/rgl3.jpg" class="instructionFigure">}
+
+4. Add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
+
+{{< figure src="/images/rgl4.jpg" class="instructionFigure">}
+
+5. Slowly whisk in the water, Better than Boullion, and tomato paste while allowing it to simmer. 
+
+{{< figure src="/images/rgl5.jpg" class="instructionFigure">}
+
+6. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on manual high pressure for 60 minutes with a 20-minute natural release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
+
+{{< figure src="/images/rgl6.jpg" class="instructionFigure">}
+
+7. Stir in the fresh dill and apple cider vinegar. 
+
+{{< figure src="/images/rgl7.jpg" class="instructionFigure">}
+
+8. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
+
+{{< figure src="/images/rgl8.jpg" class="instructionFigure">}
