@@ -1,6 +1,6 @@
 +++
 title = "Rindsgulasch - Austrian Beef Goulash"
-date = "2020-01-27"
+date = "2021-04-06"
 description = "Goulash has so many variations. This recipe is for Austrian beef goulash. The beef is tender and has the classic gravy that is dark, smooth, and thick."
 tags = [
     "instant pot",
