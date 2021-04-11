@@ -53,6 +53,11 @@ Cooking Time: 20 minutes
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Place eggs in a single layer on the [trivet](https://amzn.to/38G3NNi) in an [Instant Pot](https://amzn.to/3qfNYCZ) and add 1 cup of water. Secure the lid and set it to manual high pressure for 5 minutes. Allow for natural release for 5 minutes, followed by an ice bath for another 5 minutes.  
+
+{{< figure src="/images/de1.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/de2.jpg" class="instructionFigure">}}
+
 2. Crack egg shells and carefully peel under cool running water. Gently dry with paper towels. 
 3. Slice the eggs in half lengthwise, removing yolks into a bowl; place the whites on a serving platter. 
 
