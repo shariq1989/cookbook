@@ -77,8 +77,12 @@ I would not recommend freezing the shrimp. On the flip side, this leaves more fo
 {{< figure src="/images/pls1.jpg" class="instructionFigure">}}
 
 1. Peel and devein the shrimp. Set tails aside. 
-2. Toss the shrimp and some of the salt in a bowl. Set aside for 15 minutes.)
+2. Toss the shrimp and some of the salt in a bowl. Set aside for 15 minutes.
 3. Grind the peppercorns and coriander seeds until coarsely ground. Transfer to a bowl and stir in the paprika, cayenne, minced garlic, 1 tsp sugar, red pepper flakes, and salt to taste.
+
+{{< figure src="/images/pls0.jpg" class="instructionFigure">}}
+
+
 4. Pat dry the shrimp to remove excess moisture. Add 1 tbsp oil and the remaining sugar to the bowl with shrimp and toss to coat.
 5. In a large skillet, add 1 tsp oil and add the shrimp tails to build flavor. Fry the shrimp tails over medium heat for 30 seconds and discard. 
 
@@ -97,3 +101,5 @@ I would not recommend freezing the shrimp. On the flip side, this leaves more fo
 
 9. Return the shrimp to skillet and add cilantro and lime juice. Toss to combine.
 10. Transfer the shrimp to a platter, garnish with lime wedges, and serve with creamy coconut cauliflower rice. 
+
+{{< figure src="/images/pls6.jpg" class="instructionFigure">}}
