@@ -8,7 +8,7 @@ tags = [
     "keto",
     
 ]
-thumbnail= "images/bbqchicken.jpg "
+thumbnail= "images/BBQDrumsticks.jpg"
 +++
 
 Servings: 4 <!--more-->
@@ -88,3 +88,25 @@ For the BBQ Sauce- 2 tbsp:
 Yes, first allow the drumsticks to cool completely, wrap them in aluminum foil, and add them to a freezer-safe container or Ziploc bag. The BBQ drumsticks will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm them in the oven or microwave. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
+
+1. In a large bowl, mix the spices for the rub and massage them into the drumsticks. Cover and marinate in the refrigerator for 6 hours.
+
+{{< figure src="/images/bds1.jpg" class="instructionFigure">}}
+
+2. Preheat the grill by setting all burners to high heat for about 10 minutes.
+3. Turn off the rightmost burner, but maintain a grill temperature of 350 degrees. Adjust the temperature accordingly.
+4. Oil the grates and cook the drumsticks on the hottest side of the grill. Cook until they become blistered, about 5 minutes. I check them halfway through to prevent burning. 
+
+{{< figure src="/images/bds2.jpg" class="instructionFigure">}}
+
+5. Flip the drumsticks and cook for another 5 minutes to establish blistering on the other side. Again, check them halfway through. 
+
+{{< figure src="/images/bds3.jpg" class="instructionFigure">}}
+
+6. Move the drumsticks to the cool side of the grill, the rightmost burner you turned off, and cook them for 25 minutes. Check throughout to make sure the grill maintains a temperature of 350 degrees. 
+7. Flip the drumsticks; continue cooking until the chicken has reached over 170 degrees, 20-30 minutes.
+8. Brush the drumsticks with bbq sauce and move them, sauce side down, to the hot side of the grill; cook for 1 minute. 
+9. Brush the other side with bbq sauce, and cook on that side for another minute.  
+10. Remove the chicken from heat and let them rest for 10 minutes before serving.
+
+{{< figure src="/images/bds4.jpg" class="instructionFigure">}}
