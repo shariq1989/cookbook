@@ -129,3 +129,5 @@ To Serve:
 
 1. Remove the eggs with a slotted spoon and set them onto the bed of greens.
 2. Top the eggs with the hollandaise sauce, and enjoy right away! 
+
+{{< figure src="/images/bandeb8.jpg" class="instructionFigure">}}
