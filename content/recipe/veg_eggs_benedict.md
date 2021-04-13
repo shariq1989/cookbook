@@ -57,6 +57,7 @@ For the  Greens:
 1. While the water for the eggs is coming to a boil, warm oil in a small saute pan. 
 2. Add the spinach and argula. Cook until wilted. 
 3. Stir in the salt and red chili flakes until combined. 
+4. Plate the greens and top them with sliced avocado. 
 
 To Serve: 
 
@@ -122,6 +123,7 @@ For the  Greens:
 1. While the water for the eggs is coming to a boil, warm oil in a small saute pan. 
 2. Add the spinach and argula. Cook until wilted. 
 3. Stir in the salt and red chili flakes until combined. 
+4. Plate the greens and top them with sliced avocado. 
 
 {{< figure src="/images/bandeb3.jpg" class="instructionFigure">}}
 
