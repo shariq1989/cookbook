@@ -1,20 +1,15 @@
 +++
 title = "Cold Brew Coffee"
 date = "2020-01-18"
-description = "Make cold brew easy at home. Now you can buy and grind your own beans to enjoy fresh coffee."
+description = "You can buy and grind your own beans to enjoy fresh cold brew coffee right in your own home."
 tags = [
-    "coffee",
-    "drink"
+    "drink",
 ]
 
 thumbnail= "images/coldbrew.jpg"
 +++
 
-Servings: 12 drinks <!--more-->
-
-Preparation Time: 20 minutes 
-
-Brewing Time: 12 hours 
+Servings: 12 Cold Brews <!--more-->
 
 #### INGREDIENTS
 
