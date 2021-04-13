@@ -7,7 +7,7 @@ tags = [
     "drink"
 ]
 
-#thumbnail= "images/banana-bread.jpg"
+thumbnail= "images/coldbrew.jpg"
 +++
 
 Servings: 12 drinks <!--more-->
@@ -18,12 +18,13 @@ Brewing Time: 12 hours
 
 #### INGREDIENTS
 
-To Brew the Coffee: 
+For the Coffee Brewing: 
 
 * 10 oz Coffee, coursely ground
 * 11 cups Water 
 
-For and 8 oz Glass of Cold Brew: 
+For the Cold Brew: 
+
 * Ice 
 * 1/3 cup Cold Brew Concentrate 
 * 2 tbsp Heavy Cream 
@@ -32,7 +33,7 @@ For and 8 oz Glass of Cold Brew:
 
 #### INSTRUCTIONS 
 
-To Brew the Coffee: 
+For the Coffee Brewing: 
 
 1. Insert rubber stopper and filter into the [Toddy's] brewing container. 
 2. Pour one cup of water into the container.
@@ -45,7 +46,7 @@ To Brew the Coffee:
 9. Once coffee stops dripping, about 15 minutes, toss the content of the brewing container.
 10. Remove the filter and store in a ziploc bag inside the freezer.  
 
-To Make Cold Brew: 
+For the Cold Brew: 
 
 1. Add ice to a glass.  
 2. Fill 1/3 of the glass with cold brew concentrate. 
@@ -73,21 +74,42 @@ Yes, you sure can. In fact, that's the only way Shariq will drink it. On the occ
 
 ### INSTRUCTIONS: STEP-BY-STEP
 
-To Brew the Coffee: 
+For the Coffee Brewing: 
 
 1. Insert rubber stopper and filter into the [Toddy's] brewing container. 
+
+{{< figure src="/images/coldb1.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/coldb2.jpg" class="instructionFigure">}}
+
 2. Pour one cup of water into the container.
 3. Using a food scale, measure out six ounces of coffee and por it into the container.
+
+{{< figure src="/images/coldb3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/coldb4.jpg" class="instructionFigure">}}
+
 4. Pour another six ounces of water into the container. Let it sit for five minutes.
+
+{{< figure src="/images/coldb6.jpg" class="instructionFigure">}}
+
 5. Pour four ounces of coffee into the container.
+
+{{< figure src="/images/coldb7.jpg" class="instructionFigure">}}
+
 6. Pour four ounces of water into the container.
 7. Let the Toddy sit for twelve hours. 
 8. Place the container on top of the decanter and remove the stopper.
 9. Once coffee stops dripping, about 15 minutes, toss the content of the brewing container.
-10. Remove the filter and store in a ziploc bag inside the freezer. 
+10. Remove the filter and store in a ziploc bag inside the freezer.  
 
-To Make Cold Brew: 
+For the Cold Brew: 
 
 1. Add ice to a glass.  
 2. Fill 1/3 of the glass with cold brew concentrate. 
+
+{{< figure src="/images/coldb9.jpg" class="instructionFigure">}}
+
 3. Add the water and top the glass with heavy cream and sweetener of your choice. 
+
+{{< figure src="/images/coldbrew.jpg" class="instructionFigure">}}
