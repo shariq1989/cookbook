@@ -71,7 +71,7 @@ Also, you may be looking at the cooking time for this recipe and asking, why? Do
 
 * BBQ Sauce: I am sure there are many tasty BBQ sauces out there I don't know about, but our family go-to is [Sweet Baby Ray's](https://amzn.to/2NsxauJ). This brand is always delicious, and they offer [sugar-free](https://amzn.to/2MYvhWR), which makes everyone in the family happy. 
 
-* BBQ Rub: You can use your favorite rub, but I prefer the homemade rub used in this recipe. Oftentimes, I double or triple the batch and put it in an airtight container to have some on hand. The rub will keep for up to 3 months. If you choose to go the store-bought route, we suggest using [Montreal's](https://amzn.to/2QOX1P8) mixed with a little brown sugar, about 2 tbsp.
+* BBQ Rub: You can use your favorite rub, but I prefer the homemade rub used in this recipe. Often, I will double or triple the batch and put it in an airtight container to have some on hand. The rub will keep for up to 3 months. If you choose to go the store-bought route, we suggest using [Montreal's](https://amzn.to/2QOX1P8) mixed with brown sugar, about 2 tbsp.
 
 #### What equipment do I need to make this recipe?
 
