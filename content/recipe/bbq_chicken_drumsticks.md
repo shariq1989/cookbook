@@ -1,6 +1,6 @@
 +++
 title = "BBQ Chicken Drumsticks"
-date = "2021-12-04"
+date = "2021-04-12"
 description = "Enjoy these grilled, marinated barbeque chicken drumsticks. We glaze ours with Sweet Baby Ray's and use a rub of our own for maximum flavor."
 tags = [
     "entree",
