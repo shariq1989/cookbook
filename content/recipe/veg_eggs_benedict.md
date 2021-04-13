@@ -96,26 +96,26 @@ For the Hollandaise Sauce:
 3. Next, mix in the lemon juice, salt, and cayenne powder. 
 4. Set aside. 
 
-{{< figure src="/images/bandeb1.jpg" class="instructionFigure">}}
+{{< figure src="/images/eb1.jpg" class="instructionFigure">}}
 
 For the Poached Eggs: 
 
 1. Crack an egg into a small sieve over the the bowl with the eggs whites from the hollandaise sauce. Do this to remove the excess egg white. Then, place the egg in a ramekin. Repeat with the rest of the eggs. 
 
-{{< figure src="/images/bandeb4.jpg" class="instructionFigure">}}
+{{< figure src="/images/eb4.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/bandeb5.jpg" class="instructionFigure">}}
+{{< figure src="/images/eb5.jpg" class="instructionFigure">}}
 
 2. Bring a sauce pan pot of water (at least 4 inches of water) to a boil (SEE THE INSTRUCTIONS FOR GREENS). 
 3. Stir the vinegar into the water and swirl. While the water is swirling, add the eggs and cook for 3 minutes.
 
-{{< figure src="/images/bandeb6.jpg" class="instructionFigure">}}
+{{< figure src="/images/eb6.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/bandeb7.jpg" class="instructionFigure">}}
+{{< figure src="/images/eb7.jpg" class="instructionFigure">}}
 
 4. While the eggs are cooking, set a trivet over the boiling water and set the reserved hollandaise mixture onto the trivet and continue whisking while the eggs cook and hollandaise sauce warms. 
 
-{{< figure src="/images/bandeb2.jpg" class="instructionFigure">}}
+{{< figure src="/images/eb2.jpg" class="instructionFigure">}}
 
 
 For the  Greens: 
@@ -125,11 +125,11 @@ For the  Greens:
 3. Stir in the salt and red chili flakes until combined. 
 4. Plate the greens and top them with sliced avocado. 
 
-{{< figure src="/images/bandeb3.jpg" class="instructionFigure">}}
+{{< figure src="/images/eb3.jpg" class="instructionFigure">}}
 
 To Serve: 
 
 1. Remove the eggs with a slotted spoon and set them onto the bed of greens.
 2. Top the eggs with the hollandaise sauce, and enjoy right away! 
 
-{{< figure src="/images/bandeb8.jpg" class="instructionFigure">}}
+{{< figure src="/images/eb8.jpg" class="instructionFigure">}}
