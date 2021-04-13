@@ -5,6 +5,7 @@ description = ""
 tags = [
     "entree",
     "vegetarian",
+    "breakfast"
 ]
 thumbnail= "images/vegeggsbenedict.jpg"
 +++
