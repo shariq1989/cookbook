@@ -39,26 +39,24 @@ Cuisine: Indian, Pakistani
 #### OVEN INSTRUCTIONS 
 
 1. In a blender or food processor, mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, garam masala, red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
-2. Make 1-2 small slits in each drumstick and then add the chicken and toss until drumsticks are fully coated. Cover and marinate in the refrigerator for at least 6-8 hours, preferably 24 hours.
-3. Remove the drumsticks from the refrigerator and leave the excess marinade behind before cooking the chicken.
-4. Preheat the oven to 400 degrees and then set a wire rack into a rimmed baking sheet; line the drumsticks onto it. 
-5. Cook for 25-30 minutes, flipping the drumsticks halfway through.
-6. Let the chicken rest for about 10 minutes before serving. 
-7. Garnish with lemon wedges and [raita](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad. 
+2. Make 1-2 small slits in each drumstick and then add the chicken and toss until drumsticks are fully coated. Cover and marinate in the refrigerator for at least 6 hours, preferably 24 hours. Yes, it is a long time, but it makes it oh so good. 
+3. Preheat the oven to 400 degrees and then set a wire rack into a rimmed baking sheet; line the drumsticks onto it, leaving the excess marinade behind. 
+4. Cook for 25-30 minutes, flipping the drumsticks halfway through. Check to make sure the temperature has reached 170 degrees. 
+5. Let the chicken rest for about 5 minutes before serving. 
+6. Garnish with lemon wedges and [raita](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad. 
 
 #### GRILL INSTRUCTIONS
 
 1. In a blender or food processor, mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, garam masala, red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
 2. Make 1-2 small slits in each drumstick and then add the chicken and toss until drumsticks are fully coated. Cover and marinate in the refrigerator for at least 6-8 hours, preferably 24 hours.
-3. Remove the drumsticks from the refrigerator and leave the excess marinade behind before cooking the chicken.
-4. Preheat the grill by setting all burners to high, about 10 minutes. 
-5. Turn off the rightmost burner, but maintain a grill temperature of 350 degrees.
-6. Oil the grates and cook the drumsticks on the hottest side of the grill. Cook until they blister, about 5 minutes.
-7. Flip the drumsticks and cook for another 4-6 minutes. 
-8. Move the drumsticks to the cool side of the grill, the rightmost burner you turned off, and cook them for 25 minutes.
-9. Flip the drumsticks; continue cooking until the chicken has reached over 170 degrees, about 20-30 minutes. 
-10. Let the chicken rest for about 10 minutes before serving. 
-11. Garnish with lemon wedges and [raita](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad. 
+3. Preheat the grill by setting all burners to high, about 10 minutes. 
+4. Turn off the rightmost burner, but maintain a grill temperature of 350 degrees.
+5. Oil the grates and cook the drumsticks on the hottest side of the grill; be sure to leave the excess marinade behind. Cook until they blister, about 5 minutes.
+6. Flip the drumsticks and cook for another 4-6 minutes. 
+7. Move the drumsticks to the cool side of the grill, the rightmost burner you turned off, and cook them for 25 minutes.
+8. Flip the drumsticks; continue cooking until the chicken has reached over 170 degrees, about 20-30 minutes. 
+9. Let the chicken rest for about 10 minutes before serving. 
+10. Garnish with lemon wedges and [raita](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad. 
 
 ### ABOUT THE MEAL 
 
@@ -80,9 +78,9 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 * 1-2 rimmed bakings sheets 
 * A wire rack 
 
-####  Can I freeze the drumsticks?
+####  Can I freeze drumsticks?
 
-Yes, first allow the drumsticks to cool completely and then add them to a freezer-safe container. Chicken drumsticks will freeze for up to 4months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the oven or the microwave. 
+Yes, first allow the drumsticks to cool completely and then add them to a freezer-safe container. Chicken drumsticks will freeze for up to 4 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it in the oven or the microwave. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
