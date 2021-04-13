@@ -36,7 +36,17 @@ For the Chicken:
 * 8 Chicken Drumsticks, skin on, and bone-in
 * BBQ Sauce of your choice, we like [Sweet Baby Rays](https://amzn.to/2NsxauJ) or the [sugar-free](https://amzn.to/2MYvhWR) version
 
-#### INSTRUCTIONS
+#### GRILL INSTRUCTIONS
+
+1. In a large bowl, mix the spices for the rub and massage them into the drumsticks. Cover and marinate in the refrigerator for 6 hours.
+2. Preheat the grill by setting all burners to high heat for about 10 minutes.
+3. Preheat the oven to 400 degrees and then set a wire rack into a rimmed baking sheet; line the drumsticks onto it.
+4. Cook for 25-30 minutes, flipping the drumsticks halfway through.
+5. Brush the drumsticks with bbq sauce and cook them for 3 minutes, sauce side down. 
+6. Brush the other side with bbq sauce, and cook for another 2 minutes.  
+7. Remove the chicken from heat and let them rest for about 5 minutes before serving.
+
+#### GRILL INSTRUCTION 
 
 1. In a large bowl, mix the spices for the rub and massage them into the drumsticks. Cover and marinate in the refrigerator for 6 hours.
 2. Preheat the grill by setting all burners to high heat for about 10 minutes.
@@ -47,13 +57,13 @@ For the Chicken:
 7. Flip the drumsticks; continue cooking until the chicken has reached over 170 degrees, 20-30 minutes.
 8. Brush the drumsticks with bbq sauce and move them, sauce side down, to the hot side of the grill; cook for 1 minute. 
 9. Brush the other side with bbq sauce, and cook on that side for another minute.  
-10. Remove the chicken from heat and let them rest for 10 minutes before serving.
+10. Remove the chicken from heat and let them rest for 5 minutes before serving.
 
 ### ABOUT THE MEAL 
 
 We love get-togethers with family and friends; these BBQ chicken drumsticks are a perfect addition to any cookout, picnic, or backyard gathering. 
 
-You may be looking at the cooking time for the recipe and asking, why? Do I really have to cook drumsticks for that long? Trust me, this is process of using indirect heat yeilds the best results every time. The chicken will come out moist and cooked perfectly on the inside while still having the blistered outside you expect when eating a BBQ drumstick. 
+You may be looking at the cooking time for the recipe and asking, why? Do I have to cook the drumsticks for that long? Trust me, using indirect heat yields the best results every time. The chicken will come out moist and cooked perfectly on the inside while still having the blistered outside you expect when eating a BBQ drumstick. 
 
 #### What main ingredients do I need for this meal?
 
