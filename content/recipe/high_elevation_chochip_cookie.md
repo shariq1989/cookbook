@@ -6,7 +6,8 @@ tags = [
     "dessert", 
     "vegetarian"
 ]
-thumbnail="images/highelevationcookies.jpg"
+thumbnail="images/highelevationcookies.jpg "
+
 +++
 
 Servings: 2 1/2 Dozen <!--more-->
