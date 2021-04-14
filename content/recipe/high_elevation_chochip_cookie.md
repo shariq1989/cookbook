@@ -6,7 +6,7 @@ tags = [
     "dessert", 
     "vegetarian"
 ]
-thumbnail="images/ChipCookies.jpg "
+thumbnail="images/highelevationcookies.jpg"
 +++
 
 Servings: 2 1/2 Dozen <!--more-->
@@ -63,3 +63,39 @@ Chocolate Chips
 
 #### Can I freeze the dough?
 Yes, roll the dough into one large ball and place it into a Ziploc bag. Clear any air out of the bag before securing it. The cookie dough will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, follow the baking instructions for this recipe.
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+1. In a large bowl, mix the butter, sugar, and brown sugar until combined. 
+
+{{< figure src="/images/hec1.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/hec2.jpg" class="instructionFigure">}}
+
+2. Beat one egg at a time into the mixture, then stir in the vanilla extract. 
+
+{{< figure src="/images/hec3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/hec4.jpg" class="instructionFigure">}}
+
+3. Dissolve baking soda into hot water and add it to the mixture, along with the salt. Stir well. 
+
+{{< figure src="/images/hec5.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/hec6.jpg" class="instructionFigure">}}
+
+4. Blend the flour into the mixture one cup at a time using a hand mixer. Do not over-mix. 
+
+{{< figure src="/images/hec7.jpg" class="instructionFigure">}}
+
+5. Next, fold in the chocolate chips. 
+6. Preheat the oven to 350 degrees
+7. Drop by large spoonfuls onto an ungreased baking sheet, spaced about 2 inches apart. 
+
+{{< figure src="/images/hec8.jpg" class="instructionFigure">}}
+
+8. Bake for 10-14 minutes until the edges turn golden brown. 
+
+{{< figure src="/images/hec9.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/hec10.jpg" class="instructionFigure">}}
