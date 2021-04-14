@@ -18,7 +18,7 @@ Servings: 3-4 <!--more-->
 * 1/2 cup [Ghee](https://amzn.to/2ZkJkrW), divided
 * 1 1/2 lb Goat, bone-in, cut into 1-inch pieces
 * 1 medium Yellow Onion, sliced
-* 3 latge Tomatoes, pureed 
+* 3 large Tomatoes, pureed 
 * 2 tsp Ginger Paste
 * 2 Garlic Cloves, minced
 * 1/2 Package Laziza or Shan [Karahi Masala](https://amzn.to/2MYzcmx), this will make for mild spice. 
