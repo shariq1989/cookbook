@@ -7,7 +7,7 @@ tags = [
     "keto",
     "low carb",
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/buffalochickenpizza.jpg"
 +++
 
 Servings: 2 <!--more-->
@@ -77,11 +77,32 @@ Store the leftovers in a sealed container for up to 3 days in the refrigerator. 
 
 1. Preheat the oven to 350 degrees and line a baking sheet with parchment paper. 
 2. In a small bowl, mix the hot sauce, butter, and vinegar. Warm it in the microwave for 2 minutes. Be sure to cover the bowl to avoid sputtering. Once warmed, whisk the mixture together and set it aside. 
+
+{{< figure src="/images/bcp1.jpg" class="instructionFigure">}}
+
 3. Spread the chicken onto the lined baking sheet and bake it in the oven for 10 minutes. 
+
+{{< figure src="/images/bcp2.jpg" class="instructionFigure">}}
+
 4. Remove the chicken from the oven and put it into a small bowl. 
 5. Increase the oven to 500 degrees. 
 6. Add shredded cheese, garlic powder, and egg to the bowl with the chicken, mix to combine. 
+
+{{< figure src="/images/bcp3.jpg" class="instructionFigure">}}
+
 7. Line the baking sheet with a fresh sheet of parchment paper and spread out the chicken onto it. Place another sheet of parchment paper on top and roll out the chicken with a rolling pin. Remove the top piece of parchment paper and discard. 
+
+{{< figure src="/images/bcp4.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/bcp5.jpg" class="instructionFigure">}}
+
 8. Bake in the oven for 8 minutes. 
 9. Remove the crust from the oven and cover the surface with buffalo sauce using a spoon or spatula. Top with mozzarella cheese and bake for another 8 minutes. 
+
+{{< figure src="/images/bcp6.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/bcp7.jpg" class="instructionFigure">}}
+
 10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chilis if desired. 
+
+{{< figure src="/images/bcp8.jpg" class="instructionFigure">}}
