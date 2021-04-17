@@ -18,17 +18,19 @@ Cooking Time: 30 minutes
 
 Cuisine: American
 
+Original Recipe: Keto Made Easy, Megha Barot and Matt Gaedke
+
 #### INGREDIENTS 
 
 For the Buffalo Sauce: 
 
-* 1/4 cup Franks Buffalo Sauce 
-* 1/2 stick Butter 
-* 2 tsp Apple Cider Vinegar 
+* 1/4 cup [Franks Buffalo Sauce](https://amzn.to/3uW71Vq)
+* 1/2 stick Unsalted Butter 
+* 2 tsp [Apple Cider Vinegar](https://amzn.to/2QcOBRt) 
 
 For the Crust: 
 
-* 2 cans Chicken Breast, drained 
+* 2 cans 5 oz Chicken Breast, drained 
 * 1/4 cup Shredded Cheese, Cheddar, or Parmesan 
 * 1/2 tsp Garlic Powder
 * 1 large Egg 
@@ -56,6 +58,8 @@ For the Topping:
 
 ### ABOUT THE MEAL
 
+This is an original recipe from the Keto Made Easy cookbook. Since trying their recipe, I have adapted it to add so many ingredients. Try one of my favorite low carb lunches. 
+
 #### What equipment do I need to make this recipe?
 
 * A rimmed baking sheet or pizza stone 
@@ -63,7 +67,7 @@ For the Topping:
 * Parchment Paper
 
 #### Is keto? Is it low-carb?
-I calculated one serving of Buffalo Chicken Pizza to make it easy for you.  
+I calculated one serving of buffalo chicken pizza to make it easy for you.  
 
 * CARBS: 1.5 Net Carbs
 * PROTEIN: 47.5g
@@ -71,7 +75,7 @@ I calculated one serving of Buffalo Chicken Pizza to make it easy for you.
 
 #### How can I store the buffalo chicken pizza?
 
-Store the leftovers in a sealed container for up to 3 days in the refrigerator. Reheat the pizza in the oven to 250 degrees. 
+Store the leftovers in a sealed container for 3 days. Reheat the pizza in the oven to 250 degrees. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
