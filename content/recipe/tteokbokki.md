@@ -1,11 +1,11 @@
 +++
 title = "Tteokbokki - Spicy Stir-Fried Rice Cakes"
-date = "2021-03-12"
+date = "2021-04-16"
 description = "Tteokbokki is a popular Korean street food and a delicious comfort food you can easily make at home. These spicy and chewy rice cakes are simply so tasty!"
 tags = [
     "entree",
 ]
-thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/tk2.jpg"
 +++
 
 Servings: 3-4 <!--more-->
@@ -32,7 +32,7 @@ Cuisine: Korean
 1. In a saucepan, add water, fish sauce, and Better than Bouillion. 
 2. Allow the broth to boil uncovered for 8 minutes over medium-high heat. 
 3. Meanwhile, combine the Gochuchang, Gochugaro, and sugar in a small bowl. Then, add it to the saucepan. Stir to combine. 
-4. Add the rice cakeS and scallions to the saucepan. 
+4. Add the rice cakes and scallions to the saucepan. 
 5. Allow rice cakes to cook, maintaining a gentle bubble, over medium heat for 15 minutes until the sauce begins to thicken, stir frequently.  
 6. Check the consistency of the rice cakes; you want them to be soft. If the rice cakes haven't reached the desired consistency, let them continue cooking while stirring. Add more water if necessary.  
 
@@ -57,11 +57,19 @@ Cuisine: Korean
 Yes, simply omit the fish sauce and use [Vegetable Better Than Bouillion](https://amzn.to/3ggLeni) as a substitute for the broth.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
-{{< figure src="/images/bandc1.jpg" class="instructionFigure">}}
 
 1. In a saucepan, add water, fish sauce, and Better than Bouillion. 
+
+{{< figure src="/images/korean1.jpg" class="instructionFigure">}}
+
 2. Allow the broth to boil uncovered for 8 minutes over medium-high heat. 
 3. Meanwhile, combine the Gochuchang, Gochugaro, and sugar in a small bowl. Then, add it to the saucepan. Stir to combine. 
-4. Add the rice cakeS and scallions to the saucepan. 
+
+{{< figure src="/images/korean3.jpg" class="instructionFigure">}}
+
+4. Add the rice cakes and scallions to the saucepan. 
+
+{{< figure src="/images/tk1.jpg" class="instructionFigure">}}
+
 5. Allow rice cakes to cook, maintaining a gentle bubble, over medium heat for 15 minutes until the sauce begins to thicken, stir frequently.  
 6. Check the consistency of the rice cakes; you want them to be soft. If the rice cakes haven't reached the desired consistency, let them continue cooking while stirring. Add more water if necessary.  
