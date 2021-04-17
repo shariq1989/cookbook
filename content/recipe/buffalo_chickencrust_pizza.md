@@ -1,0 +1,87 @@
++++
+title = "Buffalo Chicken Crust Pizza"
+date = "2021-04-17"
+description = ""
+tags = [
+    "entree",
+    "keto",
+    "low carb",
+]
+#thumbnail= "images/beefandchickpea.jpg"
++++
+
+Servings: 2 <!--more-->
+
+Preparation Time: 10 minutes
+
+Cooking Time: 30 minutes
+
+Cuisine: American
+
+#### INGREDIENTS 
+
+For the Buffalo Sauce: 
+
+* 1/4 cup Franks Buffalo Sauce 
+* 1/2 stick Butter 
+* 2 tsp Apple Cider Vinegar 
+
+For the Crust: 
+
+* 2 cans Chicken Breast, drained 
+* 1/4 cup Shredded Cheese, Cheddar, or Parmesan 
+* 1/2 tsp Garlic Powder
+* 1 large Egg 
+
+For the Topping: 
+
+* Fresh Mozzarella, sliced 
+* 2-3 Scallions, chopped 
+* Optional: 1/4 cup Arugala 
+* Optional: Serrano Chili, thinly sliced 
+  
+#### INSTRUSTIONS
+
+1. Preheat the oven to 350 degrees and line a baking sheet with parchment paper. 
+2. In a small bowl, mix the hot sauce, butter, and vinegar. Warm it in the microwave for 2 minutes. Be sure to cover the bowl to avoid sputtering. Once warmed, whisk the mixture together and set it aside. 
+3. Spread the chicken onto the lined baking sheet and bake it in the oven for 10 minutes. 
+4. Remove the chicken from the oven and put it into a small bowl. 
+5. Increase the oven to 500 degrees. 
+6. Add shredded cheese, garlic powder, and egg to the bowl with the chicken, mix to combine. 
+7. Line the baking sheet with a fresh sheet of parchment paper and spread out the chicken onto it. Place another sheet of parchment paper on top and roll out the chicken with a rolling pin. Remove the top piece of parchment paper and discard. 
+8. Bake in the oven for 8 minutes. 
+9. Remove the crust from the oven and cover the surface with buffalo sauce using a spoon or spatula. Top with mozzarella cheese and bake for another 8 minutes. 
+10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chilis if desired. 
+
+
+### ABOUT THE MEAL
+
+#### What equipment do I need to make this recipe?
+
+* A rimmed baking sheet or pizza stone 
+* 2 small bowls 
+* Parchment Paper
+
+#### Is keto? Is it low-carb?
+I calculated one serving of Buffalo Chicken Pizza to make it easy for you.  
+
+* CARBS: 1.5 Net Carbs
+* PROTEIN: 47.5g
+* FAT: 44.5g
+
+#### How can I store the buffalo chicken pizza?
+
+Store the leftovers in a sealed container for up to 3 days in the refrigerator. Reheat the pizza in the oven to 250 degrees. 
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+1. Preheat the oven to 350 degrees and line a baking sheet with parchment paper. 
+2. In a small bowl, mix the hot sauce, butter, and vinegar. Warm it in the microwave for 2 minutes. Be sure to cover the bowl to avoid sputtering. Once warmed, whisk the mixture together and set it aside. 
+3. Spread the chicken onto the lined baking sheet and bake it in the oven for 10 minutes. 
+4. Remove the chicken from the oven and put it into a small bowl. 
+5. Increase the oven to 500 degrees. 
+6. Add shredded cheese, garlic powder, and egg to the bowl with the chicken, mix to combine. 
+7. Line the baking sheet with a fresh sheet of parchment paper and spread out the chicken onto it. Place another sheet of parchment paper on top and roll out the chicken with a rolling pin. Remove the top piece of parchment paper and discard. 
+8. Bake in the oven for 8 minutes. 
+9. Remove the crust from the oven and cover the surface with buffalo sauce using a spoon or spatula. Top with mozzarella cheese and bake for another 8 minutes. 
+10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chilis if desired. 
