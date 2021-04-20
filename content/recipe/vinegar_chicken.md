@@ -7,7 +7,7 @@ tags = [
     "low carb",
     "keto",
 ]
-thumbnail= "images/Vin_Chick.jpg "
+thumbnail= "images/vinegarchicken.jpg "
 +++
 
 Servings: 4-6 <!--more-->
