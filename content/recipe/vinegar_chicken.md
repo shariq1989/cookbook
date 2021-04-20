@@ -18,9 +18,7 @@ Cooking Time: 40 minutes
 
 Cuisine: Mediterranean
 
-Adapted from: New York Times, Alison Roman
-
-
+Adapted from: [New York Times](https://cooking.nytimes.com/recipes/1020486-vinegar-chicken-with-crushed-olive-dressing), Alison Roman
 
 #### INGREDIENTS 
 
@@ -45,29 +43,25 @@ Adapted from: New York Times, Alison Roman
 
 ### ABOUT THE MEAL
 
-This recipe is by Alison Roman. Her dish was so bright and flavorful; I wanted to share how I modified it slightly to our family's preferences. You can eat this with or without the olive dressing, though I don't know why you would want to skip it.
+This recipe was created by Alison Roman. Her dish is so bright and flavorful and I wanted to share the same recipe with the modifications we made for our family. You can eat the chicken with or without the olive dressing, though I don't know why you would want to skip it.
 
 #### What main ingredients do I need for this meal?
 
-* Chicken: I use chicken thighs, but feel free to use drumsticks or wings if you prefer. Bone-in and skin-on will give you the best flavor. If you're feeding a crowd, why not use a whole chicken? Just be sure that you adjust the cooking time depending on your choice. 
-– The safe cooking temperature for chicken is 160 degrees.
+* Chicken: I use chicken thighs, but feel free to use drumsticks or wings if you prefer. Bone-in and skin-on will give you the best flavor. If you're feeding a crowd, why not use a whole chicken? Just be sure that you adjust the cooking time depending on your choice. The safe cooking temperature for chicken is 160 degrees.
 
-* Vinegar: Vinegar provides tanginess to the dish and balances all of the fat in this recipe.
+* Vinegar: Vinegar adds tanginess to the dish and balances the fat in this recipe.
 
-* Olives and Olive Oil: What I love most about this dish is the balance of fat from the oil, olives, and chicken with the bite of vinegar and fresh herbs. 
+* Olives and Olive Oil: What I love most about this dish is the flavor from the fat of the oil, olives, and chicken with the bite of vinegar and fresh herbs. 
 
-* Turmeric: Not only does this spice flavor the dish, but it also brings it that vibrant yellow color. 
+* Turmeric: Not only does this spice flavor the dish, but it brings the vibrant yellow color. 
 
 #### What equipment do I need to make this recipe?
 
-* A bag to season the chicken 
-
+* A bag 
 * A prepared baking dish 
-
 * A small bowl 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
-PXL_20210419_214956304.MP
 
 1. Preheat the oven to 450 degrees. 
 2. Place the chicken into a bag with olive oil and turmeric. Mix well. 
