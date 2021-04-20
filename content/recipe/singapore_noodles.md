@@ -1,7 +1,7 @@
 +++
 title = "Singapore Mei Fun - Singapore Noodles "
 date = "2021-03-23"
-description = "This stir-fried Singapore noodle recipe is just like what you would order in a Chinese restaurant."
+description = "You will love this stir-fried Singapore noodle recipe. It is just like the dish you would order in a Chinese restaurant."
 tags = [
     "entree",
     
@@ -17,12 +17,10 @@ Cooking Time: 1 hour
 
 Cuisine: Cantonese, American
 
-Adapted from: Serious Eats, Shao Z. 
-
 #### INGREDIENTS 
 
 * ¼ lb. Shrimp, shelled, deveined, and rinsed under cold water
-* 2 tbsp, plus 4 tsp Canola Oil, divided
+* 2 tbsp, plus 4 tsp Avocado Oil, divided
 * 2½ tsp [Fish Sauce](https://amzn.to/3jMYZdj), divided
 * 1 bundle [Rice Noodles](https://amzn.to/3dWFNsr)
 * 2 Garlic Cloves, minced
