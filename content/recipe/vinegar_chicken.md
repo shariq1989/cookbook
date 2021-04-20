@@ -43,7 +43,7 @@ Adapted from: [New York Times](https://cooking.nytimes.com/recipes/1020486-vineg
 
 ### ABOUT THE MEAL
 
-This recipe was created by Alison Roman. Her dish is so bright and flavorful and I wanted to share the same recipe with the modifications we made for our family. You can eat the chicken with or without the olive dressing, though I don't know why you would want to skip it.
+The original creator of this recipe is Alison Roman. Her dish is so flavorful and bright so I wanted to share the modifications we made for our family. Eat the chicken with or without the olive dressing, though I don't know why you would want to skip it; I could eat it by itself. 
 
 #### What main ingredients do I need for this meal?
 
@@ -53,7 +53,7 @@ This recipe was created by Alison Roman. Her dish is so bright and flavorful and
 
 * Olives and Olive Oil: What I love most about this dish is the flavor from the fat of the oil, olives, and chicken with the bite of vinegar and fresh herbs. 
 
-* Turmeric: Not only does this spice flavor the dish, but it brings the vibrant yellow color. 
+* Turmeric: Not only does this spice flavor the dish, but it brings a vibrant yellow color. 
 
 #### What equipment do I need to make this recipe?
 
