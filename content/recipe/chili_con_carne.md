@@ -10,7 +10,7 @@ tags = [
     "low carb",
    
 ]
-thumbnail= "images/IMG_20210305_131905_151.jpg"
+thumbnail= "images/chiliconcarne.jpg"
 +++
 
 Servings: 8 <!--more-->
