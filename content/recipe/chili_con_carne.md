@@ -94,3 +94,36 @@ Because the ingredients of chili con carne are so widely disputed, there is room
 #### Can I freeze chili con carne?
 
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. It is as easy as that and can freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stovetop and prepare all your toppings. 
+
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+1. Add the dried chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
+
+{{< figure src="/images/ccc2.jpg" class="instructionFigure">}}
+
+2. Remove the chilis and add them to a blender or food processor, along with the chicken broth. Add the 2 chipotle chilis and 2 tbsp sauce. Mix thoroughly and set aside.
+
+{{< figure src="/images/ccc3.jpg" class="instructionFigure">}}
+
+3. Season the chuck with salt and pepper. 
+4. Add oil to the Instant Pot and then add a layer of the chuck. Allow it to sear and form a crust. Repeat until all the meat has had a chance to brown. Set the meat aside. 
+
+{{< figure src="/images/ccc1.jpg" class="instructionFigure">}}
+
+5. Add onions to the oil and cook until they become translucent and soften.
+
+{{< figure src="/images/ccc4.jpg" class="instructionFigure">}}
+
+6. Next, add the garlic, cinnamon, cumin, allspice, and oregano. Stir to combine and cook until it becomes fragrant about 1-2 minutes.  
+
+{{< figure src="/images/ccc6.jpg" class="instructionFigure">}}
+
+7. Add the reserved meat and blender chili puree, along with the Worcestershire sauce, apple cider vinegar, fish sauce, black beans, and tomato paste to the Instant Pot. 
+
+{{< figure src="/images/ccc7.jpg" class="instructionFigure">}}
+
+8. Secure the lid and cook on manual high pressure for 40 minutes. This cooking time is for high  elevation. You can reduce the cooking time for lower elevation. 
+9. Serve as a stew and top with onion, cilantro, cheese, and avocado. Warm corn tortillas are always a nice touch. 
+
+{{< figure src="/images/ccc8.jpg" class="instructionFigure">}}
