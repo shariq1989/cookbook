@@ -7,7 +7,7 @@ tags = [
     "vegetarian",
     "paleo",
 ]
-# thumbnail= "images/beefandchickpea.jpg"
+#thumbnail= "images/beefandchickpea.jpg"
 +++
 
 Servings: 8-10 Granola Bars  <!--more-->
