@@ -1,5 +1,5 @@
 +++
-title = "Masoor Dal- Red Lentil Soup "
+title = "Goa Masoor Dal- Goa Red Lentil Soup "
 date = "2021-03-17"
 description = ""
 tags = [
@@ -20,7 +20,7 @@ Cooking Time: 1 hour
 
 Cuisine: Goan
 
-Adapted from: Milk Street
+Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-with-coconut-milk-and-spinach-durotherm)
 
 #### INGREDIENTS 
 
@@ -67,13 +67,13 @@ Adapted from: Milk Street
 
 ### ABOUT THE MEAL 
 
-Goa is a coastal city and happens to be the smallest state in India. The food they make is unique to their region. Traditional Goan cuisine is known for the balance of flavor, sweet and spicy, and their inclusion of coconut and seafood in many plates.  
+Goa is a coastal city and happens to be the smallest state in India. The food they make is unique to their region. Goan cuisine is well known for its balance of sweet and spicy, and its inclusion of coconut and seafood in many of their dishes. I love Milkstreet's take on Goan cuisine in this recipe.    
 
 #### What main ingredients do I need for this meal?
 
-* Masoor Dal: Dal, otherwise spelled daal or dahl, means lentil in Hindi. Masoor dal has an orange or red color when dry, but the color changes to bright yellow once cooked. 
+* Masoor Dal: Dal, otherwise spelled daal or dahl, means lentil in Hindi. Masoor dal has an orange or red color when dry, but the color changes to bright yellow once cooked. Other varieties of dal break down differently during the cooking process. Be sure to use red lentils as they break down entirely as they cook and lend the right consistency to the soup.  
 
-* Coconut Oil and Coconut Milk: Coconuts are central to Goan cuisine; they use every part of the coconut in their cooking- the oil, milk, and meat are all featured.  
+* Coconut: Coconut is a central ingredient in Goan cuisine; they use every part of the coconut in their cooking- the oil, milk, and meat are all featured. I use coconut oil and coconut milk to flavor the soup.  
 
 #### What equipment do I need to make this recipe?
 
@@ -81,7 +81,7 @@ Goa is a coastal city and happens to be the smallest state in India. The food th
 
 #### Is Goa red dal vegetarian? Is it vegan? 
 
-This dish is both vegetarian and vegan-friendly. 
+This dish is tasty and both vegetarian and vegan-friendly. 
 
 #### Can I freeze the Goa red dal?
 
@@ -117,3 +117,5 @@ Yes, first allow the dal to cool and gather several freezer-safe resealable plas
 8. Garnish with lime wedges and serve with long-grain basmati rice.
 
 {{< figure src="/images/gd7.jpg" class="instructionFigure">}}
+
+Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/red-lentil-soup-with-coconut-milk-and-spinach-durotherm)
