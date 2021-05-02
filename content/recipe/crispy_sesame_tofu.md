@@ -1,7 +1,7 @@
 +++
-title = "Crispy Sesame Tofu with Coconut Dressing"
+title = "Crispy Sesame Tofu with Coconut Chili Dressing"
 date = "2021-03-26"
-description = "This crispy sesame tofu is easy to make and tastes amazing. The tofu is fried to make it extra crispy, then we top it with a sweet and savory coconut dressing. This recipe is completely vegetarian and vegan."
+description = "Crispy sesame tofu is easy to make and tastes amazing. The tofu is fried to make it extra crispy, then we top it with a sweet and spicy coconut dressing. This recipe is completely vegetarian and vegan."
 tags = [
     "entree",
     "vegan",
@@ -16,7 +16,7 @@ Preparation Time: 15 minutes
 
 Cooking Time: 30 minutes
 
-Adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach), Nik Sharma 
+Adapted: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach), Nik Sharma 
 
 #### INGREDIENTS 
 
@@ -45,63 +45,62 @@ For the Tofu:
 
 For the Dressing: 
 
-1. In a small bowl, whisk together the coconut milk, lime zest, chili paste, chili oil, and brown sugar until sugar dissolves completely. Slowly pour in the sesame oil and whisk until creamy. 
+1. In a small bowl, whisk the coconut milk, lime zest, chili paste, chili oil, and brown sugar until the sugar dissolves completely. Slowly pour in the sesame oil and whisk until it becomes creamy. Set aside. 
 
 For the Tofu: 
 
-1. Pat dry the tofu with a paper towel and cut the tofu into rectangles. Season them lightly with salt and set them aside. 
-2. In a small bowl, mix the panko, sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast for 2-4 minutes. 
+1. Pat dry the tofu with a towel and cut the tofu into rectangles. Season them lightly with salt and set them aside. 
+2. In a small bowl, add the panko, sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast the mixture for 2-4 minutes. 
 3. Whisk the tapioca flour and water together in another bowl. 
-4. Dip the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a plate. Repeat with remaining tofu slices.
+4. Dip the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a wire rack. Repeat with remaining tofu slices.
 
 For the Frying: 
 
 1. Set a wire rack into the rimmed baking sheet.
 2. Heat 1/4 cup oil in a cast-iron or stainless-steel skillet over medium-low heat. 
-3. Test the oil heat by frying one tofu slice, adjust the heat accordingly. 
+3. Test the oil by frying one tofu slice, adjust the heat accordingly. 
 4. Then small batches, pan-fry the tofu until golden brown, about 2 minutes per side. Then, transfer the tofu slices to the rimmed baking sheet. Repeat with the remaining tofu. 
 5. Allow the tofu slices to cool on the wire rack. 
-6. To garnish, drizzle with the coconut dressing and serve with steamed jasmine rice, steamed broccoli, or steamed mixed vegetables as we did. 
+6. To garnish, drizzle with the coconut chili dressing and serve with steamed jasmine rice, steamed broccoli, or steamed mixed vegetables as we did. 
 
 ### ABOUT THE MEAL
 
 #### What main ingredients do I need for this meal?
 
-* Extra-Firm Tofu: This is the best tofu to use for frying. 
+* Extra-Firm Tofu: Extra-firm tofu holds up best during the frying process. 
 
-* Sesame Flavor: We introduce sesame into this dish in two ways: the sesame oil and sesame seeds. 
+* Sesame: Sesame oil is introduced into this dish in two ways: the sesame oil and the sesame seeds. 
 
-* Chili Flavor: We use chili oil, chili paste, and chili flakes. These spices balance the sweetness of the coconut dressing. 
+* Chili: I use chili oil, chili paste, and chili flakes to add some heat that balances the sweetness of the coconut dressing. 
 
 #### What equipment do I need to make this recipe?
 
 * 3 small bowls 
 * A small skillet 
-* A plate 
-* A rimmed baking sheet
-* A wire rack 
+* 2 rimmed baking sheets
+* 2 wire racks 
 * A cast-iron skillet or stainless-steel skillet 
 
 #### Is crispy sesame tofu vegetarian? Is it vegan?
 
-This dish is flavorful and both vegetarian and vegan-friendly.
+This dish is flavorful and vegetarian and vegan-friendly.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Dressing: 
 
-1. In a small bowl, whisk together the coconut milk, lime zest, chili paste, chili oil, and brown sugar until sugar dissolves completely. Slowly pour in the sesame oil and whisk until creamy. 
+1. In a small bowl, whisk the coconut milk, lime zest, chili paste, chili oil, and brown sugar until the sugar dissolves completely. Slowly pour in the sesame oil and whisk until it becomes creamy. Set aside. 
 
 {{< figure src="/images/cst1.jpg" class="instructionFigure">}}
 
 
 For the Tofu: 
 
-1. Pat dry the tofu with a paper towel and cut the tofu into rectangles. Season them lightly with salt and set them aside. 
+1. Pat dry the tofu with a towel and cut the tofu into rectangles. Season them lightly with salt and set them aside. 
 
 {{< figure src="/images/cst10.jpg" class="instructionFigure">}}
 
-2. In a small bowl, mix the panko, sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast for 2-4 minutes. 
+2. In a small bowl, add the panko, sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast the mixture for 2-4 minutes. 
 
 {{< figure src="/images/cst3.jpg" class="instructionFigure">}}
 
@@ -109,7 +108,7 @@ For the Tofu:
 
 {{< figure src="/images/cst2.jpg" class="instructionFigure">}}
 
-4. Dip the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a plate. Repeat with remaining tofu slices.
+4. Dip the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a wire rack. Repeat with remaining tofu slices.
 
 {{< figure src="/images/cst4.jpg" class="instructionFigure">}}
 
@@ -119,7 +118,7 @@ For the Frying:
 
 1. Set a wire rack into the rimmed baking sheet.
 2. Heat 1/4 cup oil in a cast-iron or stainless-steel skillet over medium-low heat. 
-3. Test the oil heat by frying one tofu slice, adjust the heat accordingly. 
+3. Test the oil by frying one tofu slice, adjust the heat accordingly. 
 
 {{< figure src="/images/cst6.jpg" class="instructionFigure">}}
 
@@ -128,7 +127,7 @@ For the Frying:
 {{< figure src="/images/cst7.jpg" class="instructionFigure">}}
 
 5. Allow the tofu slices to cool on the wire rack. 
-6. To garnish, drizzle with the coconut dressing and serve with steamed jasmine rice, steamed broccoli, or steamed mixed vegetables as we did. 
+6. To garnish, drizzle with the coconut chili dressing and serve with steamed jasmine rice, steamed broccoli, or steamed mixed vegetables as we did. 
 
 {{< figure src="/images/cst8.jpg" class="instructionFigure">}}
 
