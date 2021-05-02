@@ -1,6 +1,6 @@
 +++
-title = "Beef and Chickpea Stew"
-date = "2021-03-12"
+title = "Low Carb Biscuits and Gravy"
+date = "2021-05-02"
 description = "This beef and chickpea stew is flavorful and hearty. It can be modified to be vegetarian or vegan."
 tags = [
     "entree",
@@ -8,7 +8,7 @@ tags = [
     "vegetarian",
     "instant pot"
 ]
-thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/biscuitsandgravy.jpg"
 +++
 
 Servings: 10 Biscuits <!--more-->
@@ -55,3 +55,11 @@ For the Gravy:
 1. While the biscuits are baking, brown the sausage in a large saute pan over medium heat for 4-5 minutes. Remove the sausage from the pan and set it aside. 
 2. Return the pan to medium heat and add in the heavy cream, water, pepper, salt, and garlic powder. Then, gently whisk in the corn starch. 
 3. Bring the mixture to a gentle bubble, stirring occasionally to thicken the gravy. Reduce heat to low and return the meat to the pan. Stir to combine, cover, and simmer for another 5 minutes. 
+
+
+{{< figure src="/images/bandg1.jpg" class="instructionFigure">}}
+{{< figure src="/images/bandg2.jpg" class="instructionFigure">}}
+{{< figure src="/images/bandg3.jpg" class="instructionFigure">}}
+{{< figure src="/images/bandg4.jpg" class="instructionFigure">}}
+{{< figure src="/images/bandg5.jpg" class="instructionFigure">}}
+{{< figure src="/images/bandg6.jpg" class="instructionFigure">}}
