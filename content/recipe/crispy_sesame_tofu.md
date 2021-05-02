@@ -1,7 +1,7 @@
 +++
 title = "Crispy Sesame Tofu with Coconut Dressing"
 date = "2021-03-26"
-description = "This crispy sesame tofu is easy to make and tastes amazing. The tofu is fried to make it extra crispy. We then top the tofu with a sweet and savory coconut dressing. This recipe is vegetarian and vegan."
+description = "This crispy sesame tofu is easy to make and tastes amazing. The tofu is fried to make it extra crispy, then we top it with a sweet and savory coconut dressing. This recipe is completely vegetarian and vegan."
 tags = [
     "entree",
     "vegan",
@@ -16,14 +16,14 @@ Preparation Time: 15 minutes
 
 Cooking Time: 30 minutes
 
-Adapted from: NYT Cooking, Nik Sharma 
+Adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach), Nik Sharma 
 
 #### INGREDIENTS 
 
 For the Dressing:
 
 * ¼ cup Unsweetened Coconut Milk
-* 1 Lime, zest, and juiced 
+* 1 Lime, zest and juice
 * 2 tbsp Chili Garlic Sauce 
 * 1 tsp Chili Oil   
 * 1 tsp Brown Sugar
