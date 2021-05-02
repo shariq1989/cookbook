@@ -75,7 +75,7 @@ Because coconut oil is one main ingredient, the bars will melt if left at room t
 3. Move the mixture from the food processor to a large bowl and stir in the chia seeds, flax seeds, coconut chips, craisins, and ground cinnamon until combined. Set aside. 
 4. In a small saute pan, warm the coconut oil and then whisk in the honey and almond butter until smooth. Off heat, stir in the vanilla extract. 
 
-{{< figure src="/images/gb2.jpg" class="instructionFigure">}}
+{{< figure src="/images/bg2.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/gb3.jpg" class="instructionFigure">}}
 
