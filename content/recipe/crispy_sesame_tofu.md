@@ -132,3 +132,5 @@ For the Frying:
 {{< figure src="/images/cst8.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/cst9.jpg" class="instructionFigure">}}ss="instructionFigure">}}
+
+Find the original recipe at [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach). 
