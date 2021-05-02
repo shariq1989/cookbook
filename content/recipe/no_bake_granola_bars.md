@@ -1,13 +1,13 @@
 +++
 title = "No-Bake Paleo Granola Bars"
-date = "2021-03-12"
-description = "Chewy, crunchy, sweet, and salty, these grain-free and paleo, no- bake granola bars are a favorite in our home."
+date = "2021-04-30"
+description = "Our paleo granola bars are chewy, crunchy, sweet, and salty. They are no-bake and super easy to make or prep for the rest of the week. They are the perfect addition to any paleo, grain-free, or gluten-free diet. These granola bars are a favorite in our home and kid-approved."
 tags = [
     "snack",
     "vegetarian",
     "paleo",
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/paleogranolabar.jpg"
 +++
 
 Servings: 8-10 Granola Bars  <!--more-->
@@ -15,7 +15,6 @@ Servings: 8-10 Granola Bars  <!--more-->
 Preparation Time: 10 minutes 
 
 Chilling Time: 1 hour 
-
 
 #### INGREDIENTS 
 
@@ -31,47 +30,66 @@ Chilling Time: 1 hour
  * 1/4 cup Almond Butter 
  * 1 tsp Vanilla Extract 
 
-
 #### INSTRUCTIONS
 
-1. Place the cashews and almonds in a food processor and pulse a few times. You don't want to over-mix and create a flour-like texture; chunkier bits are just fine. 
-2. Move the mixture to a large bowl and stir in the chia seeds, flax seeds, coconut chips, craisins, and ground cinnamon until combined. Set aside. 
-3. In a small saute pan, warm the coconut oil and then whisk in the honey and almond butter until smooth. Off heat, add in the vanilla extract. 
-4. Pour the mixture over the dry ingredients and combine the two using a silicone spatula. Set the mixture aside to cool for about 5 minutes, and then gently add the chocolate chips. If you add the chocolate chips before the mixture has had a chance to cool, they will melt on you. 
-5. Line an 8 x 8 pan with parchment paper. It's helpful if the parchment paper comes up over the sides for easy removal.
-6. Transfer the mixture to the pan and pack it using a spatula or another piece of parchment paper. You want it packed in tight so that the bars have a better chance of staying together. 
-7. Cover the pan with plastic wrap and place it in the freezer for 1 hour.
-8. Remove the pan from the freezer and grab opposing ends of the parchment paper to remove the bars and transfer them to a cutting board.
-9. Use a knife to cut the mixture into bars. 
-
+1. Place the cashews and almonds in a food processor and pulse a few times. You don't want to over-mix and create a flour-like texture.
+2. Fill a small bowl with warm water and add the craisins. Let them sit in the water for about 5 minutes. 
+3. Move the mixture from the food processor to a large bowl and stir in the chia seeds, flax seeds, coconut chips, craisins, and ground cinnamon until combined. Set aside. 
+4. In a small saute pan, warm the coconut oil and then whisk in the honey and almond butter until smooth. Off heat, stir in the vanilla extract. 
+5. Pour the wet ingredients over the dry ingredients and combine the two using a silicone spatula. Then gently fold in the chocolate chips. 
+6. Line an 8 x 8 pan with parchment paper. It's helpful if the parchment paper comes up and over the sides for easy removal later on.
+7. Transfer the mixture to the pan and pack it down using a spatula or another piece of parchment paper. You want it packed tight so that the bars have a better chance of staying together once you have sliced them. 
+8. Cover the pan with plastic wrap and set it in the freezer for 1 hour.
+9. Remove the pan from the freezer and grab opposing ends of the parchment paper to remove the bars. Transfer them to a cutting board.
+10. Use a sharp knife to cut the mixture into bars. You can do squares or rods, whichever you prefer. 
 
 ### ABOUT THE SNACK
 
 #### What main ingredients do I need for this meal?
 
-* Nuts: We use almonds and cashews because that is what we usually have on hand. Walnuts or pecans would be a great addition to these bars as well, but we avoid them in our home since I am allergic. 
+* Nuts: We use almonds and cashews because that is what we usually have on hand. Walnuts or pecans would be a great addition to these bars, but I avoid them since I am allergic :( 
 
-* Seeds: I love the addition of chia seeds and flaxseeds to this granola bar for texture, but also their healthy fat. 
+* Seeds: I love the addition of chia seeds and flaxseeds for extra texture, but also because of their healthy fat. 
+
+* Coconut: Coconut oil and coconut chips flavor the bars and add sweetness. 
 
 #### What equipment do I need to make this recipe?
 
 * A food processor 
+* A small bowl
 * A large bowl 
 * A small saute pan 
 * An 8 x 8 baking pan and parchment paper 
 
 #### How should I store the granola bars?
 
-Because we use coconut oil as a binding for the granola bars, they melt if left at room temperature. To store, keep them chilled in the refrigerator for up to two weeks.
+Because coconut oil is one main ingredient, the bars will melt if left at room temperature. To store, keep them chilled in the refrigerator for up to two weeks.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. Place the cashews and almonds in a food processor and pulse a few times. You don't want to over-mix and create a flour-like texture; chunkier bits are just fine. 
-2. Move the mixture to a large bowl and stir in the chia seeds, flax seeds, coconut chips, craisins, and ground cinnamon until combined. Set aside. 
-3. In a small saute pan, warm the coconut oil and then whisk in the honey and almond butter until smooth. Off heat, add in the vanilla extract. 
-4. Pour the mixture over the dry ingredients and combine the two using a silicone spatula. Set the mixture aside to cool for about 5 minutes, and then gently add the chocolate chips. If you add the chocolate chips before the mixture has had a chance to cool, they will melt on you. 
-5. Line an 8 x 8 pan with parchment paper. It's helpful if the parchment paper comes up over the sides for easy removal.
-6. Transfer the mixture to the pan and pack it using a spatula or another piece of parchment paper. You want it packed in tight so that the bars have a better chance of staying together. 
-7. Cover the pan with plastic wrap and place it in the freezer for 1 hour.
-8. Remove the pan from the freezer and grab opposing ends of the parchment paper to remove the bars and transfer them to a cutting board.
-9. Use a knife to cut the mixture into bars. 
+1. Place the cashews and almonds in a food processor and pulse a few times. You don't want to over-mix and create a flour-like texture.
+
+{{< figure src="/images/gb1.jpg" class="instructionFigure">}}
+
+2. Fill a small bowl with warm water and add the craisins. Let them sit in the water for about 5 minutes. 
+3. Move the mixture from the food processor to a large bowl and stir in the chia seeds, flax seeds, coconut chips, craisins, and ground cinnamon until combined. Set aside. 
+4. In a small saute pan, warm the coconut oil and then whisk in the honey and almond butter until smooth. Off heat, stir in the vanilla extract. 
+
+{{< figure src="/images/gb2.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/gb3.jpg" class="instructionFigure">}}
+
+5. Pour the wet ingredients over the dry ingredients and combine the two using a silicone spatula. Then gently fold in the chocolate chips. 
+
+{{< figure src="/images/gb4.jpg" class="instructionFigure">}}
+
+6. Line an 8 x 8 pan with parchment paper. It's helpful if the parchment paper comes up and over the sides for easy removal later on.
+7. Transfer the mixture to the pan and pack it down using a spatula or another piece of parchment paper. You want it packed tight so that the bars have a better chance of staying together once you have sliced them. 
+
+{{< figure src="/images/gb5.jpg" class="instructionFigure">}}
+
+8. Cover the pan with plastic wrap and set it in the freezer for 1 hour.
+9. Remove the pan from the freezer and grab opposing ends of the parchment paper to remove the bars. Transfer them to a cutting board.
+10. Use a sharp knife to cut the mixture into bars. You can do squares or rods, whichever you prefer. 
+
+{{< figure src="/images/gb.jpg" class="instructionFigure">}}
