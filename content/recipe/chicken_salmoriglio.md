@@ -6,7 +6,7 @@ tags = [
     "entree",
    
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/chickensalmoriglio.jpg"
 +++
 
 Servings: 4-5 <!--more-->
@@ -64,10 +64,21 @@ Chicken: For this recipe, I decided to use boneless and skinless chicken thighs 
 1. Preheat the oven to 375 degrees. 
 2. Grate 1 tbsp of lemon zest into a small bowl. Set aside. Then cut the ends of the lemon off and cut it in half. Set the lemons aside. 
 3. In the bowl with the lemon zest, add the juice from the other lemon, olive oil, warm water, garlic, oregano, salt, pepper, and honey. Stir to combine. 
+
+{{< figure src="/images/cs1.jpg" class="instructionFigure">}}
+
 4. Add a small layer of the olive oil mixture to the bottom of a baking dish. 
 5. Make cuts in the chicken thighs, about 2-3 of them, and arrange them in the baking dish. 
+
+{{< figure src="/images/cs2.jpg" class="instructionFigure">}}
+
 6. Cover the chicken with the remaining olive oil mixture, coating each one thoroughly. 
 7. Nestle the cut lemons into the chicken cut side up, and then add a few sundried tomatoes to the chicken. 
+
+{{< figure src="/images/cs3.jpg" class="instructionFigure">}}
+
 8. Bake the chicken for 20 minutes at 375 degrees. 
 9. Turn the broiler on high and continue to cook the chicken for 5-10 minutes until the chicken has reached 170 degrees. 
 10. To serve, squeeze the juice from the cooked lemons over the top. 
+
+{{< figure src="/images/cs4.jpg" class="instructionFigure">}}
