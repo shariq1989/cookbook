@@ -73,12 +73,12 @@ Because coconut oil is one main ingredient, the bars will melt if left at room t
 
 2. Fill a small bowl with warm water and add the craisins. Let them sit in the water for about 5 minutes. 
 3. Move the mixture from the food processor to a large bowl and stir in the chia seeds, flax seeds, coconut chips, craisins, and ground cinnamon until combined. Set aside. 
-4. In a small saute pan, warm the coconut oil and then whisk in the honey and almond butter until smooth. Off heat, stir in the vanilla extract. 
 
 {{< figure src="/images/bg2.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/gb3.jpg" class="instructionFigure">}}
 
+4. In a small saute pan, warm the coconut oil and then whisk in the honey and almond butter until smooth. Off heat, stir in the vanilla extract. 
 5. Pour the wet ingredients over the dry ingredients and combine the two using a silicone spatula. Then gently fold in the chocolate chips. 
 
 {{< figure src="/images/gb4.jpg" class="instructionFigure">}}
