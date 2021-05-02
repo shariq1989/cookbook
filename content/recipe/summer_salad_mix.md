@@ -7,7 +7,7 @@ tags = [
     "vegan",
     "vegetarian",
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/PXL_20210430_213630274.MP.jpg"
 +++
 
 Servings: 6 <!--more-->
