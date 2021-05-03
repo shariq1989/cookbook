@@ -4,9 +4,7 @@ date = "2021-05-02"
 description = "This beef and chickpea stew is flavorful and hearty. It can be modified to be vegetarian or vegan."
 tags = [
     "entree",
-    "vegan",
-    "vegetarian",
-    "instant pot"
+    "breakfast"
 ]
 thumbnail= "images/biscuitsandgravy.jpg"
 +++
@@ -33,6 +31,7 @@ For the Biscuits:
 For the Gravy: 
 
 * 1 lb Ground Breakfast Sausage 
+* 2 tbsp Butter
 * 1 cup Heavy cream
 * 1 cup Water
 * 1 1/2 tbsp Coarse Ground Pepper 
@@ -43,23 +42,74 @@ For the Gravy:
 #### INSTRUSTIONS
 
 For the Biscuits: 
-1. Preheat the oven to 400 degrees and line a baking sheet with parchment paper.
+1. Preheat the oven to 400 degrees and line a rimmed baking sheet with parchment paper.
 2. Crack the eggs into a small bowl and whisk them together. Set aside. 
-3. In a large bowl, mix the almond flour, baking powder, and salt. Then, stir in the reserved egg mixture, 4 tbsp melted butter, and sour cream.
-4. Using a spoon, scoop out the dough. Use your hands to form a rounded biscuit shape and sightly flatten the top with your fingers. Repeat until all the dough is gone. 
-5. Glaze the tops of the biscuits with the remaining butter. 
-6. Bake for about 15 minutes, until firm and golden. Cool on the baking sheet.
+3. In a large bowl, mix the almond flour, baking powder, garlic powder, and salt. Then, stir in the reserved egg mixture, 5 tbsp melted butter, and the sour cream.
+4. Using an ice cream scoop or similar-sized spoon, scoop out the dough. Use your hands to form a rounded biscuit shape and then sightly flatten the top with your fingers and place them on the rimmed baking sheet. Repeat until the dough is gone. 
+5. Glaze the top of the biscuits with the remaining melted butter. 
+6. Bake for 15 minutes, until the biscuits are firm and golden. 
 
 For the Gravy: 
 
-1. While the biscuits are baking, brown the sausage in a large saute pan over medium heat for 4-5 minutes. Remove the sausage from the pan and set it aside. 
-2. Return the pan to medium heat and add in the heavy cream, water, pepper, salt, and garlic powder. Then, gently whisk in the corn starch. 
+1. While the biscuits are baking, brown the sausage in a large saute pan over medium heat for 4-5 minutes. Remove the sausage from the pan using a slotted spoon and set it aside. 
+2. Return the pan to medium heat and add the heavy cream, water, pepper, salt, and garlic powder. Then, gently whisk in the corn starch. 
 3. Bring the mixture to a gentle bubble, stirring occasionally to thicken the gravy. Reduce heat to low and return the meat to the pan. Stir to combine, cover, and simmer for another 5 minutes. 
 
+### ABOUT THE MEAL 
+ 
+#### What equipment do I need to make this recipe?
+
+* A rimmed baking sheet 
+* A small bowl 
+* A large bowl 
+* A saute pan 
+
+#### Are these biscuits and gravy keto? Are they low-carb?
+Yep, they sure are. I calculated the macros for one serving of biscuits and gravy to make it easy for you. The serving size for this meal is 1 biscuit and 1/3 cup of gravy.  
+
+For the Biscuits: 
+
+* CARBS: 4 Net Carbs
+* PROTEIN: 6g 
+* FAT: 18g
+
+For the Gravy: 
+
+* CARBS: 1 Net Carbs
+* PROTEIN: 8g 
+* FAT:21 g
+
+#### Can I freeze the biscuits and gravy?
+
+Yes, but do so separately. This is one of my favorite things about making this recipe. I often double the recipe for the biscuits to freeze them, so we have quick and easy breakfast, or dinner rolls the next time. First, allow the biscuits to cool completely, and then add them to a Ziploc bag. If you have leftover gravy, you can add that to another bag. The biscuits and the gravy will freeze for up to 3 months. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, warm the biscuits in the oven or microwave and warm the gravy on the stove top.
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+For the Biscuits: 
+1. Preheat the oven to 400 degrees and line a rimmed baking sheet with parchment paper.
+2. Crack the eggs into a small bowl and whisk them together. Set aside. 
+3. In a large bowl, mix the almond flour, baking powder, garlic powder, and salt. Then, stir in the reserved egg mixture, 5 tbsp melted butter, and the sour cream.
 
 {{< figure src="/images/bandg1.jpg" class="instructionFigure">}}
+
 {{< figure src="/images/bandg2.jpg" class="instructionFigure">}}
+
+4. Using an ice cream scoop or similar-sized spoon, scoop out the dough. Use your hands to form a rounded biscuit shape and then sightly flatten the top with your fingers and place them on the rimmed baking sheet. Repeat until the dough is gone. 
+5. Glaze the top of the biscuits with the remaining melted butter. 
+
 {{< figure src="/images/bandg3.jpg" class="instructionFigure">}}
+
+6. Bake for 15 minutes, until the biscuits are firm and golden. 
+
 {{< figure src="/images/bandg4.jpg" class="instructionFigure">}}
+
+For the Gravy: 
+
+1. While the biscuits are baking, brown the sausage in a large saute pan over medium heat and then add 2 tbsp of butter. Cook for 4-5 minutes. Remove the sausage from the pan using a slotted spoon and set it aside. 
+
 {{< figure src="/images/bandg5.jpg" class="instructionFigure">}}
+
+2. Return the pan to medium heat and add the heavy cream, water, pepper, salt, and garlic powder. Then, gently whisk in the corn starch. 
+3. Bring the mixture to a gentle bubble, stirring occasionally to thicken the gravy. Reduce heat to low and return the meat to the pan. Stir to combine, cover, and simmer for another 5 minutes. 
+
 {{< figure src="/images/bandg6.jpg" class="instructionFigure">}}
