@@ -1,10 +1,11 @@
 +++
 title = "Low Carb Biscuits and Gravy"
 date = "2021-05-02"
-description = "This beef and chickpea stew is flavorful and hearty. It can be modified to be vegetarian or vegan."
+description = "This biscuit and gravy recipe is both easy to make and low carb. The macro easily fits a keto diet as well. The biscuits are buttery and flaky and served with creamy sausage gravy, just like those you would eat in your favorite diner or grandma's house. Make them to serve or double the recipe to have some to freeze for later."
 tags = [
     "entree",
-    "breakfast"
+    "keto",
+    "low carb"
 ]
 thumbnail= "images/biscuitsandgravy.jpg"
 +++
@@ -21,7 +22,7 @@ Cuisine: American
 
 For the Biscuits: 
 
-* 2 1/3 cups Almond Flour
+* 2 1/3 cups [Almond Flour](https://amzn.to/2POPsYC)
 * 2 tsp Baking Powder
 * 1/2 tsp Kosher Salt
 * 2 Eggs
@@ -34,7 +35,7 @@ For the Gravy:
 * 2 tbsp Butter
 * 1 cup Heavy cream
 * 1 cup Water
-* 1 1/2 tbsp Coarse Ground Pepper 
+* 1 1/2 tbsp Pepper, coarse ground
 * 1/2 tsp Kosher Salt
 * 1 tsp Garlic Powder
 * 1 tsp Corn Starch
@@ -56,16 +57,19 @@ For the Gravy:
 3. Bring the mixture to a gentle bubble, stirring occasionally to thicken the gravy. Reduce heat to low and return the meat to the pan. Stir to combine, cover, and simmer for another 5 minutes. 
 
 ### ABOUT THE MEAL 
- 
+
+My mama was a server in a mom-and-pop diner for as long as I could remember growing up. One thing the diner did well is their biscuits and gravy. Loving the biscuits and gravy, but wanting fewer carbs, this recipe was born. 
+
 #### What equipment do I need to make this recipe?
 
-* A rimmed baking sheet 
+* A [rimmed baking sheet](https://amzn.to/3ul9KrC) 
 * A small bowl 
 * A large bowl 
-* A saute pan 
+* A [saute pan](https://amzn.to/3xTPLCG)
 
 #### Are these biscuits and gravy keto? Are they low-carb?
-Yep, they sure are. I calculated the macros for one serving of biscuits and gravy to make it easy for you. The serving size for this meal is 1 biscuit and 1/3 cup of gravy.  
+Yep, they sure are! I even calculated the macros for one serving of biscuits and gravy to make it easy for you. 
+The serving size for this meal is 1 biscuit and 1/3 cup of gravy.  
 
 For the Biscuits: 
 
@@ -81,7 +85,7 @@ For the Gravy:
 
 #### Can I freeze the biscuits and gravy?
 
-Yes, but do so separately. This is one of my favorite things about making this recipe. I often double the recipe for the biscuits to freeze them, so we have quick and easy breakfast, or dinner rolls the next time. First, allow the biscuits to cool completely, and then add them to a Ziploc bag. If you have leftover gravy, you can add that to another bag. The biscuits and the gravy will freeze for up to 3 months. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, warm the biscuits in the oven or microwave and warm the gravy on the stove top.
+Yes, but do so separately. This is one of my favorite things about making this recipe. I often double the recipe for the biscuits to freeze them, so we have quick and easy breakfast, or dinner rolls the next time around. Allow the biscuits to cool completely, and add them to a freezer-safe bag. Do the same with any leftover gravy. The biscuits and the gravy will freeze for up to 3 months. When you’re ready to eat, warm the biscuits in the oven or microwave and warm the gravy on the stovetop. Enjoy! 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
