@@ -1,7 +1,7 @@
 +++
 title = "Olive Garden Zuppa Toscana Copycat"
 date = "2021-03-28"
-description = "One Pot Olive Garden Zuppa Toscana Soup. Comfort food at its best, loaded with sausage, potatoes, and kale! So delicious and filling, the whole family will love this soup!"
+description = " This Olive Garden Zuppa Toscana soup is comforting food at its best. It is a creamy soup loaded with sausage, potatoes, and kale. This recipe is so delicious and filling; the whole family will enjoy this meal"
 tags = [
     "entree",
     "low carb",
@@ -24,14 +24,14 @@ Cuisine: Italian, American
 * 1 medium Onion, finely diced 
 * 4 Garlic Cloves, minced 
 * 1 tbsp [Chicken Better than Bouillon](https://amzn.to/38081yU)
-* 4 cup water
+* 4 cup Water
 * 4 small Red Potatoes, quartered 
 * 1/2 tsp Oregano, dried
 * 1/2 tsp Garlic Powder
-* Coarse Black Pepper, to taste
+* Black Pepper, coarse ground, to taste
 * Kosher Salt, to taste
-* 1 cups Heavy Cream 
-* 4 Kale Leaves, stem removed and chopped 
+* 1 cup Heavy Cream 
+* 4 Kale Leaves, stems removed and chopped 
 * Parmesan Cheese, to garnish 
 
 #### STOVE-TOP INSTRUCTIONS 
@@ -56,9 +56,9 @@ There are multiple versions of this recipe floating around the internet. Honestl
 
 #### What main ingredients do I need for this meal?
 
-* Ground Italian Sausage: Control the heat using mild or spicy Italian sausage.  We prefer to switch it up depending on who we are serving.
+* Ground Italian Sausage: Control the heat using mild or spicy Italian sausage. We prefer to switch it up depending on who we are serving.
 
-* Heavy Cream: I use heavy cream, but you could easily substitute half and half or coconut milk.  
+* Heavy Cream: I use heavy cream, but you could easily substitute half-in-half or coconut milk.  
 
 * Kale: Remove the stems and chop the kale. I prefer larger pieces, but it is totally up to your preferences. 
 
@@ -70,15 +70,15 @@ There are multiple versions of this recipe floating around the internet. Honestl
 
 * A [dutch oven](https://amzn.to/3sFYTY1) or an [Instant Pot](https://amzn.to/3w5GDtJ)
 
-#### Is Zuppa Toscana keto? Is it low-carb? 
+#### Is zuppa toscana keto? Is it low-carb? 
 
-The macros are high for a keto diet. For a low-carb diet, it is a solid meal with one substitution. Replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get the flavor of the original recipe. We even calculated the macros to make it easy for you.
+The macros are a little high for a keto diet. However, with one substitution, Zuppa Toscana fits a low-carb diet well. Simply, replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get all the flavor of the original recipe. I calculated the macros to make it easy for you.
 
 * CARBS– 13 net carbs
 * PROTEIN– 62g
 * FAT– 61g
 
-You can also substitute half in half for the heavy cream to reduce the carbs and calories in this meal. 
+You can also substitute half-and-half for the heavy cream to reduce the carbs and calories for this meal if you choose. 
 
 #### Can I freeze Zuppa Toscana? 
 
