@@ -22,7 +22,7 @@ Cuisine: American
 #### INGREDIENTS 
 
 * 6 Cocktail Cucumbers, cubed 
-* 1 package Mixed Tomatoes, halved 
+* 1 package Petite Medley Tomatoes, halved 
 * 1 cup Cilantro, chopped 
 * 2 tbsp Olive Oil 
 * 1 Lime, juiced 
@@ -34,13 +34,13 @@ Cuisine: American
 
 1. Cut up the cucumbers, tomatoes, and cilantro and add them to a large bowl. 
 2. Add the olive oil, lime juice, salt, and pepper to the bowl and mix well. 
-3. Next add the avocado and gently fold them into the salad. Do not over mix or you will break up the avocado cubes. 
+3. Next, add the avocado and gently fold them into the salad. Do not over mix so the avocados remain intact.
  
 ### ABOUT THE SIDE
 
 #### What main ingredients do I need for this meal?
 
-* Cocktail Cucumbers: You can use regular cucumbers for this and cut them up more, but our family just loves the mini cocktail cucumbers. I personally think that they are more crisp than the regular ones and I love the crunch they add to the salad. 
+* Cocktail Cucumbers: You can use regular cucumbers for this and cut them up more, but our family loves the mini cocktail cucumbers. I personally think that they are crisper than the regular ones, and I love the crunch they add to the salad. 
 
 * Avocado 
 
