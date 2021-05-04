@@ -1,10 +1,9 @@
 +++
 title = "Murgh Makhani-Butter Chicken"
 date = "2021-03-22"
-description = "This homemade Butter Chicken is made in the Instant Pot or the stove-top and fits a low carb and keto diet. It can also be modified to fit a vegetarian and vegan diet."
+description = "This creamy, homemade butter chicken can be made in the Instant Pot or the stove-top and tastes just like what you would order from a restaurant. This recipe fits the macros for a low carb and keto diet."
 tags = [
     "entree",
-    "indian",
     "low carb",
     "keto",
     "instant pot"
@@ -26,7 +25,7 @@ For the Chicken:
 
 * 1/2 tbsp Ginger Paste
 * 1/2 tbsp Garlic Paste
-* 1/4 tsp Salt
+* 1/4 tsp Kosher Salt
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3vopon1) 
 * 2 tbsp [Ghee](https://amzn.to/3cyQ0ZN)
 * 3-5 Chicken Thighs, boneless and skinless, cut into 1-inch pieces
@@ -37,15 +36,15 @@ For the Curry:
 * 1 Cinnamon Stick
 * 1 tsp [Green Cardamom Pods](https://amzn.to/3cHo6Lq), lightly crushed 
 * 1 Yellow Onion, roughly chopped
-* 4 Garlic Cloves, minced
+* 4 Garlic Cloves, chopped
 * 1 tbsp Ginger, minced
-* 2 Green Chilis, slit lengthwise, plus more to garnish
+* 2 Green Chilis, slit lengthwise, plus more for garnish
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1 1/2 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or store-bought[Garam Masala](https://amzn.to/2QepzBi)
+* 1 1/2 tsp [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or store-bought[Garam Masala](https://amzn.to/2QepzBi)
 * 1 tsp Cumin, ground
-* 1 tsp Salt
+* 1 tsp Kosher Salt
 * 1/2 tsp [Turmeric](https://amzn.to/3vyvAZK)
-* 4-5 Tomatoes, roughly chopped 
+* 4-5 medium Tomatoes, roughly chopped 
 * 4 tbsp Butter 
 * 1/4 cup Heavy Cream
 * Cilantro, finely chopped, to garnish
@@ -94,24 +93,24 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 #### What main ingredients do I need for this meal?
 
 * Chicken: We use boneless chicken thighs, but you can substitute chicken breasts if you prefer. If using chicken breasts, follow the same cooking time, and be sure to cut the chicken into 1-inch pieces. 
--- The safe cooking temperature for chicken is 160 degrees. 
+-- The safe cooking temperature for chicken is 170 degrees. 
 
-* Butter: We prefer to use high-quality butter, like Kerrygold, since butter is central to the dish; any butter should be fine. 
+* Butter: We prefer to use high-quality butter, like Kerrygold, since butter is central to the dish, but any butter should be fine. 
 
-* Cream: I prefer using heavy cream because it blends well without being too temperamental. 
+* Cream: I prefer to use heavy cream because it blends well without being temperamental. 
 
-* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same is true of specific spices as well. Garam masala is a necessary ingredient for butter chicken, but every garam masala blend differs based on its origin and family making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) our family most often uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
+* Garam Masala: India is a vast country with varying sub-cultures. As a result, Indian food differs from region to region. The same is true of spices as well. Garam masala is a necessary ingredient for butter chicken but every garam masala blend differs based on its origin and the family who is making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mixture and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) our family uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
 
 * Tomatoes: I use fresh ingredients whenever possible, but you can also use canned, diced tomatoes. 
 
 #### What equipment do I need to make this recipe?
 
-* A heavy-bottomed pan or [Instant Pot](https://amzn.to/2Qb5T1j)
-* A food processor, blender, or [immersion blender](https://amzn.to/30O0Ndo)
+* A [dutch oven](https://amzn.to/3xJeucx) or [Instant Pot](https://amzn.to/2Qb5T1j)
+* A [food processor](https://amzn.to/2RnWnYY), [blender](https://amzn.to/3efJY2z), or [immersion blender](https://amzn.to/30O0Ndo)
 
 #### Can butter chicken be vegetarian? Can it be vegan? Can it be dairy-free? 
 
-This recipe caters well to a vegetarian, vegan, or dairy-free way of eating with a few modifications. 
+This recipe can be modified to fit a vegetarian, vegan, or dairy-free way of eating. 
 
 * Vegetarian: First, we need to find a substitute for the chicken in this recipe. I recommend using chickpeas, baked firm tofu, paneer, or roasted cauliflower. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions.
 
@@ -121,17 +120,17 @@ This recipe caters well to a vegetarian, vegan, or dairy-free way of eating with
 
 #### Is butter chicken keto or low-carb?
 
-It is. We even calculated the macros for one chicken thigh and some of the sauce to make it easier for you.  
+Yes, it is. I even calculated the macros to make it easy for you. The serving size for this recipe is one chicken thigh and some of the sauce.  
 
-* CARBS– 5 Net Carbs
-* PROTEIN– 26g
-* FAT–41g
+* CARBS: 5 Net Carbs
+* PROTEIN: 26g
+* FAT: 41g
 
- We recommend serving a butter chicken dish with a side of cauliflower rice, zucchini noodles, or keto naan. 
+ I recommend serving butter chicken with a side of cauliflower rice, zucchini noodles, or keto naan. 
 
 #### Can I freeze butter chicken?
 
-Yes, first allow the dish to cool completely and add it to a freezer-safe container. It will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop and prepare your sides.
+Yes, first allow the dish to cool completely and add it to a freezer-safe container. The butter chicken will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove-top and prepare your sides.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
