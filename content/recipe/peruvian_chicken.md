@@ -5,7 +5,7 @@ description = ""
 tags = [
     "entree",
     "low carb",
-    "keto",
+    "keto"
    
 ]
 thumbnail= "images/peruvianchicken.jpg
