@@ -10,7 +10,7 @@ tags = [
     "low carb"
     
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/cucavotomsalad.jpg"
 +++
 
 Servings: 6 <!--more-->
