@@ -1,0 +1,41 @@
++++
+title = "Serrano Crema"
+date = "2021-03-12"
+description = ""
+tags = [
+    "sauce",
+    "vegan",
+    "vegetarian",
+]
+thumbnail= "images/serranocrema.jpg"
++++
+
+Servings: 10 <!--more-->
+
+Preparation Time: 15 minutes
+
+Cuisine: Peruvian
+
+Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-style-grilled-chicken-sandwiches-recipe.html), J. Kenji Lopez-Alt
+
+#### INGREDIENTS 
+
+* 3-4 Serrano Chilis, roughly chopped 
+* 1 cup Cilantro, chopped 
+* 3 Garlic Cloves, chopped 
+* 1/2 cup Yogurt 
+* 1/3 cup Sour Cream 
+* 1 Lime, juiced 
+* 1/4 cup Olive Oil 
+  
+#### INSTRUSTIONS
+
+Combine the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice to a food processor or blender. Blend until smooth. Then, add in the olive oil and season to taste with salt and pepper. Mix well. 
+ 
+### ABOUT THE MEAL
+
+#### What equipment do I need to make this recipe?
+
+* A [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM) 
+
+Find the original recipe at [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-style-grilled-chicken-sandwiches-recipe.html)
