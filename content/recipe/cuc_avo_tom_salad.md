@@ -36,14 +36,16 @@ Cuisine: American
 2. Add the olive oil, lime juice, salt, and pepper to the bowl and mix well. 
 3. Next, add the avocado and gently fold them into the salad. Do not over mix so the avocados remain intact.
  
-### ABOUT THE SIDE
+### ABOUT THE SALAD
 
 #### What main ingredients do I need for this meal?
 
-* Cocktail Cucumbers: You can use regular cucumbers for this and cut them up more, but our family loves the mini cocktail cucumbers. I personally think that they are crisper than the regular ones, and I love the crunch they add to the salad. 
+* Cocktail Cucumbers: You can also cube regular cucumbers for this salad, but our family loves the cocktail cucumbers. I personally think they are crisper than the regular ones, and I love the crunch they add to any salad. 
 
 * Avocado 
 
 * Tomatoes
 
 * Olive Oil and Lime 
+
+* Spices: I stuck with the dynamic duo and simply falvored the salad with Kosher salt and coarse ground pepper. 
