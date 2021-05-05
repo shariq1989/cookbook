@@ -49,11 +49,21 @@ Adapted: [Milkstreet](https://www.177milkstreet.com/recipes/chicken-salmoriglio-
 
 ### ABOUT THE MEAL
 
+Salmoriglio is a dressing used in Italian cooking, specifically Sicilian, to marinate or flavor dishes. The key ingredients for salmoriglio are lemon juice, olive oil, garlic, and oregano.
+
 #### What main ingredients do I need for this meal?
 
-The main ingredients for any good salmoriglio include lemon juice, olive oil, garlic, and oregano.
+* Chicken: I decided to use boneless and skinless chicken thighs to add a little variation to our usual meal rotation since I usually cook with skin-on and bone-in chicken thighs. If you prefer skin- on, and bone-in, I think it would add even more flavor and texture to an already tasty meal. 
 
-Chicken: For this recipe, I decided to use boneless and skinless chicken thighs for a little something different in our home. Skin-on chicken thighs would add even more flavor and texture to the dish.
+* Lemon Juice 
+
+* Olive Oil 
+
+* Garlic
+
+* Oregano
+
+* Sun-Dried Tomatoes: These aren't usually included in a chicken salmoriglio, but they add a sweet and savory component that ended up being a part of our favorite bites. 
 
 #### What equipment do I need to make this recipe?
 
