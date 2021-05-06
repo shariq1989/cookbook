@@ -9,7 +9,7 @@ tags = [
    
 ]
 thumbnail= "images/peruvianchicken.jpg"
-nutrition="https://www.verywellfit.com/thmb/sK-u1ilrC4BTiM9mbpXSsRxGbuE=/1000x0/Nutrition-Label-Embed-1881871372-615062cfe3994c7d8ca0bde840e7dbf5.png"
+nutrition="https://www.verywellfit.com/thmb/zxrUNIG3Q_MhZ_Vb2ik0PrrA19Q=/1000x0/Nutrition-Label-Embed-1807164603-9c8de5652e7740f4914243e6cfd94a25.png"
 +++
 
 Servings: 4-6 <!--more-->
@@ -20,7 +20,7 @@ Cooking Time: 1 hour, 30 minutes
 
 Cuisine: Peruvian
 
-Adapted from: The Food Lab by Kenji Lopez-Alt
+Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
 #### INGREDIENTS 
 
@@ -42,7 +42,7 @@ Adapted from: The Food Lab by Kenji Lopez-Alt
 5. Spread the mixture evenly over the whole chicken and under the skin.
 6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with Serrano Crema and thinly sliced serrano chilis. Serve with a cucumber, avocado, and tomato salad or cilantro-lime rice. 
+8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chilis. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
 
 ### ABOUT THE MEAL 
 
@@ -69,7 +69,7 @@ Yes, it is and I even calculated the macros for you.
 * PROTEIN – 27g
 * FAT – 10g
 
-To finish your low carb meal, I recommend serving this Peruvian chicken with coconut cauliflower rice and a side of serrano crema. 
+To finish your low carb meal, I recommend serving this Peruvian chicken with coconut cauliflower rice and a side of [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/). 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -91,6 +91,6 @@ To finish your low carb meal, I recommend serving this Peruvian chicken with coc
 
 6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with Serrano Crema and thinly sliced serrano chilis. Serve with a cucumber, avocado, and tomato salad or cilantro-lime rice. 
+8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chilis. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
 
 {{< figure src="/images/perc5.jpg" class="instructionFigure">}}
