@@ -7,12 +7,12 @@ tags = [
     "vegan",
     "vegetarian",
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/homemadechunckysalsa.jpg"
 +++
 
 Servings: 10 <!--more-->
 
-Preparation Time: 
+Preparation Time: 20 minutes 
 
 Cuisine: Mexican 
 
