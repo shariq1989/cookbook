@@ -45,7 +45,7 @@ Cuisine: Mexican
 
 #### What main ingredients do I need for this meal?
 
-* Roma Tomatoes 
+* Roma Tomatoes: Romas are great for making salsa because they have more meat and fewer seeds than other types of tomatoes, which makes the salsa less watery. 
 
 * Jalapenos: When making this salsa for large groups of people, jalapenos are my pepper of choice. If you love jalapenos but want to make the salsa with more spice, leave e the seeds and membranes intact when chopping them.  I prefer to use a serrano chili to add a bite to the salsa. 
 
