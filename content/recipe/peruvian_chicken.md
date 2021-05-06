@@ -38,7 +38,7 @@ Adapted from: The Food Lab by Kenji Lopez-Alt
 2. Prepare a wire rack in a rimmed baking sheet lined with aluminum foil.  
 3. Dry the chicken thoroughly with a cloth. 
 4. Combine the cumin, paprika, salt, pepper, garlic, vinegar, and oil into a small bowl. Mix well. 
-5. Spread the mixture evenly over the whole chicken and under the skin as much as you are able.
+5. Spread the mixture evenly over the whole chicken and under the skin.
 6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
 8. Garnish with Serrano Crema and thinly sliced serrano chilis. Serve with a cucumber, avocado, and tomato salad or cilantro-lime rice. 
@@ -50,7 +50,7 @@ Adapted from: The Food Lab by Kenji Lopez-Alt
 * Chicken: I used a whole butterflied chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. You can also use the rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry if cooked alone. 
 – The safe cooking temperature for chicken is 170 degrees.
 
-* Spices: I like to use cumin, paprika, salt, and black pepper. 
+* Spices: I like to use traditional Peruvian spices like cumin, paprika, salt, and black pepper. 
 
 #### What equipment do I need to make this recipe?
 
@@ -84,7 +84,7 @@ To finish your low carb meal, I recommend serving this Peruvian chicken with coc
 
 {{< figure src="/images/perc1.jpg" class="instructionFigure">}}
 
-5. Spread the mixture evenly over the whole chicken and under the skin as much as you are able.
+5. Spread the mixture evenly over the whole chicken and under the skin.
 
 {{< figure src="/images/perc4.jpg" class="instructionFigure">}}
 
