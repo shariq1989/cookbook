@@ -7,7 +7,7 @@ tags = [
     "vegan",
     "vegetarian",
 ]
-thumbnail= "images/beefandchickpea.jpg"
+#thumbnail= "images/beefandchickpea.jpg"
 +++
 
 Servings: 10 <!--more-->
@@ -61,3 +61,11 @@ Cuisine: Mexican
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
+1. Chop the tomatoes and add them to a large bowl. 
+2. Slice the jalapenos in half and remove the seeds by holding the stem and scooping them out with a spoon. Then, cut off the stem and finely dice the peppers. Add them to the bowl with the tomatoes. 
+3. Next, chop the onions, garlic, and cilantro. Add them to the bowl. 
+4. Season the salsa with salt, pepper, cumin, and garlic powder. Mix well and taste. Adjust the salt if needed. 
+5. Slice the lime and squeeze it over salsa. Stir to mix. 
+6. Next, slice the avocado in half and remove the pit. Cut the avocado into cubes. 
+7. Add the avocado to the salsa and carefully fold them into the mixture. 
+8. Serve this salsa with our homemade corn chips, your favorite tacos, or even use it as a topping for a salad. 
