@@ -7,7 +7,7 @@ tags = [
     "vegan",
     "vegetarian",
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/homemadecornchips.jpg"
 +++
 
 Servings: About 70 Chips <!--more-->
