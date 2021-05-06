@@ -60,6 +60,10 @@ If I was forced to eat one food for the rest of my life, I would likely choose c
 
 * Sweetener: Want to try something a little more adventurous? Try our dessert chips using this same tortilla chip process. 
 
+#### What is the best way to store the leftover chips? 
+
+Should you have leftovers, I have a feeling you won't, these chips are best stored in a paper bag or an airtight container. They will last for up to one week, but I highly recommend eating them same-day. 
+
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Gather the corn tortillas and cut them into six wedges. Set aside. 
