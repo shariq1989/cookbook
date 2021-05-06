@@ -39,11 +39,11 @@ If I was forced to eat one food for the rest of my life, I would likely choose c
 
 #### What main ingredients do I need for this meal?
 
-* Corn Tortillas: We love corn tortilla chips, but you could also use 
+* Corn Tortillas: We love corn tortilla chips in our home, but you could also use blue corn or flour tortillas instead. 
 
 * Coconut Oil: I love the added flavor of the coconut oil to the chips, but if coconut oil is not your thing, choose another oil. It’s important you choose an oil that has a high smoke point since you are frying the tortillas. I suggest using avocado oil or vegetable oil. You could also use canola oil, grapeseed oil, or sunflower oil, depending on your preference.
 
-* Salt: I use Kosher salt because that is using something I always have on hand, but you could also use sea salt. Both will give you that restaurant-quality salt experience we all know and love. 
+* Salt: I use Kosher salt because that is something I always have on hand, but you could also use sea salt. Both will give you the restaurant-quality salt experience we all know and love. 
 
 #### What equipment do I need to make this recipe?
 
@@ -62,7 +62,7 @@ If I was forced to eat one food for the rest of my life, I would likely choose c
 
 #### What is the best way to store the leftover chips? 
 
-Should you have leftovers, I have a feeling you won't, these chips are best stored in a paper bag or an airtight container. They will last for up to one week, but I highly recommend eating them same-day. 
+Should you have leftovers, I have a feeling you won't, these chips are best stored in a paper bag or an airtight container. They will last for up to one week, but I highly recommend eating them the same day. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -72,3 +72,5 @@ Should you have leftovers, I have a feeling you won't, these chips are best stor
 4. Add the tortillas in a single layer to the oil without overlapping.  Fry for 1 minute and flip, and then fry for another minute until the tortillas are lightly golden and crisp.
 5. With a pair of tongs, remove the tortilla chips and place them onto the wire rack to drain. Sprinkle evenly with Kosher salt while they are still hot. When the chips have had an opportunity to drain, add them to a large serving bowl to make room for the other chips.
 6. Repeat with the remaining tortilla chips until all have had a chance to fry.
+
+
