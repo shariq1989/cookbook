@@ -6,6 +6,8 @@ tags = [
     "sauce",
     "vegan",
     "vegetarian",
+    "keto",
+    "low carb"
 ]
 thumbnail= "images/serranocrema.jpg"
 +++
@@ -27,12 +29,27 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 * 1/3 cup Sour Cream 
 * 1 Lime, juiced 
 * 1/4 cup Olive Oil 
+* Salt and Pepper, to taste
   
 #### INSTRUSTIONS
 
 Combine the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice to a food processor or blender. Blend until smooth. Then, add in the olive oil and season to taste with salt and pepper. Mix well. 
  
 ### ABOUT THE MEAL
+
+#### What main ingredients do I need for this meal?
+
+* Serrano Chili: I prefer the taste and heat of serrano chilis, but you could also use jalapenos for a more mild sauce. 
+
+* Yogurt 
+
+* Sour Cream 
+
+* Lime 
+
+* Olive Oil
+
+* Cilantro 
 
 #### What equipment do I need to make this recipe?
 
