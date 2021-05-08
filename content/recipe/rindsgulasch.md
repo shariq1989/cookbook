@@ -1,7 +1,7 @@
 +++
 title = "Rindsgulasch - Austrian Beef Goulash"
 date = "2021-04-06"
-description = "There are so many variations of goulash; this recipe is for an Austrian beef goulash. The beef is cooked until tender and has a classic gravy that is dark, smooth, and flavorful."
+description = "There are so many variations of goulash; this recipe is for an Austrian beef goulash flavored with caraway and paprika. The beef is cooked until tender and has that dark, smooth, and flavorful gravy expected of rindsgulach."
 tags = [
     "instant pot",
     "entree",
@@ -30,7 +30,6 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 * 1 large Yellow Onion, finely diced 
 * 2 tbsp [Caraway Seeds](https://amzn.to/3b6l7Ls) 
 * 2 Garlic Cloves, minced
-* ⅓ cup Flour 
 * 2 cups Water
 * 1 tbsp [Beef Better Than Bouillon](https://amzn.to/3qUFukL)
 * ½ cup Tomato Paste 
@@ -74,7 +73,11 @@ Gulasch may have originated in Hungary, but it has evolved into something comple
 
 * An [Instant Pot](https://amzn.to/3qfNYCZ)
 
-#### Can I freeze Rindsgulasch?
+#### What can I serve with rindsgulasch? 
+
+I normally serve rindsgulasch with egg noodles, but you could also serve it up with a side of roasted potatoes, mashed potatoes, or spätzle. 
+
+#### Can I freeze rindsgulasch?
 
 Yes, you can. First, allow the dish to cool completely and then add it to a freezer-safe container. Rindsgulasch will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on a stovetop and prepare your sides.
 
