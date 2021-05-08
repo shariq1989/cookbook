@@ -1,7 +1,7 @@
 +++
 title = "Homemade Corn Tortilla Chips"
 date = "2021-05-05"
-description = ""
+description = "Ever eat chips in a restaurant and wonder why they are so much better than store-bought chips? We have got you covered, these corn tortillas are made from scratch and taste just like what you would get in a restaurant."
 tags = [
     "side",
     "vegan",
@@ -20,7 +20,7 @@ Cuisine: Mexican
 
 #### INGREDIENTS 
 
-2 cups Coconut Oil 
+* 2 cups Coconut Oil 
 * 12 Corn Tortillas, cut into six wedges 
 * Kosher Salt, to tase
   
@@ -39,38 +39,58 @@ If I was forced to eat one food for the rest of my life, I would likely choose c
 
 #### What main ingredients do I need for this meal?
 
-* Corn Tortillas: We love corn tortilla chips in our home, but you could also use blue corn or flour tortillas instead. 
+* Corn Tortillas: Our family loves corn tortilla chips; you could also use blue corn or flour tortillas instead. 
 
-* Coconut Oil: I love the added flavor of the coconut oil to the chips, but if coconut oil is not your thing, choose another oil. It’s important you choose an oil that has a high smoke point since you are frying the tortillas. I suggest using avocado oil or vegetable oil. You could also use canola oil, grapeseed oil, or sunflower oil, depending on your preference.
+* Coconut Oil: I love the added flavor of the coconut oil, but if coconut oil is not your thing, choose another oil. It’s important you choose an oil that has a high smoke point since you are frying the tortillas. I suggest using avocado oil or vegetable oil. You can also use canola oil, grapeseed oil, or sunflower oil, depending on your preference.
 
-* Salt: I use Kosher salt because that is something I always have on hand, but you could also use sea salt. Both will give you the restaurant-quality salt experience we all know and love. 
+* Salt: I use Kosher salt because that is something I always have on hand in my pantry, but you could also use sea salt. Both will give you the restaurant-quality salt experience we know and love. 
 
 #### What equipment do I need to make this recipe?
 
-* A rimmed baking sheet 
-* A wire rack 
-* A large frying pan 
-* A large serving bowl 
+* A [rimmed baking sheet](https://amzn.to/2QTLqyJ)
+
+* A [wire rack](https://amzn.to/3bc4gbc)
+
+* A large [frying pan](https://amzn.to/33DLdCB) 
+
+* A large [serving bowl](https://amzn.to/3euX5Ng)
 
 #### What are some other ways I could flavor the chips? 
 
-* Tajin: I am from Arizona, so this has been a blend is a staple in our pantry. The chili-lime flavor of the Tajin is great on chips.  
+* [Tajin](https://amzn.to/2Srx09c): I am from Arizona, so this blend is a staple in our pantry. The chili-lime flavor of Tajin is great on tortilla chips.  
 
-* Lime:  Add the zest and juice of a lime over the chips and toss for a citrus tang.
+* Lime: Add zest and juice of a lime over the chips and toss for a nice, citrus tang.
 
-* Sweetener: Want to try something a little more adventurous? Try our dessert chips using this same tortilla chip process. 
+* Sweetener: Want to try something a little adventurous? Try our dessert chips using this same tortilla chips. 
 
 #### What is the best way to store the leftover chips? 
 
-Should you have leftovers, I have a feeling you won't, these chips are best stored in a paper bag or an airtight container. They will last for up to one week, but I highly recommend eating them the same day. 
+Should you have leftovers, these chips are best stored in a paper bag or an airtight container on your countertop. They will last for up to one week, but I highly recommend eating them the same day for best results. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Gather the corn tortillas and cut them into six wedges. Set aside. 
+
+{{< figure src="/images/chip1.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/chip2.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/chip3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/chip4.jpg" class="instructionFigure">}}
+
 2. Prepare a rimmed baking sheet with a wire rack. I cover the baking sheet with a cloth for easy cleanup. 
+
+{{< figure src="/images/chip5.jpg" class="instructionFigure">}}
+
 3. Add coconut oil to a large frying pan, about 1/4-inches deep. Heat the oil over medium-high heat until it begins to smoke. Then reduce the heat to medium to prevent burning. You will have to adjust the heat back and forth throughout this process. 
 4. Add the tortillas in a single layer to the oil without overlapping.  Fry for 1 minute and flip, and then fry for another minute until the tortillas are lightly golden and crisp.
+
+{{< figure src="/images/chip6.jpg" class="instructionFigure">}}
+
 5. With a pair of tongs, remove the tortilla chips and place them onto the wire rack to drain. Sprinkle evenly with Kosher salt while they are still hot. When the chips have had an opportunity to drain, add them to a large serving bowl to make room for the other chips.
 6. Repeat with the remaining tortilla chips until all have had a chance to fry.
+
+{{< figure src="/images/chip7.jpg" class="instructionFigure">}}
 
 
