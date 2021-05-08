@@ -1,7 +1,7 @@
 +++
 title = "Peruvian Roasted Chicken"
 date = "2021-05-03"
-description = "This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with a delicious serrano crema."
+description = "This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with a delicious serrano crema. This recipe can also be replicated using chicken thighs and legs as well."
 tags = [
     "entree",
     "low carb",
@@ -26,7 +26,7 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
 * 1 Whole Chicken, 3-4 lbs, butterflied
 * 1 tbsp [Cumin](https://amzn.to/3eebpcJ), ground 
-* 1 1/2 tbsp Paprika 
+* 1 1/2 tbsp Smoked Paprika 
 * 2 tsp Kosher Salt 
 * 1 tsp Black Pepper, coarse ground 
 * 5 Garlic Cloves, minced 
@@ -48,7 +48,7 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
 #### What main ingredients do I need for this meal?
 
-* Chicken: I used a whole, butterflied chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. You can also use the same rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry if cooked alone. Reminder, the safe cooking temperature for chicken is 170 degrees.
+* Chicken: I used a whole, butterflied, or spatchcocked chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. Spatchcocking a chicken means cutting the backbone out of the chicken and flattening it; this allows the chicken to roast more evenly all over. You can also use the same rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry if cooked alone. Reminder, the safe cooking temperature for chicken is 170 degrees.
 
 * Spices: I use a tasty combination of cumin, paprika, salt, and black pepper. 
 
@@ -66,13 +66,13 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
 #### Is Peruvian chicken keto? Is it low-carb?
 
-Yes, it is and I even calculated the macros to make it easy for you. The serving size for these macros are 5 ounces of chicken. 
+Yes, it is. I even calculated the macros to make it easy for you. The serving size for these macros is 5 ounces of chicken. 
 
 * CARBS – 2 Net Carbs 
 * PROTEIN – 27g
 * FAT – 10g
 
-To finish your low carb meal, I recommend serving this Peruvian chicken with coconut cauliflower rice and a side of [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/). 
+To finish your low-carb meal, I recommend serving this Peruvian chicken with coconut cauliflower rice and a side of [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/). 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -98,4 +98,4 @@ To finish your low carb meal, I recommend serving this Peruvian chicken with coc
 
 {{< figure src="/images/perc5.jpg" class="instructionFigure">}}
 
-The orginal recipe is found in the [Food Lab](https://amzn.to/3f41x4R), by Kenji Lopez-Alt
+The original recipe is found in the [Food Lab](https://amzn.to/3f41x4R), by Kenji Lopez-Alt
