@@ -1,7 +1,7 @@
 +++
 title = "Rindsgulasch - Austrian Beef Goulash"
 date = "2021-04-06"
-description = "Goulash has so many variations. This recipe is for Austrian beef goulash. The beef is tender and has the classic gravy that is dark, smooth, and thick."
+description = "There are so many variations of goulash; this recipe is for an Austrian beef goulash. The beef is cooked until tender and has a classic gravy that is dark, smooth, and flavorful."
 tags = [
     "instant pot",
     "entree",
@@ -18,7 +18,7 @@ Cooking Time: 30 minutes
 
 Cuisine: Austrian
 
-Adapted from: Milk Street
+Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash)
 
 #### INGREDIENTS 
 
@@ -52,14 +52,15 @@ Adapted from: Milk Street
 7. Stir in the fresh dill and apple cider vinegar. 
 8. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
 
-
 ### ABOUT THE MEAL
+
+Gulasch may have originated in Hungary, but it has evolved into something completely different. The main distinction is the rich, dark gravy is made without flour or roux but thickens as the onions and beef created a base for the gulasch. 
 
 #### What main ingredients do I need for this meal?
 
-* Short Rib Roast: We prefer short rib, but you can also use chuck roast or beef shank. 
+* Short Rib Roast: I prefer the tenderness of short rib; you can also use chuck roast or the more traditional beef shank. 
 
-* Paprika: Okay, okay, you could probably use whatever paprika you have in the cabinet. But trust me, you will love the flavor that comes from the sweet and hot paprika combination. If you only want to purchase one of them, reach for the sweet paprika and substitute 1 tsp of cayenne instead of the hot paprika. 
+* Paprika: Okay, you could probably use whatever paprika you have in the cabinet. But trust me, you will love the flavor from the combination of sweet and hot paprika. If you only want to purchase one of them, reach for the sweet paprika and substitute 1 tsp of cayenne in place of the hot paprika. 
 
 * Caraway Seeds
 
@@ -70,11 +71,12 @@ Adapted from: Milk Street
 #### What equipment do I need to make this recipe?
 
 * A small bowl
+
 * An [Instant Pot](https://amzn.to/3qfNYCZ)
 
 #### Can I freeze Rindsgulasch?
 
-You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. Rindsgulasch will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on a stovetop and prepare your sides.
+Yes, you can. First, allow the dish to cool completely and then add it to a freezer-safe container. Rindsgulasch will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on a stovetop and prepare your sides.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -109,3 +111,5 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 8. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
 
 {{< figure src="/images/rgl8.jpg" class="instructionFigure">}}
+
+This original recipe can be found at [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash)
