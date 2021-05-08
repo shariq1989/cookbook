@@ -44,7 +44,7 @@ Cuisine: Mexican
 
 ### ABOUT THE SIDE
 
-If forced to eat one food for the rest of my life, I would likely choose chips and salsa, specifically with these chips. They are a favorite in our home, not just of mine, but our children also. 
+If forced to eat one food for the rest of my life, I would likely choose chips and salsa, specifically with these chips. They are a favorite in our home, and it's not just me, but our children also. Enjoy these chips with our homemade [salsa](https://www.jamilghar.com/recipe/homemade_chunky_salsa/), [guacamole](https://www.jamilghar.com/recipe/guacamole/), or go another direction with our dessert nachos. 
 
 #### What main ingredients do I need for this meal?
 
@@ -70,7 +70,7 @@ If forced to eat one food for the rest of my life, I would likely choose chips a
 
 * Lime: Add zest and juice of a lime over the chips and toss for a citrus tang.
 
-* Sweetener: Want to try something a little adventurous? Try our dessert chips using the same tortilla chips found in this recipe. 
+* Sweetener: Want to try something a little adventurous? Try our dessert nachos using the same tortilla chips found in this recipe. 
 
 #### What is the best way to store leftover chips? 
 
@@ -101,5 +101,4 @@ Should you have leftovers, these chips store well in a paper bag or an airtight 
 6. Repeat with the remaining tortilla chips until all have had a chance to fry.
 
 {{< figure src="/images/chip7.jpg" class="instructionFigure">}}
-
 
