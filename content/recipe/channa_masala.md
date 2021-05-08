@@ -1,7 +1,7 @@
 +++
 title = "Channa Masala - Spiced Chickpea Curry"
 date = "2021-03-30"
-description = "This is an easy and flavorful channa masala made in the Instant Pot or on the stove-top."
+description = "Channa masala is a delicious and flavorful curry made by stewing chickpeas in a spicy onion and tomato gravy. This recipe can be made in the Instant Pot or on the stove-top."
 tags = [
     "entree",
     "vegetarian",
@@ -26,7 +26,7 @@ Cuisine: Indian, Pakistani
 * 2- 15 oz can Chickpeas, drained and rinsed 
 * 1 Red Onion, finely chopped
 * 3 Garlic Cloves, minced
-* 1-inch Ginger piece, minced 
+* 1-inch fresh Ginger, minced 
 * 1-2 large Tomatoes, chopped, use more if you prefer more curry
 * 1/2 cup Water 
 * 1 tsp [Turmeric Powder](https://amzn.to/3vyvAZK)
@@ -65,25 +65,29 @@ Cuisine: Indian, Pakistani
 
 ### ABOUT THE MEAL
 
+Like many popular dishes in Indian and Pakistan, recipes for channa vary from region to region. This recipe is similar to those found in North India and Pakistan. 
+
 Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you. Learning how to cook Indian food is something I treasure, especially since I have the honor of learning Desi cooking under my talented mother-in-law. She prepares food off-script, so you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### What main ingredients do I need for this meal?
 
-* Chickpeas: We used canned simply because it is easier and takes less time to cook. You can use dry chickpeas, but you will need to soak them for 6-24 hours and increase the cooking time, about 1-2 hours.
+* Chickpeas: We used canned simply out of convenience. You can use dry chickpeas, but you will need to soak them for 6-24 hours and increase the cooking time for this recipe, about 1-2 hours.
 
-* Onion and Tomato: The slow-cooked onion and tomatoes, along with ginger, garlic, and green chilis, bring so much flavor to the dish. 
+* Onion and Tomato: There is nothing quite like the spicy gravy made from slow-cooking the onion and tomatoes, along with the ginger, garlic, and green chilis. This process and these ingredients bring so much flavor to the dish. 
 
-* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spices used in the mix and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) we make in our home. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3qNCcQk), Spice House, or Penzey’s garam masala.
+* Garam Masala: India is a vast country with varying sub-cultures, and as a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used in the mix and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) we make in our home. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3qNCcQk), Spice House, or Penzey’s garam masala.
 
 #### What equipment do I need to make this recipe?
 
-* A heavy-bottomed pan with a lid or an Instant Pot
+* A [heavy-bottomed pan](https://amzn.to/3bbyk6E) with a lid or an [Instant Pot](https://amzn.to/3ttlual)
+
 * A small bowl
-* A food processor or blender
+
+* A [food processor](https://amzn.to/3o68l64) or [blender](https://amzn.to/2SrI06u)
 
 #### Is channa masala vegetarian? Is it vegan? 
 
-Channa masala caters to a vegetarian and vegan diet. To make this particular recipe vegan, you will need to substitute another oil for the ghee. I suggest using [grapeseed oil](https://amzn.to/3cLwWYG).
+In general, channa masala caters to both a vegetarian and vegan diet. To make this particular recipe vegan, you will need to use another oil for the ghee. I suggest using [grapeseed oil](https://amzn.to/3cLwWYG).
 
 #### Can I freeze channa masala? 
 
