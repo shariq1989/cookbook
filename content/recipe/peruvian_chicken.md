@@ -1,7 +1,7 @@
 +++
 title = "Peruvian Roasted Chicken"
 date = "2021-05-03"
-description = ""
+description = "This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with a delicious serrano crema."
 tags = [
     "entree",
     "low carb",
@@ -48,22 +48,25 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
 #### What main ingredients do I need for this meal?
 
-* Chicken: I used a whole butterflied chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. You can also use the rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry if cooked alone. 
-– The safe cooking temperature for chicken is 170 degrees.
+* Chicken: I used a whole, butterflied chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. You can also use the same rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry if cooked alone. Reminder, the safe cooking temperature for chicken is 170 degrees.
 
-* Spices: I like to use traditional Peruvian spices like cumin, paprika, salt, and black pepper. 
+* Spices: I use a tasty combination of cumin, paprika, salt, and black pepper. 
 
 #### What equipment do I need to make this recipe?
 
 * 2 small bowls
-* A [food processor](https://amzn.to/3eVyrod) or blender
+
+* A [food processor](https://amzn.to/3eVyrod) or [blender](https://amzn.to/2RBPcg8)
+
 * A [rimmed baking sheet](https://amzn.to/339IQqI)
+
 * A [wire rack](https://amzn.to/3bE8h90)
+
 * A [food thermometer](https://amzn.to/2RnEB8c)
 
 #### Is Peruvian chicken keto? Is it low-carb?
 
-Yes, it is and I even calculated the macros for you. 
+Yes, it is and I even calculated the macros to make it easy for you. The serving size for these macros are 5 ounces of chicken. 
 
 * CARBS – 2 Net Carbs 
 * PROTEIN – 27g
@@ -94,3 +97,5 @@ To finish your low carb meal, I recommend serving this Peruvian chicken with coc
 8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chilis. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
 
 {{< figure src="/images/perc5.jpg" class="instructionFigure">}}
+
+The orginal recipe is found in the [Food Lab](https://amzn.to/3f41x4R), by Kenji Lopez-Alt
