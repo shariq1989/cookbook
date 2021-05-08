@@ -32,17 +32,15 @@ Cuisine: American
 
 #### INSTRUCTIONS
 
-1. Cut up the cucumbers, tomatoes, and cilantro and add them to a large bowl. 
-2. Add the olive oil, lime juice, salt, and pepper to the bowl and mix well. 
-3. Next, add the avocado and gently fold them into the salad. Do not over mix so the avocados remain intact.
+1. Cut the cucumbers, tomatoes, and cilantro and add them to a large salad bowl. 
+2. Add olive oil, lime juice, salt, and pepper to the bowl and stir to mix well. 
+3. Next, add the avocado and gently fold them into the salad, careful not to overmix. 
  
-### ABOUT THE SALAD
-
-If I decide to barbeque meat or grill burgers, I fix this salad; if I am cooking a Mexican entree, I make this salad;  if we are going to a potluck or get-together, I bring this salad. You get the point; I really like this salad. 
+### ABOUT THE SALAD 
 
 #### What main ingredients do I need for this meal?
 
-* Cocktail Cucumbers: You can also use regular cucumbers, but I love using cocktails. I think they are crisper than regular ones, and I love the crunch they add to the salad. 
+* Cocktail Cucumbers: You can use regular cucumbers, but I prefer cocktails. To me, they are crisper than regular ones, and I love the crunch they add. 
 
 * Avocado 
 
@@ -50,15 +48,20 @@ If I decide to barbeque meat or grill burgers, I fix this salad; if I am cooking
 
 * Olive Oil 
 
-* Lime: I used lime, but you could use lemon juice as a substitute and still achieve freshness to flavor the salad. 
+* Lime: I use lime, but lemon juice would achieve the same freshness to flavor the salad. 
 
 * Spices: I used the dynamic duo and flavored the salad with Kosher salt and coarse ground pepper. 
 
 #### What equipment do I need to make this recipe?
 
 * A [sharp knife](https://amzn.to/2R6C2Yp)
+
 * A large [salad bowl](https://amzn.to/33n2H61) 
+
+#### Is this salad vegetarian? Is it vegan?
+
+Our cucumber, avocado, and tomato salad naturally suit both a vegetarian and vegan diet. 
 
 #### I don't like cilantro; can I use something else? 
 
-Sure, fresh dill is a great substitute, though if you're going that route I would suggest using lemon juice in place of the lime. 
+Sure, fresh dill is a great substitute. If you do, I suggest using lemon juice in place of the lime. 
