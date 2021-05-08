@@ -1,7 +1,7 @@
 +++
 title = "Cucumber, Avocado, and Tomato Salad"
 date = "2021-05-03"
-description = "This salad is loaded with herbs, juicy tomatoes, crisp cucumber, and creamy avocado. The olive oil and lime juice make for a fresh and flavorful salad."
+description = "This salad is loaded with herbs, juicy tomatoes, crisp cucumber, and creamy avocado. The olive oil and lime juice make for a fresh and flavorful salad. This salad naturally suits a vegetarian, vegan, keto, and low carb diet."
 tags = [
     "sides",
     "vegan",
