@@ -1,7 +1,7 @@
 +++
-title = "Tteokbokki - Spicy Stir-Fried Korean Rice Cakes"
+title = "Tteokbokki - Spicy Korean Rice Cakes"
 date = "2021-04-16"
-description = "Tteokbokki, also spelled ddukbokki, ddeokbokki, dukbokki, or topokk, is a popular Korean street food. It's delicious, but also a comfort food you can easily make at home."
+description = "This recipe teaches how to make Tteokbokki, also called Ddukbokki, Ddeokbokki, or Dukbokki; this dish is a popular Korean street food, and not only is it delicious, it's a comfort food you can easily make at home."
 tags = [
     "entree",
 ]
@@ -25,7 +25,7 @@ Cuisine: Korean
 * 1/4 cup [Gochuchang](https://amzn.to/32A6v3v)
 * 1 tbsp [Gochugaro](https://amzn.to/3v0RhQT)  
 * 1 tsp Granulated White Sugar
-* 5 Scallions, cut into 2-inch pieces
+* 7 Scallions, cut into 2-inch pieces
   
 #### INSTRUSTIONS
 
@@ -38,25 +38,35 @@ Cuisine: Korean
 
 ### ABOUT THE MEAL
 
-Shariq and I gathered with international students from Malaysia and Burma. It was my first experience with Korean food; we ordered the meal family-style, as we often did so that everyone could try a little bit of everything. I fell in love with Korean food that day, but especially this spicy dish with a texture I had never experienced before- seriously, you have to try it! I should have had the foresight to ask them then what the name of the dish was, but of course, I did not. Instead, I went years in search of the tasty meal I tried that day. Here it is folks, tteokbokki. Also spelled, ddukbokki, ddeokbokki, dukbokki, or topokk depending on who you ask. 
+Shariq and I gathered with international students from Malaysia and Burma in a small Korean restaurant in Arizona. It was my first experience with Korean food; we ordered the meal family-style, as we often did so that everyone could try a little bit of everything. I fell in love with Korean food that day, but especially this spicy dish with a texture I had never experienced before - seriously, you have to try it! I should have had the foresight to ask them the name of the dish, but of course, I did not. Instead, I went years in search of the tasty meal I tried that day. Here it is folks, Tteokbokki, which I have eaten countless times now, and I am still a fan. 
 
 #### What main ingredients do I need for this meal?
 
-* Rice Cakes: If you can find freshly made rice cakes where you live, that's always the best option. However, you can use refrigerated rice cakes or even frozen ones. 
+* Rice Cakes: If you can find freshly made rice cakes where you live, that's always the best option. However, you can use refrigerated or frozen rice cakes as well. 
 
-* Fish Sauce: Traditionally, dried anchovies are used to make Tteokbokki brother, but since we always keep fish sauce in our home, I use that to flavor the broth and create umami instead. 
+* Fish Sauce: Traditionally, dried anchovies are used to make Tteokbokki, but since fish sauce is a staple in our home, I use that to flavor the broth and create umami instead. 
 
-* Gochuchang
+* [Gochuchang](https://amzn.to/32A6v3v)
 
-* Gochugaro 
+* [Gochugaro](https://amzn.to/3v0RhQT)
+
+* Scallions or Green Onions 
 
 #### What equipment do I need to make this recipe?
 
-* A saucepan 
+* A [saute pan](https://amzn.to/2RcOoyd)
 
-#### Is tteokbokki vegetarian? Is it vegan?
+#### Is Tteokbokki vegetarian? Is it vegan?
 
-Yes, omit the fish sauce and use [Vegetable Better Than Bouillion](https://amzn.to/3ggLeni) to create the broth.
+To make this particular recipe vegetarian and vegan, omit the fish sauce and use [Vegetable Better Than Bouillion](https://amzn.to/3ggLeni) to flavor the broth.
+
+#### Can I make Tteokbokki less spicy? 
+ 
+Of course, reduce the amount of Gochuchang used to 2 tbsp and Gochugaro to 1 tsp; this way, the flavor is there, but not all the spice. I also suggest increasing the amount of Better than Bouillon used to 2 tsp instead of 1. If you want a sweeter Tteokbokki, add 1-2 tsp of honey to cut the heat and flavor the dish. 
+
+#### What can I add to Tteokbokki? 
+
+There are so many ways to dress up Tteokbokki. Many people enjoy adding fish cakes, boiled eggs, ramen, and vegetables like cabbage and carrots. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -73,5 +83,5 @@ Yes, omit the fish sauce and use [Vegetable Better Than Bouillion](https://amzn.
 
 {{< figure src="/images/tk1.jpg" class="instructionFigure">}}
 
-5. Allow rice cakes to cook, maintaining a gentle bubble, over medium heat for 15 minutes until the sauce begins to thicken, stir frequently.  
+5. Allow the rice cakes to cook and maintain a gentle bubble, over medium heat, for 15 minutes until the sauce begins to thicken; stir frequently.  
 6. Check the consistency of the rice cakes; you want them to be soft. If the rice cakes haven't reached the desired consistency, let them continue cooking while stirring. Add more water if necessary.  
