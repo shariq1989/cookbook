@@ -15,16 +15,16 @@ Preparation Time: 10 minutes
 
 Cooking Time: 40 minutes
 
-Marinating Time: 1 hour - 8 hours 
+Marinating Time: 1 - 8 hours 
 
 Cuisine: American 
 
 #### INGREDIENTS 
 
-* 2 tsp Miso Paste
+* 2 tsp White Miso Paste
 * 2 tbsp Water 
 * 3 tbsp Olive Oil 
-* 1/2 cup Honey
+* 1/3 cup Honey
 * 1 tsp Apple Cider Vinegar
 * 1 tbsp Smoked Paprika
 * 1 tsp Garlic Powder
@@ -34,14 +34,14 @@ Cuisine: American
 
 #### INSTRUSTIONS
 
-1. Warm 2 tbsp of water in a small bowl and stir in the miso paste until it dissolves. 
-2. Add the miso mixture to a Ziploc bag, along with the rest of the ingredients. Squeeze the bag to combine the ingredients. 
-3. Add the drumsticks and massage the marinade into the chicken. 
+1. Warm 2 tbsp of water in a small bowl and stir the miso paste until it completey dissolves. 
+2. Add the miso mixture to a Ziploc bag, along with the rest of the ingredients. Seal the bag and combine the ingredients. 
+3. Add the drumsticks and seal the bag once again. Then, massage the marinade into the chicken. 
 4. Place the bag in the refrigerator for at least 1 hour. For best result, marinate for at least 8 hours. 
 5. Prepare a rimmed baking sheet with a wire rack and preheat the oven to 375 degrees. 
-6. Arrange the drumsticks onto the wire rack. Bake for 20 minutes, and then flip the drumsticks halfway. Bake for another 20 minutes. 
-7. If you prefer crip skin the way we do, broil the chicken on high for 2-3 minutes.
-8. Allow the chicken to rest and serve it with a fresh salad, your favorite vegetable, rice, or try another sheet pan side like Ras El Hanout butternut squash and cook them both at the same time.
+6. Arrange the drumsticks onto the wire rack. Bake for 20 minutes. Flip the drumsticks halfway and bake for another 20 minutes. 
+7. If you prefer crispier skin the way we do, you can broil the chicken on high for 2-3 minutes. 
+8. Allow the chicken to rest for about 5 minutes. Serve the drumsticks with a fresh salad, vegetables, rice, or try another sheet pan side like Ras El Hanout-spiced butternut squash and cook them both at the same time.
 
 ### ABOUT THE MEAL
 
@@ -49,9 +49,9 @@ Who doesn't love a crispy baked chicken drumstick? The glaze is sweet, smoky, an
 
 #### What main ingredients do I need for this meal?
 
-* Chicken Drumsticks: We used drumsticks for this recipe, but this recipe is just as tasty with bone-in chicken thighs. If you use chicken thighs, I suggest increasing the cooking time slightly. The safe temperature for chicken is 165 degrees. 
+* Chicken Drumsticks: We suggest drumsticks, but this recipe is just as tasty with bone-in chicken thighs as well. If using chicken thighs, increase the cooking time some. The safe internal temperature for chicken is 165 degrees. 
 
-* Honey: Honey sweetens the chicken and creates a beautiful caramelization for the chicken. 
+* Honey: Honey sweetens the chicken and creates a beautiful caramelization on the chicken skin for you to enjoy. 
 
 * Miso Paste: For this recipe, I suggest using white miso paste. If you don't have miso paste on hand, you can use soy sauce.  
 
@@ -67,11 +67,12 @@ Who doesn't love a crispy baked chicken drumstick? The glaze is sweet, smoky, an
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. Warm 2 tbsp of water in a small bowl and stir in the miso paste until it dissolves. 
-2. Add the miso mixture to a Ziploc bag, along with the rest of the ingredients. Squeeze the bag to combine the ingredients. 
-3. Add the drumsticks and massage the marinade into the chicken. 
+
+1. Warm 2 tbsp of water in a small bowl and stir the miso paste until it completey dissolves. 
+2. Add the miso mixture to a Ziploc bag, along with the rest of the ingredients. Seal the bag and combine the ingredients. 
+3. Add the drumsticks and seal the bag once again. Then, massage the marinade into the chicken. 
 4. Place the bag in the refrigerator for at least 1 hour. For best result, marinate for at least 8 hours. 
 5. Prepare a rimmed baking sheet with a wire rack and preheat the oven to 375 degrees. 
-6. Arrange the drumsticks onto the wire rack. Bake for 20 minutes, and then flip the drumsticks halfway. Bake for another 20 minutes. 
-7. If you prefer crip skin the way we do, broil the chicken on high for 2-3 minutes.
-8. Allow the chicken to rest and serve it with a fresh salad, your favorite vegetable, rice, or try another sheet pan side like Ras El Hanout butternut squash and cook them both at the same time.
+6. Arrange the drumsticks onto the wire rack. Bake for 20 minutes. Flip the drumsticks halfway and bake for another 20 minutes. 
+7. If you prefer crispier skin the way we do, you can broil the chicken on high for 2-3 minutes. 
+8. Allow the chicken to rest for about 5 minutes. Serve the drumsticks with a fresh salad, vegetables, rice, or try another sheet pan side like Ras El Hanout-spiced butternut squash and cook them both at the same time.
