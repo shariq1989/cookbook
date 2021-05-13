@@ -86,22 +86,21 @@ For the Curry:
 
 #### ABOUT THE MEAL
 
-Butter chicken originated in Dehli, India, and later spread throughout the western world. That makes sense because it offers a great introduction to the flavor and spices of Indian cooking. For that reason, this is one of the dishes we reach for most often when entertaining guests who have never tasted Indian food before. It also happens to be my most requested recipe from friends and family. 
+Butter chicken originated in Dehli, and it quickly grew in popularity throughout the rest of the world. It makes sense; butter chicken offers a great introduction to the flavor and spices of Indian cooking. For that reason, we often make this meal when entertaining guests who have never tasted Indian food before. 
 
-Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I could not have told you. Learning how to cook Indian food is something I treasure, especially since I have the honor of learning Desi cooking under my talented mother-in-law. She prepares food off-script, so you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+This creamy, homemade butter chicken recipe can be made in the Instant Pot or the stove-top and tastes just like what you would order from a restaurant. 
 
 #### What main ingredients do I need for this meal?
 
-* Chicken: We use boneless chicken thighs, but you can substitute chicken breasts if you prefer. If using chicken breasts, follow the same cooking time, and be sure to cut the chicken into 1-inch pieces. 
--- The safe cooking temperature for chicken is 170 degrees. 
+* Chicken: I use boneless chicken thighs, but you can use chicken breasts if you prefer. 
 
-* Butter: We prefer to use high-quality butter, like Kerrygold, since butter is central to the dish, but any butter should be fine. 
+* Butter: I recommend splurging for high-quality butter, like Kerrygold, for this recipe since butter is central to the dish.
 
-* Cream: I prefer to use heavy cream because it blends well without being temperamental. 
+* Cream: I use heavy cream because it blends well with the other ingredients without being temperamental. 
 
-* Garam Masala: India is a vast country with varying sub-cultures. As a result, Indian food differs from region to region. The same is true of spices as well. Garam masala is a necessary ingredient for butter chicken but every garam masala blend differs based on its origin and the family who is making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mixture and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) our family uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
+* Garam Masala: India is a vast country with varying sub-cultures. As a result, Indian food differs from region to region. The same is true of spices as well. Garam masala is a necessary ingredient for butter chicken;  but, each garam masala blend differs based on origin and the family making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mixture and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) our family uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
 
-* Tomatoes: I use fresh ingredients whenever possible, but you can also use canned, diced tomatoes. 
+* Tomatoes: I use fresh ingredients whenever possible, but you can also use canned, diced tomatoes instead. 
 
 #### What equipment do I need to make this recipe?
 
@@ -110,23 +109,23 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 #### Can butter chicken be vegetarian? Can it be vegan? Can it be dairy-free? 
 
-This recipe can be modified to fit a vegetarian, vegan, or dairy-free way of eating. 
+You can easily modify this recipe to fit a vegetarian, vegan, or dairy-free way of eating. 
 
-* Vegetarian: First, we need to find a substitute for the chicken in this recipe. I recommend using chickpeas, baked firm tofu, paneer, or roasted cauliflower. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions.
+* Vegetarian: First, we need to find a substitute for the chicken in this recipe. I recommend using chickpeas, baked firm tofu, paneer, or roasted cauliflower. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions. 
 
-* Vegan: I prefer using chickpeas, baked firm tofu, or roasted cauliflower in place of the chicken. They come out delicious and hold up well throughout the cooking process. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions. In place of butter, use either coconut oil or vegan butter, and you can use full-fat coconut milk as an alternative to the cream.
+* Vegan: I prefer using chickpeas, baked firm tofu, or roasted cauliflower in place of chicken. They come out delicious and hold up well throughout the cooking process. For added protein, you can also include toasted cashews. If using cashews, add them when you add the onions. In place of butter, use either coconut oil or vegan butter, and you can use full-fat coconut milk as an alternative to the cream.
 
 * Dairy-Free: In place of butter and cream, use coconut oil and full-fat [coconut milk](https://amzn.to/2ODAyDS).  
 
 #### Is butter chicken keto or low-carb?
 
-Yes, it is. I even calculated the macros to make it easy for you. The serving size for this recipe is one chicken thigh and some of the sauce.  
+Yes, it is. I even calculated the macros to make it easier for you. The serving size for these macros is one chicken thigh and 1/3 cup of sauce.  
 
 * CARBS: 5 Net Carbs
 * PROTEIN: 26g
 * FAT: 41g
 
- I recommend serving butter chicken with a side of cauliflower rice, zucchini noodles, or keto naan. 
+To finish your low-carb meal, I recommend serving butter chicken with a side of cauliflower rice, zucchini noodles, or keto naan. 
 
 #### Can I freeze butter chicken?
 
@@ -165,3 +164,4 @@ For the Curry:
 6. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
 
 {{< figure src="/images/bc8.jpg" class="instructionFigure">}}
+
