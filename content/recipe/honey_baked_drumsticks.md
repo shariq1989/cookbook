@@ -41,7 +41,7 @@ Cuisine: American
 5. Prepare a rimmed baking sheet with a wire rack and preheat the oven to 375 degrees. 
 6. Arrange the drumsticks onto the wire rack and bake for 20 minutes. Flip the drumsticks halfway and bake for another 20 minutes. 
 7. If you prefer crispier skin the way we do, you can broil the chicken on high for 2-3 minutes. 
-8. Allow the chicken to rest for about 5 minutes. Serve the drumsticks with a fresh salad, vegetables, rice, or try another sheet pan side like Moroccan-spiced butternut squash and cook them simultaneously.
+8. Allow the chicken to rest for about 5 minutes. Serve the drumsticks with a fresh salad, vegetables, rice, or try another sheet pan side like our [Moroccan-spiced butternut squash]( and cook them simultaneously.
 
 ### ABOUT THE MEAL
 
