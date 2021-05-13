@@ -6,7 +6,8 @@ tags = [
     "entree",
   
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/honeybakeddrumsticks.jpg
+"
 +++
 
 Servings: 10 drumsticks  <!--more-->
