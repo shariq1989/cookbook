@@ -6,8 +6,7 @@ tags = [
     "entree",
   
 ]
-thumbnail= "images/honeybakeddrumsticks.jpg
-"
+thumbnail= "images/honeybakeddrumsticks.jpg"
 +++
 
 Servings: 10 drumsticks  <!--more-->
