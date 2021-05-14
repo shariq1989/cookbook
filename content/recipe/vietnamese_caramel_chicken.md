@@ -6,10 +6,10 @@ tags = [
     "entree",
 ]
 
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/vietnamesechicken.jpg"
 +++
 
-Servings: 8 <!--more-->
+Servings: 3-5 <!--more-->
 
 Preparation Time: 10 minutes
 
@@ -31,7 +31,7 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 * Black Pepper, coarse ground, to taste
 * Kosher Salt, to taste
 * ¼ cup Cilantro, chopped, to garnish 
-* 1 Serrano Chili or Thai Chili, thinly sliced, to garnish 
+* 1 Serrano or Thai Chili, thinly sliced, to garnish 
 
 #### INSTRUSTIONS
 
@@ -53,20 +53,43 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 
 * Shallots 
 
+* Fresh Ginger
+
+* Fish Sauce
+
 * Coconut Water 
 
 #### What equipment do I need to make this recipe?
 
-* A saute pan 
+* A [saute pan](https://amzn.to/2Rj6uic)
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. In a heavy saute oven, over medium heat, bring the sugar and 3 tbsp of coconut water to a boil. Stir occasionally until color changes, about 2 to 3 minutes. 
+
+{{< figure src="/images/vnc1.jpg" class="instructionFigure">}}
+
 2. Reduce the heat to low and stir until mahogany, 1-3 minutes. 
+
+{{< figure src="/images/vnc2.jpg" class="instructionFigure">}}
+
 3. Off heat, add fish sauce, and stir. 
 4. Stir in the remaining ½ cup of coconut water.
 5. Next, add the ginger, shallots, and lime zest. 
 6. Return the pan to heat and maintain a simmer over medium-low heat for about 5 minutes. 
+
+{{< figure src="/images/vnc3.jpg" class="instructionFigure">}}
+
 7. Season the chicken with salt and pepper and nestle the thighs into the pan. Let it continue to simmer for another 10 minutes. 
+
+{{< figure src="/images/vnc4.jpg" class="instructionFigure">}}
+
 8. Turn the chicken and maintain a simmer until the mixture is thoroughly caramelized. 
+
+{{< figure src="/images/vnc5.jpg" class="instructionFigure">}}
+
 9. Serve with rice, coconut rice, or a Vietnamese tossed salad and garnish the thighs with cilantro and chilis. 
+
+{{< figure src="/images/vnc6.jpg" class="instructionFigure">}}
+
+Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-caramel-chicken)
