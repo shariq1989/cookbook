@@ -4,8 +4,8 @@ date = "2021-05-14"
 description = ""
 tags = [
     "entree",
-   
 ]
+
 #thumbnail= "images/beefandchickpea.jpg"
 +++
 
@@ -58,7 +58,6 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 8. Turn the chicken and maintain a simmer until the mixture is thoroughly caramelized. 
 9. Serve with rice, coconut rice, or a Vietnamese tossed salad and garnish the thighs with cilantro and chilis. 
 
- 
 ### ABOUT THE MEAL
 
 #### What main ingredients do I need for this meal?
