@@ -1,7 +1,7 @@
 +++
-title = "chicken biryani"
+title = "Chicken Biryani"
 date = "2021-03-04"
-description = "Traditionally, biryani an intricate dish made with beautiful layers of meat and rice. This chicken biryani recipe is easy to make with all the traditional Pakistani and Indian flavors you want when you think of biryani. Make this recipe on the stove-top or in the Instant Pot."
+description = "Traditionally, biryani is an intricate dish made with beautiful layers of meat and rice. This chicken biryani recipe is easy to make bust still has all the traditional Pakistani and Indian flavors that come to mind when you think of biryani. Make this recipe on the stove-top or in the Instant Pot."
 tags = [
     "entree",
     "Indian",
@@ -59,7 +59,7 @@ For the Biryani:
 
 ### ABOUT THE MEAL
 
-If you are craving biryani but don't have the time commitment, try this quick and easy biryani recipe. It has all the flavor and brightness of the popular dish but cuts the preparation and cooking time in half. Make this recipe on the stove-top or in the Instant Pot.
+If you are craving biryani and don't have time to make it, try this quick and easy biryani recipe. It has all the flavor and brightness of the popular dish, but it cuts the preparation and cooking time in half. You can make this recipe on the stove-top or in the Instant Pot.
 
 Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you. Learning how to cook Indian food is something I treasure, especially since I have the honor of learning Desi cooking under my talented mother-in-law. She prepares food off-script, so you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
