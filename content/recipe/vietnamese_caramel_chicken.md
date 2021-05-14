@@ -1,7 +1,8 @@
+
 +++
-title = "Vietnamese Caramel Chicken"
+title = "Vietnamese-Style Caramel Chicken"
 date = "2021-05-14"
-description = ""
+description = "This Vietnamese-style caramel chicken is both sticky and sweet. You will love the highly flavorful chicken thighs and caramelized shallots. I top mine with serrano or Thai chilies, fresh cilantro, and a bit of lime zest."
 tags = [
     "entree",
 ]
@@ -23,7 +24,7 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 
 * 3 tbsp Sugar 
 * 2/3 cup Coconut Water, divided
-* 5 tbsp Fish Sauce 
+* 5 tbsp [Fish Sauce](https://amzn.to/33GYOJj)
 * 6 large Shallots, thinly sliced
 * 4-in. Fresh Ginger, thinly sliced 
 * Lime Zest 
@@ -43,9 +44,11 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 6. Return the pan to heat and maintain a simmer over medium-low heat for about 5 minutes. 
 7. Season the chicken with salt and pepper and nestle the thighs into the pan. Let it continue to simmer for another 10 minutes. 
 8. Turn the chicken and maintain a simmer until the mixture is thoroughly caramelized. 
-9. Serve with rice, coconut rice, or a Vietnamese tossed salad and garnish the thighs with cilantro and chilis. 
+9. Serve with rice, coconut rice, or a Vietnamese tossed salad. Garnish the thighs with cilantro and chilis. 
 
 ### ABOUT THE MEAL
+
+This Vietnamese-style caramel chicken is both sticky and sweet. You will love the highly flavorful chicken thighs and caramelized shallots. I top mine with chili's, fresh cilantro, and a bit of lime zest.
 
 #### What main ingredients do I need for this meal?
 
@@ -55,7 +58,7 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 
 * Fresh Ginger
 
-* Fish Sauce
+* [Fish Sauce](https://amzn.to/33GYOJj): You might be tempted to skip this ingredient because it's unfamiliar, don't. Fish sauce is a staple in our home and is commonly used in Vietnamese cuisine. Red Boat fish sauce is our favored brand. 
 
 * Coconut Water 
 
