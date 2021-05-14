@@ -11,19 +11,6 @@ tags = [
 
 Servings: 8 <!--more-->
 
-Preparation Time: +++
-title = "Vietnamese Caramel Chicken"
-date = "2021-05-14"
-description = ""
-tags = [
-    "entree",
-   
-]
-#thumbnail= "images/beefandchickpea.jpg"
-+++
-
-Servings: 8 <!--more-->
-
 Preparation Time: 10 minutes
 
 Cooking Time: 35 minutes
