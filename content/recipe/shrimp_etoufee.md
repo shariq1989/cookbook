@@ -62,12 +62,13 @@ For the Shrimp Broth:
 
 For the Etoufee: 
 
-1. In a heavy-bottomed saute pan, melt the butter over medium-high heat. Then, add the corn starch. Whisk until it begins to foam and a roux forms, about 3 minutes. 
-2. Add the onion, celery, green bell pepper, and garlic. Cook until vegetables soften, about 5-7 minutes. 
-3. Next, add the Cajun seasoning, bay leaves, and thyme sprigs. Cook until aromatic. 
-4. Stir in the reserved shrimp broth and simmer for 30 minutes over medium heat. 
-5. Add the shrimp to the broth and cook for 3-5 minutes. Cater the cooking time based on the size of the shrimp you use; be careful not to overcook the shrimp. 
-6. Season the etoufee with salt and serve with rice. 
+1. In a small bowl, gather the ingredients for the Cajun seasoning. Set aside. 
+2. In a heavy-bottomed saute pan, melt the butter over medium-high heat. Then, add the corn starch. Whisk until it begins to foam and a roux forms, about 3 minutes. 
+3. Add the onion, celery, green bell pepper, and garlic. Cook until vegetables soften, about 5-7 minutes. 
+4. Next, add the Cajun seasoning, bay leaves, and thyme sprigs. Cook until aromatic. 
+5. Stir in the reserved shrimp broth and simmer for 30 minutes over medium heat. 
+6. Add the shrimp to the broth and cook for 3-5 minutes. Cater the cooking time based on the size of the shrimp you use; be careful not to overcook the shrimp. 
+7. Season the etoufee with salt and serve with rice. 
 
 ### ABOUT THE MEAL
 
@@ -85,6 +86,8 @@ For the Etoufee:
 
 #### What equipment do I need to make this recipe?
 
+* A small bowl 
+
 * A [dutch oven](https://amzn.to/3bveYK6)
 
 * A heavy-bottomed [saute pan](https://amzn.to/2STXJeX)
@@ -94,14 +97,37 @@ For the Etoufee:
 For the Shrimp Broth: 
 
 1. In a [dutch oven](https://amzn.to/3bveYK6), warm oil over medium heat. Add the reserved shrimp shells and allow them to saute for about 3 minutes.
+
+{{< figure src="/images/shrim3.jpg" class="instructionFigure">}}
+
 2. Add water and simmer for 5 minutes. 
 3. Using a slotted spoon, scoop out the shells and discard. Set the broth aside. 
 
 For the Etoufee: 
 
-1. In a heavy-bottomed saute pan, melt the butter over medium-high heat. Then, add the corn starch. Whisk until it begins to foam and a roux forms, about 3 minutes. 
-2. Add the onion, celery, green bell pepper, and garlic. Cook until vegetables soften, about 5-7 minutes. 
-3. Next, add the Cajun seasoning, bay leaves, and thyme sprigs. Cook until aromatic. 
-4. Stir in the reserved shrimp broth and simmer for 30 minutes over medium heat. 
-5. Add the shrimp to the broth and cook for 3-5 minutes. Cater the cooking time based on the size of the shrimp you use; be careful not to overcook the shrimp. 
-6. Season the etoufee with salt and serve with rice. 
+1. In a small bowl, gather the ingredients for the Cajun seasoning. Set aside. 
+
+{{< figure src="/images/shrim1.jpg" class="instructionFigure">}}
+
+2. In a heavy-bottomed saute pan, melt the butter over medium-high heat. Then, add the corn starch. Whisk until it begins to foam and a roux forms, about 3 minutes. 
+
+{{< figure src="/images/shrim4.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/shrim5.jpg" class="instructionFigure">}}
+
+3. Add the onion, celery, green bell pepper, and garlic. Cook until vegetables soften, about 5-7 minutes. 
+
+{{< figure src="/images/shrim6.jpg" class="instructionFigure">}}
+
+4. Next, add the Cajun seasoning, bay leaves, and thyme sprigs. Cook until aromatic. 
+5. Stir in the reserved shrimp broth and simmer for 30 minutes over medium heat. 
+
+{{< figure src="/images/shrim8.jpg" class="instructionFigure">}}
+
+6. Add the shrimp to the broth and cook for 3-5 minutes. Cater the cooking time based on the size of the shrimp you use; be careful not to overcook the shrimp. 
+
+{{< figure src="/images/shrim7.jpg" class="instructionFigure">}}
+
+7. Season the etoufee with salt and serve with rice. 
+
+{{< figure src="/images/shrim9.jpg" class="instructionFigure">}}
