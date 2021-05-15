@@ -13,21 +13,6 @@ Servings: 4-6 <!--more-->
 
 Preparation Time: 15 minutes 
 
-+++
-title = "Shrimp Etoufee"
-date = "2021-05-02"
-description = ""
-tags = [
-    "entree",
-   
-]
-thumbnail= "images/shrimpetoufee.jpg"
-+++
-
-Servings: 4-6 <!--more-->
-
-Preparation Time: 15 minutes 
-
 Cooking Time: 1 hour, 15 minutes 
 
 Cuisine: American, Cajun 
