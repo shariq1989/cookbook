@@ -2,7 +2,8 @@
 +++
 title = "Vietnamese-Style Caramel Chicken"
 date = "2021-05-14"
-description = "This Vietnamese-style caramel chicken is both sticky and sweet. You will love the highly flavorful chicken thighs and caramelized shallots. I top mine with serrano or Thai chilies, fresh cilantro, and a bit of lime zest."
+description = "
+This Vietnamese-style caramel chicken thigh recipe is delicious. The thighs come out so sweet, but pop with a little bit of heat from the chilis. I top ours with serrano or Thai chilies, fresh cilantro, and a bit of lime zest."
 tags = [
     "entree",
 ]
@@ -48,13 +49,13 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 
 ### ABOUT THE MEAL
 
-This Vietnamese-style caramel chicken is both sticky and sweet. You will love the highly flavorful chicken thighs and caramelized shallots. I top mine with chili's, fresh cilantro, and a bit of lime zest.
+This Vietnamese-style caramel chicken thigh recipe is delicious. The thighs come out so sweet, but pop with a little bit of heat from the chilis. I top ours with serrano or Thai chilies, fresh cilantro, and a bit of lime zest.
 
 #### What main ingredients do I need for this meal?
 
 * Chicken Thighs: I used boneless and skinless chicken thighs. I have also tried bone-in, but I prefer boneless as I found it easier to eat along with the caramelized shallots. 
 
-* Shallots 
+* Shallots: I enjoy the delicate sweetness shallots lend to any dish. I use them here because they pair well with the sugar and coconut 
 
 * Fresh Ginger
 
