@@ -1,13 +1,13 @@
 +++
 title = "Shrimp Panang Curry"
-date = "2021-04-29"
+date = "2021-06-19"
 description = ""
 tags = [
     "entree",
     
 ]
 
-thumbnail= "images/panangcurry.jpg"
+#thumbnail= "images/panangcurry.jpg"
 +++
 
 Servings: 3-4  <!--more-->
