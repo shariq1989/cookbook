@@ -8,7 +8,7 @@ tags = [
     "low carb",
     "keto",
 ]
-thumbnail= "almondflourpancakes.jpg "
+thumbnail= "images/almondflourpancakes.jpg"
 +++
 
 Servings: 2-3 <!--more-->
