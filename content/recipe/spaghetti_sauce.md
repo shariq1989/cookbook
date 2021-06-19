@@ -1,6 +1,6 @@
 +++
 title = "Spaghetti Sauce"
-date = "2021-06-20"
+date = "2021-06-19"
 description = "If you're looking for an easy spaghetti sauce, using ingredients you likely have in your pantry already, you need to try this! This recipe is a dinner staple in our family. Even my husband, who is not a fan of tomato-based sauce of any kind, raves about this spaghetti."
 tags = [
     "entree",
