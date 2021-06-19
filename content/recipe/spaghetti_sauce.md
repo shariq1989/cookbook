@@ -6,7 +6,7 @@ tags = [
     "entree",
    
 ]
-thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/spaghett.jpg"
 +++
 
 Servings: 4=6 <!--more-->
