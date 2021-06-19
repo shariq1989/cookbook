@@ -2,7 +2,7 @@
 +++
 title = "Almond Flour Pancakes"
 date = "2021-06-18"
-description = "These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family more full for much longer."
+description = "These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer."
 tags = [
     "breakfast",
     "low carb",
@@ -11,7 +11,7 @@ tags = [
 thumbnail= "images/almondflourpancakes.jpg"
 +++
 
-Servings: 2-3 <!--more-->
+Servings: 2-3 Pancakes (3-inch) <!--more-->
 
 Preparation Time: 10 minutes 
 
@@ -24,6 +24,7 @@ Cuisine: American
 * 1⅓ cup Blanched Almond Flour
 * 1 tsp Baking Powder
 * ¼ tsp Sea Salt
+* 1/2 tsp Cinnamon 
 * ¼ cup Unsweetened Almond Milk
 * 2 Large Eggs
 * 1 tsp Vanilla Extract 
@@ -39,11 +40,9 @@ Cuisine: American
 
 ### ABOUT THE MEAL
 
-These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family more full for much longer. 
+These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer. 
 
-This particular recipe serves about two to four people. I usually make them in bulk and freeze them to enjoy as a quick breakfast in the future. 
-
-A quick note on your batter, if it looks as though it is coming out too thick, add more almond milk until it reaches desired consistency. If the batter is too thin, sprinkle a bit more almond flour. 
+This particular recipe serves about two to three people. I usually make this recipe in bulk and freeze them to enjoy as a quick breakfast in the future. 
 
 #### What main ingredients do I need for this meal?
 
@@ -62,6 +61,10 @@ A quick note on your batter, if it looks as though it is coming out too thick, a
 * A large bowl 
 * A small bowl 
 * A [non-stick skillet](https://amzn.to/3xy2Mkd) or [griddle](https://amzn.to/3vFthD9) 
+
+#### What do I do if my batter isn't coming out right? 
+
+If it looks as though it is coming out too thick, add more almond milk until it reaches desired consistency. If the batter is too thin, sprinkle a bit more almond flour. 
 
 #### Can I freeze almond flour pancakes?
 
