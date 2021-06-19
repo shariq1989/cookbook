@@ -1,6 +1,6 @@
 
 +++
-title = "Almond Pancakes"
+title = "Almond Flour Pancakes"
 date = "2021-06-18"
 description = "These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family more full for much longer."
 tags = [
