@@ -2,7 +2,7 @@
 +++
 title = "Almond Flour Pancakes"
 date = "2021-06-18"
-description = "These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer."
+description = "These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not even notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer."
 tags = [
     "breakfast",
     "low carb",
@@ -40,7 +40,7 @@ Cuisine: American
 
 ### ABOUT THE MEAL
 
-These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer. 
+These almond flour pancakes have saved me so much time and preparation. Before this recipe, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not even notice the difference between these and the pancakes I usually serve them. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer. 
 
 This particular recipe serves about two to three people. I usually make this recipe in bulk and freeze them to enjoy as a quick breakfast in the future. 
 
