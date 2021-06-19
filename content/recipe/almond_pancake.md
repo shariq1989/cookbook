@@ -7,7 +7,7 @@ These almond flour pancakes have saved me so much time and preparation. Before t
     "breakfast",
    
 ]
-#thumbnail= ""
+thumbnail= "almondflourpancakes.jpg"
 +++
 
 Servings: 2-3 <!--more-->
@@ -72,7 +72,18 @@ When you’re ready to eat, remove the pancakes from the freezer. Some of the pa
 
 1. In a large bowl, stir the dry ingredients together. Set aside. 
 2. In a small bowl, whisk together the almond milk, eggs, and vanilla.
+
+{{< figure src="/images/afp1.jpg" class="instructionFigure">}}
+
 3. Pour the wet ingredients into the bowl with the dry ingredients and stir until combined. 
+
+{{< figure src="/images/afp2.jpg" class="instructionFigure">}}
+
 4. Heat a [non-stick skillet](https://amzn.to/3xy2Mkd) or [griddle](https://amzn.to/3vFthD9) over medium-low heat. Once the surface is warm, use a ¼ measuring cup to pour the batter onto the pan. Cook the pancakes for 1-2 minutes per side, adjusting the heat as needed so the middles cook without burning the outside. Quick note, almond flour pancakes tend to darken a bit faster 
 5. Once once side is cooked through and flipped, give it a light tap with your spatula to spread out the mixture since these pancakes will be slightly smaller than other pancakes. 
+
+{{< figure src="/images/afp3.jpg" class="instructionFigure">}}
+
 6. Serve with butter, maple syrup, or a favorite topping of your choice.
+
+{{< figure src="/images/afp4.jpg" class="instructionFigure">}}
