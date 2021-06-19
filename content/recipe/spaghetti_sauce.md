@@ -9,7 +9,7 @@ tags = [
 thumbnail= "images/spaghett.jpg"
 +++
 
-Servings: 4=6 <!--more-->
+Servings: 4-6 <!--more-->
 
 Preparation Time: 10 minutes 
 
@@ -32,7 +32,7 @@ Cuisine: American, Italian
 * 1 tsp Black Pepper, coarse ground 
 * 1 tsp Kosher Salt 
 * 2 tbsp Fresh Parsley, chopped 
-* 24 oz can tomato sauce 
+* 24 oz can Tomato Sauce 
 * 1 tbsp Granulated White Sugar 
 * 1 tbsp Fish Sauce 
 * 1/2 tbsp Soy Sauce 
