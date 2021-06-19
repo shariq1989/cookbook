@@ -9,13 +9,13 @@ tags = [
 thumbnail= "images/beefandchickpea.jpg"
 +++
 
-Servings:  <!--more-->
+Servings: 4=6 <!--more-->
 
-Preparation Time: 
+Preparation Time: 10 minutes 
 
-Cooking Time:
+Cooking Time: 30 minutes
 
-Cuisine: Italian
+Cuisine: American, Italian
 
 #### INGREDIENTS 
 
@@ -83,7 +83,17 @@ You sure can.  In fact, it is encouraged. I often make this recipe in bulk to fr
 1. Warm 1 tbsp of olive oil in a large saute pan over low-medium heat. 
 2. Add the onions and garlic and cook until the onions become translucent and soften. 
 3. Combine the dried basil leaves, dried oregano, chili flakes, garlic powder, and onion powder in a small bowl and stir them into the cooked onion and garlic. 
+
+{{< figure src="/images/spag2.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/spag1.jpg" class="instructionFigure">}}
+
 4. Add the ground beef to the pan and season with salt, pepper, and fresh parsley. Cook, breaking down the meat with a [meat chopper](https://amzn.to/2TLab0X) as you go until the beef is brown. 
+
+{{< figure src="/images/spag3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/spag4.jpg" class="instructionFigure">}}
+
 5. Next, tomato sauce and sugar to the pan. Stir well and increase the temperature to medium-high; allow the mixture to come to a boil.
 6. Stir in the soy sauce and then reduce the heat to maintain a gentle simmer for 20 minutes. 
 7. Off heat, stir in the fish sauce, and top the sauce with fresh basil to serve. 
