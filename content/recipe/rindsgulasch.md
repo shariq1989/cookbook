@@ -100,9 +100,7 @@ Yes, you can. First, allow the dish to cool completely and then add it to a free
 
 {{< figure src="/images/rgl2.jpg" class="instructionFigure">}}
 
-3. Stir in the caraway seeds and garlic. Then, 4. add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
-
-{{< figure src="/images/rgl3.jpg" class="instructionFigure">}}
+3. Stir in the caraway seeds and garlic. Then, add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
 
 {{< figure src="/images/rgl4.jpg" class="instructionFigure">}}
 
