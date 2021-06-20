@@ -6,7 +6,7 @@ tags = [
     "entree",
     "side",
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/friedruce.jpg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -31,24 +31,24 @@ Cuisine: Chinese, American
 
 #### INSTRUCTIONS
 
-1. Follow these instructions for cooking your white rice on the stove-top. Once cooked, allow the rice to cool and then cover it; place it in the refrigerator to chill before using it in the stir-fried rice. 
+1. Follow these instructions for cooking your white rice on the stove-top. Once cooked, allow the rice to cool, and then cover it; place it in the refrigerator to chill before using it. 
 2. Heat 2 tsp of sesame oil in a large [saute pan](https://amzn.to/35LnBg1) or [wok](https://amzn.to/3cS6RI4) over medium-high heat. 
-3. Add the onions and garlic and cook until the onions become translucent and soften. Then, add in the peas and cook for another 2-3 minutes. 
+3. Add the onions and garlic and cook until the onions become translucent and soften. Then, add the peas and cook for another 2-3 minutes. 
 4. Move the onions and peas to one side of the pan and add 1/2 tsp of butter. Cook until melted, and then add the reserved egg mixture. Let the egg cook undisturbed for 30 seconds, and then slowly push the eggs from one side of the pan to the other, allowing the eggs to incorporate with the vegetables. 
-5. Increase the temperature to high and add the rice, the remaining tbsp of butter, soy sauce, and oyster sauce; stir to combine. Allow the rice to cook with the rest of the ingredients for about 3-4 minutes, stirring occasionally. 
+5. Increase the temperature to high and add the chilled rice, the remaining tbsp of butter, soy sauce, and oyster sauce; stir to combine. Allow the rice to cook with the rest of the ingredients for about 3-5 minutes, stirring occasionally. 
 6. Off heat, stir in the remaining sesame oil to serve. 
 
 ### ABOUT THE MEAL
 
 #### What main ingredients do I need for this meal?
 
-* Rice: Be sure to cook your rice ahead of time and place it in the refrigerator to chill. Chilled rice crisps up better when frying, and that is definitely what we want. Additionally, if you have leftover white rice in the refrigerator, this is a great way to repurpose it. 
+* Rice: Be sure to cook your rice ahead of time and place it in the refrigerator to chill. Chilled rice is necessary because it crisps up better when frying, and that is definitely what we want. Additionally, if you have leftover white rice in the refrigerator, this is a great way to repurpose it. 
 
-* Vegetables: In this recipe, I only used onions, peas, and garlic. Normally I would add small carrots as well, but for some reason, my children have decided to have an aversion to them, so here we are. If you're a vegetable fan, consider adding corn, snow peas, and other vegetables to brighten the dish. 
+* Vegetables: In this recipe, I only used onions, peas, and garlic. Normally I would add small carrots as well, but for some reason, my children have decided to have an aversion to them, so here we are. If you're a vegetable fan, consider adding corn, snow peas, and other vegetables to brighten the dish even more. 
 
-* Eggs: It just would not be stir-fried rice without a bit of egg in it.  
+* Eggs: It just would not be stir-fried rice without a bit of egg.  
 
-* Butter: Yes, I use butter in my fried rice. Why? Because rice tastes more rice with butter in it. 
+* Butter: Yes, I use butter in my fried rice. Why? Because rice tastes better with butter in it. 
 
 * Soy Sauce: If it's stir-fried rice, you've got to add soy sauce. 
 
@@ -67,8 +67,20 @@ You sure can. First, allow the rice to cool completely, and then add it to a fre
 ### INSTRUCTIONS: STEP-BY-STEP  
 
 1. Follow these instructions for cooking your white rice on the stove-top. Once cooked, allow the rice to cool and then cover it; place it in the refrigerator to chill before using it in the stir-fried rice. 
+
+{{< figure src="/images/fr1.jpg" class="instructionFigure">}}
+
 2. Heat 2 tsp of sesame oil in a large [saute pan](https://amzn.to/35LnBg1) or [wok](https://amzn.to/3cS6RI4) over medium-high heat. 
 3. Add the onions and garlic and cook until the onions become translucent and soften. Then, add in the peas and cook for another 2-3 minutes. 
+
+{{< figure src="/images/fr2.jpg" class="instructionFigure">}}
+
 4. Move the onions and peas to one side of the pan and add 1/2 tsp of butter. Cook until melted, and then add the reserved egg mixture. Let the egg cook undisturbed for 30 seconds, and then slowly push the eggs from one side of the pan to the other, allowing the eggs to incorporate with the vegetables. 
+
+{{< figure src="/images/fr3.jpg" class="instructionFigure">}}
+
 5. Increase the temperature to high and add the rice, the remaining tbsp of butter, soy sauce, and oyster sauce; stir to combine. Allow the rice to cook with the rest of the ingredients for about 3-4 minutes, stirring occasionally. 
+
+{{< figure src="/images/fr4.jpg" class="instructionFigure">}}
+
 6. Off heat, stir in the remaining sesame oil to serve. 
