@@ -1,95 +1,94 @@
 +++
 title = "Shrimp Panang Curry"
 date = "2021-06-19"
-description = ""
+description = "This Panang curry recipe is the perfect quick, weeknight meal. The flavor is creamy, tangy, and sweet, and it is excellent alongside some perfectly cooked rice. This recipe is completely customizable and can easily fit a vegetarian or vegan diet."
 tags = [
     "entree",
     
 ]
 
-#thumbnail= "images/panangcurry.jpg"
+thumbnail= "images/panangcurry.jpg"
 +++
 
 Servings: 3-4  <!--more-->
 
-Preparation Time: 30 minutes 
+Preparation Time: 15 minutes 
 
-Cooking Time: 30 minutes 
-
+Cooking Time: 20 minutes 
 
 #### INGREDIENTS 
 
-* 1 1/2 lb Jumbo Shrimp 
-* 3 tbsp Coconut Oil, divided 
-* 1 small White Onion 
-* 1 -4 oz Panang Curry Paste, the whole can for spicy, 1/2 can for mild
-* 1/2 Red Bell Pepper, thinly sliced
-* 1/2 Orange Bell Pepper, thinly sliced
-* 3 Garlic Cloves, julienne 
-* 1 small Zucchini, thinly sliced, julienne 
+* 2 lbs large Shrimp 
+* 1 -4 oz [Panang Curry Paste](https://amzn.to/3wLObSf), the whole can for spicy, 1/2 can for mild
+* 1 tbsp Coconut Oil
+* 1 medium Yellow Onion, roughly chopped
+* 1 Red Bell Pepper, roughly chopped 
+* 3 Garlic Cloves, minced
 * 1 1/2 can Full-Fat Coconut Milk, plus more if you prefer less spicy
-* 2 tbsp Fish Sauce
+* 1/8 cup Keffir Lime Leaves 
+* 1 tbsp Fish Sauce
 * Thai Basil, for garnish
 
 #### INSTRUCTIONS
 
 1. In a large bowl, defrost the shrimp. De-vein and remove the tails. Set aside. 
-2. In a dutch oven or heavy-bottomed pan, warm 1 tbsp coconut oil on medium-low heat. Add the onions and cook until they become translucent and soften. 
-3. While waiting on the onions to cook, add the remaining coconut oil to a skillet over medium-high heat. Add the shrimp in a single layer and cook until the edges turn pink about 1-2 minutes.
-4. Use tongs to flip each shrimp and cook the other side for 30 seconds. Then, transfer the shrimp to a plate and set aside. 
-5. Add the Panang curry paste to the pan with the onions. Warm until fragrant, about 2 minutes.
-6. Next, add the bell peppers, garlic, and zucchini, saute for another minute.
-7. Stir in half of the coconut milk and bring the curry to a boil.
-8. Reduce the heat to a light simmer and add the remaining coconut milk and fish sauce. Allow the mixture to cook for 10 minutes. The curry should thicken, and the vegetables will reach a crisp-tenderness. If the curry does not thicken, add 2 tbsp cold water and stir to mix.
-9. Add the reserved shrimp to the dish and stir to combine. Allow the shrimp to simmer with the rest of the curry for 1-2 minutes. 
-10. Remove from heat and garnish with Thai basil leaves and serve with jasmine rice or coconut-cilantro cauliflower rice.
+2. In a [dutch oven](https://amzn.to/2UeXCLz) or a heavy-bottomed pan like a [wok](https://amzn.to/3cQualy), warm the Panang curry paste and coconut oil until fragrant, about 2 minutes.
+3. Add the onions, peppers, and garlic. Cook over medium heat until they become translucent and soften. 
+4. Pour one can of coconut oil into the pan. Increase the heat and bring the mixture to a boil. 
+5. Reduce the heat to a light simmer and add the mushrooms, Keffir lime leaves, and the remaining coconut milk. The curry should thicken, about 5 minutes. If the curry does not thicken, add 2 tbsp cold water and stir to mix. 
+6. Add the reserved shrimp and stir to combine. Allow the shrimp to simmer with the rest of the curry for another 5 minutes until fully cooked. 
+7. Off heat, mix in the fish sauce. 
+8. Garnish the curry with Thai basil leaves and serve with jasmine rice or cauliflower rice.
 
 ### ABOUT THE MEAL 
 
+This Panang curry recipe is the perfect quick, weeknight meal. The flavor is creamy, tangy, and sweet, and it is excellent alongside some perfectly cooked rice. This recipe is completely customizable and can easily fit a vegetarian or vegan diet.
+
 #### What main ingredients do I need for this meal?
 
-* Shrimp: I use jumbo or colossal when shrimp is the main ingredient. 
+* Shrimp: I used large shrimp for this recipe, but you could also use extra-large or colossal shrimp as well. 
 
-* Curry Paste: We have tried them all; Maestra's flavor is by far the best. 
+* Curry Paste: When it comes to Thai curry paste, we have tried them all; [Maestra's](https://amzn.to/35DP0AQ) flavor is by far the best. It is also one of the few Thai curry pastes that are vegetarian and vegan friendly, so that is a bonus. [Mae Ploy](https://amzn.to/3gH85bv) is also pretty tasty. 
 
-* Coconut Milk: Coconut milk is such is such a rich ingredient used in Thai cooking. One thing to be aware of is using full-fat coconut milk. You make be tempted to do otherwise, but I am telling you that it completely changes the flavor and texture of the curry. 
+* Coconut Milk: Coconut milk is a staple in Thai cooking, but be sure to use [full-fat coconut milk](https://amzn.to/35Dqpfk). You may want to do otherwise but don't. The richness from the fat completely changes the flavor and texture of the curry. 
 
-* Umami: Count on the fish sauce to bring extra flavor and depth to the dish. 
+* Fish Sauce: Count on the fish sauce to bring extra flavor and depth to the curry. 
 
-* Vegetables: I use red and orange bell peppers, garlic, and zucchini for this curry. 
+* Vegetables: I use red bell pepper, mushrooms, and garlic in this curry. You can use other vegetables of your choice, including zucchini, bok choy, bean sprouts, snow peas, spinach, bamboo shoots, or carrots.
 
 #### What equipment do I need to make this recipe?
 
 * A large bowl
-* A dutch oven or heavy-bottomed pan 
-* A skillet 
+* A [dutch oven](https://amzn.to/2UeXCLz) or heavy-bottomed pan like a [wok]((https://amzn.to/3cQualy) 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. In a large bowl, defrost the shrimp. De-vein and remove the tails. Set aside. 
+2. In a [dutch oven](https://amzn.to/2UeXCLz) or a heavy-bottomed pan like a [wok](https://amzn.to/3cQualy), warm the Panang curry paste and coconut oil until fragrant, about 2 minutes.
 
-{{< figure src="/images/pc1.jpg" class="instructionFigure">}}
+{{< figure src="/images/pcur1.jpg" class="instructionFigure">}}
 
-2. In a dutch oven or heavy-bottomed pan, warm 1 tbsp coconut oil on medium-low heat. Add the onions and cook until they become translucent and soften. 
-3. While waiting on the onions to cook, add the remaining coconut oil to a skillet over medium-high heat. Add the shrimp in a single layer and cook until the edges turn pink about 1-2 minutes.
-4. Use tongs to flip each shrimp and cook the other side for 30 seconds. Then, transfer the shrimp to a plate and set aside. 
+3. Add the onions, peppers, and garlic. Cook over medium heat until they become translucent and soften. 
 
-{{< figure src="/images/pc3.jpg" class="instructionFigure">}}
+{{< figure src="/images/pcur2.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/pc2.jpg" class="instructionFigure">}}
+4. Pour one can of coconut oil into the pan. Increase the heat and bring the mixture to a boil. 
 
-5. Add the Panang curry paste to the pan with the onions. Warm until fragrant, about 2 minutes.
+{{< figure src="/images/pcur3.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/pc4.jpg" class="instructionFigure">}}
+5. Reduce the heat to a light simmer and add the mushrooms, Keffir lime leaves, and the remaining coconut milk. The curry should thicken, and the vegetables will reach a crisp-tenderness, about 5 minutes. If the curry does not thicken, add 2 tbsp cold water and stir to mix. 
 
-6. Next, add the bell peppers, garlic, and zucchini, saute for another minute.
+{{< figure src="/images/pcur4.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/pc5.jpg" class="instructionFigure">}}
+{{< figure src="/images/pcur5.jpg" class="instructionFigure">}}
 
-7. Stir in half of the coconut milk and bring the curry to a boil.
-8. Reduce the heat to a light simmer and add the remaining coconut milk and fish sauce. Allow the mixture to cook for 10 minutes. The curry should thicken, and the vegetables will reach a crisp-tenderness. If the curry does not thicken, add 2 tbsp cold water and stir to mix.
-9. Add the reserved shrimp to the dish and stir to combine. Allow the shrimp to simmer with the rest of the curry for 1-2 minutes. 
+{{< figure src="/images/pcur6.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/pc6.jpg" class="instructionFigure">}}
+6. Add the reserved shrimp and stir to combine. Allow the shrimp to simmer with the rest of the curry for another 5 minutes until fully cooked. 
 
-10.  Remove from heat and garnish with Thai basil leaves and serve with jasmine rice or coconut-cilantro cauliflower rice.
+{{< figure src="/images/pcur7.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/pcur8.jpg" class="instructionFigure">}}
+
+7. Off heat, mix in the fish sauce. 
+8. Garnish the curry with Thai basil leaves and serve with jasmine rice or cauliflower rice.
