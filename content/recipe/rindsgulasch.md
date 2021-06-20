@@ -1,7 +1,7 @@
 +++
 title = "Rindsgulasch - Austrian Beef Goulash"
 date = "2021-04-06"
-description = "There are so many variations of goulash; this recipe is for an Austrian beef goulash flavored with caraway and paprika. The beef is cooked until tender and has that dark, smooth, and flavorful gravy expected of rindsgulach."
+description = "There are so many variations of goulash; this recipe is for an Austrian beef goulash, flavored with caraway and paprika. The beef is cooked until tender and this dish has the dark, smooth, and flavorful gravy expected of rindsgulach."
 tags = [
     "instant pot",
     "entree",
@@ -12,9 +12,9 @@ thumbnail= "images/rindsgulasch.jpg"
 
 Servings: 6<!--more-->
 
-Preparation Time: 10 minutes
+Preparation Time: 15 minutes
 
-Cooking Time: 30 minutes
+Cooking Time: 1 hour, 30 minutes or 3 hours 20 minutes
 
 Cuisine: Austrian
 
@@ -40,26 +40,35 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 * 1 Package [Egg Noodles](https://amzn.to/2Zf7O60)  
 * Sour Cream, to garnish 
 
+#### STOVE-TOP INSTRUCTIONS 
+
+1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, and set aside. 
+2. In an [dutch oven](https://amzn.to/3wIA1Bu), melt the butter on low-medium heat. Add the onion and cook until the onions become translucent and soften. 
+3. Stir in the caraway seeds and garlic. Then, add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
+4. Slowly whisk in the water, Better than Boullion, and tomato paste while allowing it to simmer. 
+5. Add the beef and bay leaves. Secure the lid on the dutch oven and cook over medium heat for 3 hours. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
+6. Stir in the fresh dill and apple cider vinegar. 
+7. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles.
+
 #### INSTANT POT INSTRUCTIONS 
 
-1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, stir to coat, and set aside. 
-2. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter on saute mode. Add the onion and cook until the onions become translucent and soften. 
-3. Stir in the caraway seeds, garlic, and flour, cooking until flour browns. 
-4. Add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
-5. Slowly whisk in the water, Better than Boullion, and tomato paste while allowing it to simmer. 
-6. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on manual high pressure for 60 minutes with a 20-minute natural release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
-7. Stir in the fresh dill and apple cider vinegar. 
-8. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
+1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, and set aside. 
+2. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter in saute mode. Add the onion and cook until the onions become translucent and soften. 
+3. Stir in the caraway seeds and garlic. Then, add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
+4. Slowly whisk in the water, Better than Boullion, and tomato paste while allowing it to simmer. 
+5. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on manual high pressure for 60 minutes with a 20-minute natural release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
+6. Stir in the fresh dill and apple cider vinegar. 
+7. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
 
 ### ABOUT THE MEAL
 
-Gulasch may have originated in Hungary, but it has evolved into something completely different. The main distinction is the rich, dark gravy is made without flour or roux but thickens as the onions and beef created a base for the gulasch. 
+Gulasch originated in Hungary, but it has evolved into something completely different all over the world. 
 
 #### What main ingredients do I need for this meal?
 
 * Short Rib Roast: I prefer the tenderness of short rib; you can also use chuck roast or the more traditional beef shank. 
 
-* Paprika: Okay, you could probably use whatever paprika you have in the cabinet. But trust me, you will love the flavor from the combination of sweet and hot paprika. If you only want to purchase one of them, reach for the sweet paprika and substitute 1 tsp of cayenne in place of the hot paprika. 
+* Paprika: Okay, you could probably use whatever paprika you have in the cabinet. But trust me, you will love the flavor that comes from the combination of sweet and hot paprika. If you only want to purchase one of them, reach for the sweet paprika and substitute 1 tsp of cayenne in place of the hot paprika. 
 
 * Caraway Seeds
 
@@ -71,17 +80,17 @@ Gulasch may have originated in Hungary, but it has evolved into something comple
 
 * A small bowl
 
-* An [Instant Pot](https://amzn.to/3qfNYCZ)
+* An [Instant Pot](https://amzn.to/3qfNYCZ) or [dutch oven](https://amzn.to/3wIA1Bu)
 
 #### What can I serve with rindsgulasch? 
 
-I normally serve rindsgulasch with egg noodles, but you could also serve it up with a side of roasted potatoes, mashed potatoes, or spätzle. 
+I normally serve rindsgulasch with egg noodles, but you could also serve it up with a side of roasted potatoes, mashed potatoes, or a traditional spätzle. 
 
 #### Can I freeze rindsgulasch?
 
 Yes, you can. First, allow the dish to cool completely and then add it to a freezer-safe container. Rindsgulasch will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on a stovetop and prepare your sides.
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 
 
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, stir to coat, and set aside. 
 
@@ -91,27 +100,25 @@ Yes, you can. First, allow the dish to cool completely and then add it to a free
 
 {{< figure src="/images/rgl2.jpg" class="instructionFigure">}}
 
-3. Stir in the caraway seeds, garlic, and flour, cooking until flour browns. 
+3. Stir in the caraway seeds and garlic. Then, 4. add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
 
 {{< figure src="/images/rgl3.jpg" class="instructionFigure">}}
 
-4. Add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
-
 {{< figure src="/images/rgl4.jpg" class="instructionFigure">}}
 
-5. Slowly whisk in the water, Better than Boullion, and tomato paste while allowing it to simmer. 
+4. Slowly whisk in the water, Better than Boullion, and tomato paste while allowing it to simmer. 
 
 {{< figure src="/images/rgl5.jpg" class="instructionFigure">}}
 
-6. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on manual high pressure for 60 minutes with a 20-minute natural release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
+5. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on manual high pressure for 60 minutes with a 20-minute natural release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
 
 {{< figure src="/images/rgl6.jpg" class="instructionFigure">}}
 
-7. Stir in the fresh dill and apple cider vinegar. 
+6. Stir in the fresh dill and apple cider vinegar. 
 
 {{< figure src="/images/rgl7.jpg" class="instructionFigure">}}
 
-8. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
+7. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
 
 {{< figure src="/images/rgl8.jpg" class="instructionFigure">}}
 
