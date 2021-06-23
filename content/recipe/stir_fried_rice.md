@@ -1,7 +1,7 @@
 +++
 title = "Vegetable Stir-Fried Rice"
 date = "2021-06-20"
-description = "Our fried rice includes white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night."
+description = "Need a late-night snack or a meal to please your kids? Try our stir-fried rice includes white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night."
 tags = [
     "entree",
     "side",
@@ -40,7 +40,7 @@ Cuisine: Chinese, American
 
 ### ABOUT THE MEAn
 
-Our fried rice includes white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night. 
+Need a late-night snack or a meal to please your kids? Try our stir-fried rice includes white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night. 
 
 #### What main ingredients do I need for this meal?
 
