@@ -1,7 +1,7 @@
 +++
 title = "Vegetable Stir-Fried Rice"
 date = "2021-06-20"
-description = "This is fried rice made with white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice is packed with so much flavor. You can make this from scratch or use leftover rice for a convenient meal on a busy night."
+description = "Our fried rice includes white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night."
 tags = [
     "entree",
     "side",
@@ -32,31 +32,31 @@ Cuisine: Chinese, American
 #### INSTRUCTIONS
 
 1. Follow the instructions for cooking your white rice on the stove-top. Once cooked, allow the rice to cool, and then place it in the fridge to chill before using it. 
-2. Heat 2 tsp of sesame oil in a large [saute pan](https://amzn.to/35LnBg1) or [wok](https://amzn.to/3cS6RI4) over medium-high heat. 
+2. Heat 2 tsp of sesame oil in a large [saute pan](https://amzn.to/35LnBg1) or [wok](https://amzn.to/3cS6RI4) on medium-high heat. 
 3. Add the onions and garlic and cook until the onions become translucent and soften. Then, add the peas and cook for another 2-3 minutes. 
-4. Move the onions and peas to one side of the pan and add 1/2 tsp of butter. Cook until melted, and then add the reserved egg mixture. Let the egg cook undisturbed for 30 seconds, and then slowly push the eggs from one side of the pan to the other, allowing the eggs to incorporate with the vegetables. 
-5. Increase the temperature to high and add the chilled rice, the remaining tbsp of butter, soy sauce, and oyster sauce; stir to combine. Allow the rice to cook with the rest of the ingredients for about 3-5 minutes, stirring occasionally. 
+4. Move the vegetables to one side of the pan and add 1/2 tsp of butter. Cook until melted, and then add the reserved egg mixture. Let the egg cook undisturbed for 30 seconds, and then gently push the eggs from one side of the pan to the other, incorporating the eggs with the vegetables. 
+5. Increase the temperature to high and add the reserved chilled rice, the remaining 1 tbsp butter, soy sauce, and oyster sauce; stir to combine. Allow the rice to cook with the rest of the ingredients for about 3-5 minutes, stirring occasionally. 
 6. Off heat, stir in the remaining sesame oil to serve. 
 
-### ABOUT THE MEAL
+### ABOUT THE MEAn
 
 Our fried rice includes white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night. 
 
 #### What main ingredients do I need for this meal?
 
-* Rice: Be sure to cook your rice ahead of time and place it in the refrigerator to chill. Chilled rice is necessary because it crisps up and doesn't clump when frying. If you have leftover white rice in the fridge, this is a great way to repurpose it. 
+* Rice: Cook your rice ahead of time and place it in the refrigerator to chill. Chilled rice crisps nicely and does not clump when frying. If you have leftover white rice in the fridge, this is a great way to repurpose it. 
 
-* Vegetables: In this recipe, I only used onions, peas, and garlic. Normally I would add small carrots as well, but for some reason, my children have decided to have an aversion to them, so here we are. If you're a vegetable fan, consider adding corn, snow peas, and other vegetables to brighten the dish even more. 
+* Vegetables: In this recipe, I used onions, peas, and garlic. Normally, I would also add small carrots, but my children have decided they are averse, so here we are. If you love vegetables, consider adding corn, snow peas, and other vegetables to change things up or to use up those you have on hand. 
 
-* Eggs: It just would not be stir-fried rice without a bit of egg.  
+* Eggs: It would not be stir-fried rice without a bit of egg.  
 
-* Butter: Yes, I use butter in my fried rice. Why? Because rice tastes better with butter in it. 
+* Butter: Yes, I use butter in my fried rice. Why? Simply put, rice tastes better with butter in it. 
 
-* Soy Sauce: It is stir-fried rice; you need a little soy sauce. 
+* Soy Sauce: It is stir-fried rice, so we had to add a little soy sauce. 
 
-* Oyster Sauce: This sauce adds a depth of flavor to the rice. The sweetness of the oyster sauce cuts the saltiness of the soy sauce and blends perfectly with the fat from the butter. 
+* Oyster Sauce: This sauce adds sweetness to the rice; it cuts the saltiness and blends perfectly with the fat from the butter. 
 
-* Sesame Oil: To be honest, this is my favorite addition to fried rice. I love adding it at the end because not only does it taste amazing, it smells absolutely delicious. 
+* Sesame Oil: To be honest, this is my favorite addition to fried rice. I love to add it at the end because not only does it taste amazing, it smells delicious. 
 
 #### What equipment do I need to make this recipe?
 
