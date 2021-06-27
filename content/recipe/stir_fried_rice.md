@@ -1,7 +1,7 @@
 +++
 title = "Vegetable Stir-Fried Rice"
 date = "2021-06-20"
-description = "Need a late-night snack or a meal to please your kids? Try our stir-fried rice includes white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night."
+description = "Need a late-night snack or meal your kids will love? Try our easy to make vegetable stir-fried rice. It includes white rice, onions, peas, garlic, and scrambled eggs, and it packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night."
 tags = [
     "entree",
     "side",
@@ -38,9 +38,9 @@ Cuisine: Chinese, American
 5. Increase the temperature to high and add the reserved chilled rice, the remaining 1 tbsp butter, soy sauce, and oyster sauce; stir to combine. Allow the rice to cook with the rest of the ingredients for about 3-5 minutes, stirring occasionally. 
 6. Off heat, stir in the remaining sesame oil to serve. 
 
-### ABOUT THE MEAn
+### ABOUT THE MEAL
 
-Need a late-night snack or a meal to please your kids? Try our stir-fried rice includes white rice, onions, peas, garlic, and scrambled eggs. This easy-to-make vegetable stir-fried rice packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night. 
+Need a late-night snack or meal your kids will love? Try our easy to make vegetable stir-fried rice. It includes white rice, onions, peas, garlic, and scrambled eggs, and it packs so much flavor. You can make it from scratch or use leftover rice for a convenient meal on a busy night.
 
 #### What main ingredients do I need for this meal?
 
