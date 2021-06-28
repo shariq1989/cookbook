@@ -73,11 +73,31 @@ Cuisine: American
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Preheat the oven to 300 degrees. 
-2. Generously season the short ribs all over with salt and pepper. 
+2. Generously season the short ribs all over with salt and pepper.
 3. Heat oil in a dutch oven and then sear the short ribs on all sides until they turn golden brown, about 1 minute and a half for each side. Remove the meat from the pan and set it aside. 
+
+{{< figure src="/images/bsr1.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/bsr2.jpg" class="instructionFigure">}}
+
 4. In the same pot, add the carrot, celery. Cook until the onions begin to soften. 
 5. Next, add the garlic, tomato paste, Better than Bouillion, and flour. Stir in to combine, and cook for another 2 minutes. 
+
+{{< figure src="/images/bsr3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/bsr4.jpg" class="instructionFigure">}}
+
 6. Stir in the water and the cooking wine. Bring the mixture to a boil. 
+
+{{< figure src="/images/bsr5.jpg" class="instructionFigure">}}
+
 7. Turn off the heat and return the short ribs to the pan, along with the fresh thyme and butter. 
+
+{{< figure src="/images/bsr6.jpg" class="instructionFigure">}}
+{{< figure src="/images/bsr7.jpg" class="instructionFigure">}}
+
+
 8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours. 
 9. Serve with something like mashed potatoes or cauliflower mash to soak up all the cooking juices.  
+
+{{< figure src="/images/bshr4.jpg" class="instructionFigure">}}
