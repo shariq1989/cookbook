@@ -18,6 +18,10 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+page = ["HTML"]
+
 [params]
 disableThemeSwitcher = true # Theme switcher is enabled by default
 displayMode = "light"
