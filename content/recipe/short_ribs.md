@@ -101,4 +101,4 @@ Cuisine: American
 8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours. 
 9. Serve with something like mashed potatoes or cauliflower mash to soak up all the cooking juices.  
 
-{{< figure src="/images/bshr4.jpg" class="instructionFigure">}}
+{{< figure src="/images/bshr8.jpg" class="instructionFigure">}}
