@@ -34,7 +34,7 @@ Cuisine: American
 * 1 tsp Vanilla Extract
 * ¾ cup Sugar-Free Chocolate Chips
   
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. Preheat the oven to 350 degrees.
 2. Line a muffin tin with muffin liners.
@@ -71,10 +71,24 @@ Cuisine: American
 
 1. Preheat the oven to 350 degrees.
 2. Line a muffin tin with muffin liners.
+
+{{< figure src="/images/dcm1.jpg" class="instructionFigure">}}
+
 3. In a large bowl, mix together all of the dry ingredients.
+
+{{< figure src="/images/dcm2.jpg" class="instructionFigure">}}
+
 4. Then, stir in the melted butter, beaten eggs, vanilla, and almond milk one by one. Do not overmix the batter.
+
+{{< figure src="/images/dcm3.jpg" class="instructionFigure">}}
+
 5. Add the chocolate chips and fold them into the batter. 
 6. Divide batter evenly among prepared muffin liners and top each one with a few chocolate chips.
+
+{{< figure src="/images/dcm4.jpg" class="instructionFigure">}}
+
 7. Bake for 20-25 minutes, until cooked throughout. 
 8. Remove the muffins from the oven and remove each muffin from the tins immediately using a fork, so you do not burn yourself.
 9. Allow the muffins to cool before serving. 
+
+{{< figure src="/images/dcm5.jpg" class="instructionFigure">}}
