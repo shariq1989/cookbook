@@ -10,7 +10,7 @@ tags = [
     "vegetarian"
    
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/doublechocmuffin.jpg"
 +++
 
 Servings: 8 muffins <!--more-->
@@ -41,7 +41,7 @@ Cuisine: American
 3. In a large bowl, mix together all of the dry ingredients.
 4. Then, stir in the melted butter, beaten eggs, vanilla, and almond milk one by one. Do not overmix the batter.
 5. Add the chocolate chips and fold them into the batter. 
-6. Divide batter evenly among prepared muffin liners and top each one with a few chocolate chips.
+6. The batter is thick and dense, so use a spoon to divide the batter evenly among the prepared muffin liners. Top each one with a few chocolate chips. 
 7. Bake for 20-25 minutes, until cooked throughout. 
 8. Remove the muffins from the oven and remove each muffin from the tins immediately using a fork. 
 9. Allow the muffins to cool before serving. 
@@ -78,12 +78,12 @@ Cuisine: American
 
 {{< figure src="/images/dcm2.jpg" class="instructionFigure">}}
 
-4. Then, stir in the melted butter, beaten eggs, vanilla, and almond milk one by one. Do not overmix the batter.
+4. Then, stir in the melted butter, beaten eggs, vanilla, and almond milk one by one. Do not overmix the batter. 
 
 {{< figure src="/images/dcm3.jpg" class="instructionFigure">}}
 
 5. Add the chocolate chips and fold them into the batter. 
-6. Divide batter evenly among prepared muffin liners and top each one with a few chocolate chips.
+6. The batter is thick and dense, so use a spoon to divide the batter evenly among the prepared muffin liners. Top each one with a few chocolate chips. 
 
 {{< figure src="/images/dcm4.jpg" class="instructionFigure">}}
 
