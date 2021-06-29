@@ -31,8 +31,9 @@ Cooking Time: 10 minutes
 #### INSTRUCTIONS
 
 1. Mix the ingredients, one at a time, in a large bowl, then mix well. Let the mixture stand at room temperature for 30 minutes. 
-2. Preheat the [waffle iron](https://amzn.to/3kII2kI). 
+2. Preheat the [waffle iron](https://amzn.to/3kII2kI) by plugging it in and leaving it for a moment or two. 
 3. Add 1/4 cup to 1/2 cup mix to the waffle iron, depending on the size of your iron. 
+4. Top with butter, maple syrup, and toppings of your choice. 
 
 ### ABOUT THE MEAL 
 
@@ -68,5 +69,6 @@ Yes, that is my favorite thing about making these waffles. I often double the re
 
 {{< figure src="/images/bw1.jpg" class="instructionFigure">}}
 
-2. Preheat the [waffle iron](https://amzn.to/3kII2kI). 
+2. Preheat the [waffle iron](https://amzn.to/3kII2kI) by plugging it in and leaving it for a moment or two. 
 3. Add 1/4 cup to 1/2 cup mix to the waffle iron, depending on the size of your iron. 
+4. Top with butter, maple syrup, and toppings of your choice. 
