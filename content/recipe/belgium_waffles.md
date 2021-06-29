@@ -1,12 +1,13 @@
 +++
 title = "Crispy Belgium Waffle"
 date = "2020-12-02"
-description = "This authentic Belgian waffle recipe yields waffles that are crispy on the outside and fluffy on the inside. Bonus, they are easy to make and ready in a few minutes with common ingredients from your pantry."
+description = "If you enjoy waffles that are crispy on the outside and fluffy on the inside, these are the waffles for you. The best part about these waffles, in my opinion, is how easy they are to make and they are ready in just a few minutes with common ingredients from your pantry."
 tags = [
+    "breakfast",
     "vegetarian"
    
 ]
-#thumbnail= "images/waffles.jpg"
+thumbnail= "images/belgiumwaffle.jpg"
 +++
 
 Servings: 4 Waffles <!--more-->
@@ -31,17 +32,21 @@ Cooking Time: 10 minutes
 
 1. Mix the ingredients, one at a time, in a large bowl, then mix well. Let the mixture stand at room temperature for 30 minutes. 
 2. Preheat the [waffle iron](https://amzn.to/3kII2kI). 
-3. Add ¼ cup mix to the waffle iron. 
+3. Add 1/4 cup to 1/2 cup mix to the waffle iron, depending on the size of your iron. 
 
 ### ABOUT THE MEAL 
 
-Fun story, an alternative title for this recipe could be Birthday Waffles since that is the only time we bust out this recipe. Either way, these waffles are delicious with a light, fluffy inside to compliment the crispy outside.  
+Fun story, an alternate title for this recipe could be, "Birthday Waffles" since birthdays are the only time we bust out this recipe. Either way, these waffles are delicious; they have a light, fluffy inside to compliment the crispy outside. The best part about these waffles, in my opinion, is how easy they are to make, and they are ready in just a few minutes with common ingredients from your pantry.
 
 #### What main ingredients do I need for this meal?
 
-* All-Purpose Flour and Cornstarch 
+* All-Purpose Flour 
 
-* Baking Powder and Salt 
+* Cornstarch 
+
+* Baking Powder 
+
+* Salt 
 
 * Milk, Egg, and Vegetable Oil 
 
@@ -55,6 +60,13 @@ Fun story, an alternative title for this recipe could be Birthday Waffles since 
 
 #### Can I freeze waffles?
 
-Yes, this is my favorite thing about making these waffles. I often double the recipe only to freeze them and have access to a quick and easy breakfast the next time. Yes, first allow the waffles to cool completely, and then add them to a freezer-safe container or Ziploc bag. The waffles will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm them in the oven or microwave.
+Yes, that is my favorite thing about making these waffles. I often double the recipe only to freeze them, so I have access to a quick and easy breakfast the next time around. First, allow the waffles to cool completely, and then add them to a freezer-safe container or bag. The waffles will freeze for up to 3 months. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, warm them in the oven or microwave and prepare your toppings.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
+
+1. Mix the ingredients, one at a time, in a large bowl, then mix well. Let the mixture stand at room temperature for 30 minutes. 
+
+{{< figure src="/images/bw1.jpg" class="instructionFigure">}}
+
+2. Preheat the [waffle iron](https://amzn.to/3kII2kI). 
+3. Add 1/4 cup to 1/2 cup mix to the waffle iron, depending on the size of your iron. 
