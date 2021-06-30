@@ -73,19 +73,9 @@ Olive Garden Zuppa Toscana is comfort food at its best. It is creamy and loaded 
 * A heavy-bottomed pan or a [dutch oven](https://amzn.to/3sFYTY1) 
 * An [Instant Pot](https://amzn.to/3w5GDtJ)
 
-#### Is zuppa toscana keto? Is it low-carb? 
-
-The carbohydrates are a bit high for this recipe to work within the keto diet. However, Zuppa Toscana can be a great low-carb option. Simply, replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, but you still get the same rich flavor as the original recipe. I calculated the macros to make it easy for you.
-
-* CARBS– 13 net carbs
-* PROTEIN– 62g
-* FAT– 61g
-
-You can also substitute half-and-half for the heavy cream to reduce the carbs and calories for this meal if you choose. 
-
 #### Can I freeze Zuppa Toscana? 
 
-Yes, first allow the dish to cool completely and then add it to a freezer-safe container. Zuppa Toscana will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove and enjoy.
+You sure can, first allow the dish to cool completely and then add it to a freezer-safe container or bag. Zuppa Toscana will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove, and enjoy!
 
 ### INSTRUCTIONS: STEP-BY-STEP  
 
