@@ -1,7 +1,7 @@
 +++
 title = "Olive Garden Zuppa Toscana Copycat"
 date = "2021-03-28"
-description = " This Olive Garden Zuppa Toscana soup is comforting food at its best. It is a creamy soup loaded with sausage, potatoes, and kale. This recipe is so delicious and filling; the whole family will enjoy this meal"
+description = "This Olive Garden Zuppa Toscana is comfort food at its best. It's creamy and loaded with sausage, potatoes, and bright crisp kale. This recipe is so delicious and filling; the whole family is guaranteed to enjoy this meal."
 tags = [
     "entree",
     "low carb",
@@ -16,12 +16,12 @@ Preparation Time: 10 minutes
 
 Cooking Time: 1 hour, 15 minutes
 
-Cuisine: Italian, American
+Cuisine: American, Italian
 
 #### INGREDIENTS 
 
 * 1 lb Mild Italian Sausage, ground 
-* 1 medium Onion, finely diced 
+* 1 medium Yellow Onion, finely diced 
 * 4 Garlic Cloves, minced 
 * 1 tbsp [Chicken Better than Bouillon](https://amzn.to/38081yU)
 * 4 cup Water
@@ -31,48 +31,51 @@ Cuisine: Italian, American
 * Black Pepper, coarse ground, to taste
 * Kosher Salt, to taste
 * 1 cup Heavy Cream 
-* 4 Kale Leaves, stems removed and chopped 
-* Parmesan Cheese, to garnish 
+* 4 Kale Leaves, stems removed and roughly chopped 
+* Fresh Parmesan Cheese, to garnish 
 
 #### STOVE-TOP INSTRUCTIONS 
 
-1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. 
-2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the dutch oven. Then, add the potatoes; season with oregano, garlic powder, salt, and pepper. 
-4. Cook the soup on low-medium heat for 1 hour, stirring occasionally.  
-5. Off heat, mix in the kale and heavy cream about 10 minutes before serving. 
+1. In a heavy-bottomed pan or a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. 
+2. Add the onions and garlic to the sausage. Cook until the onions become translucent and soften. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon. Then, add the potatoes; season the mixture with oregano, garlic powder, salt, and pepper. 
+4. Cook over medium heat for 1 hour, stirring occasionally.  
+5. Off heat, stir in the kale and heavy cream to serve.
 
 #### INSTANT POT INSTRUCTIONS 
 
 1. In an [Instant Pot](https://amzn.to/3w5GDtJ), cook the sausage on saute mode until brown. 
-2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes; season with oregano, garlic powder, salt, and pepper. 
-4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
-5. Unplug and allow the soup to cool, then mix in the kale and heavy cream about 10 minutes before serving. 
+2. Add the onions and garlic to the sausage. Cook until the onions become translucent and soften. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon. Then, add the potatoes; season with oregano, garlic powder, salt, and pepper. 
+4. Secure the lid and set the Instant Pot to manual high pressure for 10 minutes with quick release.  
+5. Unplug the Instant and allow the soup to cool, then stir in the kale and heavy cream to serve. 
 
 ### ABOUT THE MEAL
 
-There are multiple versions of this recipe floating around the internet. Honestly, it makes sense. Zuppa Toscana is tasty! Before learning to make it at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks,
+There are way too many versions of this recipe floating around the internet, and honestly, it makes sense! Zuppa Toscana is good. Before learning to make it at home, it was the only reason I ever went to Olive Garden. Well, that and the breadsticks. 
+
+Olive Garden Zuppa Toscana is comfort food at its best. It is creamy and loaded with sausage, potatoes, and bright, crisp kale. This recipe is so delicious and filling; the whole family will enjoy it.
 
 #### What main ingredients do I need for this meal?
 
 * Ground Italian Sausage: Control the heat using mild or spicy Italian sausage. We prefer to switch it up depending on who we are serving.
 
-* Heavy Cream: I use heavy cream, but you could easily substitute half-in-half or coconut milk.  
+* Heavy Cream: I love how creamy this soup is with the heavy cream, but you could easily substitute half-in-half if you prefer.  
 
-* Kale: Remove the stems and chop the kale. I prefer larger pieces, but it is totally up to your preferences. 
+* Kale: The brightness of the kale is my favorite part of this recipe. Be sure to remove the stems and then chop the kale to your preference. I like having larger pieces, but it is totally up to you. 
 
-* Potato: I use red or Yukon. 
+* Potatoes: I use red or Yukon. 
 
 * Bacon: Adding in some crumbled, crispy bacon is a tasty addition to this dish. I chose to leave it out personally since the meal is already high in fat. 
 
 #### What equipment do I need to make this recipe? 
 
-* A [dutch oven](https://amzn.to/3sFYTY1) or an [Instant Pot](https://amzn.to/3w5GDtJ)
+* A heavy-bottomed pan or a [dutch oven](https://amzn.to/3sFYTY1) 
+* An [Instant Pot](https://amzn.to/3w5GDtJ)
 
 #### Is zuppa toscana keto? Is it low-carb? 
 
-The macros are a little high for a keto diet. However, with one substitution, Zuppa Toscana fits a low-carb diet well. Simply, replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, and you still get all the flavor of the original recipe. I calculated the macros to make it easy for you.
+The carbohydrates are a bit high for this recipe to work within the keto diet. However, Zuppa Toscana can be a great low-carb option. Simply, replace the red potatoes with cauliflower. Cauliflower takes on a potato-like texture when cooked, but you still get the same rich flavor as the original recipe. I calculated the macros to make it easy for you.
 
 * CARBS– 13 net carbs
 * PROTEIN– 62g
@@ -90,15 +93,15 @@ Yes, first allow the dish to cool completely and then add it to a freezer-safe c
 
 {{< figure src="/images/zt1.jpg" class="instructionFigure">}}
 
-2. Add the onions and garlic to the sausage mixture. Cook until the onions become translucent and soften. 
+2. Add the onions and garlic to the sausage. Cook until the onions become translucent and soften. 
 
 {{< figure src="/images/zt2.jpg" class="instructionFigure">}}
 
-3. Add 4 cups of water and 1 tbsp Better Than Bouillon to the pot. Then, add the potatoes; season with oregano, garlic powder, salt, and pepper. 
+3. Add 4 cups of water and 1 tbsp Better Than Bouillon. Then, add the potatoes; season with oregano, garlic powder, salt, and pepper. 
 
 {{< figure src="/images/zt3.jpg" class="instructionFigure">}}
 
-4. Secure the lid, set the Instant Pot to manual high pressure for 10 minutes with a quick release.  
-5. Unplug and allow the soup to cool, then mix in the kale and heavy cream about 10 minutes before serving. 
+4. Secure the lid and set the Instant Pot to manual high pressure for 10 minutes with quick release.  
+5. Unplug the Instant Pot and allow the soup to cool, then stir in the kale and heavy cream to serve. 
 
 {{< figure src="/images/zt4.jpg" class="instructionFigure">}}
