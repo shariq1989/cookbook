@@ -69,6 +69,8 @@ For the Mango Salsa:
 
 * Blackening Spices: I use a tasty combination of chili powder, garlic powder, oregano, smoked paprika, salt, cumin, black pepper, and cayenne pepper. 
 
+* [Mango Salsa](https://www.jamilghar.com/recipe/mango_salsa/)
+
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Mahi Mahi: 
