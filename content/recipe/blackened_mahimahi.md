@@ -29,6 +29,7 @@ For the Mahi Mahi:
 * 2 tsp Salt 
 * 1 1/2 tsp Cumin, ground 
 * 1 tsp Black Pepper, coarse ground 
+* 1 tsp Cayenne Pepper
 * 2 tbsp Avocado Oil 
 
 For the Mango Salsa: 
