@@ -54,23 +54,20 @@ For the Mahi Mahi:
 3. Combine the spices in a small bowl and coat both sides with the seasoning. 
 4. Over medium-high heat, warm a cast-iron skillet with avocado oil.
 5. Once heated, carefully add the mahi-mahi fillets to the pan and cook 3-4 minutes on each side. 
-6. Garnish the fillets with the mango salsa. Serve alongside a bright salad topped with a creamy avocado dressing. 
+6. Garnish the fillets with the [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). Serve alongside a bright salad topped with a creamy avocado dressing. 
 
 For the Mango Salsa: 
 
 1. In a small serving bowl, add the onion, jalapeno, lime juice, lime zest, olive oil, salt, and pepper. Mix well. 
 2. Next, gently stir in the tomato and mango until combined, careful not to over stir.  
 
-
 ### ABOUT THE MEAL
 
 #### What main ingredients do I need for this meal?
 
-* Mahi Mahi
+* Mahi Mahi: For this recipe, I used frozen mahi mahi, but you could easily use fresh if you prefer. 
 
-* Spices 
-
-* Mango 
+* Blackening Spices: I use a tasty combination of chili powder, garlic powder, oregano, smoked paprika, salt, cumin, black pepper, and cayenne pepper. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
