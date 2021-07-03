@@ -6,7 +6,7 @@ tags = [
     "side",
     
 ]
-#thumbnail= "images/blackenedmahimango.jpg"
+thumbnail= "images/mangosalsa.jpg"
 +++
 
 Servings: 6 <!--more-->
