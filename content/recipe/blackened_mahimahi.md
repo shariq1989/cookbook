@@ -6,7 +6,7 @@ tags = [
     "entree",
     
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/blackenedmahimango.jpg"
 +++
 
 Servings: 4-5 <!--more-->
@@ -77,12 +77,31 @@ For the Mahi Mahi:
 
 1. Defrost the Mahi Mahi fillets in the fridge overnight. 
 2. Dry the fillets with a towel to remove excess moisture. Set aside. 
+
+{{< figure src="/images/bmm1.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/bmm2.jpg" class="instructionFigure">}}
+
 3. Combine the spices in a small bowl and coat both sides with the seasoning. 
+
+{{< figure src="/images/bmm3.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/bmm4.jpg" class="instructionFigure">}}
+
 4. Over medium-high heat, warm a cast-iron skillet with avocado oil.
+
+{{< figure src="/images/bmm5.jpg" class="instructionFigure">}}
+
 5. Once heated, carefully add the mahi-mahi fillets to the pan and cook 3-4 minutes on each side. 
+
+{{< figure src="/images/bmm6.jpg" class="instructionFigure">}}
+
 6. Garnish the fillets with the mango salsa. Serve alongside a bright salad topped with a creamy avocado dressing. 
 
-For the Mango Salsa: 
+{{< figure src="/images/bmm7.jpg" class="instructionFigure">}}
 
+For the Mango Salsa: 
 1. In a small serving bowl, add the onion, jalapeno, lime juice, lime zest, olive oil, salt, and pepper. Mix well. 
 2. Next, gently stir in the tomato and mango until combined, careful not to over stir.  
+
+{{< figure src="/images/bmm8.jpg" class="instructionFigure">}}
