@@ -94,7 +94,7 @@ For the Mahi Mahi:
 
 {{< figure src="/images/bmm6.jpg" class="instructionFigure">}}
 
-6. Garnish the fillets with the mango salsa. Serve alongside a bright salad topped with a creamy avocado dressing. 
+6. Garnish the fillets with the [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). Serve alongside a bright salad topped with a creamy avocado dressing. 
 
 {{< figure src="/images/bmm7.jpg" class="instructionFigure">}}
 
