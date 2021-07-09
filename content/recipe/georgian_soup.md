@@ -7,7 +7,7 @@ tags = [
     "entree",
     "instant pot",
 ]
-thumbnail= "images/georgianchicken.jpg"
+#thumbnail= "images/georgianchicken.jpg"
 +++
 
 Servings: 6-8 <!--more-->
