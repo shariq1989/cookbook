@@ -1,5 +1,5 @@
 +++
-title = "Crockpot Stroganoff"
+title = "Weeknight Stroganoff"
 date = "2020-12-03"
 description = ""
 tags = [
