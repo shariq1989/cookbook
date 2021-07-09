@@ -1,5 +1,5 @@
 +++
-title = "Cinnamon Rolls Without Yeast"
+title = "No Yeast Cinnamon Rolls"
 date = "2020-01-18"
 description = "We love these tasty, homemade, from scratch cinnamon rolls. They are made without yeast and come with icing made two ways: sugar icing and cream cheese icing."
 tags = [
@@ -7,7 +7,7 @@ tags = [
     "dessert",
     "vegetarian"
 ]
-thumbnail= "images/CinnamonRoll.jpg"
+#thumbnail= "images/CinnamonRoll.jpg"
 +++
 
 Servings: 10 <!--more-->
