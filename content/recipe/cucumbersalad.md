@@ -10,7 +10,7 @@ tags = [
     "vegetarian",
     "vegan",
 ]
-thumbnail= "images/SUNOMONO.jpg"
+#thumbnail= "images/SUNOMONO.jpg"
 +++
 
 Servings: 2-3 <!--more-->
