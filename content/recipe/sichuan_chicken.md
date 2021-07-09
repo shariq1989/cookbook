@@ -7,7 +7,7 @@ tags = [
     "chinese", 
     
 ]
-thumbnail= "images/SichuanChilli.jpg "
+#thumbnail= "images/SichuanChilli.jpg "
 +++
 
 Servings: 4 <!--more-->
