@@ -5,11 +5,10 @@ description = ""
 tags = [
     "entree",
     "vegetarian",
-    "indian",
     "instant pot",
     "vegan"
 ]
-thumbnail= "images/GoaMasoorDal.jpg"
+#thumbnail= "images/GoaMasoorDal.jpg"
 +++
 
 Servings: 6 <!--more-->
