@@ -2,9 +2,10 @@
 +++
 title = "Vietnamese-Style Caramel Chicken"
 date = "2021-05-14"
-description = "This Vietnamese-inspired chicken is sticky and sweet and packs a bit of heat brought on by the addition of fresh chilis. While cooking, it will look like plain old chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours off with fresh cilantro, thinly sliced chilis, and a bit of lime zest."
+description = "You will love this one pan, Vietnamese-inspired chicken. It is sticky sweet and packs a bit of heat brought on by the addition of fresh chilis. While cooking, it will look like plain ol' chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours with fresh cilantro, thinly sliced chilis, and a bit of lime zest."
 tags = [
     "entree",
+    "quick meals"
 ]
 
 thumbnail= "images/vietnamesecaramelchicken.jpeg"
@@ -48,7 +49,7 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 
 ### ABOUT THE MEAL
 
-This Vietnamese-inspired chicken is sticky and sweet and packs a bit of heat brought on by the addition of fresh chilis. While cooking, it will look like plain old chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours off with fresh cilantro, thinly sliced chilis, and a bit of lime zest.
+You will love this one pan, Vietnamese-inspired chicken. It is sticky sweet and packs a bit of heat brought on by the addition of fresh chilis. While cooking, it will look like plain ol' chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours with fresh cilantro, thinly sliced chilis, and a bit of lime zest
 
 #### What main ingredients do I need for this meal?
 
