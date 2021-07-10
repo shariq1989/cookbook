@@ -4,9 +4,8 @@ date = "2020-01-29"
 description = ""
 tags = [
     "entree",
-    "Carribean"
 ]
-thumbnail= "images/JerkChickenFricasse.jpg"
+#thumbnail= "images/JerkChickenFricasse.jpg"
 +++
 
 Servings: 6 <!--more-->
