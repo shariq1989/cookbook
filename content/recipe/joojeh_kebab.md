@@ -1,15 +1,14 @@
 +++
-title = "Joojeh Kabob - Grilled Chicken Kabob"
+title = "Joojeh Kebab - Grilled Chicken Kebab"
 date = "2021-02-28"
 description = ""
 tags = [
-    "persian",
     "entree",
     "keto",
     "low carb",
     
 ]
-thumbnail= "images/joojehkabon.jpg"
+#thumbnail= "images/joojehkabon.jpg"
 +++
 
 Servings: 3-4 <!--more-->
@@ -32,7 +31,7 @@ For the Marinade:
 * 1/4 tsp Pepper 
 * 1/4 cup Olive Oil, plus more for brushing over the vegetables 
 
-For the Kabob: 
+For the Kebab: 
 
 * 3-4 small Tomatoes, whole 
 * 3-4 small Red Onions, cut in half  
@@ -48,7 +47,7 @@ For the Marinade:
 2. Next, add the onion slices, lemon juice, saffron, salt, and pepper to the bowl. Toss to coat, ensuring all chicken pieces take on the rich saffron color. Then stir in the olive oil to combine.
 4. Cover the bowl and allow the chicken to marinate in the refrigerator for 24 hours. Remove the chicken from the refrigerator 30 minutes before grilling. 
 
-For the Kabob: 
+For the Kebab: 
 
 1. Prepare the grill by removing the grate and setting it to high heat. 
 2. Using narrow skewers, skewer the tomatoes, onions, peppers, and serrano. Brush them lightly with olive oil and season with salt and pepper, to taste. 
@@ -59,4 +58,4 @@ For the Kabob:
 
 #### ABOUT THE MEAL
 
-After eating at a Persian restaurant for our daughter's first birthday several years ago, we attempted to make a joojeh kebab recipe that would do their dish justice. While we will never reach their level of expertise, this version of the popular dish is absolutely delicious. 
+After eating at a Persian restaurant for our daughter's first birthday several years ago, we attempted to make a joojeh kebab recipe that would do their dish justice. While we will never reach their level of expertise and precision, our version of the popular dish is absolutely delicious. 
