@@ -1,11 +1,11 @@
 +++
-title = "Jerk Chicken Friscassee"
+title = "Jerk Chicken Fricassee"
 date = "2020-01-29"
-description = ""
+description = "You will love this jerk chicken fricassee, also called Jamaican brown stew. It gets its name from the rich, brown color of the dish."
 tags = [
     "entree",
 ]
-#thumbnail= "images/JerkChickenFricasse.jpg"
+thumbnail= "images/jerkchickenfricasse.jpeg"
 +++
 
 Servings: 6 <!--more-->
@@ -16,18 +16,18 @@ Cooking Time: 50 minutes
 
 Cuisine: Caribbean
 
-Adapted From: Milkstreet
+Adapted From: [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
 
 #### INGREDIENTS 
 
-For the Jerk Seasoning
+For the Jerk Seasoning:
 
 * 1 tbsp Onion Powder
 * 1 tbsp Garlic Powder
 * 2 tsp Cayenne Pepper
 * 2 tsp Paprika
 * 2 tsp Salt
-* 1 tsp Coarse Black Pepper 
+* 1 tsp Black Pepper, coarse ground 
 * ½ tsp Red Pepper Flakes
 * ½ tsp Cumin, ground
 * ½ tsp Nutmeg, ground
@@ -35,7 +35,7 @@ For the Jerk Seasoning
 * 1 tsp Thyme, dried
 * 1 tbsp Parsley, dried
 
-For the Fricassee
+For the Fricassee:
 
 * 4 tbsp Jamaican Jerk Seasoning, divided 
 * Kosher Salt and Black Pepper, to taste 
@@ -64,15 +64,15 @@ For the Fricassee
 
 ### ABOUT THIS MEAL 
 
-You will absolutely love this jerk chicken fricassee, also called Jamaican brown stew. It gets it name from the rich, brown color of the dish. 
+You will love this jerk chicken fricassee, also called Jamaican brown stew. It gets its name from the rich, brown color of the dish. 
 
 #### What main ingredients do I need for this meal?
 
-* Jerk Seasoning 
+* Jerk Seasoning: I use this homemade combination of spices for my jerk chicken recipes, but you could also go the store-bought route. 
 
-* Chicken Thighs: I use bone-in and skin-on chicken thighs because they are high in flavor and full of fat. You can use boneless thighs, chicken legs, or a combination.
+* Chicken Thighs: I use bone-in and skin-on chicken thighs. You can use boneless thighs, chicken legs, or a combination.
 
-* [Gochujang](https://amzn.to/3al2a8Y): Gochujang is not a typical ingredient used in fricassee, but I used it in place of the more traditional ketchup. 
+* [Gochujang](https://amzn.to/3al2a8Y): Gochujang is not a common ingredient in a fricassee, but I use it in place of the more traditional ketchup. 
 
 #### What equipment do I need to make this recipe?
 
@@ -92,3 +92,6 @@ You will absolutely love this jerk chicken fricassee, also called Jamaican brown
 9. Transfer the chicken to a serving platter. Cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes.
 10. Remove from heat, taste, and season with salt and pepper.
 11. Pour the mixture over the chicken, garnish it with the scallion greens, and serve with lime wedges.
+
+
+Original recipe: [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
