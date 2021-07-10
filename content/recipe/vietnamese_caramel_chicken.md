@@ -35,7 +35,7 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 * ¼ cup Cilantro, chopped, to garnish 
 * 1 Serrano or Thai Chili, thinly sliced, to garnish 
 
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. In a heavy [saute pan](https://amzn.to/3yMZYQH) or [dutch oven](https://amzn.to/2VthKua), bring the sugar and 3 tbsp of coconut water to a boil over medium heat. Stir occasionally until the color changes, about 2 to 3 minutes. 
 2. Reduce the heat to low and stir until mahogany, 1-3 minutes. 
