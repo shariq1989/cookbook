@@ -2,12 +2,12 @@
 +++
 title = "Vietnamese-Style Caramel Chicken"
 date = "2021-05-14"
-description = "This Vietnamese inspired chicken is sticky and sweet, but packs a bit of heat brought on by the addition of fresh chilis. While cooking, it will look like plain old chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours off with fresh cilantro, thinly sliced chilis, and a bit of lime zest."
+description = "This Vietnamese-inspired chicken is sticky and sweet and packs a bit of heat brought on by the addition of fresh chilis. While cooking, it will look like plain old chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours off with fresh cilantro, thinly sliced chilis, and a bit of lime zest."
 tags = [
     "entree",
 ]
 
-thumbnail= "images/vietnamesechicken.jpeg"
+thumbnail= "images/vietnamesecaramelchicken.jpeg"
 +++
 
 Servings: 3-5 <!--more-->
@@ -48,7 +48,7 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 
 ### ABOUT THE MEAL
 
-This Vietnamese inspired chicken is sticky and sweet, but packs a bit of heat brought on by the addition of fresh chilis. While cooking, it will look like plain old chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours off with fresh cilantro, thinly sliced chilis, and a bit of lime zest.
+This Vietnamese-inspired chicken is sticky and sweet and packs a bit of heat brought on by the addition of fresh chilis. While cooking, it will look like plain old chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours off with fresh cilantro, thinly sliced chilis, and a bit of lime zest.
 
 #### What main ingredients do I need for this meal?
 
@@ -58,7 +58,7 @@ This Vietnamese inspired chicken is sticky and sweet, but packs a bit of heat br
 
 * Fresh Ginger: This spiced root is another staple in our home. I use it to balance the sweetness of the chicken. 
 
-* [Fish Sauce](https://amzn.to/33GYOJj): You may decide to skip this ingredient because it's unfamiliar, don't. Fish sauce is an ingredient we always have in our home, and it is used frequently in Vietnamese cuisine. [Red Boat](https://amzn.to/3AO5rJ4) fish sauce is our favored brand and won't give off a fishy aroma like other off brands do. 
+* [Fish Sauce](https://amzn.to/33GYOJj): You may decide to skip this ingredient because it's unfamiliar, don't. Fish sauce is an ingredient we always have in our home, and it is used frequently in Vietnamese cuisine. [Red Boat](https://amzn.to/3AO5rJ4) fish sauce is our favored brand and won't give off a fishy aroma as other brands do. 
 
 * Coconut Water 
 
@@ -96,4 +96,3 @@ This Vietnamese inspired chicken is sticky and sweet, but packs a bit of heat br
 {{< figure src="/images/vnc6.jpg" class="instructionFigure">}}
 
 Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-caramel-chicken)
-
