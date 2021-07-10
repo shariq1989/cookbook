@@ -1,7 +1,7 @@
 +++
 title = "Baked Chicken with Olive Dressing"
 date = "2021-04-19"
-description = "This recipe is inspired by Alison Roman’s "Vinegar Chicken with Crushed Olive Dressing." Her recipe yields a tangy and flavorful vinegar chicken with a savory crushed olive dressing. It's an easy weeknight meal that roasts in under 1 hour."
+description = "This recipe is inspired by Alison Roman’s, Vinegar Chicken with Crushed Olive Dressing. Her recipe yields a tangy and flavorful vinegar chicken with a savory crushed olive dressing. It's an easy weeknight meal that roasts in under 1 hour."
 tags = [
     "entree",
     "low carb",
