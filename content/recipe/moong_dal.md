@@ -4,12 +4,11 @@ date = "2021-03-06"
 description = ""
 tags = [
     "entree",
-    "indian",
     "vegetarian", 
     "instant pot", 
     
 ]
-thumbnail= "images/MoongDal.jpg"
+#thumbnail= "images/MoongDal.jpg"
 +++
 
 Servings: 8 <!--more-->
@@ -17,6 +16,8 @@ Servings: 8 <!--more-->
 Preparation Time: 10 minutes
 
 Cooking Time: 50 minutes 
+
+Cuisine: Indian, Pakistani
 
 #### INGREDIENTS 
 
@@ -72,6 +73,6 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 With one substitution, yes. Fry the onions in canola oil or vegetable oil instead of ghee. 
 
-#### Can I freeze moong dal? 
+#### Can I freeze this dal? 
 
-Yes, allow the Moong Dal to cool and prepare several freezer-safe resealable plastic bags. Scoop a small amount of dal into each plastic bag, making sure to leave a few inches of space so the dish can expand if needed. Squeeze out as much air as you can before sealing the bag. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
+Yes, allow the Moong Dal to cool and prepare several freezer-safe bags or containers. Scoop a small amount of dal into each one, making sure to leave a few inches of space so the dal can expand if needed. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your sides.
