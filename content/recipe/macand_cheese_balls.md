@@ -7,7 +7,7 @@ tags = [
     "vegetarian"
   
 ]
-thumbnail= "images/macballs.jpg"
+#thumbnail= "images/macballs.jpg"
 +++
 
 Servings: 10-12 <!--more-->
