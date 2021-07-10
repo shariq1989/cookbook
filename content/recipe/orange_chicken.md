@@ -1,12 +1,12 @@
 +++
-title = "Orange Chicken Panda Express Copycat"
+title = "Panda Express Orange Chicken Copycat"
 date = "2020-12-06"
 description = ""
 tags = [
     "entree",
     
 ]
-thumbnail= "images/orangechicken.jpg "
+#thumbnail= "images/orangechicken.jpg "
 +++
 
 Servings: 4-5 <!--more-->
@@ -104,6 +104,6 @@ Orange chicken is famous in the United States, thanks in large part to Panda Exp
 
 Yes, replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2) or add more cornstarch. Also, substitute [tamari sauce](https://amzn.to/30F0uBo) in place of soy sauce.
 
-#### Can I freeze orange chicken?
+#### Can I freeze this chicken?
 
-Yes, if you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate except when dishing up individual plates. Freeze the sauce and chicken separately in freezer-safe containers. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, reheat the chicken in the oven and warm the sauce in a pan. Toss the chicken with the sauce and enjoy. 
+Yes, if you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate. Freeze the sauce and chicken separately in a freezer-safe bag or containers. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, reheat the chicken in the oven and warm the sauce in a pan. Toss the chicken with the sauce, and enjoy. 
