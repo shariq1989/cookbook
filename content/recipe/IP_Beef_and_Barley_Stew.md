@@ -8,7 +8,7 @@ tags = [
     "instant pot",
   
 ]
-thumbnail= "images/BeefandBarley.jpg "
+#thumbnail= "images/BeefandBarley.jpg "
 +++
 
 Servings: 6-8 <!--more-->
