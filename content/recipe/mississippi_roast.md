@@ -1,5 +1,5 @@
 +++
-title = "Instant Pot Mississippi Roast"
+title = "Mississippi Roast"
 date = "2020-01-31"
 description = ""
 tags = [
@@ -8,7 +8,7 @@ tags = [
     "keto",
     "low carb"
 ]
-thumbnail= "images/MissippiRoast.jpg"
+#thumbnail= "images/MissippiRoast.jpg"
 +++
 
 Servings: 6-8 <!--more-->
@@ -41,7 +41,7 @@ For the Ranch Dressing:
 * ½ tsp Fresh Dill, finely chopped
 * ¼ tsp Paprika 
 
-#### INSTRUCTIONS 
+#### INSTANT POT INSTRUCTIONS 
 
 1. In a small bowl, mix the flour, salt, and pepper. Rub the roast with the seasoning.
 2. Add oil to an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. Then, add the roast and brown the meat on all sides, 4-5 minutes per side, creating a crust. 
@@ -54,11 +54,7 @@ For the Ranch Dressing:
 
 ### ABOUT THE MEAL
 
-It's midweek, and you need a quick and easy meal. Reach for this Mississippi Roast; you won't be disappointed. It has both sweet and savory notes the whole family will enjoy. 
-
-#### Where does Mississippi roast originate?
-
-I love a solid roast, but even more so because the original recipe began with a woman making food in her home. Hey, that sounds familiar. Back then, it didn't have the name Mississippi roast, but as it took the internet by storm, the name followed. 
+It's midweek, and you need a quick and easy meal. Reach for this Mississippi Roast. It has both sweet and savory notes the whole family will enjoy. 
 
 #### What main ingredients do I need for this meal?
 
@@ -66,7 +62,7 @@ I love a solid roast, but even more so because the original recipe began with a 
 
 * Ranch Dressing: Ranch is critical to a good Mississippi roast. I love the mayo, dill, and vinegar together; this ranch is a solid combination of both fat and acid, and the addition of the paprika lends a savory note. 
 
-* Pepperoncini: I suggest adding 10-14 peppers to the dish, but if my family gave me the go-ahead, I would add even more. I love the pepperoncini's, especially after they've marinated in the liquid from the meat and ranch dressing. 
+* Pepperoncinis: I suggest adding 10-14 peppers to the dish, but if my family gave me the go-ahead, I would add even more. I love the pepperoncini's, especially after they've marinated in the liquid from the meat and ranch dressing. 
 
 #### What equipment do I need to make this recipe?
 
@@ -81,6 +77,6 @@ Yes, it is. My suggestion would be to omit the flour from the recipe. You can st
 * PROTEIN – 35g 
 * FAT– 53g
 
-#### Can I freeze Mississippi Roast? 
+#### Can I freeze the roast? 
 
-Yes, first allow the meat to cool completely and then add it to a freezer-safe bag. The Mississippi will freeze for up to 6 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your sides. 
+Yes, first allow the meat to cool completely and then add it to a freezer-safe bag or container. The Mississippi roast will freeze for up to 6 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove, and prepare your sides. 
