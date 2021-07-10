@@ -7,7 +7,7 @@ tags = [
     "low carb"
     
 ]
-thumbnail= "images/blackenedmahimango.jpg"
+thumbnail= "images/blackenedmahimango.jpeg"
 +++
 
 Servings: 4-5 <!--more-->
