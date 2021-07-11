@@ -3,7 +3,7 @@ title = "Almond Flour Pancakes"
 date = "2021-06-18"
 description = "These almond flour pancakes have saved me so much time and preparation. Before this, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not even notice the difference. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer. This particular recipe serves about two to three people. I usually double or triple the recipe and freeze them to enjoy as a quick breakfast in the future. ."
 tags = ["breakfast","low carb","keto",]
-thumbnail= "images/almondflourpancakes.jpg"
+thumbnail= "images/almondflourpancakes.jpeg"
 +++
 
 Servings: 2-3, 3-inch Pancakes <!--more-->
