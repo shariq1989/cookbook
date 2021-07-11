@@ -7,7 +7,7 @@ tags = [
     
 ]
 
-thumbnail= "images/panangcurry.jpg"
+thumbnail= "images/panangcurry.jpeg"
 +++
 
 Servings: 3-4  <!--more-->
@@ -18,8 +18,8 @@ Cooking Time: 20 minutes
 
 #### INGREDIENTS 
 
-* 2 lbs large Shrimp 
-* 1 -4 oz [Panang Curry Paste](https://amzn.to/3wLObSf), the whole can for spicy, 1/2 can for mild
+* 2 lbs Shrimp, large 
+* 1 -4 oz [Panang Curry Paste](https://amzn.to/3wLObSf), whole can for spicy, 1/2 can for mild
 * 1 tbsp Coconut Oil
 * 1 medium Yellow Onion, roughly chopped
 * 1 Red Bell Pepper, roughly chopped 
