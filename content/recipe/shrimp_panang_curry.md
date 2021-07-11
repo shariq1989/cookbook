@@ -1,16 +1,16 @@
 +++
 title = "Shrimp Panang Curry"
 date = "2021-06-19"
-description = "This Panang curry recipe is the perfect quick, weeknight meal. The flavor is creamy, tangy, and sweet, and it is excellent alongside some perfectly cooked rice. This recipe is completely customizable and can easily fit a vegetarian or vegan diet."
+description = "This Panang curry recipe is a perfect quick, weeknight meal. It is a great combination of creamy, tangy, and sweet, and excellent alongside some perfectly steamed rice. This recipe is customizable and can easily fit a vegetarian or vegan lifestyle."
 tags = [
     "entree",
-    
+    "quick meals"    
 ]
 
 thumbnail= "images/panangcurry.jpeg"
 +++
 
-Servings: 3-4  <!--more-->
+Servings: 3-4 <!--more-->
 
 Preparation Time: 15 minutes 
 
@@ -24,7 +24,7 @@ Cooking Time: 20 minutes
 * 1 medium Yellow Onion, roughly chopped
 * 1 Red Bell Pepper, roughly chopped 
 * 3 Garlic Cloves, minced
-* 1 1/2 can Full-Fat Coconut Milk, plus more if you prefer less spicy
+* 1 1/2 can Full-Fat [Coconut Milk](https://amzn.to/3hRQ6OY), plus more if you prefer less spicy
 * 1/8 cup Keffir Lime Leaves 
 * 1 tbsp Fish Sauce
 * Thai Basil, for garnish
@@ -42,17 +42,17 @@ Cooking Time: 20 minutes
 
 ### ABOUT THE MEAL 
 
-This Panang curry recipe is the perfect quick, weeknight meal. The flavor is creamy, tangy, and sweet, and it is excellent alongside some perfectly cooked rice. This recipe is completely customizable and can easily fit a vegetarian or vegan diet.
+This Panang curry recipe is the perfect quick and easy weeknight meal. The flavor is creamy, tangy, and sweet, and it is excellent alongside some perfectly cooked rice. This recipe is completely customizable and can easily fit a vegetarian or vegan diet with a few omissions.
 
 #### What main ingredients do I need for this meal?
 
-* Shrimp: I used large shrimp for this recipe, but you could also use extra-large or colossal shrimp as well. 
+* Shrimp: I used large shrimp for this recipe, but you could also use extra-large or colossal shrimp if you want something more filling. 
 
 * Curry Paste: When it comes to Thai curry paste, we have tried them all; [Maestra's](https://amzn.to/35DP0AQ) flavor is by far the best. It is also one of the few Thai curry pastes that are vegetarian and vegan friendly, so that is a bonus. [Mae Ploy](https://amzn.to/3gH85bv) is also pretty tasty. 
 
-* Coconut Milk: Coconut milk is a staple in Thai cooking, but be sure to use [full-fat coconut milk](https://amzn.to/35Dqpfk). You may want to do otherwise but don't. The richness from the fat completely changes the flavor and texture of the curry. 
+* Coconut Milk: Coconut milk is a staple in Thai cooking, but be sure to use [full-fat coconut milk](https://amzn.to/3hRQ6OY). You may want to do otherwise, but don't. The richness from the fat completely changes the flavor and texture of the curry in the best way. 
 
-* Fish Sauce: Count on the fish sauce to bring extra flavor and depth to the curry. 
+* Fish Sauce: Count on the fish sauce to bring depth and extra flavor to the dish. 
 
 * Vegetables: I use red bell pepper, mushrooms, and garlic in this curry. You can use other vegetables of your choice, including zucchini, bok choy, bean sprouts, snow peas, spinach, bamboo shoots, or carrots.
 
