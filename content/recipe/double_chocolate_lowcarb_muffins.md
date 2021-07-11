@@ -1,5 +1,5 @@
 +++
-title = "Double Chocolate Low - Carb Muffins"
+title = "Double Chocolate Low-Carb Muffins"
 date = "2021-06-28"
 description = ""
 tags = [
