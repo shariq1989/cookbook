@@ -10,12 +10,12 @@ tags = [
     "vegetarian"
    
 ]
-thumbnail= "images/doublechocmuffin.jpg"
+thumbnail= "images/doublechocolatemuffins.jpg"
 +++
 
 Servings: 8 muffins <!--more-->
 
-Preparation Time:  10 minutes 
+Preparation Time: 10 minutes 
 
 Cooking Time: 25 minutes 
 
@@ -23,16 +23,16 @@ Cuisine: American
 
 #### INGREDIENTS 
 
-* 2 cups Almond Flour
-* ¾ cup Unsweetened Cocoa Powder
-* ½ cup Monkfruit Sweetener 
+* 2 cups [Almond Flour](https://amzn.to/3r1D3P6)
+* ¾ cup Unsweetened [Cocoa Powder](https://amzn.to/3ANnCyp)
+* ½ cup [Monkfruit Sweetener](https://amzn.to/3hZP1Vc)
 * 2 tsp Baking Powder
 * ¼ tsp Salt
 * ½ cup Butter, melted
 * ¼ cup Unsweetened Almond Milk
 * 3 large Eggs, beaten
 * 1 tsp Vanilla Extract
-* ¾ cup Sugar-Free Chocolate Chips
+* ¾ cup Sugar-Free [Chocolate Chips](https://amzn.to/3xBdbfi)
   
 #### INSTRUCTIONS
 
@@ -50,21 +50,21 @@ Cuisine: American
 
 #### What main ingredients do I need for these muffins?
 
-* Almond Flour
-* Cocoa Powder 
-* Sweetener: I use Monkfruit in this recipe for a few reasons. Concerning sugar-free sweeteners, Monkfruit is something we always have on hand and it is the only one that doesn't leave me with a strange after-taste.  
+* [Almond Flour](https://amzn.to/3r1D3P6)
+* [Cocoa Powder](https://amzn.to/3ANnCyp) 
+* Sweetener: I use [monkfruit](https://amzn.to/3hZP1Vc) in this recipe for a few reasons. We always have on hand and it is the only one that doesn't leave me with a strange after-taste.  
 * Baking Powder 
 * Salt 
 * Butter: Melted butter compliments the almond flour, which will easily dry out your baked goods if not paired well. 
 * Almond Milk 
 * Eggs 
 * Vanilla Extract 
-* Sugar-Free Chocolate Chips: I used Lily's sugar-free chocolate chips, but you could also use cacao nibs if you prefer. 
+* Sugar-Free Chocolate Chips: I used Lily's sugar-free [chocolate chips](https://amzn.to/3xBdbfi), but you could also use cacao nibs if you prefer. 
 
 #### What equipment do I need to make this recipe?
 
 * A muffin tin 
-* Muffin liners
+* A set of muffin liners
 * A large bowl
 
 ### INSTRUCTIONS: STEP-BY-STEP 
@@ -76,19 +76,17 @@ Cuisine: American
 
 3. In a large bowl, mix together all of the dry ingredients.
 
-{{< figure src="/images/dcm2.jpg" class="instructionFigure">}}
+{{< figure src="/images/dcm2.jpeg" class="instructionFigure">}}
 
 4. Then, stir in the melted butter, beaten eggs, vanilla, and almond milk one by one. Do not overmix the batter. 
 
-{{< figure src="/images/dcm3.jpg" class="instructionFigure">}}
+{{< figure src="/images/dcm3.jpeg" class="instructionFigure">}}
 
 5. Add the chocolate chips and fold them into the batter. 
 6. The batter is thick and dense, so use a spoon to divide the batter evenly among the prepared muffin liners. Top each one with a few chocolate chips. 
 
-{{< figure src="/images/dcm4.jpg" class="instructionFigure">}}
+{{< figure src="/images/dcm4.jpeg" class="instructionFigure">}}
 
 7. Bake for 20-25 minutes, until cooked throughout. 
 8. Remove the muffins from the oven and remove each muffin from the tins immediately using a fork, so you do not burn yourself.
 9. Allow the muffins to cool before serving. 
-
-{{< figure src="/images/dcm5.jpg" class="instructionFigure">}}
