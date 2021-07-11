@@ -10,7 +10,7 @@ tags = [
     "vegetarian"
    
 ]
-thumbnail= "images/doublechocolatemuffins.jpeg"
+thumbnail= "images/doublechocolatelcmuffins.jpeg"
 +++
 
 Servings: 8 muffins <!--more-->
