@@ -90,3 +90,5 @@ Cuisine: American
 7. Bake for 20-25 minutes, until cooked throughout. 
 8. Remove the muffins from the oven and remove each muffin from the tins immediately using a fork, so you do not burn yourself.
 9. Allow the muffins to cool before serving. 
+
+{{< figure src="/images/dcm5.jpeg" class="instructionFigure">}}
