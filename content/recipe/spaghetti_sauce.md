@@ -1,9 +1,9 @@
 +++
 title = "Spaghetti Sauce"
 date = "2021-06-19"
-description = "If you're looking for an easy spaghetti sauce, using ingredients you likely have in your pantry already, you need to try this! This recipe is a dinner staple in our family. Even my husband, who is not a fan of tomato-based sauce of any kind, raves about this spaghetti."
+description = "If you're looking for an easy spaghetti sauce, using ingredients you have in your pantry, you need to try this. This recipe is a dinner staple in our family. Even my husband, who dislikes tomatoes, raves about this spaghetti. It could have something to do with a few of the secret ingredients I add: sugar, soy sauce, and fish sauce."
 tags = [
-    "entree",
+    "sauce",
    
 ]
 thumbnail= "images/spaghetti.jpg"
@@ -22,37 +22,34 @@ Cuisine: American, Italian
 * 1 tsp Olive Oil 
 * 1 medium Yellow Onion, chopped 
 * 4 Garlic Cloves, minced 
-* 1 lb Ground Beef
+* 1 lb Ground Beef, lean
 * 1 tsp Basil Leaves, dried 
 * 1 tsp Oregano, dried 
 * 1 tsp Chili Flakes, dried 
 * 1 tsp Garlic Powder 
 * 1/2 tsp Onion Powder 
-* 1 lb Ground Beef, lean 
 * 1 tsp Black Pepper, coarse ground 
 * 1 tsp Kosher Salt 
 * 2 tbsp Fresh Parsley, chopped 
-* 24 oz can Tomato Sauce 
+* 24 oz Tomato Sauce 
 * 1 tbsp Granulated White Sugar 
 * 1 tbsp Fish Sauce 
 * 1/2 tbsp Soy Sauce 
 * 1/4 cup Fresh Basil, julienne, for garnish 
-* 1-2 servings Spaghetti Noodles, cooked according to the package. 
 
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. Warm 1 tbsp of olive oil in a large saute pan over low-medium heat. 
 2. Add the onions and garlic and cook until the onions become translucent and soften. 
 3. Combine the dried basil leaves, dried oregano, chili flakes, garlic powder, and onion powder in a small bowl and stir them into the cooked onion and garlic. 
-4. Add the ground beef to the pan and season with salt, pepper, and fresh parsley. Cook, breaking down the meat with a [meat chopper](https://amzn.to/2TLab0X) as you go until the beef is brown. 
-5. Next, tomato sauce and sugar to the pan. Stir well and increase the temperature to medium-high; allow the mixture to come to a boil.
+4. Add the ground beef to the pan and season with salt, pepper, and fresh parsley. Cook, breaking down the meat with a [meat chopper](https://amzn.to/2TLab0X) as you go until browned. 
+5. Next, add the tomato sauce and sugar to the pan. Stir well and increase the temperature to medium-high; allow the mixture to come to a boil.
 6. Stir in the soy sauce and then reduce the heat to maintain a gentle simmer for 20 minutes. 
 7. Off heat, stir in the fish sauce, and top the sauce with fresh basil to serve. 
 
-
 ### ABOUT THE MEAL
 
-If you're looking for an easy spaghetti sauce, using ingredients you likely have in your pantry already, you need to try this! This recipe is a dinner staple in our family. Even my husband, who is not a fan of tomato-based sauce of any kind, raves about this spaghetti.
+If you're looking for an easy spaghetti sauce, using ingredients you have in your pantry, you need to try this. This recipe is a dinner staple in our family. Even my husband, who dislikes tomatoes, raves about this spaghetti. It could have something to do with a few of the secret ingredients I add: sugar, soy sauce, and fish sauce.
 
 #### What main ingredients do I need for this meal?
 
@@ -60,11 +57,11 @@ If you're looking for an easy spaghetti sauce, using ingredients you likely have
 
 * Onion and Garlic 
 
-* Spices: For this sauce, we use dried basil and oregano, chili flakes, garlic powder, onion powder, salt, and pepper. 
+* Spices: For the sauce, I use dried basil and oregano, chili flakes, garlic powder, onion powder, salt, and pepper. 
 
 * Tomato Sauce: I buy the plain tomato sauce with nothing else added. You could also make your own from scratch beforehand using fresh tomatoes. 
 
-* Fish Sauce: This may not be an ingredient you would typically add to a spaghetti sauce, but don't skip it. It brings so much richness and flavor to the dish. 
+* Fish Sauce: This may not be an ingredient you would typically add to a spaghetti sauce, but don't sleep on it. Fish sauce brings richness and flavor to the dish. 
 
 * Herbs: I cook fresh parsley into the sauce and top it with fresh basil. 
 
@@ -74,9 +71,9 @@ If you're looking for an easy spaghetti sauce, using ingredients you likely have
 * A small bowl 
 * A [meat chopper](https://amzn.to/2TLab0X)
 
-#### Can I freeze the spaghetti sauce?
+#### Can I freeze spaghetti sauce?
 
-You sure can.  In fact, it is encouraged. I often make this recipe in bulk to freeze the extra sauce for a quick meal down the road. First, allow the sauce to cool completely, and then add it to a freezer-safe container or bag, careful to remove as much air as possible. The spaghetti sauce will freeze for up to 6 months. When you’re ready to eat, defrost the sauce in the refrigerator overnight and warm it on the stove-top while you prepare the noodles. 
+You sure can.  In fact, it is encouraged. I often make this recipe in bulk so I can freeze the extra sauce for a quick meal down the road. First, allow the sauce to cool completely, and then add it to a freezer-safe container or bag, careful to remove as much air as possible. The spaghetti sauce will freeze for up to 6 months. When you’re ready to eat, defrost the sauce in the refrigerator overnight and warm it on the stove-top while you prepare the noodles. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
