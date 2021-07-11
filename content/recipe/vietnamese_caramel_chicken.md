@@ -94,6 +94,6 @@ You will love this one pan, Vietnamese-inspired chicken. It is sticky sweet and 
 
 9. Garnish the thighs with cilantro and your choice of thinly sliced chili. To serve, pair the caramel chicken with rice, coconut rice, or a Vietnamese tossed salad. 
 
-{{< figure src="/images/vnc6.jpg" class="instructionFigure">}}
+{{< figure src="/images/vnc6.jpeg" class="instructionFigure">}}
 
 Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-caramel-chicken)
