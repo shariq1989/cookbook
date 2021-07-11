@@ -44,7 +44,7 @@ Cuisine: American
 
 ### ABOUT THE MEAL
 
-If you're looking for a lean, healthy fish that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust perfected by cooking in the cast-iron skillet on high heat. I garnish the mahi-mahi with fresh mango salsa, making it the perfect summer meal.
+If you're looking for a lean, healthy fish that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust perfected by cooking in the cast-iron skillet on high heat. I garnish the mahi-mahi with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/), making it the perfect summer meal.
 
 #### What main ingredients do I need for this meal?
 
@@ -61,8 +61,6 @@ If you're looking for a lean, healthy fish that doesn't taste too fishy, mahi-ma
 Oh, the options! Of course, you can serve it as is with the fresh mango salsa. Break up the cooked fish and add it to a warmed corn tortilla for a mahi-mahi taco. You can still add the mango salsa and even top it with our cream avocado dressing if you wanted even more flavor. You can make a mahi-mahi bowl by topping rice or pilaf with fresh and mango salsa. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
-
-For the Mahi-Mahi: 
 
 1. Defrost the Mahi-Mahi filet in water for just a few minutes before you're ready to eat. 
 2. Salt the filets and then dry them with a towel to remove excess moisture. 
