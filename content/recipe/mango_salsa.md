@@ -6,7 +6,7 @@ tags = [
     "side",
     
 ]
-thumbnail= "images/mangosalsa.jpg"
+thumbnail= "images/mangosalsa.jpeg"
 +++
 
 Servings: 6 <!--more-->
@@ -18,7 +18,7 @@ Cuisine: American
 #### INGREDIENTS 
 
 * 1/2 Red Onion, finely diced 
-* 1 Jalapeno, stems and seeds removed, finely diced
+* 1 Jalapeno, stem and seeds removed, finely diced
 * 1 tsp Lime Zest 
 * 3 tbsp Lime Juice, about 2 limes 
 * 1 tbsp Olive Oil 
