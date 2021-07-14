@@ -6,7 +6,7 @@ tags = [
     "side",
     "vegetarian",
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/spicygarliceggplant.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -75,11 +75,25 @@ Yes, allow the eggplant to cool and add it to a freezer-safe bag or container. E
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. In a small bowl, whisk together the ingredients for the sauce. Set aside. 
+
+{{< figure src="/images/sge1.jpg" class="instructionFigure">}}
+
 2. Cut the eggplant into 1-inch pieces and place them into a bowl. Toss with salt and let them sit for about 10 minutes. 
 3. Dry the eggplant with a towel to remove excess moisture. Then, add the cornstarch and stir to combine. 
+
+{{< figure src="/images/sge2.jpg" class="instructionFigure">}}
+
+{{< figure src="/images/sge3.jpg" class="instructionFigure">}}
+
 4. In a heavy-bottomed pan or a wok, warm the avocado oil over medium-high heat. 
 5. Add garlic, ginger, and chilis. Cook for about 30 seconds until aromatic. Stir to prevent sticking. 
 6. Lower the heat to medium and add the eggplant to the pan, skin-side down. This step prevents sticking and ensures the eggplant steams correctly. Cook for about 1 minute and remove the eggplant. 
+
+{{< figure src="/images/sge4.jpg" class="instructionFigure">}}
+
 7. Add the ingredients for the sauce and stir to combine. Cook for 2-3 minutes. 
 8. Return the eggplant to the pan and allow the mixture to simmer until the sauce thickens and the eggplant is tender. 
+
+{{< figure src="/images/sge5.jpg" class="instructionFigure">}}
+
 9. Transfer to a serving dish and garnish with green onions to serve.
