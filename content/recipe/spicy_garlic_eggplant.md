@@ -13,7 +13,7 @@ Servings: 4 <!--more-->
 
 Preparation Time: 15 minutes 
 
-Cooking Time:
+Cooking Time: 20 minutes 
 
 Cuisine: Chinese 
 
