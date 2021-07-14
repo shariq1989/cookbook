@@ -4,6 +4,7 @@ date = "2021-07-13"
 description = ""
 tags = [
     "side",
+    "entree",
     "vegetarian",
 ]
 thumbnail= "images/spicygarliceggplant.jpeg"
@@ -15,9 +16,21 @@ Preparation Time: 15 minutes
 
 Cooking Time: 20 minutes 
 
-Cuisine: Chinese 
+Cuisine: Sichuan, Chinese
 
 #### INGREDIENTS 
+
+For the Sauce: 
+
+* 3 tbsp Soy Sauce 
+* 2 tbsp Oyster Sauce 
+* 3 tsp Brown Sugar 
+* 1 tbsp Rice Wine Vinegar 
+* 1 tbsp Shaoxing Wine
+* 1/4 cup Water 
+* 3 tsp Sesame Oil 
+
+For the Dish: 
 
 * 3-4 Chinese Eggplant, cut into 1-inch pieces 
 * 2 tsp Kosher Salt
@@ -28,14 +41,6 @@ Cuisine: Chinese
 * 3-5 Chilis De Arbol, dried 
 * 4 Green Onion, thinly sliced 
 
-For the Sauce: 
-* 3 tbsp Soy Sauce 
-* 2 tbsp Oyster Sauce 
-* 3 tsp Brown Sugar 
-* 1 tbsp Rice Wine Vinegar 
-* 1 tbsp Shaoxing Wine
-* 1/4 cup Water 
-* 3 tsp Sesame Oil 
 
 #### INSTRUCTIONS
 
@@ -70,6 +75,7 @@ For the Sauce:
 * A heavy-bottomed [pan](https://amzn.to/3keQg5D) or [wok](https://amzn.to/3r6pSwl) 
 
 #### Can I freeze the eggplant?
+
 Yes, allow the eggplant to cool and add it to a freezer-safe bag or container. Eggplant will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and enjoy! 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
