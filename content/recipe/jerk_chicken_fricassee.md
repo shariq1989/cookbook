@@ -49,22 +49,20 @@ For the Fricassee:
 
 #### INSTRUCTIONS 
 
-1. In a small bowl, combine ingredients for the jerk seasoning and set aside (any leftovers will store for up to 3 months in a sealed mason jar).
-2. In a large skillet over medium-high heat, heat the oil until shimmering. Add half of the chicken, skin down, and cook until golden brown, 7-10 minutes.
-3. Transfer the chicken, skin-up, to a plate. Repeat until all of the chicken has had a chance to brown. 
-4. Pour off and discard all but 2 tbsp fat from the skillet.
-5. Add the onion, scallion whites, Gochujang Sauce, and remaining jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
-6. Stir in soy sauce, lime juice, and 1 cup of water, bring to a simmer, scraping up any brown bits at this time.
-7. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 20 minutes.
-8. Transfer the chicken to a serving platter. Cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes.
-9. Remove from heat, taste, and season with salt and pepper.
-10. Pour the mixture over the chicken, garnish it with the scallion greens, and serve with lime wedges.
+1. In a small bowl, combine ingredients for the jerk seasoning and set aside.
+2. In a large skillet over medium-high heat, heat the oil until shimmering. Add half of the chicken, top side down, and cook until golden brown, 5-8 minutes.
+3. Transfer the chicken to a plate. Repeat until all of the chicken has had a chance to brown. 
+4. Lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
+5. Stir in soy sauce, lime juice, and 1 1/2 cup of water, bring to a simmer, scraping up any brown bits at this time.
+6. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
+7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes.
+8. To serve, pour the mixture over the chicken and garnish with scallion greens. 
 
 ### ABOUT THIS MEAL 
 
 #### What main ingredients do I need for this meal?
 
-* Jerk Seasoning: I use this homemade combination of spices for my jerk chicken recipes, but you could also go the store-bought route. 
+* Jerk Seasoning: I use this homemade combination of spices for my jerk chicken recipes, but you could also go the store-bought route. The homemade jerk chicken seasoning will last for 2 months in a sealed mason jar. 
 
 * Chicken Thighs: I use boneless and skinless chicken thighs, but this dish is more traditionally made with a broken down whole chicken or thighs that are bone-in and skin-on. Whatever cut of chicken you end up with, be sure to adjust the cooking time accordingly. The safe cooking temperature for chicken is 160 degrees. 
 
@@ -78,6 +76,4 @@ For the Fricassee:
 ### INSTRUCTIONS: STEP-BY-STEP
 
 
-
-
-Original recipe: [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
+Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
