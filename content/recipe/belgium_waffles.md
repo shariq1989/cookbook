@@ -56,7 +56,7 @@ An alternate title for this recipe could be Birthday Waffles since birthdays are
 
 #### Can I freeze waffles?
 
-Yes, that is actually my favorite thing about making these waffles. I often double the recipe only to freeze them, so I have access to a quick and easy breakfast the next time around. First, allow the waffles to cool completely.  Then, add them to a freezer-safe bag or container. The waffles will freeze for up to 3 months. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, warm them in the oven or microwave and prepare your toppings.
+Yes, that is actually my favorite thing about making these waffles. I often double the recipe only to freeze them, so I have access to a quick and easy breakfast the next time around. First, allow the waffles to cool completely. Then, add them to a freezer-safe bag or container. The waffles will freeze for up to 3 months. When you’re ready to eat, let them defrost in the refrigerator overnight. To serve, warm them in the oven or microwave and prepare your toppings.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
