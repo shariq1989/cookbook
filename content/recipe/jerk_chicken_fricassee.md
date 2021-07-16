@@ -49,7 +49,7 @@ For the Fricassee:
 
 #### INSTRUCTIONS 
 
-1. In a small bowl, combine ingredients for the jerk seasoning. Coat the chicken with 2 tbsp. 
+1. In a small bowl, combine the ingredients for the jerk seasoning and coat the chicken with 2 tbsp. 
 2. In a large [saute pan](https://amzn.to/3hIzyKw) over medium-high heat, heat the oil until shimmering. Add half of the chicken, top side down, and cook until golden brown, 5-8 minutes.
 3. Transfer the chicken to a plate. Repeat until all of the chicken has had a chance to brown. 
 4. Lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
@@ -75,7 +75,7 @@ For the Fricassee:
 
 ### INSTRUCTIONS: STEP-BY-STEP
 
-1. In a small bowl, combine ingredients for the jerk seasoning. Coat the chicken with 2 tbsp. 
+1. In a small bowl, combine the ingredients for the jerk seasoning and coat the chicken with 2 tbsp. 
 
 {{< figure src="/images/jcf1.jpeg" class="instructionFigure">}}
 
