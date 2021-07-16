@@ -1,7 +1,7 @@
 +++
 title = "Crispy Sesame Tofu with Coconut Chili Dressing"
 date = "2021-03-26"
-description = "Crispy sesame tofu is easy to make and tastes amazing. The tofu is fried to make it extra crispy, then we top it with a sweet and spicy coconut dressing. This recipe is completely vegetarian and vegan."
+description = ""
 tags = [
     "entree",
     "vegan",
@@ -16,7 +16,7 @@ Preparation Time: 15 minutes
 
 Cooking Time: 30 minutes
 
-Adapted: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach), Nik Sharma 
+Adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach), Nik Sharma 
 
 #### INGREDIENTS 
 
@@ -24,7 +24,7 @@ For the Dressing:
 
 * ¼ cup Unsweetened Coconut Milk
 * 1 Lime, zest and juice
-* 2 tbsp Chili Garlic Sauce 
+* 2 tbsp [Chili Garlic Sauce](https://amzn.to/2TeZd41) 
 * 1 tsp Chili Oil   
 * 1 tsp Brown Sugar
 * ¼ cup Sesame Oil, toasted 
@@ -37,8 +37,7 @@ For the Tofu:
 * 1 tsp Black Sesame Seeds 
 * ½ tsp Black Pepper
 * 1/2 tsp Red Chili Flakes
-* 2 tbsp Tapioca Flour 
-* 6 tsp Water 
+* 2 tbsp [Tapioca Flour](https://amzn.to/3hKs9tS)
 * ¼ cup Vegetable Oil, for pan-frying
    
 #### INSTRUCTIONS 
@@ -67,23 +66,23 @@ For the Frying:
 
 #### What main ingredients do I need for this meal?
 
-* Extra-Firm Tofu: Extra-firm tofu holds up best during the frying process. 
+* Extra-Firm Tofu: Extra-firm tofu holds up best during the frying process, leaving it crispy and tasty. 
 
-* Sesame: Sesame oil is introduced into this dish in two ways: the sesame oil and the sesame seeds. 
+* Sesame: Sesame is introduced in two ways: sesame oil and a variety of sesame seeds. 
 
-* Chili: I use chili oil, chili paste, and chili flakes to add some heat that balances the sweetness of the coconut dressing. 
+* Chili: Chili oil, chili paste, and chili flakes bring heat to balance the sweetness of the coconut dressing. 
 
 #### What equipment do I need to make this recipe?
 
 * 3 small bowls 
 * A small skillet 
-* 2 rimmed baking sheets
-* 2 wire racks 
-* A cast-iron skillet or stainless-steel skillet 
+* A [rimmed baking sheet](https://amzn.to/3hI9bV5)
+* A [wire rack](https://amzn.to/3rbDczw)
+* A [cast-iron skillet](https://amzn.to/3BbJZ0D) or [stainless-steel skillet](https://amzn.to/3xJ7oEN)
 
 #### Is crispy sesame tofu vegetarian? Is it vegan?
 
-This dish is flavorful and vegetarian and vegan-friendly.
+This dish is both vegetarian and vegan-friendly.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -131,6 +130,6 @@ For the Frying:
 
 {{< figure src="/images/cst8.jpg" class="instructionFigure">}}
 
-{{< figure src="/images/cst9.jpg" class="instructionFigure">}}ss="instructionFigure">}}
+{{< figure src="/images/cst9.jpg" class="instructionFigure">}}
 
 Find the original recipe at [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach). 
