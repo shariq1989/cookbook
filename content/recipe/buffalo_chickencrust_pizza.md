@@ -7,7 +7,7 @@ tags = [
     "keto",
     "low carb",
 ]
-thumbnail= "images/buffalochickenpizza.jpg"
+thumbnail= "images/buffalochickenpizza.jpeg"
 +++
 
 Servings: 2 <!--more-->
@@ -18,7 +18,7 @@ Cooking Time: 30 minutes
 
 Cuisine: American
 
-Original Recipe: Keto Made Easy, Megha Barot and Matt Gaedke
+Original Recipe: "Keto Made Easy", Megha Barot and Matt Gaedke
 
 #### INGREDIENTS 
 
@@ -58,11 +58,11 @@ For the Topping:
 
 ### ABOUT THE MEAL
 
-This is an original recipe from the Keto Made Easy cookbook. Since trying their recipe, I have adapted it to add so many ingredients. Try one of my favorite low carb lunches. 
+This is an original recipe from the "Keto Made Easy" cookbook. Since trying their recipe, I have adapted it to add so many ingredients and variations of pizza's.
 
 #### What equipment do I need to make this recipe?
 
-* A rimmed baking sheet or pizza stone 
+* A [rimmed baking sheet](https://amzn.to/3yY84WM) or pizza stone (I use the one from Pampered Chef)
 * 2 small bowls 
 * Parchment Paper
 
@@ -110,3 +110,5 @@ Store the leftovers in a sealed container for 3 days. Reheat the pizza in the ov
 10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chilis if desired. 
 
 {{< figure src="/images/bcp8.jpg" class="instructionFigure">}}
+
+Find the original recipe in the cookbook, "Keto Made Easy."
