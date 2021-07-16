@@ -7,7 +7,7 @@ tags = [
     "vegan",
     "vegetarian",
 ]
-thumbnail= "images/crispysesametofu.jpg"
+thumbnail= "images/crispysesametofu.jpeg"
 +++
 
 Servings: 4-5 <!--more-->
