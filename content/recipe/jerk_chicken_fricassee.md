@@ -5,7 +5,7 @@ description = ""
 tags = [
     "entree",
 ]
-thumbnail= "images/jerkchickenfricasse.jpeg"
+thumbnail= "images/jerkchickenfricassee.jpeg"
 +++
 
 Servings: 6 <!--more-->
@@ -49,7 +49,7 @@ For the Fricassee:
 
 #### INSTRUCTIONS 
 
-1. In a small bowl, combine ingredients for the jerk seasoning and set aside.
+1. In a small bowl, combine ingredients for the jerk seasoning. Coat the chicken with 2 tbsp. 
 2. In a large [saute pan](https://amzn.to/3hIzyKw) over medium-high heat, heat the oil until shimmering. Add half of the chicken, top side down, and cook until golden brown, 5-8 minutes.
 3. Transfer the chicken to a plate. Repeat until all of the chicken has had a chance to brown. 
 4. Lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
@@ -75,14 +75,39 @@ For the Fricassee:
 
 ### INSTRUCTIONS: STEP-BY-STEP
 
-1. In a small bowl, combine ingredients for the jerk seasoning and set aside.
+1. In a small bowl, combine ingredients for the jerk seasoning. Coat the chicken with 2 tbsp. 
+
+{{< figure src="/images/jcf1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/jcf2.jpeg" class="instructionFigure">}}
+
 2. In a large [saute pan](https://amzn.to/3hIzyKw) over medium-high heat, heat the oil until shimmering. Add half of the chicken, top side down, and cook until golden brown, 5-8 minutes.
+
+{{< figure src="/images/jcf3.jpeg" class="instructionFigure">}}
+
 3. Transfer the chicken to a plate. Repeat until all of the chicken has had a chance to brown. 
+
+{{< figure src="/images/jcf4.jpeg" class="instructionFigure">}}
+
 4. Lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
+
+{{< figure src="/images/jcf5.jpeg" class="instructionFigure">}}
+
 5. Stir in soy sauce, lime juice, and 1 1/2 cup of water, bring to a simmer, scraping up any brown bits at this time.
+
+{{< figure src="/images/jcf6.jpeg" class="instructionFigure">}}
+
 6. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
+
+{{< figure src="/images/jcf7.jpeg" class="instructionFigure">}}
+
 7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes.
+
+{{< figure src="/images/jcf8.jpeg" class="instructionFigure">}}
+
 8. To serve, pour the mixture over the chicken and garnish with scallion greens. 
+
+{{< figure src="/images/jcf.jpeg" class="instructionFigure">}}
 
 
 Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
