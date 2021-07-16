@@ -103,3 +103,6 @@ Yes, allow the eggplant to cool and add it to a freezer-safe bag or container. E
 {{< figure src="/images/sge5.jpeg" class="instructionFigure">}}
 
 9. Transfer to a serving dish and garnish with green onions to serve.
+
+{{< figure src="/images/chilieggplant.jpeg" class="instructionFigure">}}
+
