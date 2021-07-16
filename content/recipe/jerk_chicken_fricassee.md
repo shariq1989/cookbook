@@ -52,7 +52,7 @@ For the Fricassee:
 1. In a small bowl, combine the ingredients for the jerk seasoning and coat the chicken with 2 tbsp. 
 2. In a large [saute pan](https://amzn.to/3hIzyKw) over medium-high heat, heat the oil until shimmering. Add half of the chicken, top side down, and cook until golden brown, 5-8 minutes.
 3. Transfer the chicken to a plate. Repeat until all of the chicken has had a chance to brown. 
-4. Lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
+4. When the meat is done cooking and reserved, lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
 5. Stir in soy sauce, lime juice, and 1 1/2 cup of water, bring to a simmer, scraping up any brown bits at this time.
 6. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
 7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes.
@@ -89,7 +89,7 @@ For the Fricassee:
 
 {{< figure src="/images/jcf4.jpeg" class="instructionFigure">}}
 
-4. Lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
+4. When the meat is done cooking and reserved, lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
 
 {{< figure src="/images/jcf5.jpeg" class="instructionFigure">}}
 
