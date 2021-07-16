@@ -55,7 +55,7 @@ For the Fricassee:
 4. When the meat is done cooking and reserved, lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
 5. Stir in soy sauce, lime juice, and 1 1/2 cup of water, bring to a simmer, scraping up any brown bits.
 6. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
-7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes.
+7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the gravy thickens, 7-10 minutes.
 8. To serve, pour the mixture over the chicken and garnish with scallion greens. 
 
 ### ABOUT THIS MEAL 
@@ -101,7 +101,7 @@ For the Fricassee:
 
 {{< figure src="/images/jcf7.jpeg" class="instructionFigure">}}
 
-7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the liquid thickens, 7-10 minutes.
+7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the gravy thickens, 7-10 minutes.
 
 {{< figure src="/images/jcf8.jpeg" class="instructionFigure">}}
 
