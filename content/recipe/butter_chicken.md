@@ -1,7 +1,7 @@
 +++
 title = "Murgh Makhani-Butter Chicken"
 date = "2021-03-22"
-description = "This creamy, homemade butter chicken can be made in the Instant Pot or the stove-top and tastes just like what you would order from a restaurant. This recipe fits the macros for a low carb and keto diet."
+description = "This creamy, homemade butter chicken can be made in the Instant Pot or the stove-top and tastes just like a restaurant. This recipe also fits the macros for a low carb and keto diet."
 tags = [
     "entree",
     "low carb",
@@ -26,7 +26,7 @@ For the Chicken:
 * 1/2 tbsp Ginger Paste
 * 1/2 tbsp Garlic Paste
 * 1/4 tsp Kosher Salt
-* 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3vopon1) 
+* 1-2 tbsp [Kashmiri Chili Powder](https://amzn.to/3vopon1) 
 * 2 tbsp [Ghee](https://amzn.to/3cyQ0ZN)
 * 3-5 Chicken Thighs, boneless and skinless, cut into 1-inch pieces
 
@@ -39,12 +39,12 @@ For the Curry:
 * 4 Garlic Cloves, chopped
 * 1 tbsp Ginger, minced
 * 2 Green Chilis, slit lengthwise, plus more for garnish
-* 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1 1/2 tsp [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or store-bought[Garam Masala](https://amzn.to/2QepzBi)
+* 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
+* 1 1/2 tbsp [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or store-bought[Garam Masala](https://amzn.to/2QepzBi)
 * 1 tsp Cumin, ground
 * 1 tsp Kosher Salt
-* 1/2 tsp [Turmeric](https://amzn.to/3vyvAZK)
-* 4-5 medium Tomatoes, roughly chopped 
+* 1 tsp [Turmeric](https://amzn.to/3vyvAZK)
+* 4-5 medium Roma Tomatoes, roughly chopped 
 * 4 tbsp Butter 
 * 1/4 cup Heavy Cream
 * Cilantro, finely chopped, to garnish
@@ -137,31 +137,23 @@ For the Chicken:
 
 1. In a large bowl, toss the chicken with the ginger paste, garlic paste, Kashmiri chili powder, and salt. Set aside to marinate for 20 minutes
 
-{{< figure src="/images/bc1.jpg" class="instructionFigure">}}
 
 2. In a heavy-bottomed pan, heat ghee and fry the marinated chicken until the pieces have become golden brown, about 15 minutes. Set aside. 
 
-{{< figure src="/images/bc5.jpg" class="instructionFigure">}}
 
 For the Curry: 
 
 1. In the same pan, warm 1 1/2 tbsp of butter. Add the green cardamom pods and cinnamon stick. Cook until the ingredients begin to sputter, then add the onions. Cook the onions until they become translucent and soften. 
 
-{{< figure src="/images/bc2.jpg" class="instructionFigure">}}
 
 2. Next, add the garlic, ginger, and green chilies and cook for another minute.
 3. Stir in the Kashmiri chili powder, garam masala, cumin, salt, turmeric, and tomatoes into the mixture. Cook for 5-7 minutes and allow the tomatoes to simmer. 
 
-{{< figure src="/images/bc4.jpg" class="instructionFigure">}}
 
 4. Remove the cinnamon stick (and green chilis, if you want it to be less spicy) and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
 5. Return the mixture to the pan over low heat and stir in the butter and cream. Then, nestle the reserved chicken into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes. Adjust the temperature as necessary. 
 
-{{< figure src="/images/bc6.jpg" class="instructionFigure">}}
-
-{{< figure src="/images/bc7.jpg" class="instructionFigure">}}
 
 6. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
 
-{{< figure src="/images/bc8.jpg" class="instructionFigure">}}
 
