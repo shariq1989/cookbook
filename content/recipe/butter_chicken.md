@@ -8,7 +8,7 @@ tags = [
     "keto",
     "instant pot"
 ]
-thumbnail= "images/butterchicken.jpg"
+thumbnail= "images/butterchicken.jpeg"
 +++
 
 Servings: 2-4 <!--more-->
