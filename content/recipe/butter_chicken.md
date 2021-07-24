@@ -40,7 +40,7 @@ For the Curry:
 * 1 tbsp Ginger, minced
 * 2 Green Chilis, slit lengthwise, plus more for garnish
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1 1/2 tbsp [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or store-bought[Garam Masala](https://amzn.to/2QepzBi)
+* 1 1/2 tbsp [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or store-bought [Garam Masala](https://amzn.to/2QepzBi)
 * 1 tsp Cumin, ground
 * 1 tsp Kosher Salt
 * 1 tsp [Turmeric](https://amzn.to/3vyvAZK)
