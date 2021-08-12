@@ -1,7 +1,7 @@
 +++
 title = "Crispy Sesame Tofu with Coconut Chili Dressing"
 date = "2021-03-26"
-description = ""
+description = "If you like tofu, you will love this nutty and sweet tofu dish. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. For this recipe, I cooked it in a frying pan, but it could also be baked in the oven or cooked in the air fryer if you prefer."
 tags = [
     "entree",
     "vegan",
@@ -23,7 +23,7 @@ Adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-t
 For the Dressing:
 
 * ¼ cup Unsweetened Coconut Milk
-* 1 Lime, zest and juice
+* 1 Lime, zest, and juice
 * 2 tbsp [Chili Garlic Sauce](https://amzn.to/2TeZd41) 
 * 1 tsp Chili Oil   
 * 1 tsp Brown Sugar
@@ -34,7 +34,7 @@ For the Tofu:
 * 1 Package Extra-Firm Tofu, cut into rectangles 
 * ½ cup Panko 
 * 1/3 cup White Sesame Seeds 
-* 1 tsp Black Sesame Seeds 
+* 1 tbsp Black Sesame Seeds 
 * ½ tsp Black Pepper
 * 1/2 tsp Red Chili Flakes
 * 2 tbsp [Tapioca Flour](https://amzn.to/3hKs9tS)
@@ -44,14 +44,14 @@ For the Tofu:
 
 For the Dressing: 
 
-1. In a small bowl, whisk the coconut milk, lime zest, chili paste, chili oil, and brown sugar until the sugar dissolves completely. Slowly pour in the sesame oil and whisk until it becomes creamy. Set aside. 
+1. In a small bowl, whisk the coconut milk, lime zest, chili paste, chili oil, and brown sugar until sugar dissolves completely. Slowly pour in the sesame oil and whisk until the dressing becomes creamy. Set aside. 
 
 For the Tofu: 
 
-1. Pat dry the tofu with a towel and cut the tofu into rectangles. Season them lightly with salt and set them aside. 
-2. In a small bowl, add the panko, sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast the mixture for 2-4 minutes. 
+1. Pat dry the tofu with a towel and cut it into rectangles. Season lightly with salt and set aside. 
+2. In a small bowl, add the panko, white and black sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast the mixture for 2-4 minutes. 
 3. Whisk the tapioca flour and water together in another bowl. 
-4. Dip the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a wire rack. Repeat with remaining tofu slices.
+4. Dredge the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a wire rack. Repeat with remaining tofu slices.
 
 For the Frying: 
 
@@ -68,9 +68,11 @@ For the Frying:
 
 * Extra-Firm Tofu: Extra-firm tofu holds up best during the frying process, leaving it crispy and tasty. 
 
-* Sesame: Sesame is introduced in two ways: sesame oil and a variety of sesame seeds. 
+* Sesame: I am a firm believer that tofu and sesame are the perfect pair. I introduced sesame in two ways: sesame oil and white and black sesame seeds. 
 
-* Chili: Chili oil, chili paste, and chili flakes bring heat to balance the sweetness of the coconut dressing. 
+* Chilis: Chili oil, chili paste, and chili flakes bring the heat that balances the sweetness of the dressing. 
+
+* Panko: I used panko for this recipe to create the crust for the tofu. If you're looking for a low-carb option, check out my Low-Carb Breadcrumb Panko recipe. 
 
 #### What equipment do I need to make this recipe?
 
@@ -79,16 +81,16 @@ For the Frying:
 * A [rimmed baking sheet](https://amzn.to/3hI9bV5)
 * A [wire rack](https://amzn.to/3rbDczw)
 * A [cast-iron skillet](https://amzn.to/3BbJZ0D) or [stainless-steel skillet](https://amzn.to/3xJ7oEN)
-
+Ca
 #### Is crispy sesame tofu vegetarian? Is it vegan?
 
-This dish is both vegetarian and vegan-friendly.
+This dish is vegetarian and vegan-friendly.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Dressing: 
 
-1. In a small bowl, whisk the coconut milk, lime zest, chili paste, chili oil, and brown sugar until the sugar dissolves completely. Slowly pour in the sesame oil and whisk until it becomes creamy. Set aside. 
+In a small bowl, whisk the coconut milk, lime zest, chili paste, chili oil, and brown sugar; do this until the sugar completely dissolves. Slowly pour in the sesame oil and whisk until the dressing becomes creamy. Set aside. 
 
 {{< figure src="/images/cst1.jpg" class="instructionFigure">}}
 
@@ -99,7 +101,7 @@ For the Tofu:
 
 {{< figure src="/images/cst10.jpg" class="instructionFigure">}}
 
-2. In a small bowl, add the panko, sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast the mixture for 2-4 minutes. 
+2. In a small bowl, add the panko, white and black sesame seeds, black pepper, and chili flakes. Pour this mixture into a small skillet with 1 tsp of sesame oil. Toast the mixture for 2-4 minutes. 
 
 {{< figure src="/images/cst3.jpg" class="instructionFigure">}}
 
@@ -107,7 +109,7 @@ For the Tofu:
 
 {{< figure src="/images/cst2.jpg" class="instructionFigure">}}
 
-4. Dip the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a wire rack. Repeat with remaining tofu slices.
+4.  Dredge the tofu slices, one at a time, into the tapioca mixture; coat well. Then, dip the tofu into the bowl with the panko mixture. Be sure to coat the tofu well on all sides, then move to a wire rack. Repeat with remaining tofu slices.
 
 {{< figure src="/images/cst4.jpg" class="instructionFigure">}}
 
