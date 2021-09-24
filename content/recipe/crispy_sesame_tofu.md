@@ -1,7 +1,7 @@
 +++
-title = "Crispy Sesame Tofu with Coconut Chili Dressing"
+title = "Vegan Crispy Sesame Tofu with Coconut Chili Dressing"
 date = "2021-03-26"
-description = "If you like tofu, you will love this nutty and sweet tofu dish. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. For this recipe, I cooked it in a frying pan, but it could also be baked in the oven or cooked in the air fryer if you prefer."
+description = "If you like tofu, enjoy this nutty and sweet dish created by Nik Sharma. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. I cook the tofu in a frying pan, but it could also be baked in an oven or air fryer if you prefer."
 tags = [
     "entree",
     "vegan",
@@ -64,15 +64,17 @@ For the Frying:
 
 ### ABOUT THE MEAL
 
+If you like tofu, enjoy this nutty and sweet tofu created by Nik Sharma. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. I cook the tofu in a frying pan, but it could also be baked in an oven or air fryer if you prefer.
+
 #### What main ingredients do I need for this meal?
 
-* Extra-Firm Tofu: Extra-firm tofu holds up best during the frying process, leaving it crispy and tasty. 
+* Extra-Firm Tofu: Extra-firm tofu holds up well during the frying process, resulting in crispy and flavorful tofu. 
 
-* Sesame: I am a firm believer that tofu and sesame are the perfect pair. I introduced sesame in two ways: sesame oil and white and black sesame seeds. 
+* Sesame: I firmly believe tofu and sesame are a perfect pair. For that reason, I included two types of sesame seeds and used sesame oil in the dressing.
 
-* Chilis: Chili oil, chili paste, and chili flakes bring the heat that balances the sweetness of the dressing. 
+* Chilis: The combination of chili oil, chili paste, and chili flakes introduce heat to balances the sweetness of the dressing. 
 
-* Panko: I used panko for this recipe to create the crust for the tofu. If you're looking for a low-carb option, check out my Low-Carb Breadcrumb Panko recipe. 
+* Panko: I used panko for this recipe to create the crust for the tofu. If you're looking for a low-carb option, check out my [Low-Carb Breadcrumb Panko] recipe. 
 
 #### What equipment do I need to make this recipe?
 
@@ -81,16 +83,28 @@ For the Frying:
 * A [rimmed baking sheet](https://amzn.to/3hI9bV5)
 * A [wire rack](https://amzn.to/3rbDczw)
 * A [cast-iron skillet](https://amzn.to/3BbJZ0D) or [stainless-steel skillet](https://amzn.to/3xJ7oEN)
-Ca
-#### Is crispy sesame tofu vegetarian? Is it vegan?
 
-This dish is vegetarian and vegan-friendly.
+#### Can I bake the tofu instead? 
+
+I prefer pan-frying the tofu, but it can be easy and more time-efficient to bake it instead. When baking, line the tofu on a prepared baking sheet. Preheat the oven at 400 degrees and bake for 25-30 minutes until they've reached desired crispness. 
+
+#### Can I make it in the air-fryer? 
+
+You will need to work in batches. Arrange the tofu in a single layer in the air fryer basket, and cook at 400 degrees for about 5 minutes. Flip the tofu pieces, and then cook for another 5 minutes. Repeat this process until all the tofu has had an opportunity to be cooked.
+
+#### Is sesame tofu vegetarian? Is it vegan?
+
+This recipe is vegetarian and vegan-friendly.
+
+#### How can I store the leftovers? 
+
+I don't recommend freezing the tofu after being cooked, but you can easily store the leftovers in a covered container in your fridge. The tofu will keep for 3-4 days. When you're ready to eat, re-warm them in the microwave for 1-2 minutes. You could also use this tofu for quick and simple meal prep. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Dressing: 
 
-In a small bowl, whisk the coconut milk, lime zest, chili paste, chili oil, and brown sugar; do this until the sugar completely dissolves. Slowly pour in the sesame oil and whisk until the dressing becomes creamy. Set aside. 
+1. In a small bowl, whisk the coconut milk, lime zest, chili paste, chili oil, and brown sugar; do this until the sugar completely dissolves. Slowly pour in the sesame oil and whisk until the dressing becomes creamy. Set aside. 
 
 {{< figure src="/images/cst1.jpg" class="instructionFigure">}}
 
