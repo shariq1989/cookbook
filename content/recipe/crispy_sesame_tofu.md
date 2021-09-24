@@ -1,7 +1,7 @@
 +++
 title = "Vegan Crispy Sesame Tofu with Coconut Chili Dressing"
 date = "2021-03-26"
-description = "If you like tofu, enjoy this nutty and sweet dish created by Nik Sharma. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. I cook the tofu in a frying pan, but it could also be baked in an oven or air fryer if you prefer."
+description = "If you like tofu, enjoy this nutty and sweet dish created originally by Nik Sharma. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. I cook the tofu in a frying pan, but you could also bake the crispy sesame tofu in the oven or air fryer if you prefer."
 tags = [
     "entree",
     "vegan",
@@ -20,12 +20,12 @@ Adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-t
 
 #### INGREDIENTS 
 
-For the Dressing:
+For the Coconut - Chili Dressing:
 
 * ¼ cup Unsweetened Coconut Milk
 * 1 Lime, zest, and juice
 * 2 tbsp [Chili Garlic Sauce](https://amzn.to/2TeZd41) 
-* 1 tsp Chili Oil   
+* 1 tsp [Chili Oil](https://amzn.to/2XR3Bbu)   
 * 1 tsp Brown Sugar
 * ¼ cup Sesame Oil, toasted 
 
@@ -38,7 +38,7 @@ For the Tofu:
 * ½ tsp Black Pepper
 * 1/2 tsp Red Chili Flakes
 * 2 tbsp [Tapioca Flour](https://amzn.to/3hKs9tS)
-* ¼ cup Vegetable Oil, for pan-frying
+* ¼ cup Vegetable Oil for pan-frying
    
 #### INSTRUCTIONS 
 
