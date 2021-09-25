@@ -1,6 +1,6 @@
 +++
 title = "Chikhirtma - Georgian Lemon and Chicken Soup"
-date = "2020-01-18"
+date = "2021-09-25"
 description = "Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill create the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks."
 tags = [
     "soup",
