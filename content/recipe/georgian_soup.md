@@ -16,6 +16,8 @@ Preparation Time: 30 minutes
 
 Cooking Time: 1 hour, 20 minutes
 
+Cuisine: Georgian
+
 Adapted from: Milk Street [Georgian Chicken Soup](https://wskg.org/episodes/milk-street-suppers-ep-106/), by Chris Kimball
 
 #### INGREDIENTS 
