@@ -1,7 +1,7 @@
 +++
-title = "Chikhirtma - Georgian Chicken Soup"
+title = "Chikhirtma - Georgian Lemon and Chicken Soup"
 date = "2020-01-18"
-description = ""
+description = "Who doesn't love a good chicken soup? Whether the fall or a winter-time sickness, having a go-to chicken soup is pretty much required at this point. If I had to choose, this would be mine. Like many Georgian dishes, chikhirtma's use of lemon and dill lends a tartness to the soup that is blanced by the creaminess of the egg yolks. With the bit of heat that comes from the red chili flakes, you are looking a perfect go-to chicken soup."
 tags = [
     "soup",
     "entree",
@@ -16,7 +16,7 @@ Preparation Time: 30 minutes
 
 Cooking Time: 1 hour, 20 minutes
 
-Adapted from: Milk Street
+Adapted from: Milk Street [Georgian Chicken Soup](https://wskg.org/episodes/milk-street-suppers-ep-106/) 
 
 #### INGREDIENTS 
 
@@ -48,6 +48,7 @@ For the Soup:
 * ½ cup Lemon Juice, about 1-2 lemons
 * Red Chili Flakes, to taste
 * Coarse Black Pepper, to taste
+* Fresh Dill, to garnish 
 
 #### STOVE-TOP INSTRUCTIONS 
 
@@ -89,21 +90,23 @@ For the Soup:
 
 ### ABOUT THE MEAL
 
+Who doesn't love a good chicken soup? Whether the fall or a winter-time sickness, having a go-to chicken soup is pretty much required at this point. If I had to choose, this would be mine. Like many Georgian dishes, chikhirtma's use of lemon and dill lends a tartness to the soup that is blanced by the creaminess of the egg yolks. With the bit of heat that comes from the red chili flakes, you are looking a perfect go-to chicken soup
+
 #### What main ingredients do I need for this meal?
 
-* Chicken: For this recipe you I use a whole chicken, but you could just use thighs or breasts to make the broth as well. 
+* Chicken: For this recipe I use a whole chicken, but you could use any combination of legs, thighs, and breat to make your soup. Just be sure to use store-bought chicken stock to flavor the soup if you choose to go that route. 
 
-* Vegetables: I use carrots, onion, garlic, 
+* Vegetables: I stuck with the more traditional use of carrots, onion, garlic, to build the roux for the chikhirtma.  
 
-* Egg Yolks: Using egg yolks thickens and flavors the soup, while adding tasty fat. 
+* Egg Yolks: Using egg yolks thickens and flavors the soup, while balancing the tartness of the other flavors like lemon and dill. 
 
-* Lemon Juice: Lemon juice provides just the right amount of acid for this dish, and I personally love the sour notes it lends to the soup.
+* Lemon Juice: Lemon juice provides the right amount of acid, and allows the soup to maintain the more traditional Georgian flavors. 
 
 #### What equipment do I need to make this recipe?
 
-* A large pot or Instant Pot
+* A [dutch oven](https://amzn.to/3o7zDem) or Instant Pot (https://amzn.to/3u9c6L1)
 
-#### Can I freeze the chikhirtma?
+#### Can I freeze chikhirtma?
 
 Yes, first allow the dish to cool completely and then add it to a freezer-safe container or Ziploc bag. The chikhirtma will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove and enjoy.
 
