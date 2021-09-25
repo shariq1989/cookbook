@@ -2,7 +2,7 @@
 title = "Serrano Crema"
 date = "2021-03-12"
 description = "I made this Serrano Crema as a side for our Peruvian Chicken. I quickly realized, however, that it pairs well with other roasted chicken entrees and as a topping for chickpea dishes as well. It makes for a tasty salad dressing and can even act as a serrano sauce for tacos."
-tags = 
+tags = [
     "vegan",
     "vegetarian",
     "keto",
