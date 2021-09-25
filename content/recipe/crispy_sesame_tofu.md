@@ -149,7 +149,7 @@ For the Frying:
 {{< figure src="/images/cst9.jpg" class="instructionFigure">}}
 
 Other tofu recipes: 
-[Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
-[Sesame Mushroom and Tofu Stir-Fry](https://www.jamilghar.com/recipe/sesame_tofu_stirfry/)
+* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
+* [Sesame Mushroom and Tofu Stir-Fry](https://www.jamilghar.com/recipe/sesame_tofu_stirfry/)
 
 Find the original recipe at [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach). 
