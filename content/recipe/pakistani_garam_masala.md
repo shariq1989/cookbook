@@ -57,7 +57,7 @@ Once ground, store the garam masala in an air-tight glass jar, like a mason jar.
 
 #### Recipes that use garam masala: 
 
-* [Biriyani](https://www.jamilghar.com/recipe/chicken_biryani/)
+* [Biryani](https://www.jamilghar.com/recipe/chicken_biryani/)
 * [Butter Chicken](https://www.jamilghar.com/recipe/butter_chicken/)
 * [Channa Masala](https://www.jamilghar.com/recipe/channa_masala/)
 * Chicken Curry 
