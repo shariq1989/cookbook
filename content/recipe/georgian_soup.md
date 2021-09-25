@@ -1,7 +1,7 @@
 +++
 title = "Chikhirtma - Georgian Lemon and Chicken Soup"
 date = "2020-01-18"
-description = "Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold coming on, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill lends to the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks."
+description = "Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill create the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks."
 tags = [
     "soup",
     "entree",
@@ -96,15 +96,15 @@ For the Soup:
 
 ### ABOUT THE MEAL
 
-Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold coming on, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill lends to the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks.
+Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill create the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks.
 
 #### What main ingredients do I need for this meal?
 
-* Chicken: For this recipe, I prefer using a whole chicken because it makes for a great tasting broth. You could also use any combination of legs, thighs, and breasts to make your soup. Just be sure to add store-bought chicken stock to flavor the soup if you choose to go that route since you would be skipping the broth making process. 
+* Chicken: For this recipe, I prefer using a whole chicken because it makes for a great-tasting broth. You can also use any combination of legs, thighs, and breasts to make your soup.  If you choose to go this route, you can use store-bought chicken stock to flavor the soup. Since you're skipping the broth-making process, I would still take a moment to allow the chicken broth to cook with the cilantro and dill stems, garlic, onions, and whole spices so you don't lose any of the flavors. 
 
 * Vegetables: I stuck with the more traditional use of carrots, onion, garlic, to build a tasty roux for the chikhirtma.  
 
-* Egg Yolks: Using egg yolks thickens and flavors the soup, while balancing the tartness of the other flavors like lemon and dill. 
+* Egg Yolks: Using egg yolks thickens and flavors the soup while balancing the tartness of the other flavors like lemon and dill. 
 
 * Lemon Juice: Lemon juice provides the right amount of acid, and lends the traditional tangy, Georgian flavor to the soup. 
 
@@ -114,7 +114,7 @@ Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold
 
 #### How do I store the leftovers?
 
-Leftover soup will keep in the fridge for 3-4 day in a covered container. To extend the shelf-life, you can freeze the soup to use again at another time. First, allow the dish to cool completely and then add it to a freezer-safe container or bag. The chikhirtma will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove or in the microwave, and enjoy.
+Leftover soup will keep in the fridge for 3-4 days in a covered container. To extend the shelf-life, you can freeze the soup to use again at another time. First, allow the dish to cool completely, and then add it to a freezer-safe container or bag. The chikhirtma will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm the soup on a stove or in the microwave, and enjoy.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -164,7 +164,7 @@ For the Soup:
 {{< figure src="/images/gcs6.jpg" class="instructionFigure">}}
 
 6. Taste and season with salt, pepper, and red chili flakes.
-7. Garnish the soup with cilantro, dill, and red chili flakes.  
+7. Garnish the soup with fresh cilantro and dill.  
 
 {{< figure src="/images/gcs8.jpg" class="instructionFigure">}}
 
