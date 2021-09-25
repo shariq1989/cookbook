@@ -168,4 +168,13 @@ For the Soup:
 
 {{< figure src="/images/gcs8.jpg" class="instructionFigure">}}
 
+Other soup and stew recipes from The Jamil Ghar: 
+
+* [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef_and_barley_stew/)
+* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
+* [Goat Yakhni](https://www.jamilghar.com/recipe/goat_yakhni/)
+* [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
+* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
+* [Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa_toscana/)
+
 Find the original recipe at [Milk Street](https://www.177milkstreet.com/recipes/georgian-chicken-soup).
