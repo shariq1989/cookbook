@@ -5,7 +5,7 @@ description = ""
 tags = [
    
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/https://amzn.to/3m6bmmm"
 +++
 
 Servings: 4-6 <!--more-->
@@ -17,9 +17,10 @@ Cuisine: American
 #### INGREDIENTS 
 
 1/2 cup Mayonnaise 
-1/4 cup Olive Oil 
+2 tbsp Olive Oil 
 2-3 tbsp Sriracha 
-1 1/2 tbsp Pickle Juice 
+1 tsp Black Pepper, ground 
+1 tbsp Pickle Juice 
 1/4 White Onion, finely minced 
   
 #### INSTRUCTIONS
@@ -31,12 +32,21 @@ Cuisine: American
 
 #### What main ingredients do I need for this meal?
 
-* Mayonnaise 
-* Sriracha 
-* Pickle Juice 
+* Mayonnaise: We live in North Carolina now so [Dukes](https://amzn.to/3i8LkxD) is the only choice. 
+* [Sriracha](https://amzn.to/3m6bmmm)
+* Pickle Juice: You can use any pickle juice, but I happen to be super picky about my pickles and the juice they come in. You won't regret reaching for the pickes 
 * Onion
 
 #### What equipment do I need to make this recipe?
 
 * A small bowl 
 * A whisk 
+
+#### In what ways can I use this dressing? 
+
+* Dressing for a tossed salad
+* Spread for a burger 
+* Spread for a sandwich
+
+#### How can I store the leftovers? 
+Pour the leftover salad dressing into an airtight container, like a mason jar. It will keep in the fridge for up to 5 days.
