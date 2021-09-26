@@ -6,7 +6,7 @@ description = "While you can buy garam masala in stores, in most Bengali, Indian
 tags = [
     "spices",
 ]
-thumbnail= "images/garammasala.jpg"
+thumbnail= "images/pakistanigarammasala.jpeg"
 +++
 
 Servings: 1 cup <!--more-->
@@ -60,6 +60,23 @@ While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani
 * Once ground, store the garam masala in an air-tight glass jar, like a mason jar. Store it in a cool, dry place, and it will last for about 4-6 weeks. 
 
 * If you prefer, you can also store the whole garam masala spices in an air-tight glass jar, like a mason jar. You should still store it in a cool, dry place, and then grind the mixture as needed. The whole garam masala spices will keep for 4-6 weeks. 
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+1. Break down the cinnamon stick and bay leaves and combine them with the other ingredients in a non-stick skillet. 
+
+{{< figure src="/images/pgm1.jpeg" class="instructionFigure">}}
+
+2. Dry roast the spices for 2- 3 minutes over medium heat to warm and draw out the flavor and aroma of the whole spices.  
+
+{{< figure src="/images/pgm2.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/pgm3.jpeg" class="instructionFigure">}}
+
+3. Allow the ingredients to cool and then add them to a spice grinder in batches, blend until fine. You can also use a mortar and pestle if you don't mind the extra work. 
+
+{{< figure src="/images/pgm4.jpeg" class="instructionFigure">}}
+
 
 #### How to make Pakistani Garam Masala in Urdu 
 
