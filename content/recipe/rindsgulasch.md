@@ -1,7 +1,8 @@
+
 +++
 title = "Rindsgulasch - Austrian Beef Goulash"
 date = "2021-04-06"
-description = "There are so many variations of goulash; this recipe is for an Austrian beef goulash, flavored with caraway and paprika. The beef is cooked until tender and this dish has the dark, smooth, and flavorful gravy expected of rindsgulach."
+description = "Gulasch or goulash originated in Hungary, but it has evolved into a different dish all over the world. At this point, there are so many variations; this particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch."
 tags = [
     "instant pot",
     "entree",
@@ -14,7 +15,7 @@ Servings: 6<!--more-->
 
 Preparation Time: 15 minutes
 
-Cooking Time: 1 hour, 30 minutes or 3 hours 20 minutes
+Cooking Time: Instant Pot - 
 
 Cuisine: Austrian
 
@@ -45,36 +46,36 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, and set aside. 
 2. In an [dutch oven](https://amzn.to/3wIA1Bu), melt the butter on low-medium heat. Add the onion and cook until the onions become translucent and soften. 
 3. Stir in the caraway seeds and garlic. Then, add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
-4. Slowly whisk in the water, Better than Boullion, and tomato paste while allowing it to simmer. 
-5. Add the beef and bay leaves. Secure the lid on the dutch oven and cook over medium heat for 3 hours. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
-6. Stir in the fresh dill and apple cider vinegar. 
-7. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles.
+4. Add in the water, Better than Boullion, and tomato paste. Whisk slowly while allowing it to simmer. 
+5. Next, add the beef and bay leaves. Secure the lid on the dutch oven and cook over medium heat for 3 hours. 
+6. Stir to mix, and let stand for 5-10 minutes. 
+7. Add in the fresh dill and stir in the apple cider vinegar. 
+8. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles.
 
-#### INSTANT POT INSTRUCTIONS 
+#### AUSTRIAN GOULASH INSTANT POT INSTRUCTIONS 
 
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, and set aside. 
 2. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter in saute mode. Add the onion and cook until the onions become translucent and soften. 
 3. Stir in the caraway seeds and garlic. Then, add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
-4. Slowly whisk in the water, Better than Boullion, and tomato paste while allowing it to simmer. 
-5. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on manual high pressure for 60 minutes with a 20-minute natural release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
-6. Stir in the fresh dill and apple cider vinegar. 
-7. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
+4. Add in the water, Better than Boullion, and tomato paste. Whisk slowly while allowing it to simmer. 
+5. Next add the beef and bay leaves. Secure the lid on the [Instant Pot](https://amzn.to/3qfNYCZ) and cook on manual high pressure for 60 minutes with a 20-minute natural release.
+6. Stir to mix, and let stand for 5-10 minutes. 
+7. Add in the fresh dill and stir in the apple cider vinegar. 
+8. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
 
 ### ABOUT THE MEAL
 
-Gulasch originated in Hungary, but it has evolved into something completely different all over the world. 
+Gulasch or goulash originated in Hungary, but it has evolved into a different dish all over the world. At this point, there are so many variations; this particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch.
 
 #### What main ingredients do I need for this meal?
 
-* Short Rib Roast: I prefer the tenderness of short rib; you can also use chuck roast or the more traditional beef shank. 
+* Short Rib Roast: I prefer the tenderness of short rib; you can also use chuck roast or a more traditional beef shank. 
 
-* Paprika: Okay, you could probably use whatever paprika you have in the cabinet. But trust me, you will love the flavor that comes from the combination of sweet and hot paprika. If you only want to purchase one of them, reach for the sweet paprika and substitute 1 tsp of cayenne in place of the hot paprika. 
+* Paprika: Okay, you can probably use whatever paprika you have in the cabinet. But trust me, you will love the flavor derived from the combination of sweet and hot paprika. If you only want to purchase one of them, reach for the sweet paprika and add a teaspoon of cayenne to give it a little kick. 
 
-* Caraway Seeds
+* Caraway Seeds: Caraway seeds are a main ingredient in rindsgulasch; this spice provides a peppery and citrusy flavor to the dish.  
 
-* Onions  
-
-* Fresh Dill
+* Fresh Dill: Largely used as an aromatic, dill pairs well with the beef and spices like caraway. 
 
 #### What equipment do I need to make this recipe?
 
@@ -84,11 +85,13 @@ Gulasch originated in Hungary, but it has evolved into something completely diff
 
 #### What can I serve with rindsgulasch? 
 
-I normally serve rindsgulasch with egg noodles, but you could also serve it up with a side of roasted potatoes, mashed potatoes, or a traditional spätzle. 
+I serve rindsgulasch with egg noodles to my family; you could also pair them with roasted potatoes, mashed potatoes, or a traditional spätzle. 
 
 #### Can I freeze rindsgulasch?
 
-Yes, you can. First, allow the dish to cool completely and then add it to a freezer-safe container. Rindsgulasch will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on a stovetop and prepare your sides.
+First, allow the dish to cool completely and the stew to a freezer-safe container or bag. It will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on a stovetop and prepare your sides. 
+
+Note: I would freeze the goulash separately and then prepare fresh noodles when I am ready to eat it again. 
 
 ### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 
 
@@ -119,5 +122,10 @@ Yes, you can. First, allow the dish to cool completely and then add it to a free
 7. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles. 
 
 {{< figure src="/images/rgl8.jpg" class="instructionFigure">}}
+
+Other beef stew recipes from The Jamil Ghar:
+
+* [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef_and_barley_stew/)
+* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
 
 This original recipe can be found at [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash)
