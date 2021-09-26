@@ -2,7 +2,7 @@
 +++
 title = "Rindsgulasch - Austrian Beef Goulash"
 date = "2021-04-06"
-description = "Gulasch or goulash originated in Hungary, but it has evolved into a different dish all over the world. At this point, there are so many variations; this particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch."
+description = "Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is soft and tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch."
 tags = [
     "instant pot",
     "entree",
@@ -15,7 +15,7 @@ Servings: 6<!--more-->
 
 Preparation Time: 15 minutes
 
-Cooking Time: Instant Pot - 
+Cooking Time: Instant Pot - 1 hour, 30 minutes 
 
 Cuisine: Austrian
 
@@ -65,7 +65,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 
 ### ABOUT THE MEAL
 
-Gulasch or goulash originated in Hungary, but it has evolved into a different dish all over the world. At this point, there are so many variations; this particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch.
+Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is soft and tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch.
 
 #### What main ingredients do I need for this meal?
 
@@ -83,9 +83,9 @@ Gulasch or goulash originated in Hungary, but it has evolved into a different di
 
 * An [Instant Pot](https://amzn.to/3qfNYCZ) or [dutch oven](https://amzn.to/3wIA1Bu)
 
-#### What can I serve with rindsgulasch? 
+#### What can I serve alongside rindsgulasch? 
 
-I serve rindsgulasch with egg noodles to my family; you could also pair them with roasted potatoes, mashed potatoes, or a traditional spätzle. 
+I typically serve rindsgulasch with egg noodles; you could also pair this stew with roasted potatoes, mashed potatoes, or a traditional spätzle. 
 
 #### Can I freeze rindsgulasch?
 
