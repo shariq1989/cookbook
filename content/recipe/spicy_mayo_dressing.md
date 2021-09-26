@@ -5,7 +5,7 @@ description = "Bring your salad, burger, chicken breast, or sandwich to another 
 tags = [
    
 ]
-thumbnail= "images/https://amzn.to/3m6bmmm"
+thumbnail= "images/spicymayodressing.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -34,8 +34,11 @@ Bring your salad, burger, chicken breast, or sandwich to another level using thi
 #### What main ingredients do I need for this meal?
 
 * Mayonnaise: We live in North Carolina now so [Dukes](https://amzn.to/3i8LkxD) is the only choice. 
+
 * [Sriracha](https://amzn.to/3m6bmmm): My family loves Sriracha, but if for some reason you do not, use hot sauce or [sambal oelek](https://amzn.to/3zGtgAQ) in place of Sriracha in the spicy mayo dressing. 
-* Pickle Juice: You can use any pickle juice, but I happen to be picky about my pickles and the juice they come in. You won't regret choosing the pickles in the deli section of your grocery store. I prefer Grillos Pickles.
+
+* Pickle Juice: You can use any pickle juice, but I happen to be picky about my pickles and the juice they come in. You won't regret choosing the pickles in the deli section of your grocery store. I prefer Grillos Pickles if you can find them.
+
 * White Onion
 
 #### What equipment do I need to make this recipe?
