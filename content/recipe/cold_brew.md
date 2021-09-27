@@ -12,7 +12,7 @@ Servings: 12 <!--more-->
 
 #### INGREDIENTS
 
-For the Brewing: 
+For the Brewing Process: 
 
 * 10 oz Coffee, coarsely ground
 * 11 cups Water 
@@ -40,7 +40,7 @@ For the Brewing Process:
 9. Once the coffee stops dripping, about 20 minutes, toss the contents of the brewing container.
 10. Remove the filter and store it in a freezer-safe bag inside the freezer.  
 
-For Classic Cold Brew 
+For Classic Cold Brew: 
 
 1. Fill an 8 oz. glass with ice.
 2. Fill your glass 1/3 of the way with the cold brew concentrate, about 1/2 cup.  
