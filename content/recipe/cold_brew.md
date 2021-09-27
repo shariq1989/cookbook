@@ -1,7 +1,7 @@
 +++
 title = "Cold Brew Coffee - The Brewing Process"
 date = "2020-01-18"
-description = "About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Toddy. My life has changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not."
+description = "About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Cold Brew Toddy. My life has changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not."
 tags = [
     "beverages",
 ]
@@ -24,6 +24,8 @@ For Classic Cold Brew:
 * 2/3 Water, in an 8 oz. glass
 * 2 tbsp Heavy Cream 
 * 1 tsp Sweetener 
+
+### HOW TO MAKE COLD BREW COFFEE 
 
 #### INSTRUCTIONS FOR MAKING COLD BREW COFFEE
 
@@ -48,7 +50,9 @@ For Classic Cold Brew:
 
 ### ABOUT THE COFFEE
 
-About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a [Toddy](https://amzn.to/3CMQ03P). My life has changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not.
+About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Cold Brew [Toddy](https://amzn.to/3CMQ03P). My life has changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not.
+
+#### What is cold brew coffee? 
 
 #### What main ingredients do I need to make cold brew?
 
@@ -58,7 +62,9 @@ About 3 years ago my husband and I had a sit-down about my iced coffee obsession
 #### What equipment do I need to make this recipe?
 
 * A [coffee grinder](https://amzn.to/2XU1KSU)
-* A [Toddy](https://amzn.to/3CMQ03P) Cold Brew System
+
+* A [Toddy](https://amzn.to/3CMQ03P) Cold Brew System: The Toddy is hand's down the best cold brew coffee maker. It also happens to be the one used in most coffee shops. 
+
 * A [food scale](https://amzn.to/3lYgWXP)
 
 #### Can I warm up my cold brew? 
@@ -70,4 +76,7 @@ Yes, you sure can. In fact, that's the only way my husband, Shariq, will drink i
 First off, you want to be sure you're purchasing whole beans and grinding them on a coarse ground setting. My all-time favorite coffee for cold brew at home is [New Mexico Piñon Coffee](https://amzn.to/3CRCiwz).  
 
 I hope you enjoy this recipe for homemade cold brew. If you try it, be sure to let us know what you think!
+
+#### Other cold brew recipes from The Jamil Ghar:
+* Pumpkin Cold Brew 
 
