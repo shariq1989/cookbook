@@ -7,7 +7,7 @@ tags = [
     "keto",
     "low carb"
 ]
-thumbnail= "images/biscuitsandgravy.jpg"
+#thumbnail= "images/biscuitsandgravy.jpg"
 +++
 
 Servings: 10 Biscuits <!--more-->
