@@ -24,7 +24,7 @@ Cuisine: American
 * 2 Large Eggs
 * 1 tsp Vanilla Extract 
   
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. In a large bowl, stir the dry ingredients together. Set aside. 
 2. In a small bowl, whisk together the almond milk, eggs, and vanilla.
@@ -33,13 +33,13 @@ Cuisine: American
 5. Once once side is cooked through and flipped, give it a light tap with your spatula to spread out the mixture since these pancakes will be slightly smaller than other pancakes. 
 6. Serve the pancakes with butter, maple syrup, or a favorite topping of your choice.
 
-### ABOUT THE MEAL
+### ABOUT THE PANCAKES
 
 These almond flour pancakes have saved me so much time and preparation. Before this, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not even notice the difference. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer. This particular recipe serves about two to three people. I usually double or triple the recipe and freeze them for a quick breakfast in the future. 
 
 #### What main ingredients do I need for this meal?
 
-* Almond Flour: For best results and fluffy pancakes, I suggest using blanched almond flour.
+* Almond Flour: For best results and fluffy pancakes, I recommend using blanched almond flour.
 
 * Eggs: Eggs add texture to the pancakes, but they also act as a binder.  
 
@@ -57,7 +57,7 @@ These almond flour pancakes have saved me so much time and preparation. Before t
 
 #### What do I do if the batter isn't coming out right? 
 
-If it looks as though it is coming out too thick, add more almond milk until it reaches desired consistency. If the batter is too thin, sprinkle a bit more almond flour. 
+If it looks as though it is coming out too thick, add more almond milk until it reaches your desired consistency. If the batter is too thin, sprinkle more almond flour. 
 
 #### Can I freeze almond flour pancakes?
 
@@ -84,3 +84,14 @@ Yes, first allow the pancakes to cool completely and then add them to a freezer-
 {{< figure src="/images/afp4.jpg" class="instructionFigure">}}
 
 ----
+I hope you enjoy this recipe for amond flour pancakes. If you try it, be sure to let us know what you think!
+
+Other breakfast recipes from The Jamil Ghar:
+
+* [Banana Bread](https://www.jamilghar.com/recipe/banana_bread/)
+* [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/)
+* [Crispy Belgium Waffle](https://www.jamilghar.com/recipe/belgium_waffles/)
+* [Double Chocolate Low Carb Muffins](https://www.jamilghar.com/recipe/double_chocolate_lowcarb_muffins/)
+* [Low Carb Biscuits ans Gravy](https://www.jamilghar.com/recipe/biscuits_and_gravylc/)
+* [No Yeast-Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
+* [Vegetarian Eggs Benedict](https://www.jamilghar.com/recipe/veg_eggs_benedict/)
