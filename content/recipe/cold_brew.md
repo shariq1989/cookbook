@@ -1,14 +1,14 @@
 +++
 title = "Cold Brew Coffee - The Brewing Process"
 date = "2020-01-18"
-description = "About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Cold Brew Toddy. My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home."
+description = "About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a new Cold Brew Toddy. My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home."
 tags = [
     "beverages",
 ]
 thumbnail= "images/classiccoldbrew.jpeg"
 +++
 
-Servings: 12 <!--more-->
+Servings: About 12 <!--more-->
 
 #### INGREDIENTS
 
@@ -21,7 +21,7 @@ For Classic Cold Brew:
 
 * Ice, fill an 8 oz. glass 
 * Cold Brew Concentrate, fill 1/3 of an 8 oz. glass
-* Water, fill 2/3 an 8 oz. glass
+* Water, fill 2/3 of an 8 oz. glass
 * 1-2 tbsp Heavy Cream or Half-in Half
 * 1 tsp Sweetener 
 
@@ -46,22 +46,22 @@ For Classic Cold Brew:
 
 1. Fill an 8 oz. glass with ice.
 2. Fill your glass 1/3 of the way with the cold brew concentrate, about 1/2 cup.  
-3. Add the water and fill the class 2/3's of the way, and then top it off with heavy cream and a sweetener of your choice. 
+3. Add the water and fill the class 2/3's of the way, and then top it off with heavy cream or half-and-half and a sweetener of your choice. 
 
 ### ABOUT COLD BREW 
 
-About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Cold Brew Toddy. My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home.
+About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a new Cold Brew Toddy. My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home.
 
 
 #### What is Cold Brew Coffee? What's the difference between Cold Brew and Iced Coffee? 
 
-Cold-brew coffee refers to coffee made through steeping grounds at room temperature or cold water for an extended period. 
+Cold-brew coffee refers to coffee made through steeping grounds at room temperature or in cold water for an extended period. 
 
-The difference between the two comes down to methodology. Cold Brew steeps in cold or room temperature water rather than hot water like regular iced coffee. At a cooler temperature, the beans maintain their integrity; the coffee comes out less watered-down. Along the same line, cold-brewing coffee relies on time to extract the coffee's oils rather than hot water. Because of the extended brewing time, the result is a smooth, rich coffee with a low level of acidity. If you're like me and regular coffee is hard on your stomach, cold brew may be just the thing for you. 
+The difference between the two comes down to methodology. Cold Brew steeps in cold or room temperature water rather than hot water like regular iced coffee. At a cooler temperature, the beans maintain their integrity; the coffee ends up less watered-down. Along the same line, cold-brewing coffee relies on time to extract the coffee's oils rather than a burst of hot water. Because of the extended brewing time, the result is a smooth, tasty coffee with a low level of acidity. If you're like me and regular coffee tends to be hard on your stomach, cold brew may be just the thing for you. 
 
 #### What main ingredients do I need to make cold brew?
 
-* Coarse-Ground Coffee: Coarse ground makes for the best cold brew coffee. You can grind your coffee at home with a coffee grinder or use a commercial one inside of stores like Costco. 
+* Coarse-Ground Coffee: Coarse ground makes for the best cold brew coffee. You can grind your coffee at home with a [coffee grinder](https://amzn.to/2XU1KSU) or use a commercial one inside of stores like Costco. 
 
 * Water 
 
@@ -75,7 +75,7 @@ The difference between the two comes down to methodology. Cold Brew steeps in co
 
 #### Can I warm up my cold brew if I want the taste, but not the cold? 
 
-You sure can. In fact, that's the only way my husband, Shariq, will drink it. On occasion, I will too. Though, I generally prefer an iced coffee anyway. 
+You sure can. In fact, that's the only way my husband, Shariq, will drink it. On occasion, I will too. Though, I generally prefer an iced coffee anyway. I suggest filling your mug 1/3 of the way with cold brew and then top it with boiled water leaving room for cream and sweetener of your choice. 
 
 #### What is the best coffee for Cold Brew? 
 
