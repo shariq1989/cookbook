@@ -1,7 +1,7 @@
 +++
 title = "Cold Brew Coffee - The Brewing Process"
 date = "2020-01-18"
-description = "About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Cold Brew Toddy. My life has changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not."
+description = "About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Cold Brew Toddy. My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home."
 tags = [
     "beverages",
 ]
@@ -48,35 +48,45 @@ For Classic Cold Brew:
 2. Fill your glass 1/3 of the way with the cold brew concentrate, about 1/2 cup.  
 3. Add the water and fill the class 2/3's of the way, and then top it off with heavy cream and a sweetener of your choice. 
 
-### ABOUT THE COFFEE
+### ABOUT COLD BREW 
 
-About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Cold Brew [Toddy](https://amzn.to/3CMQ03P). My life has changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not.
+About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a Cold Brew Toddy. My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home.
 
-#### What is cold brew coffee? 
+
+#### What is Cold Brew Coffee? What's the difference between Cold Brew and Iced Coffee? 
+
+Cold-brew coffee refers to coffee made through steeping grounds at room temperature or cold water for an extended period. 
+
+The difference between the two comes down to methodology. Cold Brew steeps in cold or room temperature water rather than hot water like regular iced coffee. At a cooler temperature, the beans maintain their integrity; the coffee comes out less watered-down. Along the same line, cold-brewing coffee relies on time to extract the coffee's oils rather than hot water. Because of the extended brewing time, the result is a smooth, rich coffee with a low level of acidity. If you're like me and regular coffee is hard on your stomach, cold brew may be just the thing for you. 
 
 #### What main ingredients do I need to make cold brew?
 
-* Coarse-Ground Coffee: Coarse ground makes for the best cold brew coffee. You can grind the coffee at home or use the giant one at stores like Costco. 
+* Coarse-Ground Coffee: Coarse ground makes for the best cold brew coffee. You can grind your coffee at home with a coffee grinder or use a commercial one inside of stores like Costco. 
+
 * Water 
 
 #### What equipment do I need to make this recipe?
 
 * A [coffee grinder](https://amzn.to/2XU1KSU)
 
-* A [Toddy](https://amzn.to/3CMQ03P) Cold Brew System: The Toddy is hand's down the best cold brew coffee maker. It also happens to be the one used in most coffee shops. 
+* A [Toddy](https://amzn.to/3CMQ03P) Cold Brew System: The Toddy is hands-down the best cold brew coffee maker. It is the cold brew maker most used in coffee shops as well. 
 
 * A [food scale](https://amzn.to/3lYgWXP)
 
-#### Can I warm up my cold brew? 
+#### Can I warm up my cold brew if I want the taste, but not the cold? 
 
-Yes, you sure can. In fact, that's the only way my husband, Shariq, will drink it. On occasion, I will too. Though, I prefer an iced coffee. 
+You sure can. In fact, that's the only way my husband, Shariq, will drink it. On occasion, I will too. Though, I generally prefer an iced coffee anyway. 
 
 #### What is the best coffee for Cold Brew? 
 
-First off, you want to be sure you're purchasing whole beans and grinding them on a coarse ground setting. My all-time favorite coffee for cold brew at home is [New Mexico Piñon Coffee](https://amzn.to/3CRCiwz).  
+First off, you want to be sure you're purchasing whole beans and grinding them on a coarse-ground setting. My all-time favorite coffee for cold brew at home is [New Mexico Piñon Coffee](https://amzn.to/3CRCiwz).  
 
-I hope you enjoy this recipe for homemade cold brew. If you try it, be sure to let us know what you think!
+I hope you enjoy this recipe for a homemade cold brew. If you try it, be sure to let us know what you think!
 
 #### Other cold brew recipes from The Jamil Ghar:
 * Pumpkin Cold Brew 
-
+* Vanilla Sweet Cream Cold Brew
+* Pumpkin Spice Cold Brew 
+* Honey Almond Milk Cold Brew 
+* Salted Caramel Cold Brew 
+* Vanilla Cold Brew 
