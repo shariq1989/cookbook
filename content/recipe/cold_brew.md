@@ -1,110 +1,73 @@
 +++
 title = "Cold Brew Coffee"
 date = "2020-01-18"
-description = "You can buy and grind your own beans to enjoy fresh cold brew coffee right in your own home."
+description = ""
 tags = [
-    "drink",
+    "beverages",
 ]
-
 thumbnail= "images/coldbrew.jpg"
 +++
 
-Servings: 12 Cold Brews <!--more-->
+Servings: 12 (1/3 cup) <!--more-->
 
 #### INGREDIENTS
 
-For the Coffee Brewing: 
+For the Brewing Process: 
 
 * 10 oz Coffee, coarsely ground
 * 11 cups Water 
 
-For the Cold Brew: 
+For the Cold Brew Coffee Beverage: 
 
-* Ice 
-* 1/3 cup Cold Brew Concentrate 
+* Ice
+* 1/2 cup Cold Brew Concentrate 
 * 2 tbsp Heavy Cream 
 * 1 tsp Sweetener 
-* 2 cups Water 
+* 1 1/2-2 cups Water 
 
-#### INSTRUCTIONS 
+#### INSTRUCTIONS FOR MAKING COLD BREW COFFEE
 
-For the Coffee Brewing: 
+For the Brewing Process: 
 
-1. Insert rubber stopper and filter into the [Toddy's] brewing container. 
+1. Insert rubber stopper and filter into the [Toddy](https://amzn.to/3CMQ03P) cold brew container. 
 2. Pour one cup of water into the container.
-3. Using a food scale, measure out six ounces of coffee and pour it into the container.
-4. Pour another six ounces of water into the container. Let it sit for five minutes.
-5. Pour four ounces of coffee into the container.
+3. Using a food scale, measure out six ounces of coffee and add it to the container.
+4. Pour another six ounces of water over the coffee. Let it sit for five minutes.
+5. Then, add four ounces of coffee to the container.
 6. Pour four ounces of water into the container.
-7. Let the Toddy sit for twelve hours. 
+7. Let the [Toddy](https://amzn.to/3CMQ03P) sit for twelve hours. 
 8. Place the container on top of the decanter and remove the stopper.
-9. Once the coffee stops dripping, about 15 minutes, toss the content of the brewing container.
-10. Remove the filter and store it in a Ziploc bag inside the freezer.  
+9. Once the coffee stops dripping, about 20 minutes, toss the contents of the brewing container.
+10. Remove the filter and store it in a freezer-safe bag inside the freezer.  
 
-For the Cold Brew: 
+For the Cold Brew Coffee Beverage: 
 
-1. Add ice to a glass.  
-2. Fill 1/3 of the glass with cold brew concentrate. 
-3. Add the water and top the glass with heavy cream and sweetener of your choice. 
+1. Add as much ice as you prefer to the glass.  
+2. Pour 1/2 cup cold brew concentrate into your glass. 
+3. Add the water most of the way, and then top it off with heavy cream and a sweetener of your choice. 
 
 ### ABOUT THE COFFEE
 
-About 3 years ago now, my husband and I had a sit-down about my iced coffee obsession. That conversation ended with the purchase of a Toddy. My life changed at that very moment. Since then, I have successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away?
+About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Starbucks Cold Brew with soft cream, am I right? That conversation ended with the purchase of a [Toddy](https://amzn.to/3CMQ03P). My life has been forever changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not. 
 
-Another bonus of cold brew at home is that it is less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not. 
+#### What main ingredients do I need to make cold brew?
 
-#### What main ingredients do I need for cold brew?
-
-* Coarse-Ground Coffee: Coarse ground makes the best cold brew. You can grind the coffee at home or use the giant one at Costco. 
+* Coarse-Ground Coffee: Coarse ground makes for the best cold brew coffee. You can grind the coffee at home or use the giant one at stores like Costco. 
+* Water 
 
 #### What equipment do I need to make this recipe?
 
-* A coffee grinder 
-* A Toddy 
-* A food scale
+* A [coffee grinder](https://amzn.to/2XU1KSU)
+* A [Toddy](https://amzn.to/3CMQ03P) Cold Brew System
+* A [food scale](https://amzn.to/3lYgWXP)
 
 #### Can I warm up my cold brew? 
 
-Yes, you sure can. In fact, that's the only way Shariq will drink it. On occasion, I will too. Though, I love an iced coffee. 
+Yes, you sure can. In fact, that's the only way my husband, Shariq, will drink it. On occasion, I will too. Though, I prefer an iced coffee. 
 
-### INSTRUCTIONS: STEP-BY-STEP
+#### What is the best coffee for Cold Brew? 
 
-For the Coffee Brewing: 
+First off, you want to be sure you're purchasing whole beans and grinding them on a coarse ground setting. My all-time favorite coffee for cold brew at home is [New Mexico Piñon Coffee](https://amzn.to/3CRCiwz).  
 
-1. Insert rubber stopper and filter into the [Toddy's] brewing container. 
+I hope you enjoy this recipe for homemade cold brew. If you try it, be sure to let us know what you think!
 
-{{< figure src="/images/coldb1.jpg" class="instructionFigure">}}
-
-{{< figure src="/images/coldb2.jpg" class="instructionFigure">}}
-
-2. Pour one cup of water into the container.
-3. Using a food scale, measure out six ounces of coffee and pour it into the container.
-
-{{< figure src="/images/coldb3.jpg" class="instructionFigure">}}
-
-{{< figure src="/images/coldb4.jpg" class="instructionFigure">}}
-
-4. Pour another six ounces of water into the container. Let it sit for five minutes.
-
-{{< figure src="/images/coldb6.jpg" class="instructionFigure">}}
-
-5. Pour four ounces of coffee into the container.
-
-{{< figure src="/images/coldb7.jpg" class="instructionFigure">}}
-
-6. Pour four ounces of water into the container.
-7. Let the Toddy sit for twelve hours. 
-8. Place the container on top of the decanter and remove the stopper.
-9. Once the coffee stops dripping, about 15 minutes, toss the contents of the brewing container.
-10. Remove the filter and store it in a Ziploc bag inside the freezer.  
-
-For the Cold Brew: 
-
-1. Add ice to a glass.  
-2. Fill 1/3 of the glass with cold brew concentrate. 
-
-{{< figure src="/images/coldb9.jpg" class="instructionFigure">}}
-
-3. Add the water and top the glass with heavy cream and sweetener of your choice. 
-
-{{< figure src="/images/coldbrew.jpg" class="instructionFigure">}}
