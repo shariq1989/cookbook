@@ -68,7 +68,7 @@ You sure can. First, allow the qeema to cool completely, and then add it to a fr
 
 I hope you enjoy this recipe for a quick and easy aloo qeema. If you try it, be sure to let us know what you think!
 
-Other popular Indian dishes recipes from The Jamil Ghar:
+Other popular Indian recipes from The Jamil Ghar:
 * [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna_gosht/)
 * [Chana Masala](https://www.jamilghar.com/recipe/chana_masala/)
 * [Karahi Gosht](https://www.jamilghar.com/recipe/gosht_karahi/)
