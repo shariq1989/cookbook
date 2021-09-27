@@ -9,7 +9,7 @@ tags = [
     "keto",
    
 ]
-thumbnail= "images/ThaiRedCurry.jpg"
+#thumbnail= "images/ThaiRedCurry.jpg"
 +++
 
 Servings: 4 <!--more-->
