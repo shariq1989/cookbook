@@ -70,4 +70,4 @@ Yes, I like The Ultimate Beefless Ground from Gardein. I tried to link it, but t
 
 Yes, first allow the qeema to cool completely and then add it to a freezer-safe container. To prevent freezer burn, you can also layer saran wrap over the container before securing the lid. Qeema will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove and prepare your side dishes.
 
-### INSTRUCTIONS: STEP-BY-STEP 
+----
