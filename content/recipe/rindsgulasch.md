@@ -2,7 +2,7 @@
 +++
 title = "Rindsgulasch - Austrian Beef Goulash"
 date = "2021-04-06"
-description = "Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is soft and tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch."
+description = "Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch."
 tags = [
     "instant pot",
     "entree",
@@ -40,6 +40,8 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 * 1 tbsp [Apple Cider Vinegar](https://amzn.to/37dBDs5)
 * 1 Package [Egg Noodles](https://amzn.to/2Zf7O60)  
 * Sour Cream, to garnish 
+
+### HOW TO MAKE RINDSGULASCH
 
 #### STOVE-TOP INSTRUCTIONS 
 
@@ -127,5 +129,7 @@ Other beef stew recipes from The Jamil Ghar:
 
 * [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef_and_barley_stew/)
 * [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
+
+I hope you enjoy this Austrian beef stew with paprika and caraway (Rindsgulasch). If you try it, be sure to let us know what you think!
 
 This original recipe can be found at [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash)
