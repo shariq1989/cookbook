@@ -82,3 +82,5 @@ Yes, first allow the pancakes to cool completely and then add them to a freezer-
 6. Serve with butter, maple syrup, or a favorite topping of your choice.
 
 {{< figure src="/images/afp4.jpg" class="instructionFigure">}}
+
+----
