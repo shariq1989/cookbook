@@ -7,7 +7,7 @@ tags = [
     "quick meals"    
 ]
 
-thumbnail= "images/panangcurry.jpeg"
+#thumbnail= "images/panangcurry.jpeg"
 +++
 
 Servings: 3-4 <!--more-->
