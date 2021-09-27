@@ -20,9 +20,9 @@ For the Brewing Process:
 For Classic Cold Brew: 
 
 * Ice, fill an 8 oz. glass 
-* 1/3 Cold Brew Concentrate, in an 8 oz. glass
-* 2/3 Water, in an 8 oz. glass
-* 2 tbsp Heavy Cream 
+* Cold Brew Concentrate, fill 1/3 of an 8 oz. glass
+* Water, fill 2/3 an 8 oz. glass
+* 1-2 tbsp Heavy Cream or Half-in Half
 * 1 tsp Sweetener 
 
 ### HOW TO MAKE COLD BREW COFFEE 
