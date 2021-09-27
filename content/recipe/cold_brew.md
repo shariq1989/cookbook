@@ -73,9 +73,9 @@ The difference between the two comes down to methodology. Cold Brew steeps in co
 
 * A [food scale](https://amzn.to/3lYgWXP)
 
-#### Can I warm up my cold brew if I want the taste, but not the cold? 
+#### Can I warm up cold brew concentrate if I want the taste, but enjoy a warm cup of coffee on occasion? 
 
-You sure can. In fact, that's the only way my husband, Shariq, will drink it. On occasion, I will too. Though, I generally prefer an iced coffee anyway. I suggest filling your mug 1/3 of the way with cold brew and then top it with boiled water leaving room for cream and sweetener of your choice. 
+You sure can. In fact, that's the only way Shariq, will drink it. On occasion, I will too. Though, I generally prefer a cold coffee. If you decide to go this route, I suggest filling your mug 1/3 of the way with cold brew and then top it with boiled water leaving room for cream and sweetener of your choice. Sip, and enjoy! 
 
 #### What is the best coffee for Cold Brew? 
 
