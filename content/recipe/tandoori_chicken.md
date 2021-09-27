@@ -9,7 +9,7 @@ tags = [
     "Indian"
 ]
 
-thumbnail= "images/tandoorichicken.jpg"
+#thumbnail= "images/tandoorichicken.jpg"
 +++
 
 Servings: 4 <!--more-->
