@@ -43,7 +43,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 
 ### HOW TO MAKE RINDSGULASCH
 
-#### STOVE-TOP INSTRUCTIONS 
+#### AUSTRIAN BEEF STEW STOVE-TOP INSTRUCTIONS 
 
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, and set aside. 
 2. In an [dutch oven](https://amzn.to/3wIA1Bu), melt the butter on low-medium heat. Add the onion and cook until the onions become translucent and soften. 
@@ -54,7 +54,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 7. Add in the fresh dill and stir in the apple cider vinegar. 
 8. Taste and season with salt and pepper and garnish with sour cream. Serve with egg noodles.
 
-#### AUSTRIAN GOULASH INSTANT POT INSTRUCTIONS 
+#### AUSTRIAN BEEF STEW INSTANT POT INSTRUCTIONS 
 
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, and set aside. 
 2. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter in saute mode. Add the onion and cook until the onions become translucent and soften. 
