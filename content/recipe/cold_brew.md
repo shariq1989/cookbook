@@ -1,29 +1,29 @@
 +++
-title = "Cold Brew Coffee"
+title = "Brew Cold Brew Coffee"
 date = "2020-01-18"
-description = ""
+description = "About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Starbucks Cold Brew with soft cream, am I right? That conversation ended with the purchase of a Toddy. My life has changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not."
 tags = [
     "beverages",
 ]
-thumbnail= "images/coldbrew.jpg"
+thumbnail= "images/classiccoldbrew.jpeg"
 +++
 
-Servings: 12 (1/3 cup) <!--more-->
+Servings: 12 <!--more-->
 
 #### INGREDIENTS
 
-For the Brewing Process: 
+For the Brewing: 
 
 * 10 oz Coffee, coarsely ground
 * 11 cups Water 
 
-For the Cold Brew Coffee Beverage: 
+For Classic Cold Brew: 
 
-* Ice
-* 1/2 cup Cold Brew Concentrate 
+* Ice, fill an 8 oz. glass 
+* 1/3 Cold Brew Concentrate, in an 8 oz. glass
+* 2/3 Water, in an 8 oz. glass
 * 2 tbsp Heavy Cream 
 * 1 tsp Sweetener 
-* 1 1/2-2 cups Water 
 
 #### INSTRUCTIONS FOR MAKING COLD BREW COFFEE
 
@@ -40,15 +40,15 @@ For the Brewing Process:
 9. Once the coffee stops dripping, about 20 minutes, toss the contents of the brewing container.
 10. Remove the filter and store it in a freezer-safe bag inside the freezer.  
 
-For the Cold Brew Coffee Beverage: 
+For Classic Cold Brew 
 
-1. Add as much ice as you prefer to the glass.  
-2. Pour 1/2 cup cold brew concentrate into your glass. 
-3. Add the water most of the way, and then top it off with heavy cream and a sweetener of your choice. 
+1. Fill an 8 oz. glass with ice.
+2. Fill your glass 1/3 of the way with the cold brew concentrate, about 1/2 cup.  
+3. Add the water and fill the class 2/3's of the way, and then top it off with heavy cream and a sweetener of your choice. 
 
 ### ABOUT THE COFFEE
 
-About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Starbucks Cold Brew with soft cream, am I right? That conversation ended with the purchase of a [Toddy](https://amzn.to/3CMQ03P). My life has been forever changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not. 
+About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Starbucks Cold Brew with soft cream, am I right? That conversation ended with the purchase of a [Toddy](https://amzn.to/3CMQ03P). My life has changed since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. And can I say, the Toddy pays for itself right away? Another side benefit of making cold brew at home is that it tends to be less acidic. If regular coffee upsets your stomach, there is a chance cold brew may not.
 
 #### What main ingredients do I need to make cold brew?
 
