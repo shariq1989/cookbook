@@ -88,6 +88,6 @@ Oh, the options! Of course, you can serve it as is with fresh mango salsa. Break
 
 7. Garnish the filets with our [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). Serve alongside a bright salad topped with a creamy avocado dressing. 
 
-{{< figure src="/images/Blakenedmahi.jpg" class="instructionFigure">}}
+{{< figure src="/images/Blakenedmahi.jpeg" class="instructionFigure">}}
 
 ----
