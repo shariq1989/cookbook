@@ -7,7 +7,7 @@ tags = [
     "keto",
     "low carb",
 ]
-thumbnail= "images/buffalochickenpizza.jpeg"
+thumbnail= "images/buffalochickencrustedpizza.jpeg"
 +++
 
 Servings: 2 <!--more-->
