@@ -7,7 +7,7 @@ tags = [
     "low carb",
     "keto", 
 ]
-#thumbnail= "images/lettucewraps.jpg"
+thumbnail= "images/lettucewraps-01jpeg"
 +++
 
 Servings: 4-6 <!--more-->
