@@ -4,11 +4,10 @@ date = "2021-03-26"
 description = "Our whole family loves this authentic Pakistani bhuna hua gosht recipe, made with goat or mutton and favorful masala."
 tags = [
     "entree",
-    "Indian",
     "instant pot",
  
 ]
-thumbnail= "images/bhunagosht.jpg"
+thumbnail= "images/bhunagosht.jpeg"
 +++
 
 Servings: 4-5 <!--more-->
@@ -21,7 +20,7 @@ Cuisine: Indian, Pakistani
 
 #### INGREDIENTS 
 
-For Gosht: 
+For the Gosht: 
 
 * 1 lb Goat, cut into 1-inch pieces  
 * 2 Large Yellow Onions, thinly sliced
@@ -35,7 +34,7 @@ For Gosht:
 * ⅓ cup [Ghee](https://amzn.to/2ZkJkrW), plus 3-4 tbsp Ghee 
 * 2 tbsp Cilantro, chopped
 
-For Whole Spices:
+For the Whole Spices:
 
 * 6 [Boriya Chilis](https://amzn.to/2O4Zynb), dry 
 * 2 Bay Leaves
@@ -76,11 +75,11 @@ For Whole Spices:
 11. Continue to cook on saute mode, stirring regularly. The goat mixture will begin to thicken and turn a rich brown color.
 12. Garnish with cilantro and fresh ginger slices. Serve with naan or long-grained basmati rice. 
 
+---- 
+
 ### ABOUT THE MEAL 
 
 Bhuna gosht is a popular dish in Pakistan and India. It often refers to a thick, dry curry made with either goat or lamb, slow-cooked in whole spices. The curry reduces during the cooking process, leaving behind a highly concentrated and flavorful masala.  
-
-Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you. Learning how to cook Indian food is something I treasure, especially since I have the honor of learning Desi cooking under my talented mother-in-law. She prepares food off-script, so you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
 
 #### What main ingredients do I need for this meal?
 
@@ -135,3 +134,5 @@ Yes, allow the dish to cool completely, and then add it to a freezer-safe contai
 12. Garnish with cilantro and fresh ginger slices. Serve with naan or long-grained basmati rice. 
 
 {{< figure src="/images/bgh8.jpg" class="instructionFigure">}}
+
+---- 
