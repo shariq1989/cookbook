@@ -9,7 +9,7 @@ tags = [
     "vegetarian",
     "instant pot"
 ]
-thumbnail= "images/deviledegg.jpg"
+#thumbnail= "images/deviledegg.jpg"
 +++
 
 Servings: 12 <!--more-->
