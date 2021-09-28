@@ -1,7 +1,7 @@
 +++
 title = "BBQ Chicken Drumsticks"
 date = "2021-04-12"
-description = "Enjoy these grilled, marinated barbeque chicken drumsticks. We glaze ours with Sweet Baby Ray's and use a rub of our own for maximum flavor."
+description = "We love get-togethers with family and friends; these BBQ chicken drumsticks are a perfect addition to any cookout, picnic, or backyard gathering."
 tags = [
     "entree",
     "low carb",
@@ -59,31 +59,31 @@ Cooking Time: 1 hour, 10 minutes
 9. Brush the other side with bbq sauce, and cook on that side for another minute.  
 10. Remove the chicken from heat and let them rest for 5 minutes before serving.
 
+----
+
 ### ABOUT THE MEAL 
 
 We love get-togethers with family and friends; these BBQ chicken drumsticks are a perfect addition to any cookout, picnic, or backyard gathering. 
 
-Also, you may be looking at the cooking time for this recipe and asking, why? Do I really have to cook the drumsticks that long? Trust me, using indirect heat while grilling yields the best results every time. The chicken will come out moist and cooked perfectly on the inside while still having the blistered outside you expect when eating BBQ drumsticks. 
-
 #### What main ingredients do I need for this meal?
 
-* Chicken Drumsticks: You can obviously grill any part of the chicken, but I love barbequing drumsticks. They are easy to eat and universally well-liked. Bonus, our kids devour them. 
+* Chicken Drumsticks: You can grill any part of the chicken, but I love using drumsticks. They are easy to eat and universally well-liked. Bonus, our kids devour them. 
 
 * BBQ Sauce: I am sure there are many tasty BBQ sauces out there I don't know about, but our family go-to is [Sweet Baby Ray's](https://amzn.to/2NsxauJ). This brand is always delicious, and they offer [sugar-free](https://amzn.to/2MYvhWR), which makes everyone in the family happy. 
 
-* BBQ Rub: You can use your favorite rub, but I prefer the homemade rub used in this recipe. Often, I will double or triple the batch and put it in an airtight container to have some on hand. The rub will keep for up to 3 months. If you choose to go the store-bought route, we suggest using [Montreal's](https://amzn.to/2QOX1P8) mixed with brown sugar, about 2 tbsp.
+* BBQ Rub: You can use your favorite rub, but I prefer the homemade rub in this recipe. I will oftne double or triple the batch and put the rub into an airtight container, like a mason jar, to have some on hand. The rub will keep for up to 3 months. If you go the store-bought route, we recommend [Montreal's](https://amzn.to/2QOX1P8) mixed with brown sugar, about 2 tbsp.
 
 #### What equipment do I need to make this recipe?
 
 * A large bowl 
 
-* A baking sheet: Use the baking sheet to transport the cooked chicken to the kitchen. 
+* 2 [rimmed baking sheets](https://amzn.to/3COm9rS)
 
-* A baking rimmed baking sheet and a wire rack
+*  A [wire rack](https://amzn.to/3AQLn8k)
 
-#### Are BBQ chicken drumsticks keto? Are they low-carb?
+#### Are BBQ chicken drumsticks keto? Are BBQ Chicken Drumsticks low-carb?
 
-They are, substitute with sugar-free [bbq sauce](https://amzn.to/2MYvhWR) of your choice and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar replacement. I calculated one serving of the BBQ drumsticks to make it easy for you. The serving size for the chicken is two drumsticks. 
+They are!! Substitute sugar-free [bbq sauce](https://amzn.to/2MYvhWR) of your choice and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar replacement. I calculated the macros for one serving of the BBQ drumsticks to make it easy for you. The serving size is two drumsticks. 
 
 For Chicken with the Rub (Swerve replacement included): 
 
@@ -95,30 +95,12 @@ For the BBQ Sauce- 2 tbsp:
 
 * CARBS– 1 Net Carb 
 
-#### Can I freeze drumsticks?
+#### Can I freeze the chicken drumsticks?
 
-Yes, first allow the drumsticks to cool completely, wrap them in aluminum foil, and add them to a freezer-safe container or Ziploc bag. The BBQ drumsticks will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm them in the oven or microwave. 
+You sure can. First, allow the drumsticks to cool completely, wrap them in foil, and add them to a freezer-safe container or bag. The BBQ drumsticks will freeze for up to 3 months. When you’re ready to eat, let them defrost in the fridge overnight. To serve, warm them in the oven. 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+----
 
-1. In a large bowl, mix the spices for the rub and massage them into the drumsticks. Cover and marinate in the refrigerator for 6 hours.
+I hope you enjoy this recipe for BBQ Chicken Drumsticks. If you try it, be sure to let us know what you think!
 
-{{< figure src="/images/bds1.jpg" class="instructionFigure">}}
-
-2. Preheat the grill by setting all burners to high heat for about 10 minutes.
-3. Turn off the rightmost burner, but maintain a grill temperature of 350 degrees. Adjust the temperature accordingly.
-4. Oil the grates and cook the drumsticks on the hottest side of the grill. Cook until they become blistered, about 5 minutes. I check them halfway through to prevent burning. 
-
-{{< figure src="/images/bds2.jpg" class="instructionFigure">}}
-
-5. Flip the drumsticks and cook for another 5 minutes to establish blistering on the other side. Again, check them halfway through. 
-6. Move the drumsticks to the cool side of the grill, the rightmost burner you turned off, and cook them for 25 minutes. Check throughout to make sure the grill maintains a temperature of 350 degrees. 
-
-{{< figure src="/images/bds3.jpg" class="instructionFigure">}}
-
-7. Flip the drumsticks; continue cooking until the chicken has reached over 170 degrees, 20-30 minutes.
-8. Brush the drumsticks with bbq sauce and move them, sauce side down, to the hot side of the grill; cook for 1 minute. 
-9. Brush the other side with bbq sauce, and cook on that side for another minute.  
-10. Remove the chicken from heat and let them rest for 10 minutes before serving.
-
-{{< figure src="/images/bds4.jpg" class="instructionFigure">}}
+Other chicken recipes from The Jamil Ghar:
