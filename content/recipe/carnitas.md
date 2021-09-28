@@ -30,7 +30,7 @@ For the Carnitas:
 * 2 tsp Oregano 
 * 2 tbsp Avocado Oil 
 * 5 lb Pork Shoulder, cut into 2-inch pieces 
-* 1 Large Red Onion, diced
+* 1 large Red Onion, diced
 * 4 Garlic Cloves, minced
 * 1 Jalapeno, stems and seeds removed, diced 
 * 1 Cinnamon Stick 
@@ -47,14 +47,17 @@ To Serve:
 #### INSTANT POT INSTRUCTIONS 
 
 1. In a small bowl, combine salt, cumin, chipotles en adobo sauce, black pepper, cinnamon, and oregano to create a rub. 
-2. Remove skins and bones from the pork. Cut meat into 1-2 inch pieces. Massage the rub into the pork. 
-3. Heat the oil on saute mode in an [Instant Pot](https://amzn.to/3qfNYCZ). Add the meat and let it cook until it begins to brown, about 5 minutes. Repeat until all the pork has had a chance to brown. Set aside. 
-4. Place all of the meat back into the Instant Pot, along with the onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps). 
-5. Secure the lid and cook on manual high pressure for 40 minutes and allow 20 minutes for natural release. 
-6. Remove the pork from the Instant Pot using a slotted spoon and leaving the juices behind. Allow the meat to cool some before shredding it, and then spread it onto a rimmed baking sheet. 
-7. Preheat the oven to 400 degrees.
-8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes or until you begin to see crispy bits, depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
+2. Remove skins and bones from the pork. Cut the meat into 1-2 inch pieces. Massage the rub into the pork. 
+3. Heat oil on saute mode in an [Instant Pot](https://amzn.to/3qfNYCZ). Add the meat and let it cook until it begins to brown, about 5 minutes. Repeat until all the pork has had a chance to cook. Set aside. 
+4. Place all of the meat back into the [Instant Pot](https://amzn.to/3qfNYCZ), along with the onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps). 
+5. Secure the lid and cook on manual high pressure for 40 minutes. Allow 20 minutes for natural release. 
+4. Place all of the meat back into the [Instant Pot](https://amzn.to/3qfNYCZ), along with the onion, garlic, jalapeno, cinnamon stick, bay leaves, orange juice, lime juice, and liquid smoke (2 taps). 
+6. Remove the pork from the [Instant Pot] using a slotted spoon, leaving the juices behind. Allow the meat to cool some before shredding it, and then spread it onto a [rimmed baking sheet](https://amzn.to/3kNBH9a). 
+7. Pre-heat oven to 400 degrees.
+8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes, until you begin to see crispy bits, and depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
 9. Garnish with onions and cilantro and serve with warm corn tortillas and [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/).
+
+---- 
 
 ### ABOUT THE MEAL 
 
@@ -74,7 +77,7 @@ Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder t
 
 * A small bowl 
 * An [Instant Pot](https://amzn.to/3qfNYCZ)
-* A rimmed baking sheet 
+* A [rimmed baking sheet](https://amzn.to/3kNBH9a)
 
 #### Are carnitas keto? Are they low-carb?
 
@@ -97,3 +100,4 @@ You sure can. For best results, reserve some of the meat and juice before broili
 When you’re ready to eat, let both defrost in the refrigerator overnight. 
 To serve, pour the contents of the Ziploc bag into a bowl and warm it in the microwave for thirty seconds. Reheat the carnitas by frying them in a cast-iron skillet or frying pan. When the pork is thoroughly reheated, drizzle the meat with the reserved juices. Prepare your tortillas and toppings, and enjoy!
 
+---- 
