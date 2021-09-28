@@ -6,7 +6,7 @@ tags = [
     "mexican",
     "breakfast",
 ]
-#thumbnail= "images/chorizoburrito.jpg"
+thumbnail= "images/ChorizoBurrito.jpeg"
 +++
 
 Servings: 5 Burritos <!--more-->
