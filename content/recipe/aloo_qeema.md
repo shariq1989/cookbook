@@ -4,10 +4,9 @@ date = "2021-03-10"
 description = ""
 tags = [
     "entree",
-    "Indian",
  ]
    
-thumbnail= "images/qeema (2).jpg"
+thumbnail= "images/alooqeema.jpeg"
 +++
 
 Servings: 6 <!--more-->
@@ -45,7 +44,7 @@ Cuisine: Indian, Pakistani
 
  ----
 
-### ABOUT THE MEAL 
+### ABOUT QEEMA 
 
 #### What main ingredients do I need for this meal? 
 
@@ -58,13 +57,13 @@ Cuisine: Indian, Pakistani
 * 2 [heavy-bottomed pans](https://amzn.to/3EXs3ZG)
 * A [meat chopper](https://amzn.to/2OoDZhv)
 
-#### Can I make qeema vegetarian? Can I make it vegan?
+#### How can I make qeema vegetarian? Can I make qeema vegan?
 
 Yes, I like The Ultimate Beefless Ground from Gardein. Use the Beefless Ground in place of meat. To make the recipe vegan, you will also need to also replace the ghee. I suggest using grapeseed oil.
 
 #### Can I freeze qeema?
 
-You sure can. First, allow the qeema to cool completely, and then add it to a freezer-safe container or bag. To prevent freezer burn, you can also layer plastic wrap over the container before securing the lid. Qeema will freeze for up to 2 months. When you’re ready to eat, let it defrost in the frige overnight. To serve, warm it on the stove and prepare your sides.
+You sure can. First, allow the qeema to cool completely, and then add it to a freezer-safe container or bag. To prevent freezer burn, you can layer plastic wrap over the container before securing the lid. Qeema will freeze for up to 2 months. When you’re ready to eat, let it defrost in the frige overnight. To serve, warm it on the stove and prepare your sides.
 
 ----
 
