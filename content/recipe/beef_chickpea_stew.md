@@ -62,6 +62,8 @@ Cuisine: Moroccan
 8. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
 9. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
+---- 
+
 ### ABOUT THE MEAL
 
 The development of this recipe came about by happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use chuck short rib instead. I also fine-tuned the dish with a few tasty additions along the way.  
@@ -132,6 +134,11 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 {{< figure src="/images/bandc8.jpg" class="instructionFigure">}}
 
 ----
+
 I hope you enjoy this recipe for beef and chickpea stew. If you try it, be sure to let us know what you think!
 
 Other soups and stews from The Jamil Ghar:
+* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
+* [Chili Con Carne](https://www.jamilghar.com/recipe/chili_con_carne/)
+* [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
+* [Olive Garden Copycat Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa_toscana/)  
