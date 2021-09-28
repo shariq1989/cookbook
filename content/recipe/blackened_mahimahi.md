@@ -32,7 +32,7 @@ Cuisine: American
 * 1 tsp Cayenne Pepper
 * 2 tbsp Avocado Oil 
 
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. Defrost the Mahi-Mahi filets in water for just a few minutes before you're ready to eat. 
 2. Dry the filets with a towel to remove excess moisture. 
@@ -41,6 +41,8 @@ Cuisine: American
 5. Over medium-high heat, warm a cast-iron skillet with avocado oil.
 6. Once heated, carefully add the mahi-mahi fillets to the pan and cook for 3-4 minutes on each side, depending on the width of your filet. 
 7. Garnish the filets with our fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/) and serve it alongside a bright salad topped with a creamy avocado dressing. 
+
+----
 
 ### ABOUT THE MEAL
 
@@ -58,7 +60,7 @@ If you're looking for a lean, healthy fish that doesn't taste too fishy, mahi-ma
 
 #### How can I serve the mahi-mahi? 
 
-Oh, the options! Of course, you can serve it as is with the fresh mango salsa. Break up the cooked fish and add it to a warmed corn tortilla for a mahi-mahi taco. You can still add the mango salsa and even top it with our cream avocado dressing if you wanted even more flavor. You can make a mahi-mahi bowl by topping rice or pilaf with fresh and mango salsa. 
+Oh, the options! Of course, you can serve it as is with fresh mango salsa. Break up the cooked fish and add it to a warmed corn tortilla for a mahi-mahi taco. You can still add the mango salsa and even top it with our cream avocado dressing if you wanted even more flavor. You can make a mahi-mahi bowl by topping rice or pilaf with fresh and mango salsa. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -86,4 +88,6 @@ Oh, the options! Of course, you can serve it as is with the fresh mango salsa. B
 
 7. Garnish the filets with our [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). Serve alongside a bright salad topped with a creamy avocado dressing. 
 
-{{< figure src="/images/bmm7.jpg" class="instructionFigure">}}
+{{< figure src="/images/Blakenedmahi.jpg" class="instructionFigure">}}
+
+----
