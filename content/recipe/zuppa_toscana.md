@@ -1,6 +1,6 @@
 
 +++
-title = "Olive Garden Copycat Zuppa Toscana"
+title = "Olive Garden Zuppa Toscana Copycat"
 date = "2021-03-28"
 description = "There are way too many versions of this Olive Garden soup recipe floating around the internet, and honestly, it makes sense! Zuppa Toscana is delicious. Before learning to make it at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks. This Olive Garden Zuppa Toscana soup is the ultimate comfort food. It's creamy and loaded with sausage, potatoes, and bright, crisp kale. This recipe is so delicious and filling; the whole family will enjoy it. You can make it in a dutch oven, the Instant Pot, or a Crockpot or slow cooker. Here is our take on Olive Garden Zuppa Toscana."
 tags = [
@@ -64,6 +64,8 @@ Cuisine: American, Italian
 5. Gently stir ingredients, cover [crock pot](https://amzn.to/3zIa7hR), and cook on LOW for 5-6 hours or on HIGH for 3-4 hours.  
 6. Unplug the [Crockpot](https://amzn.to/3zIa7hR) and allow the soup to cool some, then stir in the kale and heavy cream to serve. 
 
+--- 
+
 ### ABOUT THE MEAL
 
 There are way too many versions of this Olive Garden soup recipe floating around the internet, and honestly, it makes sense! Zuppa Toscana is delicious. Before learning to make it at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks. This Olive Garden Zuppa Toscana soup is the ultimate comfort food. It's creamy and loaded with sausage, potatoes, and bright, crisp kale. This recipe is so delicious and filling; the whole family will enjoy it. You can make it in a dutch oven, the Instant Pot, or a Crockpot or slow cooker. Here is our take on Olive Garden Zuppa Toscana.
@@ -117,6 +119,8 @@ You sure can. First, allow the soup to cool completely, and then add it to a fre
 6. Unplug the [Instant Pot](https://amzn.to/3w5GDtJ) and allow the soup to cool, then stir in the kale and heavy cream to serve. 
 
 {{< figure src="/images/zt4.jpg" class="instructionFigure">}}
+
+---- 
 
 I hope you enjoy this Olive Garden Zuppa Toscana copycat. If you try it, be sure to let us know what you think! 
 
