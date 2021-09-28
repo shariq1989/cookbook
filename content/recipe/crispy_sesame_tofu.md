@@ -148,7 +148,10 @@ For the Frying:
 
 {{< figure src="/images/cst9.jpg" class="instructionFigure">}}
 
-Other tofu recipes: 
+---- 
+I hope you enjoy this recipe for Vegan Sesame Tofu. If you try it, be sure to let us know what you think!
+
+Other tofu recipes from The Jamil Ghar: 
 * [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
 * [Sesame Mushroom and Tofu Stir-Fry](https://www.jamilghar.com/recipe/sesame_tofu_stirfry/)
 
