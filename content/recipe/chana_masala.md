@@ -7,7 +7,7 @@ tags = [
    "instant pot",
    "vegetarian",
 ]
-thumbnail= "images/Channa Masala.jpg"
+thumbnail= "images/chanamasala.jpeg"
 +++
 
 Servings: 5 <!--more-->
