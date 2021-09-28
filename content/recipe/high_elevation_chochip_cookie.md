@@ -6,7 +6,7 @@ tags = [
     "dessert", 
     "vegetarian"
 ]
-thumbnail="images/highelevationcookies.jpg "
+thumbnail="images/highelevationcookies-01.jpeg"
 
 +++
 
