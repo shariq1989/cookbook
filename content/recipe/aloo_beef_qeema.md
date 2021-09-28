@@ -43,6 +43,8 @@ Cuisine: Indian, Pakistani
 7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
 8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha](https://www.jamilghar.com/recipe/paratha/), or naan. 
 
+ ----
+
 ### ABOUT THE MEAL 
 
 #### What main ingredients do I need for this meal? 
