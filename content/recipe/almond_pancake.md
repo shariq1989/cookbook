@@ -33,6 +33,8 @@ Cuisine: American
 5. Once once side is cooked through and flipped, give it a light tap with your spatula to spread out the mixture since these pancakes will be slightly smaller than other pancakes. 
 6. Serve the pancakes with butter, maple syrup, or a favorite topping of your choice.
 
+ ----
+
 ### ABOUT THE PANCAKES
 
 These almond flour pancakes have saved me so much time and preparation. Before this, I would make pancakes for my children and mix a separate batter for myself. Since I switched to this recipe for the whole family, my children did not even notice the difference. And because the main ingredient for the pancakes is almond flour, they will keep you and your family full for much longer. This particular recipe serves about two to three people. I usually double or triple the recipe and freeze them for a quick breakfast in the future. 
