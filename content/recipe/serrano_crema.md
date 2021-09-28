@@ -8,7 +8,7 @@ tags = [
     "keto",
     "low carb"
 ]
-thumbnail= "images/serranocrema.jpg"
+#thumbnail= "images/serranocrema.jpg"
 +++
 
 Servings: 10 <!--more-->
