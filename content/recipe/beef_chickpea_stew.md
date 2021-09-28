@@ -6,7 +6,7 @@ tags = [
     "entree",
     "instant pot"
 ]
-thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/beefandchickpea.jpeg"
 +++
 
 Servings: 6-8 <!--more-->
