@@ -8,7 +8,7 @@ tags = [
     "instant pot",
     "vegan"
 ]
-#thumbnail= "images/GoaMasoorDal.jpg"
+thumbnail= "images/goamasoordal.jpeg"
 +++
 
 Servings: 6 <!--more-->
