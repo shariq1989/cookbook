@@ -1,7 +1,7 @@
 +++
 title = "Beef and Chickpea Stew"
 date = "2021-03-12"
-description = "This Moroccan beef and chickpea stew recipe is both flavorful and hearty. The main ingredient for the stew is beef, but it can be modified to be vegetarian or vegan with substitutions."
+description = "This Moroccan beef and chickpea stew recipe is both flavorful and hearty."
 tags = [
     "entree",
     "instant pot"
@@ -130,3 +130,8 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 9. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
 {{< figure src="/images/bandc8.jpg" class="instructionFigure">}}
+
+----
+I hope you enjoy this recipe for beef and chickpea stew. If you try it, be sure to let us know what you think!
+
+Other soups and stews from The Jamil Ghar:
