@@ -42,6 +42,8 @@ Adapted from: [New York Times](https://cooking.nytimes.com/recipes/1020486-vineg
 6. Once the chicken is cooked, remove the baking dish and transfer the chicken thighs to a serving tray, leaving the juices behind. 
 7. Pour the reserved olive mixture into the baking dish. Using a spoon, gently scrape up the bits of chicken left behind, letting the olive oil mixture mingle with the rendered fat. Mixed well, and pour the dressing over the chicken to serve.  
 
+ ----
+
 ### ABOUT THE MEAL
 
 This recipe is inspired by Alison Roman’s "Vinegar Chicken with Crushed Olive Dressing;" this is an easy weeknight meal that roasts in under 1 hour.
