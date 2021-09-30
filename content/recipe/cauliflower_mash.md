@@ -5,6 +5,8 @@ description = ""
 tags = [
     "side",
     "vegetarian",
+    "keto",
+    "low carb"
     
 ]
 thumbnail= "images/cauliflowermash.jpeg"
