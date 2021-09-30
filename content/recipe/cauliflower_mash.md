@@ -7,7 +7,7 @@ tags = [
     "vegetarian",
     
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/cauliflowermash.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -52,9 +52,25 @@ Cuisine: American
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 1. In a large pot, steam cauliflower over medium heat, about 5 minutes, or until the florets soften. 
+
+{{< figure src="/images/cmash1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cmash1.jpeg" class="instructionFigure">}}
+
+
 2. Add the cooked cauliflower to a food processor, blend until smooth, and then add cream and butter. Mix well. 
+
+{{< figure src="/images/cmash3.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cmash4.jpeg" class="instructionFigure">}}
+
 3. Return the cauliflower to the large pot over low heat. Add the parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
+
+{{< figure src="/images/cmash5.jpeg" class="instructionFigure">}}
+
 4. Add salt and pepper, to taste; your dish is ready to eat.
+
+{{< figure src="/images/cmash6.jpeg" class="instructionFigure">}}
 
 ----
 I hope you enjoy this recipe for cauliflower mash. If you try it, be sure to let us know what you think!
