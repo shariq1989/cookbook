@@ -1,7 +1,7 @@
 +++
 title = "Cauliflower Mash"
-date = "2021-03-12"
-description = "This beef and chickpea stew is flavorful and hearty. It can be modified to be vegetarian or vegan."
+date = "2021-09-12"
+description = ""
 tags = [
     "side",
     "vegetarian",
@@ -38,6 +38,8 @@ Cuisine: American
  ----
 
 ### ABOUT THE MEAL
+
+This cauliflower is easy to make and is the perfect side dish to any main entree. 
 
 #### What main ingredients do I need for this meal?
 * Cauliflower 
