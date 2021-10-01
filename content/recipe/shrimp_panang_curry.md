@@ -94,3 +94,12 @@ This Panang curry recipe is the perfect quick and easy weeknight meal. The flavo
 
 7. Off heat, mix in the fish sauce. 
 8. Garnish the curry with Thai basil leaves and serve with jasmine rice or cauliflower rice.
+
+---- 
+
+I hope you enjoy this recipe for a Thai Panang Cury with Shrimp. If you try it, be sure to let us know what you think!
+
+Other Thai recipes from The Jamil Ghar:
+
+* [Thai Red Curry with Chicken](https://www.jamilghar.com/recipe/thai_red_curry/)
+* [Thai Yellow Curry with Chicken](https://www.jamilghar.com/recipe/yellow_thai_curry/)
