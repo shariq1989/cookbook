@@ -39,9 +39,9 @@ Servings: 3-4 <!--more-->
 7. Let the karahi cook for about 1 hour, stirring occasionally, to ensure nothing sticks to the bottom of the pan. At the 1 hour mark, check the goat for tenderness by attempting to separate the meat from the bone using a fork. The meat should easily pull. If not, allow the meat to simmer until it reaches the desired tenderness.
 8. Garnish with ginger batons, cilantro, and extra green chilis. Serve with naan or long-grain basmati rice.
 
-### ABOUT THE MEAL
+----
 
-Before meeting Shariq, I had no experience with Desi food. If you asked me the difference between an Indian or a Thai Curry, I couldn’t have told you, so learning how to cook Indian food is near and dear to my heart. It’s been an honor to study Desi cooking under my talented mother-in-law. She prepares food off-script; you have to watch her closely as she buzzes through the kitchen, or you miss it all. I am amazed by her ability to build upon flavors and create masterpiece after masterpiece. This recipe is inspired by what I have learned cooking alongside her.
+### ABOUT THE MEAL
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -75,3 +75,9 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 {{< figure src="/images/kg8.jpg" class="instructionFigure">}}
 
 8. Garnish with ginger batons, cilantro, and extra green chilis. Serve with naan or long-grain basmati rice.
+
+----
+
+I hope you enjoy this recipe for a Karahi Gosht- Goat Curry. If you try it, be sure to let us know what you think!
+
+Other Indian recipes from The Jamil Ghar:
