@@ -1,12 +1,12 @@
 +++
-title = "Yellow Thai Curry"
+title = "Thai Yellow Curry with Chicken"
 date = "2021-09-29"
 description = ""
 tags = [
     "entree",
    
 ]
-#thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/thaiyellowcurry.jpeg"
 +++
 
 Servings: 6 <!--more-->
