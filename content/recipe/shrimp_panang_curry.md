@@ -1,10 +1,10 @@
 +++
-title = "Shrimp Panang Curry"
+title = "Thai Panang Curry with Shrimp"
 date = "2021-06-19"
 description = "This Panang curry recipe is a perfect quick, weeknight meal. It is a great combination of creamy, tangy, and sweet, and excellent alongside some perfectly steamed rice. This recipe is customizable and can easily fit a vegetarian or vegan lifestyle."
 tags = [
     "entree",
-    "quick meals"    
+    "quick meals",
 ]
 
 #thumbnail= "images/panangcurry.jpeg"
@@ -12,9 +12,11 @@ tags = [
 
 Servings: 3-4 <!--more-->
 
-Preparation Time: 15 minutes 
+Preparation Time: 10 minutes 
 
 Cooking Time: 20 minutes 
+
+Cuisine: Thai 
 
 #### INGREDIENTS 
 
@@ -46,15 +48,15 @@ This Panang curry recipe is the perfect quick and easy weeknight meal. The flavo
 
 #### What main ingredients do I need for this meal?
 
-* Shrimp: I used large shrimp for this recipe, but you could also use extra-large or colossal shrimp if you want something more filling. 
+* Shrimp: I used large shrimp for this recipe, but you can use extra-large or colossal shrimp if you want something more filling. 
 
 * Curry Paste: When it comes to Thai curry paste, we have tried them all; [Maestra's](https://amzn.to/35DP0AQ) flavor is by far the best. It is also one of the few Thai curry pastes that are vegetarian and vegan friendly, so that is a bonus. [Mae Ploy](https://amzn.to/3gH85bv) is also pretty tasty. 
 
-* Coconut Milk: Coconut milk is a staple in Thai cooking, but be sure to use [full-fat coconut milk](https://amzn.to/3hRQ6OY). You may want to do otherwise, but don't. The richness from the fat completely changes the flavor and texture of the curry in the best way. 
+* Coconut Milk: Coconut milk is a staple in Thai cooking, but be sure to use [full-fat coconut milk](https://amzn.to/3hRQ6OY). 
 
-* Fish Sauce: Count on the fish sauce to bring depth and extra flavor to the dish. 
+* Fish Sauce
 
-* Vegetables: I use red bell pepper, mushrooms, and garlic in this curry. You can use other vegetables of your choice, including zucchini, bok choy, bean sprouts, snow peas, spinach, bamboo shoots, or carrots.
+* Vegetables: For this curry, I use red bell pepper, mushrooms, and garlic. 
 
 #### What equipment do I need to make this recipe?
 
