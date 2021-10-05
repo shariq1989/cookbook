@@ -1,7 +1,7 @@
 +++
 title = "Chicken Salmoriglio"
 date = "2021-05-01"
-description = "Salmoriglio refers to a dressing used in Italian cooking, specifically Sicilian, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use this dressing in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor the baked chicken. You could grill chicken salmoriglio for a tasty, char-grilled outcome as well."
+description = "Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily and Calabria, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use this dressing in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor the baked chicken. You could grill chicken salmoriglio for a tasty, char-grilled outcome as well."
 tags = [
     "entree",
    
@@ -40,16 +40,16 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 5. Add a small layer of the olive oil mixture to the bottom of a [baking dish](https://amzn.to/3mqJp8X). 
 6. Make cuts in the chicken thighs, about 3, and arrange them in the [baking dish](https://amzn.to/3mqJp8X). 
 7. Cover the chicken with more of the reserved olive oil mixture and fresh parsley. Set the remaining olive oil mixture aside.
-8. Nestle the cut lemons into the [baking dish](https://amzn.to/3mqJp8X), cut side up, and add the sundried tomatoes. 
+8. Nestle the cut lemons into the [baking dish](https://amzn.to/3mqJp8X), cut side up and add the sundried tomatoes. 
 9. Bake for 20 minutes at 375 degrees. 
-10. Turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees internally. 
+10. Remove the sundried tomatoes and set them aside. Then, turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees internally and begun to brown. 
 11. To serve, squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken.  
 
 ----
 
 ### ABOUT THE MEAL
 
-Salmoriglio refers to a dressing used in Italian cooking, specifically Sicilian, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use this dressing in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor the baked chicken. You could grill chicken salmoriglio for a tasty, char-grilled outcome as well. 
+Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily and Calabria, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use salmoriglio in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor baked chicken. You could grill chicken salmoriglio for a tasty, chargrilled outcome as well.
 
 #### What main ingredients do I need for this meal?
 
@@ -89,7 +89,7 @@ Salmoriglio refers to a dressing used in Italian cooking, specifically Sicilian,
 9. Bake for 20 minutes at 375 degrees. 
 
 
-10. Turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees internally. 
+10. Remove the sundried tomatoes and set them aside. Then, turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees internally. 
 
 
 11. To serve, squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken.
