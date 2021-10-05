@@ -21,31 +21,29 @@ Adapted: [Milkstreet](https://www.177milkstreet.com/recipes/chicken-salmoriglio-
 
 #### INGREDIENTS 
 
-* 2 Lemons, divided and zested 
-* 1/2 cup Extra-Virgin Olive Oil
-* 1/4 cup Water, warm 
-* 4 Garlic Cloves, chopped
-* 1 tsp Oregano, dried 
+* 2 Lemons, divided, zested 
+* 2/3 cup Extra-Virgin Olive Oil
+* 5 Garlic Cloves, chopped
+* 2 tsp Oregano, dried 
 * 1 tsp Kosher Salt 
 * 2 tsp Black Pepper, coarse ground
-* 1 tbsp Honey 
-* 1 lb Chicken Thighs, boneless and skinless 
+* 1 lb Chicken Thighs, boneless and skinless
+* 2-3 tbsp Fresh Parsley, chopped  
 * 1/4 cup Sundried Tomatoes, just the tomatoes, no juice 
-* 2-3 tbsp Fresh Parsley, chopped 
 
 #### INSTRUCTIONS
 
 1. Pre-heat the oven to 375 degrees. 
-2. Grate 1 tbsp of lemon zest into a small bowl. Set aside. 
-3. Then, cut the ends of the lemon off and cut it in half. Set lemons aside. 
-4. In the bowl with the lemon zest, add juice from the other lemon, olive oil, water, garlic, oregano, salt, pepper, and honey. Stir to combine. 
-5. Add a small layer of the olive oil mixture to the bottom of a 9x 13 baking dish. 
-6. Make cuts in the chicken thighs, about 2-3, and arrange them in the baking dish. 
-7. Cover the chicken with the remaining olive oil mixture.
-8. Nestle the cut lemons into the baking dish, cut side up, and add a few sundried tomatoes to the chicken. 
+2. Grate 2 tbsp of lemon zest into a small bowl. Set aside. 
+3. Cut the ends of 2 lemons off, and then cut them in half. Set lemons aside. 
+4. In the bowl with lemon zest, add the juice from one lemon, olive oil, garlic, oregano, salt, and pepper. Stir to combine. 
+5. Add a small layer of the olive oil mixture to the bottom of a baking dish. 
+6. Make cuts in the chicken thighs, about 3, and arrange them in the baking dish. 
+7. Cover the chicken with more of the reserved olive oil mixture and fresh parsley. Set the remaining olive oil mixture aside.
+8. Nestle the cut lemons into the baking dish, cut side up, and add the sundried tomatoes. 
 9. Bake for 20 minutes at 375 degrees. 
-10. Turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees. 
-11. To serve, squeeze the juice from the cooked lemons over the top. 
+10. Turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees internally. 
+11. To serve, squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken.  
 
 ----
 
@@ -55,9 +53,9 @@ Salmoriglio is a dressing used in Italian cooking, specifically Sicilian, to mar
 
 #### What main ingredients do I need for this meal?
 
-* Chicken 
+* Chicken
 
-* Lemon Juice 
+* Lemon Juice
 
 * Olive Oil 
 
@@ -65,40 +63,25 @@ Salmoriglio is a dressing used in Italian cooking, specifically Sicilian, to mar
 
 * Oregano
 
-* Sun-Dried Tomatoes: These aren't usually present in a chicken salmoriglio recipe, but they add a sweet and savory component. Bites with a bit of sundried tomatoes are the best bites. 
+* Sun-Dried Tomatoes: Sun-Dried tomatoes aren't usually present in chicken salmoriglio, but they add a sweet and savory component our family loves.
 
 #### What equipment do I need to make this recipe?
 
-* A 9x13 [baking dish](https://amzn.to/3zOdAeT)
+* A lemon zester 
+* A baking dish 
+
 
 ### INSTRUCTIONS: STEP-BY-STEP 
-1. Pre-heat the oven to 375 degrees. 
-2. Grate 1 tbsp of lemon zest into a small bowl. Set aside. 
-3. Then, cut the ends of the lemon off and cut it in half. Set lemons aside. 
-4. In the bowl with the lemon zest, add juice from the other lemon, olive oil, water, garlic, oregano, salt, pepper, and honey. Stir to combine. 
-
-{{< figure src="/images/cs1.jpg" class="instructionFigure">}}
-
-5. Add a small layer of the olive oil mixture to the bottom of a 9x 13 baking dish. 
-6. Make cuts in the chicken thighs, about 2-3, and arrange them in the baking dish. 
-
-{{< figure src="/images/cs2.jpg" class="instructionFigure">}}
-
-7. Cover the chicken with the remaining olive oil mixture.
-8. Nestle the cut lemons into the baking dish, cut side up, and add a few sundried tomatoes to the chicken. 
-
-{{< figure src="/images/cs3.jpg" class="instructionFigure">}}
-
-9. Bake for 20 minutes at 375 degrees. 
-10. Turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees. 
-11. To serve, squeeze the juice from the cooked lemons over the top. 
-
-{{< figure src="/images/cs4.jpg" class="instructionFigure">}}
 
 --- 
 
 I hope you enjoy this recipe for chicken salmoriglio. If you try it, be sure to let us know what you think!
 
 #### Other chicken recipes from The Jamil Ghar:
+
+* [BBQ Chicken Drumsticks](https://www.jamilghar.com/recipe/bbq_chicken_drumsticks/)
+* [Honey and Miso Baked Chicken](https://www.jamilghar.com/recipe/honey_baked_drumsticks/)
+* [Jerk Chicken Fricassee](https://www.jamilghar.com/recipe/jerk_chicken_fricassee/)
+* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/)
 
 Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/chicken-salmoriglio-tn-med).
