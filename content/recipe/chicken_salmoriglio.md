@@ -43,7 +43,7 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 8. Nestle the cut lemons into the [baking dish](https://amzn.to/3mqJp8X), cut side up and add the sundried tomatoes. 
 9. Bake for 20 minutes at 375 degrees. 
 10. Remove the sundried tomatoes and set them aside. Then, turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees internally and begun to brown. 
-11. To serve, return the sundried tomatoes to the dish and then squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken.  
+11. To serve, return the sundried tomatoes to the dish and then squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken. Garnish with fresh parsley, and enjoy! 
 
 ----
 
@@ -93,7 +93,7 @@ Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily
 
 9. Bake for 20 minutes at 375 degrees. 
 10. Remove the sundried tomatoes and set them aside. Then, turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees internally. 
-11. To serve, squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken.
+11. To serve, squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken. Garnish with fresh parsley, and enjoy! 
 
 {{< figure src="/images/cs5.jpeg" class="instructionFigure">}}
 {{< figure src="/images/cs6.jpeg" class="instructionFigure">}}
