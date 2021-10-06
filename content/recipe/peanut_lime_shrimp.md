@@ -1,13 +1,13 @@
 
 +++
 title = "Peanut and Lime Shrimp"
-date = "2021-04-05"
-description = "This shrimp dish is light and fresh. The crunch of the peanuts, the warmth of the spices, and the zest of the lime make a complete meal."
+date = "2021-10-06"
+description = "We love this meal because it is healthy and fresh, but also easy to make. The crunch from the peanuts, the warmth of the spices, and the zest of the lime will leave you wanting more."
 tags = [
     "entree",
   
 ]
-thumbnail= "images/peanutlimeshrimp.jpg"
+thumbnail= "images/peanutlimeshrimp.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -33,7 +33,7 @@ Cuisine: American
 * ½ cup Cilantro, chopped
 * 1 tbsp Lime Juice, plus lime wedges to garnish
 * 3 tbsp Peanuts, coarsely chopped
-* Optional: Serrano Chili, thinly sliced, to garnish
+* Serrano Chili, thinly sliced, to garnish
 
 #### INSTRUCTIONS 
 
@@ -48,19 +48,21 @@ Cuisine: American
 9. Return the shrimp to skillet and add cilantro and lime juice. Toss to combine.
 10. Transfer the shrimp to a platter, garnish with lime wedges, and serve with creamy coconut cauliflower rice. 
 
+---- 
+
 ### ABOUT THE MEAL 
 
-We love this meal because it is healthy and fresh, but also easy to make. 
+We love this meal because it is healthy and fresh, but also easy to make. The crunch from the peanuts, the warmth of the spices, and the zest of the lime will leave you wanting more.
 
 #### What main ingredients do I need for this meal?
 
-* Shrimp: Use any size shrimp, but be sure to adjust the cooking time accordingly. I highly recommend using colossal shrimp. 
+* Shrimp: Use any size shrimp, but be sure to adjust the cooking time accordingly. I recommend using extra large or even colossal shrimp. 
 
 * Spices: I use a combination of peppercorns, coriander, paprika, cayenne, and salt to season the shrimp.  
 
-* Peanuts: Peanuts deliver a nice crunch and nuttiness. 
+* Peanuts: Peanuts bring a necessary crunch and add a rich nutty flavor to the existing spices. 
 
-* Lime: I always love lime paired with shrimp. 
+* Lime 
 
 #### What equipment do I need to make this recipe?
 
@@ -68,9 +70,9 @@ We love this meal because it is healthy and fresh, but also easy to make.
 * A spice grinder, coffee grinder, or [mortar and pestle](https://amzn.to/3ur2t9e)
 * A [large skillet](https://amzn.to/2PGxMhz)
 
-#### Can I freeze peanut and lime shrimp?
+#### How can I store my leftovers?
 
-I would not recommend freezing the shrimp. On the flip side, this leaves more for you to eat. Leftovers will keep well in the refrigerator for 2-4 days. 
+I would not recommend freezing the shrimp. However, leftovers will keep will in the fridge for 2-4 days in a air-tight container. 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -103,3 +105,9 @@ I would not recommend freezing the shrimp. On the flip side, this leaves more fo
 10. Transfer the shrimp to a platter, garnish with lime wedges, and serve with creamy coconut cauliflower rice. 
 
 {{< figure src="/images/pls6.jpg" class="instructionFigure">}}
+
+----
+
+I hope you enjoy this recipe for Peanut Lime Shrimp. If you try it, be sure to let us know what you think!
+
+Other shrimp recipes from The Jamil Ghar:
