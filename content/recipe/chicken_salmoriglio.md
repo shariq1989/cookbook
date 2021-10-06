@@ -1,6 +1,6 @@
 +++
 title = "Chicken Salmoriglio"
-date = "2021-05-01"
+date = "2021-10-05"
 description = "Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily and Calabria, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use this dressing in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor the baked chicken. You could grill chicken salmoriglio for a tasty, char-grilled outcome as well."
 tags = [
     "entree",
