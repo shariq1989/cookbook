@@ -52,8 +52,8 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 3. Cut the ends of 2 lemons off, and then cut them in half. Set lemons aside. 
 4. In the bowl with lemon zest, add the juice from one lemon, olive oil, garlic, oregano, salt, and pepper. Stir to combine. 
 5. Season the chicken with salt and pepper. Then, make cuts in the chicken thighs; arrange them on the grill, along with the lemons. Cook for about 25 minutes, flipping occasionally.
-6. When the chicken is almost done cooking, warm a pan on the grill or a stove-top. Then, add it to the pan and cover the thighs with some of the olive oil mixture, fresh parsley, and sundried tomatoes. 
-7. Cook, turning the chicken to make sure it is coated, for 3-5 minutes. 
+6. When the chicken is almost finished cooking, warm a pan on the grill or a stove-top. Then, add the chicken to the pan. Cover the thighs with some of the olive oil mixture, fresh parsley, and sundried tomatoes. 
+7. Cook, turning the chicken to make sure they are coated, for 3-5 minutes. 
 8. To serve, squeeze the juice from the grilled lemon into the reserved olive oil mixture and pour it over the chicken. Garnish with fresh parsley, and enjoy!  
 ----
 
@@ -63,7 +63,7 @@ Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily
 
 #### What main ingredients do I need for this meal?
 
-* Chicken
+* Chicken: I prefer making this recipe with boneless and skinless chicken thighs, but it is tasty with bone-in and skin-on. 
 
 * Lemon Juice
 
@@ -79,6 +79,9 @@ Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily
 
 * A [lemon zester](https://amzn.to/3a83M4T)
 * A [baking dish](https://amzn.to/3mqJp8X)
+
+#### What can I serve with Chicken Salmoriglio? 
+I love this baked chicken with green, crisp vegetables like asparagus, zucchini, or green beans. You could also serve it on a bed of arugula or watercress.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 1. Pre-heat the oven to 475 degrees. 
