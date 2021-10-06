@@ -6,7 +6,7 @@ tags = [
     "entree",
    
 ]
-thumbnail= "images/chickensalmoriglio.jpg"
+thumbnail= "images/chickensalmoriglio.jpeg"
 +++
 
 Servings: 4-5 <!--more-->
@@ -76,23 +76,27 @@ Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily
 3. Cut the ends of 2 lemons off, and then cut them in half. Set lemons aside. 
 4. In the bowl with lemon zest, add the juice from one lemon, olive oil, garlic, oregano, salt, and pepper. Stir to combine. 
 
+{{< figure src="/images/cs1.jpeg" class="instructionFigure">}}
 
 5. Add a small layer of the olive oil mixture to the bottom of a [baking dish](https://amzn.to/3mqJp8X). 
 6. Make cuts in the chicken thighs, about 3, and arrange them in the [baking dish](https://amzn.to/3mqJp8X). 
 
+{{< figure src="/images/cs2.jpeg" class="instructionFigure">}}
 
 7. Cover the chicken with more of the reserved olive oil mixture and fresh parsley. Set the remaining olive oil mixture aside.
 8. Nestle the cut lemons into the [baking dish](https://amzn.to/3mqJp8X), cut side up, and add the sundried tomatoes. 
 
+{{< figure src="/images/cs3.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cs4.jpeg" class="instructionFigure">}}
 
 
 9. Bake for 20 minutes at 375 degrees. 
-
-
 10. Remove the sundried tomatoes and set them aside. Then, turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 160 degrees internally. 
-
-
 11. To serve, squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken.
+
+{{< figure src="/images/cs5.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cs6.jpeg" class="instructionFigure">}}
 
 --- 
 
