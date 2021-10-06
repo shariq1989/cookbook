@@ -1,7 +1,8 @@
 +++
 title = "Chicken Salmoriglio"
 date = "2021-10-05"
-description = "Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily and Calabria, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use this dressing in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor the baked chicken. You could grill chicken salmoriglio for a tasty, chargrilled outcome as well."
+description = "
+Salmoriglio refers to a dressing used in Southern Italy, specifically Sicily and Calabria, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use salmoriglio in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor baked chicken. You could grill chicken salmoriglio for a tasty, chargrilled outcome as well."
 tags = [
     "entree",
    
@@ -59,7 +60,7 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 
 ### ABOUT THE MEAL
 
-Salmoriglio refers to a dressing used in Italian cooking, specifically in Sicily and Calabria, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use salmoriglio in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor baked chicken. You could grill chicken salmoriglio for a tasty, chargrilled outcome as well.
+Salmoriglio refers to a dressing used in Southern Italy, specifically Sicily and Calabria, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use salmoriglio in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor baked chicken. You could grill chicken salmoriglio for a tasty, chargrilled outcome as well.
 
 #### What main ingredients do I need for this meal?
 
