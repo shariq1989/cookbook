@@ -1,7 +1,7 @@
 +++
 title = "Peanut and Lime Shrimp"
 date = "2021-10-06"
-description = "We love this healthy and fresh meal, but also easy to make. The crunch from the peanuts, the warmth of the spices, and the zest of the lime will leave you wanting more."
+description = "We love this healthy and fresh meal made up of pan-seared shrimp with peanuts, black pepper, and lime. The crunch from the peanuts, the warmth of the spices, and the zest of the lime will leave you wanting more."
 tags = [
     "entree",
   
@@ -19,7 +19,7 @@ Cuisine: American
 
 #### INGREDIENTS 
 
-* 1-2 lb colossal Shrimp, peeled and deveined, tails removed and set aside
+* 1-2 lb Colossal Shrimp, peeled and deveined, tails removed and set aside
 * ½ tsp Kosher Salt
 * 1 tsp Black Peppercorns
 * 2 tsp [Coriander Seeds](https://amzn.to/3rVIRcC)
