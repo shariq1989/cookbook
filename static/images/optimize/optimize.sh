@@ -16,12 +16,9 @@ then
 	# backup images
 	echo "------Yes, backing up large files----------------"
 	find . -maxdepth 1 -type f -name "*.jp*g" -exec cp {} ../../backup/ \;
-	# remove file data, optimize file to reduce space
-	echo "------Using jpegoptim to strip information----------------"
-	jpegoptim *.jp*g --strip-all
 	# reduce size
 	echo "------Using mogrify to resize----------------"
-	mogrify -resize 20% *.jp*g
+	mogrify -auto-orient -verbose -filter Triangle -define filter:support=2 -thumbnail 1200 -unsharp 0.25x0.08+8.3+0.045 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB *.jp*g
 	# move back to images dir
 	echo "------Staging new images----------------"
 	find . -maxdepth 1 -type f -name "*.jp*g" -exec mv {} ../ \;
