@@ -10,7 +10,7 @@ tags = [
     "low carb",
    
 ]
-thumbnail= "images/chiliconcarne.jpg"
+#thumbnail= "images/chiliconcarne.jpg"
 +++
 
 Servings: 8 <!--more-->
@@ -126,4 +126,3 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 8. Secure the lid and cook on manual high pressure for 40 minutes. This cooking time is for high  elevation. You can reduce the cooking time for lower elevation. 
 9. Serve as a stew and top with onion, cilantro, cheese, and avocado. Warm corn tortillas are always a nice touch. 
 
-{{< figure src="/images/ccc8.jpg" class="instructionFigure">}}
