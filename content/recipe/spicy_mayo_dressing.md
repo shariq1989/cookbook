@@ -16,6 +16,8 @@ Preparation Time: 5 minutes
 
 Cuisine: American 
 
+---- 
+
 ### HOW TO MAKE SPICY MAYO DRESSING 
 
 #### SPICY MAYO DRESSING INGREDIENTS 
@@ -64,6 +66,7 @@ Bring your salad, burger, chicken breast, or sandwich to another level using thi
 Pour the leftover dressing into an airtight container, like a mason jar. It will keep in the fridge for up to 5 days.
 
 ---- 
+
 
 I hope you enjoy this recipe for Spicy Mayo Dressing. If you try it, be sure to let us know what you think!
 
