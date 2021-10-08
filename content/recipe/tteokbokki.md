@@ -1,7 +1,7 @@
 +++
 title = "Tteokbokki - Spicy Korean Rice Cakes"
 date = "2021-04-16"
-description = "This recipe teaches how to make Tteokbokki, also called Ddukbokki, Ddeokbokki, or Dukbokki; this dish is a popular Korean street food, and not only is it delicious, it's a comfort food you can easily make at home."
+description = "This recipe teaches how to make Tteokbokki, also called Ddukbokki, Ddeokbokki, or Dukbokki; this dish is a popular Korean street food, and not only is it delicious, it's a comfort food that can easily be made at home. My experience with tteokbokki began several years ago; Shariq and I were with international students from Malaysia and Burma in a small Korean restaurant in Arizona. It was my first time eating Korean food, and we ordered family-style. I fell in love with Korean food that day, but especially a spicy dish with a texture I had never experienced before in my life. I should have had the foresight to ask them the name of the dish, but of course, I did not. Instead, I went for years in search of the tasty meal I tried that day. Here it is folks, tteokbokki, which I have eaten countless times now, and I am still a fan."
 tags = [
     "entree",
 ]
@@ -36,9 +36,14 @@ Cuisine: Korean
 5. Allow the rice cakes to cook and maintain a gentle bubble, over medium heat, for 15 minutes until the sauce begins to thicken; stir frequently.  
 6. Check the consistency of the rice cakes; you want them to be soft. If the rice cakes haven't reached the desired consistency, let them continue cooking while stirring. Add more water if necessary.  
 
+---- 
+
 ### ABOUT THE MEAL
 
-Shariq and I gathered with international students from Malaysia and Burma in a small Korean restaurant in Arizona. It was my first experience with Korean food; we ordered the meal family-style, as we often did so that everyone could try a little bit of everything. I fell in love with Korean food that day, but especially this spicy dish with a texture I had never experienced before - seriously, you have to try it! I should have had the foresight to ask them the name of the dish, but of course, I did not. Instead, I went years in search of the tasty meal I tried that day. Here it is folks, Tteokbokki, which I have eaten countless times now, and I am still a fan. 
+This recipe teaches how to make Tteokbokki, also called Ddukbokki, Ddeokbokki, or Dukbokki; this dish is a popular Korean street food, and not only is it delicious, it's a comfort food that can easily be made at home.
+
+My experience with tteokbokki began several years ago; Shariq and I were with international students from Malaysia and Burma in a small Korean restaurant in Arizona. It was my first time eating Korean food, and we ordered family-style. I fell in love with Korean food that day, but especially a spicy dish with a texture I had never experienced before in my life. I should have had the foresight to ask them the name of the dish, but of course, I did not. Instead, I went for years in search of the tasty meal I tried that day. Here it is folks, tteokbokki, which I have eaten countless times now, and I am still a fan. 
+
 
 #### What main ingredients do I need for this meal?
 
@@ -50,7 +55,7 @@ Shariq and I gathered with international students from Malaysia and Burma in a s
 
 * [Gochugaro](https://amzn.to/3v0RhQT)
 
-* Scallions or Green Onions 
+* Scallions 
 
 #### What equipment do I need to make this recipe?
 
@@ -62,7 +67,7 @@ To make this particular recipe vegetarian and vegan, omit the fish sauce and use
 
 #### Can I make Tteokbokki less spicy? 
  
-Of course, reduce the amount of Gochuchang used to 2 tbsp and Gochugaro to 1 tsp; this way, the flavor is there, but not all the spice. I also suggest increasing the amount of Better than Bouillon used to 2 tsp instead of 1. If you want a sweeter Tteokbokki, add 1-2 tsp of honey to cut the heat and flavor the dish. 
+Of course, reduce the amount of Gochuchang used to 2 tbsp and Gochugaro to 1 tsp. This way you still have all the flavor, but not all the spice. I also suggest increasing the amount of Better than Bouillon used to 2 tsp instead of 1. If you want a sweeter Tteokbokki, I suggest adding 1-2 tsp of honey to cut the heat and flavor the dish. 
 
 #### What can I add to Tteokbokki? 
 
@@ -85,3 +90,10 @@ There are so many ways to dress up Tteokbokki. Many people enjoy adding fish cak
 
 5. Allow the rice cakes to cook and maintain a gentle bubble, over medium heat, for 15 minutes until the sauce begins to thicken; stir frequently.  
 6. Check the consistency of the rice cakes; you want them to be soft. If the rice cakes haven't reached the desired consistency, let them continue cooking while stirring. Add more water if necessary.  
+ 
+----
+
+I hope you enjoy this recipe for Tteokbokki. If you try it, be sure to let us know what you think!
+
+Other Korean recipes from The Jamil Ghar:
+* [Kimchi Jiigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
