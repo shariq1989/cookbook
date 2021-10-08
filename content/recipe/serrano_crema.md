@@ -37,7 +37,7 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
  
 ### ABOUT THE MEAL
 
-I made this Serrano Crema as a side for our  [Peruvian Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/). However, I quickly realized it pairs well with other roasted chicken entrees as well. It makes for a spicy salad dressing and can even act as a nice serrano sauce for tacos or chickpea entrees.
+I made this Serrano Crema as a side for our  [Peruvian Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/). However, I quickly realized it pairs well with other roasted chicken recipes as well. It makes for a spicy salad dressing and can even act as a nice serrano sauce for tacos or chickpea entrees.
 
 #### What main ingredients do I need for this meal?
 
