@@ -1,7 +1,7 @@
 +++
 title = "Serrano Crema"
 date = "2021-03-12"
-description = "I made this Serrano Crema as a side for our Peruvian Chicken. I quickly realized, however, that it pairs well with other roasted chicken entrees and as a topping for chickpea dishes as well. It makes for a tasty salad dressing and can even act as a serrano sauce for tacos."
+description = "I made this Serrano Crema as a side for our Peruvian Chicken. However, I quickly realized it pairs well with other roasted chicken entrees as well. It makes for a spicy salad dressing and can even act as a nice serrano sauce for tacos or chickpea entrees."
 tags = [
     "vegan",
     "vegetarian",
@@ -24,23 +24,24 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 * 3-4 Serrano Chilis, roughly chopped 
 * 1 cup Cilantro, chopped 
 * 3 Garlic Cloves, chopped 
-* 1/2 cup Yogurt, Full Fat 
+* 1/2 cup Yogurt, Full-Fat 
 * 1/3 cup Sour Cream 
 * 1 Lime, juiced 
 * 1/4 cup Olive Oil 
 * Salt and Pepper, to taste
   
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
-Add the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice to a food processor or blender. Blend until smooth. Then, stir in the olive oil and season to taste with salt and pepper. Mix well. 
+1. Add the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
+2. Then, stir in the olive oil and season to taste with salt and pepper. Mix well. 
  
 ### ABOUT THE MEAL
 
-I made this Serrano Crema as a side for our [Peruvian Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/). I quickly realized, however, that it pairs well with other roasted chicken entrees and as a topping for chickpea dishes as well. It makes for a tasty salad dressing and can even act as a serrano sauce for tacos. 
+I made this Serrano Crema as a side for our  [Peruvian Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/). However, I quickly realized it pairs well with other roasted chicken entrees as well. It makes for a spicy salad dressing and can even act as a nice serrano sauce for tacos or chickpea entrees.
 
 #### What main ingredients do I need for this meal?
 
-* Serrano Chili: I prefer the flavor and heat of the serrano chili in general, but the use of this chili creates a spicy serrano crema that may be too hot for some. If you're looking for a more mild sauce, use jalapenos instead. 
+* Serrano Chili: I prefer the flavor and heat from serrano chilis, but the use of this chili creates a spicy serrano crema that may be too hot for some. If you're looking for a milder sauce, use jalapenos instead. 
 
 * Yogurt
 
@@ -50,14 +51,23 @@ I made this Serrano Crema as a side for our [Peruvian Chicken](https://www.jamil
 
 * Olive Oil
 
-* Cilantro 
-
 #### What equipment do I need to make this recipe?
 
 * A [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM) 
 
-#### What other ingredients could I add to this crema? 
+#### Is serrano crema spicy? 
+The use of serrano chili may be too hot for some. If you're looking for a milder sauce, use jalapenos instead. 
 
-To add some variety to your rotation, you could add other ingredients like cilantro or avocado to your the serrano crema. 
+#### What other ingredients could I add to the crema? 
+Avocado would make for a creamy addition to the crema; you could even rename it avocado serrano crema.   
+
+----
+I hope you enjoy this recipe for spicy serrano crema. If you try it, be sure to let us know what you think!
+
+Other sauce recipes from The Jamil Ghar:
+* [Guacamole](https://www.jamilghar.com/recipe/guacamole/)
+* [Mango Salsa](https://www.jamilghar.com/recipe/mango_salsa/)
+* [Spicy Mayo Dressing](https://www.jamilghar.com/recipe/spicy_mayo_dressing/)
+
 
 Find the original recipe at [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-style-grilled-chicken-sandwiches-recipe.html)
