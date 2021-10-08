@@ -17,6 +17,8 @@ Cooking Time: 45 minutes
 
 Cuisine: American
 
+----
+
 ### HOW TO MAKE PUMPKIN BARS 
 
 #### INGREDIENTS 
