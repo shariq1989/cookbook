@@ -5,7 +5,9 @@ description = ""
 tags = [
     "entree",
     "low carb",
-    "keto"
+    "keto",
+    "vegetarian",
+    "vegan"
 
 ]
 thumbnail= "images/MushroomStirFry.jpg"
@@ -18,6 +20,8 @@ Preparation Time: 10 minutes
 Cooking Time: 30 minutes
 
 Cuisine: Chinese, American
+
+#### HOW TO MAKE SESAME MUSHROOM AND TOFU STIR-FRY 
 
 #### INGREDIENTS 
 
@@ -38,33 +42,34 @@ Cuisine: Chinese, American
 
 #### INSTRUCTIONS 
 
-1. Preheat the oven to 350 degrees and lightly oil a rimmed sheet pan. 
+1. Pre-heat the oven to 350 degrees and lightly oil a [rimmed baking sheet](https://amzn.to/3BmRIbW). 
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes and lightly season with salt and pepper. 
-3. Spread out the tofu onto the rimmed baking sheet and cook for 15 minutes, turning the tofu pieces midway to bake thoroughly.
-4. In a large skillet, warm sesame oil over medium-high heat and add the already baked tofu to a hot pan. Fry until the pieces become golden brown. Set aside. 
+3. Spread out the tofu onto the [rimmed baking sheet](https://amzn.to/3BmRIbW) and cook for 15 minutes, turning the tofu pieces midway.
+4. In a large skillet or [wok](https://amzn.to/2YC4Mfx), warm sesame oil over medium-high heat and add the already baked tofu to the hot pan. Fry until the pieces become golden brown. Set aside. 
 5. Using the same oil (add more if needed), add the chilis, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
-6. In a small bowl, mix the soy sauce, rice wine vinegar, fish oil, honey, and water to the pan. Stir until the honey dissolves. Off heat, add these ingredients to the pan, and season with black pepper. 
-7. Return the pan to medium-high heat and bring the mixture to a boil and then whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind. 
-8. Add the mushrooms, stir to combine, and then turn the heat down. Simmer until sauce reduces halfway, about 5 minutes. 
-9. Return the tofu to the pan and combine with the other ingredients, about 2-3 minutes.
-10. Garnish with toasted sesame seeds and scallion greens and serve with jasmine rice. 
+6. In a small bowl, stir the soy sauce, rice wine vinegar, fish sauce, honey, and water until honey completely dissolves. 
+7. Off heat, add the ingredients in the bowl to the pan, and season with black pepper. 
+8. Return the pan to medium-high heat, and bring the mixture to a boil. Then, whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind. 
+9. Add the mushrooms, stir to combine, and then lower the heat. Simmer until sauce reduces halfway, about 5 minutes. 
+10. Return the tofu to the pan and stir to combine.
+11. Garnish with toasted sesame seeds and scallion greens, and then serve with jasmine rice. 
+
+---- 
 
 ### ABOUT THE MEAL 
 
-My sister, a fabulous cook, made a similar dish for us after our first child. We loved it so much; we decided to make our own. 
-
 #### What main ingredients do I need for this meal?
 
-* Extra-Firm Tofu: I prefer using firm tofu because it holds up well during the baking and frying process. 
+* Extra-Firm Tofu: I prefer using extra-firm tofu because it holds up well during the baking and stir-frying processes. 
 
 * Shiitake Mushrooms: I love sliced shiitake mushrooms; they absorb other flavors so well. We often add other mushrooms to change it up, but shiitake mushrooms are tried and true. 
 
-* Sesame Flavor: We introduce sesame into this dish in two ways: the sesame oil and sesame seeds. 
+* Sesame: Enjoy the rich sesame flavor in two ways using sesame oil and sesame seeds. 
 
 #### What equipment do I need to make this recipe?
 
-* A rimmed baking sheet 
-* A large skillet 
+* A [rimmed baking sheet](https://amzn.to/3BmRIbW)
+* A large skillet or [wok](https://amzn.to/2YC4Mfx)
 * A small bowl
 
 #### Is sesame mushroom and tofu stir-fry vegetarian? Is it vegan?
@@ -73,18 +78,17 @@ This dish caters to both a vegetarian and vegan way of eating. Easily replace th
 
 #### Can I freeze the tofu stir-fry?
 
-While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing stir-fried tofu, especially once it's cooked in a sauce; freezing and re-heating will alter the desired texture of the tofu. 
+You can, but freezing and re-heating already cooked tofu will alter the texture. 
 
 ### INSTRUCTIONS: STEP-BY-STEP
 
-1. Preheat the oven to 350 degrees and lightly oil a rimmed sheet pan. 
-2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes; I let my kids cut the tofu, which explains the varied sizing. 
-3. Spread out the tofu onto the rimmed baking sheet, season with salt and pepper, and cook for 15 minutes, turning the tofu pieces midway to bake thoroughly. 
+1. Pre-heat the oven to 350 degrees and lightly oil a [rimmed baking sheet](https://amzn.to/3BmRIbW). 
+2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes and lightly season with salt and pepper. 
+3. Spread out the tofu onto the [rimmed baking sheet](https://amzn.to/3BmRIbW) and cook for 15 minutes, turning the tofu pieces midway.
 
 {{< figure src="/images/msf1.jpg" class="instructionFigure">}}
 
-
-4. In a large skillet, warm sesame oil over medium-high heat and add the already baked tofu to a hot pan. Fry until the pieces become golden brown. Set aside. 
+4. In a large skillet or [wok](https://amzn.to/2YC4Mfx), warm sesame oil over medium-high heat and add the already baked tofu to the hot pan. Fry until the pieces become golden brown. Set aside. 
 
 {{< figure src="/images/msf2.jpg" class="instructionFigure">}}
 
@@ -92,24 +96,35 @@ While you can freeze uncooked or fried firm tofu, I wouldn't suggest freezing st
 
 {{< figure src="/images/msf4.jpg" class="instructionFigure">}}
 
-6. In a small bowl, mix the soy sauce, rice wine vinegar, fish oil, honey, and water to the pan. Stir until the honey dissolves. Off heat, add these ingredients to the pan, and season with black pepper. 
+6. In a small bowl, stir the soy sauce, rice wine vinegar, fish sauce, honey, and water until honey completely dissolves. 
+
+7. Off heat, add the ingredients in the bowl to the pan, and season with black pepper. 
+
 
 {{< figure src="/images/msf3.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/msf5.jpg" class="instructionFigure">}}
 
-7. Return the pan to medium-high heat and bring the mixture to a boil and then whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind.
+8. Return the pan to medium-high heat, and bring the mixture to a boil. Then, whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind. 
 
 {{< figure src="/images/msf6.jpg" class="instructionFigure">}}
 
-8. Add the mushrooms, stir to combine, and then turn the heat down. Simmer until sauce reduces halfway, about 5 minutes. 
+9. Add the mushrooms, stir to combine, and then lower the heat. Simmer until sauce reduces halfway, about 5 minutes. 
 
 {{< figure src="/images/msf7.jpg" class="instructionFigure">}}
 
-9. Return the tofu to the pan and combine with the other ingredients, about 2-3 minutes.
+10. Return the tofu to the pan and stir to combine.
 
 {{< figure src="/images/msf8.jpg" class="instructionFigure">}}
 
-10. Garnish with toasted sesame seeds and scallion greens and serve with jasmine rice. 
+11. Garnish with toasted sesame seeds and scallion greens, and then serve with jasmine rice. 
 
 {{< figure src="/images/msf9.jpg" class="instructionFigure">}}
+
+----
+
+I hope you enjoy this recipe for Sesame Mushroom and Tofu Stir-Fry. If you try it, be sure to let us know what you think!
+
+Other tofu recipes from The Jamil Ghar:
+* [Vegan Crispy Sesame Tofu with Coconut Chili Dressing](https://www.jamilghar.com/recipe/crispy_sesame_tofu/)
+* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
