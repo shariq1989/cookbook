@@ -59,7 +59,7 @@ I made this Serrano Crema as a side for our  [Peruvian Chicken](https://www.jami
 The use of serrano chili may be too hot for some. If you're looking for a milder sauce, use jalapenos instead. 
 
 #### What other ingredients could I add to the crema? 
-Avocado would make for a creamy addition to the crema; you could even rename it avocado serrano crema.   
+Avocado would make for a creamy addition to the crema; you could even call it avocado serrano crema.   
 
 ----
 I hope you enjoy this recipe for spicy serrano crema. If you try it, be sure to let us know what you think!
