@@ -8,7 +8,7 @@ tags = [
     "vegetarian",
     "vegan"
 ]
-#thumbnail= "images/sdj6.jpg"
+thumbnail= "images/kimchijjigae1.jpeg"
 +++
 
 Servings: 2 <!--more-->
@@ -106,6 +106,8 @@ You sure can, but before freezing, remove the tofu from the dish. It doesn't reh
 {{< figure src="/images/sdj7.jpg" class="instructionFigure">}}
 
 8. Garnish with extra Gochugaru if you prefer more spice and serve with a side of sticky rice. 
+
+{{< figure src="/images/kimchijjigae2.jpeg" class="instructionFigure">}}
 
 ----
 
