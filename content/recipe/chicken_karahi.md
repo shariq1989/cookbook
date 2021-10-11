@@ -6,7 +6,7 @@ tags = [
     "entree",
   
 ]
-#thumbnail= "images/karahigosht.jpg"
+thumbnail= "images/chicken_karahi.jpeg"
 +++
 
 Servings: 3-4 <!--more-->
@@ -77,8 +77,8 @@ You sure can. First, allow the Chicken Karahi to cool completely, and then add i
 
 #### What other types of Karahi are there? 
 
-* White Karahi 
 * Charsi Karahi: This isn't necessarily a type of karahi, but it's a famous rendition hailing from a restaurant in Peshawar, Pakistan. 
+* White Karahi 
 * Balochi Karahi 
 * Lahori Karahi 
 * Green Karahi 
@@ -89,11 +89,28 @@ You sure can. First, allow the Chicken Karahi to cool completely, and then add i
 
 1. In a heavy-bottomed pan or [Karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat.
 2. Add the onion and cook until they become brown and caramelized. This step can take some time; that’s okay. You are building flavor for the dish. 
-3. Next, add the ginger paste and garlic. Stir regularly, and cook for 2 minutes.
+
+{{< figure src="/images/ck1.jpeg" class="instructionFigure">}}
+
+3. Next, add th ginger paste and garlic. Stir regularly, and cook for 2 minutes.
+
+{{< figure src="/images/ck2.jpeg" class="instructionFigure">}}
+
 4. In a small bowl, mix the Karahi masala, Kashmiri chili powder, and turmeric, then add it to the Karahi, along with the green chilis. 
+
+{{< figure src="/images/ck3.jpeg" class="instructionFigure">}}
+
 5. Add the tomatoes and lower the heat to maintain a gentle simmer for 5 minutes.
+
+{{< figure src="/images/ck4.jpeg" class="instructionFigure">}}
+
 6. Next, add the chicken and cook for 20 minutes on low heat, stirring occasionally. 
+
+{{< figure src="/images/ck6.jpeg" class="instructionFigure">}}
+
 7. Garnish with ginger batons, cilantro, and extra green chilis. Serve with naan or long-grain basmati rice.
+
+{{< figure src="/images/chicken_karahi.jpeg" class="instructionFigure">}}
 
 ----
 
