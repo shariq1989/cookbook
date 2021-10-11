@@ -1,5 +1,5 @@
 +++
-title = "Pumpkin Bars"
+title = "Easy Pumpkin Bars with Cream Cheese Frosting"
 date = "2020-01-27"
 description = ""
 tags = [
@@ -19,7 +19,7 @@ Cuisine: American
 
 ----
 
-### HOW TO MAKE PUMPKIN BARS 
+### HOW TO MAKE PUMPKIN BARS WITH CREAM CHEESE FROSTING
 
 #### INGREDIENTS 
 
@@ -57,7 +57,7 @@ For the Cream Cheese Frosting:
 
 ### ABOUT THE DESSERT 
 
-Let it be known- I am not a fan of pumpkin. However, two Christmases ago, our sweet neighbor in Colorado delivered a pumpkin treat similar to this one. To my surprise, I gave them a try- though she did lure me with the cream cheese frosting. 
+Let it be known- I am not a fan of pumpkin. However, two Christmases ago, our sweet neighbor in Colorado delivered the best pumpkin bar treat. To my surprise, I actually gave them a try, and I am so glad that I did. She lured me with the cream cheese frosting for sure. 
 
 #### What equipment do I need to make this recipe?
 
@@ -67,7 +67,7 @@ Let it be known- I am not a fan of pumpkin. However, two Christmases ago, our sw
 
 ---- 
 
-I hope you enjoy this recipe for pumpkin bars. If you try it, be sure to let us know what you think!
+I hope you enjoy this recipe for pumpkin bars with cream cheese frosting. If you try it, be sure to let us know what you think!
 
 Other dessert recipes from The Jamil Ghar:
 * [No Yeast Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
