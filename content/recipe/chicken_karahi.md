@@ -1,6 +1,6 @@
 +++
 title = "Pakistani Karahi Murgh - Pakistani Chicken Karahi"
-date = "2021-10-01"
+date = "2021-10-10"
 description = ""
 tags = [
     "entree",
