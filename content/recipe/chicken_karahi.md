@@ -1,7 +1,7 @@
 +++
 title = "Pakistani Karahi Murgh - Pakistani Chicken Karahi"
 date = "2021-10-10"
-description = ""
+description = "Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chilis. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves."
 tags = [
     "entree",
   
@@ -23,10 +23,11 @@ Cuisine: Pakistani, Indian
 
 #### CHICKEN KARAHI INGREDIENTS 
 
+* 2 tsp Cumin Seeds
 * 2 tbsp [Ghee](https://amzn.to/2ZkJkrW)
 * 1 1/2 lb Chicken Thighs and legs, trimmed
 * 1 medium Purple Onion, thinly sliced
-* 3 large Tomatoes, pureed 
+* 3 large Roma Tomatoes, pureed 
 * 2 tsp Ginger Paste
 * 3 Garlic Cloves, minced
 * 1/2 Package Karahi Masala 
@@ -37,10 +38,10 @@ Cuisine: Pakistani, Indian
 
 #### INSTRUCTIONS 
 
-1. In a heavy-bottomed pan or [Karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat.
+1. In a heavy-bottomed pan or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
 2. Add the onion and cook until they become brown and caramelized. This step can take some time; that’s okay. You are building flavor for the dish. 
 3. Next, add the ginger paste and garlic. Stir regularly, and cook for 2 minutes.
-4. In a small bowl, mix the Karahi masala, Kashmiri chili powder, and turmeric, then add it to the Karahi, along with the green chilis. 
+4. In a small bowl, mix the karahi masala, Kashmiri chili powder, and turmeric, then add it to the Karahi, along with the green chilis. 
 5. Add the tomatoes and lower the heat to maintain a gentle simmer for 5 minutes.
 6. Next, add the chicken and cook for 20 minutes on low heat, stirring occasionally. 
 7. Garnish with ginger batons, cilantro, and extra green chilis. Serve with naan or long-grain basmati rice.
@@ -49,15 +50,15 @@ Cuisine: Pakistani, Indian
 
 ### ABOUT THE MEAL
 
-Enjoy this simple Chicken Karahi or chicken Kadai recipe. 
+Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chilis. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves. 
 
 #### What main ingredients do I need for this meal?
 
-* Chicken: I use bone-in chicken legs and thighs. If you prefer boneless chicken Karahi, use chicken thighs.  Be sure to adjust the cooking time accordingly; the safe temperature for the chicken is 160 degrees.  
+* Chicken: I use bone-in chicken legs and thighs most often using this recipe. If you prefer boneless chicken karahi, use chicken thighs. Be sure to adjust the cooking time accordingly; the safe temperature for the chicken is 160 degrees.  
 
-* Tomatoes 
+* Tomatoes: Tomatoes are the base for the rich, flavorful gravy. I use Roma tomatoes because they tend to have less moisture. 
 
-* Onions 
+* Onions: Onions are not traditionally included in karahi, but I prefer the result with onion added. 
 
 * Ginger and Garlic 
 
@@ -65,38 +66,39 @@ Enjoy this simple Chicken Karahi or chicken Kadai recipe.
 
 #### What equipment do I need to make this recipe?
 
-* A heavy-bottomed pan or [Karahi](https://amzn.to/3BuoEPL)
+* A heavy-bottomed pan or [karahi](https://amzn.to/3BuoEPL)
 
-#### Can I make Chicken Karahi Spicy? Can I lower the spice? 
+#### Can I make chicken karahi spicy? Can I lower the spice? 
 
 This recipe is for a mild chicken karahi. If you prefer a more spicy dish, use 3/4 of the Laziza Karahi Masala. If you feel this will be too spicy for you, I suggest using 1/4 of the package. 
 
 #### Can I freeze Chicken Karahi?
 
-You sure can. First, allow the Chicken Karahi to cool completely, and then add it to a freezer-safe container or bag. Karahi will freeze for up to 2 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove and prepare your sides.
+You sure can. First, allow the chicken karahi to cool completely, and then add it to a freezer-safe container or bag. Karahi will freeze for up to 2 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove and prepare your sides.
 
-#### What other types of Karahi are there? 
+#### What other types of karahi are there? 
 
-* Charsi Karahi: This isn't necessarily a type of karahi, but it's a famous rendition hailing from a restaurant in Peshawar, Pakistan. 
-* White Karahi 
 * Balochi Karahi 
-* Lahori Karahi 
+* Charsi Karahi: This isn't necessarily a type of karahi, but it's a famous rendition hailing from a restaurant in Peshawar, Pakistan. 
 * Green Karahi 
+* Karahi Dhaba-Style
+* Lahori Karahi 
 * Punjabi Karahi 
 * Shashlik Karahi 
+* White Karahi 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. In a heavy-bottomed pan or [Karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat.
+1. In a heavy-bottomed pan or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
 2. Add the onion and cook until they become brown and caramelized. This step can take some time; that’s okay. You are building flavor for the dish. 
 
 {{< figure src="/images/ck1.jpeg" class="instructionFigure">}}
 
-3. Next, add th ginger paste and garlic. Stir regularly, and cook for 2 minutes.
+3. Next, add the ginger paste and garlic. Stir regularly, and cook for 2 minutes.
 
 {{< figure src="/images/ck2.jpeg" class="instructionFigure">}}
 
-4. In a small bowl, mix the Karahi masala, Kashmiri chili powder, and turmeric, then add it to the Karahi, along with the green chilis. 
+4. In a small bowl, mix the Karahi masala, Kashmiri chili powder, and turmeric, then add it to the karahi, along with the green chilis. 
 
 {{< figure src="/images/ck3.jpeg" class="instructionFigure">}}
 
