@@ -1,3 +1,4 @@
+
 +++
 title = "Shrimp Etoufee"
 date = "2021-05-02"
@@ -6,7 +7,7 @@ tags = [
     "entree",
    
 ]
-thumbnail= "images/shrimpetoufee.jpg"
+thumbnail= "images/shrimpetouffee.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -16,6 +17,10 @@ Preparation Time: 15 minutes
 Cooking Time: 1 hour, 15 minutes 
 
 Cuisine: American, Cajun 
+
+---- 
+
+HOW TO MAKE SHRIMP ETOUFFEE
 
 #### INGREDIENTS 
 
@@ -58,7 +63,7 @@ For the Shrimp Broth:
 
 1. In a [dutch oven](https://amzn.to/3bveYK6), warm oil over medium heat. Add the reserved shrimp shells and allow them to saute for about 3 minutes.
 2. Add water and simmer for 5 minutes. 
-3. Using a slotted spoon, scoop out the shells and discard. Set the broth aside. 
+3. Using a slotted spoon, scoop out the shells and discard them. Set the broth aside. 
 
 For the Etoufee: 
 
@@ -68,7 +73,9 @@ For the Etoufee:
 4. Next, add the Cajun seasoning, bay leaves, and thyme sprigs. Cook until aromatic. 
 5. Stir in the reserved shrimp broth and simmer for 30 minutes over medium heat. 
 6. Add the shrimp to the broth and cook for 3-5 minutes. Cater the cooking time based on the size of the shrimp you use; be careful not to overcook the shrimp. 
-7. Season the etoufee with salt and serve with rice. 
+7. Season the etouffee with salt and serve with rice. 
+
+---- 
 
 ### ABOUT THE MEAL
 
@@ -78,7 +85,7 @@ For the Etoufee:
  
 * Vegetables: I used traditional vegetables, including onion, celery, and green bell pepper. 
 
-* Herbs: In my humble opinion, herbs can change an entire dish. I use fresh garlic, bay leaves, and fresh thyme to season the etoufee.  
+* Herbs: In my opinion, herbs change an entire dish. I use fresh garlic, bay leaves, and fresh thyme to flavor the etouffee.  
 
 * Shrimp Broth: You can opt for store-bought shrimp broth, but why not use the whole shrimp and make your own? The broth included in this recipe takes less than 10 minutes. 
 
@@ -101,7 +108,7 @@ For the Shrimp Broth:
 {{< figure src="/images/shrim3.jpg" class="instructionFigure">}}
 
 2. Add water and simmer for 5 minutes. 
-3. Using a slotted spoon, scoop out the shells and discard. Set the broth aside. 
+3. Using a slotted spoon, scoop out the shells and discard them. Set the broth aside. 
 
 For the Etoufee: 
 
@@ -128,6 +135,11 @@ For the Etoufee:
 
 {{< figure src="/images/shrim7.jpg" class="instructionFigure">}}
 
-7. Season the etoufee with salt and serve with rice. 
+7. Season the etouffee with salt and serve with rice. 
 
 {{< figure src="/images/shrim9.jpg" class="instructionFigure">}}
+
+---- 
+I hope you enjoy this recipe for shrimp etouffee. If you try it, be sure to let us know what you think!
+
+Other shrimp recipes from The Jamil Ghar:
