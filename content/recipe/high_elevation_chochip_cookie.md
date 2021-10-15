@@ -4,7 +4,6 @@ date = "2021-02-02"
 description = ""
 tags = [
     "dessert", 
-    "vegetarian"
 ]
 thumbnail="images/highelevationcookies-01.jpeg"
 
@@ -16,14 +15,16 @@ Preparation Time: 20 minutes
 
 Cooking Time: 10-14 minutes
 
+----
+
 #### INGREDIENTS 
 
 * 2 sticks Butter, softened at room temperature 
-* 1 cup Granulated White Sugar 
+* 1 cup White Sugar, granulated 
 * 1 cup Brown Sugar, packed 
 * 3 Eggs 
 * 2 tsp Vanilla Extract 
-* 3 cup All-Purpose Flour 
+* 3 cup Flour, All-Purpose  
 * 1 tsp Baking Soda 
 * 2 tsp Hot Water 
 * ½ tsp Salt 
@@ -40,19 +41,21 @@ Cooking Time: 10-14 minutes
 7. Drop by large spoonfuls onto an ungreased baking sheet, spaced about 2 inches apart. 
 8. Bake for 10-14 minutes until the edges turn golden brown. 
 
+----
+
 ### ABOUT THIS DESSERT
 
-I’ve always loved cooking and baking, but I haven’t always been great at it, especially baking. With the success of my [nutella cookies](https://www.jamilghar.com/recipe/nutella_cookies/), I was on a mission to bake the perfect chocolate chip cookie. Well, here it is, folks. 
+I’ve always loved cooking and baking, but I haven’t always been great at it- especially baking. With the success of my [nutella cookies](https://www.jamilghar.com/recipe/nutella_cookies/), I was on a mission to bake the perfect chocolate chip cookie. Well, here it is, folks. 
 
 #### What main ingredients do I need for this meal?
 
-Butter: We use 2 sticks of butter in this recipe; this thing I am about to tell you is the key for high elevation cookies that don't cave in. Before you begin, allow your butter to reach room temperature. Do not, I repeat, do not melt the butter. 
+Butter: I use two sticks of butter in this recipe, and what I am about to tell you is the key for high-elevation cookies that do not cave in. Before you begin, allow the butter to reach room temperature. Do not, I repeat, do not melt the butter. 
 
-Baking Soda: Baking soda is a key ingredient for many chocolate chip cookie recipes, but in this one, we have you dissolve it in hot water, why? Essentially you are using the hot water to ensure that the baking soda is entirely dissolved. This extra step is helpful because it makes for a more even distribution throughout the mixture.
+Baking Soda: Baking soda is a necessary ingredient for many chocolate chip cookie recipes, but in this one, we have you dissolve it in hot water.  Why? I use the hot water to ensure the baking soda fully dissolves; this extra step ensures even distribution of the baking soda throughout the mixture.
 
-Flour 
+All-Purpose Flour 
 
-Sugar: We use granulated white sugar and brown sugar for this recipe. 
+Sugar: I use white and brown sugar for this recipe. 
 
 Chocolate Chips
 
@@ -60,10 +63,10 @@ Chocolate Chips
 
 * A large bowl
 * A [hand-mixer](https://amzn.to/3rRtUs2)
-* A baking sheet. I use the stones from Pampered Chef. 
+* A [baking sheet](https://amzn.to/3vhinF4)
 
-#### Can I freeze the dough?
-Yes, roll the dough into one large ball and place it into a Ziploc bag. Clear any air out of the bag before securing it. The cookie dough will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, follow the baking instructions for this recipe.
+#### Can I freeze the cookie dough?
+Yes, roll the dough into one large ball and place it into a freezer-safe bag. Clear any air out of the bag before securing it. The cookie dough will keep for three months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, follow the baking instructions for this recipe.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -100,3 +103,9 @@ Yes, roll the dough into one large ball and place it into a Ziploc bag. Clear an
 {{< figure src="/images/hec9.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/hec10.jpg" class="instructionFigure">}}
+
+----
+
+I hope you enjoy this recipe for chocolate chip cookies. If you try it, be sure to let us know what you think!
+
+Other dessert recipes from The Jamil Ghar:
