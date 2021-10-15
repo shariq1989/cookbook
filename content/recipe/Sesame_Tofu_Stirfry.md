@@ -21,7 +21,9 @@ Cooking Time: 30 minutes
 
 Cuisine: Chinese, American
 
-#### HOW TO MAKE SESAME MUSHROOM AND TOFU STIR-FRY 
+----
+
+#### How to make sesame mushroom and tofu stir-fry 
 
 #### INGREDIENTS 
 
