@@ -5,7 +5,7 @@ description = "This tasty cucumber, cilantro chutney is a great addition to dish
 tags = [
   
 ]
-thumbnail= "images/Raita.jpg "
+#thumbnail= "images/Raita.jpg "
 +++
 
 Servings: 4 <!--more-->
