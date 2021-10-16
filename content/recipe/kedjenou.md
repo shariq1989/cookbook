@@ -1,10 +1,13 @@
 +++
 title = "Cote D' Ivoire Poulet Kedjenou- Ivorian Chicken Stew"
 date = "2020-10-16"
-description = "Kedjenou, pronounced (KED-gen-ooh), is popular in the Ivory Coast, known for its savory, slow-cooked stews. This dish traditionally cooks in a clay pot, called a Canary or Canari, over an open flame. Cooking in a sealed canary allows the chicken to slow cook in the juices, spices, vegetables, and rich aromatics. Little to no liquid is added resulting in a highly flavorful and concentrated dish. The word kedjenou means to move or shake; the name refers to the practice of shaking the canary side to side several times throughout the cooking process to prevent sticking or burning inside the sealed clay pot. Enjoy this kedjenou recipe our family loves."
+description = "Kedjenou, pronounced (KED-gen-ooh), is popular in the Ivory Coast, known for its savory, slow-cooked stews. This dish traditionally cooks in a clay pot, called a Canary or Canari, over an open flame. Cooking in a sealed Canary allows the chicken to slow cook in the juices, spices, vegetables, and rich aromatics. Little to no liquid is added resulting in a highly flavorful and concentrated dish. The word kedjenou means to move or shake, and refers to the practice of shaking the Canary side to side several times throughout the cooking process to prevent sticking or burning inside the sealed clay pot. I do not have access to a Canary, but I achieve a similar result using a dutch over or Instant Pot. Enjoy this kedjenou recipe our family loves."
 tags = [
     "entree",
     "instant pot",
+    "quick meals",
+    "low carb",
+    "keto"
 ]
 thumbnail= "images/kenjenou.jpeg"
 +++
@@ -25,7 +28,7 @@ Cuisine: Ivorian, African
 For the Stew: 
 
 * 2 lbs Chicken Thighs, bone-in thigh, and drumsticks
-* Kedjenou Spice, divided
+* 1/2 cup Kedjenou Spice, divided
 * 5 large Tomatoes, diced 
 * 2 Onions, diced 
 * 1 Green Bell Pepper, diced
@@ -36,7 +39,7 @@ For the Stew:
 * 1 cup Water
 * 1 tsp [Chicken Better than Bouillon](https://amzn.to/3rR71VA)
 * 2 Bay Leaves
-* 1 Thyme Sprig
+* 6-7 Thyme Sprigs
 
 For the Kedjenou Spice: 
 
@@ -65,14 +68,14 @@ For the Kedjenou Spice:
 2. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the chicken and saute skin-side down for 3-4 minutes.
 3. Add the tomatoes, onion, bell pepper, garlic, ginger paste, carrots, and eggplant, and the rest of the Kedjenou Spice Mix. Cook for 2-3 minutes until aromatic.
 4. Next, add the water, [Better Than Bouillion](https://amzn.to/3rR71VA), bay leaves, and thyme. 
-5. Set on manual high pressure for 50 minutes with a quick release. 
+5. Set the [Instant Pot](https://amzn.to/3qfNYCZ) on manual high pressure for 50 minutes with a quick release. 
 6. Remove from the [Instant Pot](https://amzn.to/3qfNYCZ), place in a serving dish, and allow the chicken to cool some before serving. Eat it as a stew, over a bed of rice, or with attiéké. 
 
 ----
 
 ### ABOUT KEDJENOU 
 
-Kedjenou, pronounced (KED-gen-ooh), is popular in the Ivory Coast, known for its savory, slow-cooked stews. This dish traditionally cooks in a clay pot, called a Canary or Canari, over an open flame. Cooking in a sealed canary allows the chicken to slow cook in the juices, spices, vegetables, and rich aromatics. Little to no liquid is added resulting in a highly flavorful and concentrated dish. The word kedjenou means to move or shake; the name refers to the practice of shaking the canary side to side several times throughout the cooking process to prevent sticking or burning inside the sealed clay pot. Enjoy this kedjenou recipe our family loves.
+Kedjenou, pronounced (KED-gen-ooh), is popular in the Ivory Coast, known for its savory, slow-cooked stews. This dish traditionally cooks in a clay pot, called a Canary or Canari, over an open flame. Cooking in a sealed Canary allows the chicken to slow cook in the juices, spices, vegetables, and rich aromatics. Little to no liquid is added resulting in a highly flavorful and concentrated dish. The word kedjenou means to move or shake, and refers to the practice of shaking the Canary side to side several times throughout the cooking process to prevent sticking or burning inside the sealed clay pot. I do not have access to a Canary, but I achieve a similar result using a [dutch oven](https://amzn.to/3sgQtGK) or [Instant Pot](https://amzn.to/3qfNYCZ). Enjoy this kedjenou recipe our family loves.
 
 #### What main ingredients do I need for this meal?
 
