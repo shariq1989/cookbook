@@ -116,7 +116,7 @@ You sure can. First, allow the dish to cool completely. Then, add it to a freeze
 
 3. Warm oil in an [Dutch Oven](https://amzn.to/3sgQtGK) over medium heat. Add the chicken thighs and saute skin-side down for 3-4 minutes. 
 
-{{< figure src="/images/kj1.jpeg" class="instructionFigure">}}
+{{< figure src="/images/kj2.jpeg" class="instructionFigure">}}
 
 4. Add the tomatoes, onion, bell pepper, garlic, ginger paste, carrots, and eggplant, and the rest of the Kedjenou Spice Mix. Cook for 2-3 minutes until aromatic. 
 
