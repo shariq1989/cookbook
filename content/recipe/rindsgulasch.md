@@ -71,7 +71,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 
 ### ABOUT THE MEAL
 
-Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is soft and tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch.
+Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew, also called rindsgulasch. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is soft and tender. The result of this recipe is a dark, smooth, and flavorful gravy you expect from rindsgulasch.
 
 #### What main ingredients do I need for this meal?
 
