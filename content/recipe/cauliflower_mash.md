@@ -70,7 +70,7 @@ Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but i
 
 {{< figure src="/images/cmash1.jpeg" class="instructionFigure">}}
 
-{{< figure src="/images/cmash1.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cmash2.jpeg" class="instructionFigure">}}
 
 2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream and butter. Mix well. 
 
