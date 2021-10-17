@@ -73,7 +73,7 @@ For the Kedjenou Spice:
 
 ----
 
-### ABOUT KEDJENOU 
+### ABOUT THE MEAL 
 
 Kedjenou, pronounced (KED-gen-ooh), is popular in the Ivory Coast, known for its savory, slow-cooked stews. This dish traditionally cooks in a clay pot, called a Canary or Canari, over an open flame. Cooking in a sealed Canary allows the chicken to slow cook in the juices, spices, vegetables, and rich aromatics. Little to no liquid is added resulting in a highly flavorful and concentrated dish. The word kedjenou means to move or shake, and refers to the practice of shaking the Canary side to side several times throughout the cooking process to prevent sticking or burning inside the sealed clay pot. I do not have access to a Canary, but I achieve a similar result using a [dutch oven](https://amzn.to/3sgQtGK) or [Instant Pot](https://amzn.to/3qfNYCZ). Enjoy this kedjenou recipe our family loves.
 
