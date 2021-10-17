@@ -18,7 +18,9 @@ Cook Time: 30 minutes
 
 Cuisine: American
 
-### HOW TO MAKE NO YEAST CINNAMON ROLLS 
+----
+
+### How to make no yeast - cinnamon rolls
 
 #### INGREDIENTS
 
@@ -69,7 +71,6 @@ Nothing beats a warm batch of gooey cinnamon rolls. During the first Covid lockd
 
 * [All-Purpose Flour](https://amzn.to/3aet0yB)
 
-
 * Butter
 
 * Cinnamon
@@ -93,9 +94,12 @@ If somehow you wind up with leftovers, the cinnamon rolls keep at room temperatu
 I do not recommend freezing already baked rolls unless you bake them and leave the frosting off of them. I will often make two batches; I bake one and then freeze the other rolls for quick baking the next time. To freeze the rolls, gather them together, wrap them tightly in plastic wrap, and then place them into a freezer-safe bag. The rolls will keep for up to 2 months. When you're ready to eat, let them defrost in the refrigerator overnight. Prepare the icing, warm your cinnamon rolls in the oven according to the baking instructions, and enjoy. 
 
 ---- 
-I hope you enjoy this recipe for homemade Cinnamon Rolls with no yeast. If you try it, be sure to let us know what you think!
+
+I hope you enjoy this recipe for homemade cinnamon rolls with no yeast. If you try it, be sure to let us know what you think!
 
 Other dessert recipes from The Jamil Ghar:
 * [Banana Bread](https://www.jamilghar.com/recipe/banana_bread/)
 * [Double Chocolate Low Carb Muffin](https://www.jamilghar.com/recipe/double_chocolate_lowcarb_muffins/)
 * [High Elevation Chocolate Chip Cookies](https://www.jamilghar.com/recipe/high_elevation_chochip_cookie/)
+* [High Elevation Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/nutella_cookies/)
+
