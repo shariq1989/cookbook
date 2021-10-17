@@ -66,6 +66,8 @@ For the Jjigae:
 6. Next, add the tofu and set the[ Instant Pot](https://amzn.to/3DpZGSo) to saute mode for a few minutes before gently stirring in the spice mixture- careful not to break up the tofu. 
 7. Garnish with extra Gochugaru if you prefer spicy kimchi jjigae, and serve with a side of sticky rice. 
 
+---- 
+
 ### ABOUT THE MEAL
 
 Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup (whichever name you choose to call it) is quickly becoming a favorite in our home. This is mainly due to its flexible ingredients and how easy it is to make. This kimchi tofu soup is rich and flavorful and can be made on the stove-top or in an Instant Pot [Instant Pot](https://amzn.to/3DpZGSo).
