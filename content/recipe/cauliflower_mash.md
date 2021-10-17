@@ -90,7 +90,7 @@ Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but i
 
 I hope you enjoy this creamy cauliflower mash recipe. If you try it, be sure to let us know what you think!
 
-#### Recipes from The Jamil Ghar to pair with our healthy cauliflower mash:
+#### Recipes from The Jamil Ghar to pair with our cauliflower mash:
 
 * [Braised Short Ribs](https://www.jamilghar.com/recipe/braised_short_ribs/)
 * [Jerk Chicken Fricassee](https://www.jamilghar.com/recipe/rindsgulasch/)
