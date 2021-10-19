@@ -1,5 +1,5 @@
 +++
-title = "Aloo Qeema- Minced Beef and Potato"
+title = " Pakistani Aloo Keema- Minced Beef and Potato"
 date = "2021-03-10"
 description = ""
 tags = [
@@ -15,9 +15,11 @@ Preparation Time: 10 minutes
 
 Cooking Time: 30 minutes 
 
-Cuisine: Indian, Pakistani
+Cuisine: Pakistani, Indian 
 
 ---- 
+
+### How to make aloo keema 
 
 #### INGREDIENTS 
 
@@ -26,9 +28,9 @@ Cuisine: Indian, Pakistani
 * 3-4 small Red Potatoes, finely chopped 
 * 1/2 Yellow Onion, finely chopped 
 * 1-inch piece Ginger, peeled and finely minced, plus more for garnish
-* 1-2 Thai Green Chili, slit lengthwise 
+* 1-2 Thai Green Chilis, slit lengthwise 
 * 1 medium Tomato, pureed 
-* 1/2 package [Laziza Qeema Masala](https://amzn.to/3b4Y4B0)
+* 1/2 package [Laziza Keema Masala](https://amzn.to/3b4Y4B0)
 * 1/2 cup Cilantro, chopped
 * 1 Serrano Chili, finely sliced, for garnish
 * Salt, to taste 
@@ -38,7 +40,7 @@ Cuisine: Indian, Pakistani
 1. Warm ghee over medium heat in a [heavy-bottomed pans](https://amzn.to/3EXs3ZG).  
 2. Add diced potatoes. Cook until they become golden brown, about 15 minutes. Set them aside.
 3. In the same pan, fry the onions, garlic, ginger, and chilis until the onions become translucent and soften, about 5 minutes. 
-4. Add the [Qeema Masala](https://amzn.to/3b4Y4B0), stir to coat, and continue cooking for another minute.
+4. Add the [keema Masala](https://amzn.to/3b4Y4B0), stir to coat, and continue cooking for another minute.
 5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned, about 8 minutes. 
 6. Add tomatoes to the pan and increase the heat until it begins to boil. Reduce the heat and simmer for another 10 minutes, adjust the heat accordingly. 
 7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
@@ -47,6 +49,8 @@ Cuisine: Indian, Pakistani
  ----
 
 ### ABOUT THE MEAL  
+
+Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chilis, and onions. 
 
 #### What main ingredients do I need for this meal? 
 
@@ -59,17 +63,24 @@ Cuisine: Indian, Pakistani
 * A [heavy-bottomed pan](https://amzn.to/3EXs3ZG)
 * A [meat chopper](https://amzn.to/2OoDZhv)
 
-#### How can I make qeema vegetarian? Can I make qeema vegan?
+#### How can I make qeema vegetarian? Can I make keema vegan?
 
 While this recipe isn't vegetarian or vegan, you can follow the same instructions and use a protein source like The Ultimate Beefless Ground from Gardein. Use beefless ground in place of the meat. To make the recipe vegan, you will also need to also replace the ghee. I suggest using grapeseed oil.
 
-#### Can I freeze qeema?
+#### What other types of keema are there?
+* Keema 
+* Aloo Keema 
+* Aloo Matar Keema
+* Mutton Keema Aloo 
+* Chicken Aloo Keema 
+
+#### Can I freeze keema?
 
 You sure can. First, allow the qeema to cool completely, and then add it to a freezer-safe container or bag. To prevent freezer burn, you can layer plastic wrap over the container before securing the lid. Qeema will freeze for up to 2 months. When you’re ready to eat, let it defrost in the frige overnight. To serve, warm it on the stove and prepare your sides.
 
 ----
 
-I hope you enjoy this recipe for quick and easy aloo qeema. If you try it, be sure to let us know what you think!
+I hope you enjoy this quick and easy aloo keema recipe. If you try it, be sure to let us know what you think!
 
 Other popular Indian recipes from The Jamil Ghar:
 * [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna_gosht/)
