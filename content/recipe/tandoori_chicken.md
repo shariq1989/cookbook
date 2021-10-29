@@ -100,15 +100,28 @@ Yes. Allow the chicken to cool completely, and then add it to a freezer-safe con
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, garam masala, red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
+
+{{< figure src="/images/tc1.jpeg" class="instructionFigure">}}
+
+
 2. Make 1-2 small slits in each chicken piece, and then toss them in the tandoori chicken marinade, along with the chopped onion, until coated. Cover and marinate in the fridge for at least 6 hours, preferably 24 hours. Yes, it is a long time, but it makes it oh so good. 
+
+{{< figure src="/images/tc2.jpeg" class="instructionFigure">}}
+
+
 3. Pre-heat the grill by setting all burners to high, about 10 minutes. 
 4. Turn off the rightmost burner, but maintain a grill temperature of 350 degrees.
 5. Oil the grates and cook the chicken on the hottest side of the grill; be sure to leave the excess marinade behind. Cook until they blister, about 5 minutes.
 6. Flip the chicken and cook for another 4-6 minutes. 
 7. Move the chicken to the cool side of the grill, the rightmost burner you turned off, and cook them for 25 minutes.
 8. Flip the chicken; continue cooking until the chicken has reached over 170 degrees, about 20-30 minutes. 
+
+{{< figure src="/images/tc3.jpeg" class="instructionFigure">}}
+
 9. Let the chicken rest for about 10 minutes before serving. 
 10. Garnish with [chutney](https://www.jamilghar.com/recipe/raita/) and serve with fresh naan, long-grained basmati rice, or a nice salad. 
+
+{{< figure src="/images/tc5.jpeg" class="instructionFigure">}}
 
 ----
 
