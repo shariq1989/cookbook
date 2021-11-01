@@ -1,6 +1,6 @@
 +++
 title = "Tandoori Murgh - Tandoori Chicken"
-date = "2021-02-09"
+date = "2021-10-31"
 description = "We love get-togethers with family and friends, and this tandoori chicken recipe is a perfect addition to any cookout, picnic, or backyard gathering. My recipe will teach you how to make tandoori chicken at home in two easy ways: grilled tandoori chicken or baked tandoori chicken. Enjoy this recipe our family loves."
 tags = [
     "entree",
