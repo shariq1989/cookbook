@@ -97,6 +97,8 @@ We love get-togethers with family and friends, and this tandoori chicken recipe 
 
 Yes. Allow the chicken to cool completely, and then add it to a freezer-safe container or bag. The chicken will freeze for up to 4 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm the chicken in the oven or microwave. 
 
+---- 
+
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika,  [garam masala]((https://www.jamilghar.com/recipe/pakistani_garam_masala/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
