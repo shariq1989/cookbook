@@ -21,6 +21,8 @@ Cuisine: American
 
 ----
 
+### How to Make Cucumber, Avocado, and Tomato Salad with Lime
+
 #### INGREDIENTS 
 
 * 6 Persian Cucumbers, sliced 
@@ -96,6 +98,7 @@ Sure, fresh dill is a great substitute. If you go this route, I suggest using le
 {{< figure src="/images/cat4.jpeg" class="instructionFigure">}}
 
 ----
+
 I hope you enjoy this easy cucumber, avocado, and tomato salad recipe. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
