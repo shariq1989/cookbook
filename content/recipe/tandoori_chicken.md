@@ -45,7 +45,7 @@ Cuisine: Pakistani, Indian
 
 #### TANDOORI CHICKEN IN THE OVEN 
 
-1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala]((https://www.jamilghar.com/recipe/pakistani_garam_masala/), red food powder, yogurt, lemon juice, garlic, and ginger paste until smooth. 
+1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/), red food powder, yogurt, lemon juice, garlic, and ginger paste until smooth. 
 2. Make 1-2 small slits in each chicken piece, and then toss them in the tandoori chicken marinade, along with the chopped onion, until coated. Cover and marinate in the fridge for at least 6 hours, preferably 24 hours. 
 3. Pre-heat the oven to 400 degrees, and then set a wire rack into a rimmed baking sheet; line the chicken onto it, leaving the excess marinade behind. 
 4. Cook for 25-35 minutes, flipping the chicken halfway through. Check to make sure the temperature has reached 160 degrees. 
@@ -54,7 +54,7 @@ Cuisine: Pakistani, Indian
 
 #### TANDOORI CHICKEN ON THE GRILL 
 
-1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala]((https://www.jamilghar.com/recipe/pakistani_garam_masala/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
+1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix the olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
 2. Make 1-2 small slits in each chicken piece, and then toss them in the tandoori chicken marinade, along with the chopped onion, until coated. Cover and marinate in the fridge for at least 6 hours, preferably 24 hours.
 3. Pre-heat the grill by setting all burners to high, for about 10 minutes. 
 4. Turn off the rightmost burner, but maintain an overall grill temperature of 350 degrees.
