@@ -3,7 +3,7 @@
 +++
 title = "Pan-Seared Blackened Mahi-Mahi with Mango Salsa"
 date = "2021-07-02"
-description = "If you're looking for a lean, healthy fish that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet on high heat. I garnish my mahi-mahi with fresh mango salsa, making for a perfect meal. Enjoy the best-blackened mahi-mahi recipe we make in our home on the regular! "
+description = "If you're looking for a healthy fish meal that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet on high heat. I garnish my mahi-mahi with fresh mango salsa, making for a perfect meal. I hope you enjoy the best-blackened mahi-mahi recipe we make in our home on the regular! "
 tags = [
     "entree",
     "low carb",
@@ -21,11 +21,20 @@ Cooking Time: 30 minutes
 
 Cuisine: American/Cajun 
 
-### HOW TO MAKE BLACKENED MAHI MAHI
+---- 
+
+### How to Make Blackened Mahi Mahi 
+
 #### INGREDIENTS 
+
+For the Fish: 
 
 * 5 Mahi-Mahi Filets, frozen
 * 1 tbsp Butter, melted 
+* 2 tbsp Avocado Oil 
+
+For the Blackened Mahi Mahi Seasoning: 
+
 * 1 1/2 tbsp Chili Powder 
 * 1 tbsp Garlic Powder
 * 1 tbsp Oregano 
@@ -34,15 +43,15 @@ Cuisine: American/Cajun
 * 1 1/2 tsp Cumin, ground 
 * 1 tsp Black Pepper, coarse ground 
 * 1 tsp Cayenne Pepper
-* 2 tbsp Avocado Oil 
+
 
 #### INSTRUCTIONS
 
-1. Defrost the Mahi-Mahi filet in water for just a few minutes before you're ready to eat. 
+1. Defrost the Mahi-Mahi filet in the water a few minutes before you're ready to eat. 
 2. Salt the filets and then dry them with a towel to remove excess moisture. 
 3. Lightly coat the fillets with melted butter. 
-4. Combine the spices in a small bowl, and then cover both sides of the fish with the seasoning. 
-5. Over medium-high heat, warm a [cast-iron skillet](https://amzn.to/3akLyxk) or heavy-bottomed pan with avocado oil.
+4. Combine the blackening spices in a small bowl, and then cover both sides of the fish with the seasoning. 
+5. Over medium-high heat, warm a [cast-iron skillet](https://amzn.to/3akLyxk) or [heavy-bottomed pan](https://amzn.to/3o6BkHn) with avocado oil.
 6. Once heated, carefully add the mahi-mahi fillets to the pan and cook for 3-4 minutes on each side. Cooking time may vary depending on the thickness of your filet. 
 7. To serve, garnish the filets with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/)
 
@@ -50,7 +59,7 @@ Cuisine: American/Cajun
 
 ### ABOUT THE MEAL
 
-If you're looking for a lean, healthy fish that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet on high heat. I garnish my mahi-mahi with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/), making for a perfect meal. Enjoy the best-blackened mahi-mahi recipe we make in our home on the regular! 
+If you're looking for a healthy fish meal that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet over high heat. I garnish my mahi-mahi with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). I hope you enjoy the best-blackened mahi-mahi recipe our family loves. 
 
 #### What main ingredients do I need for this meal?
 
@@ -64,11 +73,12 @@ If you're looking for a lean, healthy fish that doesn't taste too fishy, mahi-ma
 
 #### What equipment do I need to make this recipe?
 
-* A [cast-iron skillet](https://amzn.to/3akLyxk) or heavy-bottomed pan 
+* A [cast-iron skillet](https://amzn.to/3akLyxk) or [heavy-bottomed pan](https://amzn.to/3o6BkHn)
 
 #### How can I serve the mahi-mahi? 
 
 Oh, the options! Of course, you can serve it as is with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). 
+
 * Break up the cooked fish and add it to a warmed corn tortilla for a blackened mahi-mahi taco. Top it with [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/) for even more flavor. 
 
 * Serve the blackened mahi-mahi over rice or pilaf, or you can mix the fish with the rice and some black beans to make it a bowl. 
@@ -78,6 +88,7 @@ Oh, the options! Of course, you can serve it as is with fresh [mango salsa](http
 * Serve it as a blackened mahi-mahi sandwich on ciabatta bread with avocado, cabbage, butter lettuce, and [spicy mayo dressing](https://www.jamilghar.com/recipe/spicy_mayo_dressing/). 
 
 #### What to serve with blackened mahi-mahi? 
+
 * Rice or pilaf 
 * Risotto 
 * A bed of greens like watercress or arugula treated with olive oil, salt, and pepper. 
@@ -86,7 +97,7 @@ Oh, the options! Of course, you can serve it as is with fresh [mango salsa](http
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. Defrost the Mahi-Mahi filet in water for just a few minutes before you're ready to eat. 
+1. Defrost the Mahi-Mahi filet in the water a few minutes before you're ready to eat. 
 2. Salt the filets and then dry them with a towel to remove excess moisture. 
 3. Lightly coat the fillets with melted butter. 
 
@@ -94,21 +105,21 @@ Oh, the options! Of course, you can serve it as is with fresh [mango salsa](http
 
 {{< figure src="/images/bmm2.jpg" class="instructionFigure">}}
 
-4. Combine the spices in a small bowl and cover both sides of the fish with the seasoning. 
+4. Combine the blackening spices in a small bowl, and then cover both sides of the fish with the seasoning. 
 
 {{< figure src="/images/bmm3.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/bmm4.jpg" class="instructionFigure">}}
 
-5. Over medium-high heat, warm a [cast-iron skillet]((https://amzn.to/3akLyxk)) with avocado oil.
+5. Over medium-high heat, warm a [cast-iron skillet](https://amzn.to/3akLyxk) or [heavy-bottomed pan](https://amzn.to/3o6BkHn) with avocado oil.
 
 {{< figure src="/images/bmm5.jpg" class="instructionFigure">}}
 
-6. Once heated, carefully add the mahi-mahi fillets to the pan and cook for 3-4 minutes on each side.  Cooking time may vary depending on the thickness of your filet. 
+6. Once heated, carefully add the mahi-mahi fillets to the pan and cook for 3-4 minutes on each side. Cooking time may vary depending on the thickness of your filet. 
 
 {{< figure src="/images/bmm6.jpg" class="instructionFigure">}}
 
-7. To serve, garnish the filets with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). 
+7. To serve, garnish the filets with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/)
 
 {{< figure src="/images/Blakenedmahi.jpeg" class="instructionFigure">}}
 
@@ -116,7 +127,7 @@ Oh, the options! Of course, you can serve it as is with fresh [mango salsa](http
 
 I hope you enjoy this blackened mahi-mahi cast iron skillet recipe. If you try it, be sure to let us know what you think!
 
-Other seafood recipes from The Jamil Ghar:
+Other recipes from The Jamil Ghar:
 * [Peanut and Lime Shrimp](https://www.jamilghar.com/recipe/peanut_lime_shrimp/)
 * [Shrimp Etouffee](https://www.jamilghar.com/recipe/shrimp_etoufee/)
 * [Thai Panang Curry with Shrimp](https://www.jamilghar.com/recipe/shrimp_panang_curry/)
