@@ -6,17 +6,17 @@ tags = [
     "entree",
     "slow cooker", 
 ]
-#thumbnail= "images/stroganoff.jpg"
+thumbnail= "images/bachelorstroganoff.jpeg"
 +++
 
-Servings: 6 <!--more-->
+Servings: 6-8 <!--more-->
 
 Preparation Time: 15 minutes 
 
 Cooking Time: 
 
-* Dutch Oven: 30 minutes 
-* Crockpot: 4-6 hours
+* [Dutch Oven](https://amzn.to/3qf0Yfz): 30 minutes 
+* [Crockpot](https://amzn.to/3qetMos): 4-6 hours
 
 Cuisine: American 
 
@@ -32,7 +32,7 @@ Cuisine: American
 * 3 Garlic Cloves, minced 
 * ½ cup Bella Mushrooms, stems removed and sliced 
 * 2 cans Cream of Mushroom 
-* 1 package Onion Soup Mix
+* 1 package [Onion Soup Mix](https://amzn.to/3GXCZY9)
 * 1 package Egg Noodles, cooked according to the package
 * Sour Cream, to garnish
 * Kosher Salt, to taste 
@@ -40,16 +40,75 @@ Cuisine: American
 
 #### DUTCH OVEN INSTRUCTIONS 
 
-1. Generously season the beef with salt and pepper, and set it aside. 
-2. Warm butter in a dutch oven over medium heat. 
-3. Add a single layer of the reserved beef in the bottom of the dutch oven to brown, and then set it aside. Repeat until all the meat has had a chance to brown.  
-4. Next, add the onion, garlic, and mushrooms and sweat them until they begin to soften. 
-5. Stir in the two cans of cream of mushrrom and the onion soup mix. 
-6. Cover and cook for about 30 minutes over medium heat. 
-7. To serve, garnish with sour cream and serve with egg noodles, mash potatoes, or cauliflower mash. 
+1. Generously season beef with salt and pepper, and set it aside. 
+2. Warm butter in a [dutch oven](https://amzn.to/3qf0Yfz) over medium heat. 
+3. Add a single layer of the reserved beef to the bottom of the [dutch oven](https://amzn.to/3qf0Yfz). Cook until it browns, and then set it aside. Repeat until all the meat is seared.  
+4. Next, add the onion, garlic, and mushrooms. Sweat them over medium heat until they begin to soften. 
+5. Stir in the two cans of cream of mushroom and the onion soup mix, then return the meat to the [dutch oven](https://amzn.to/3qf0Yfz) and mix well.  
+6. Cover and cook for about 15-20 minutes; stir occasionally to prevent burning. 
+7. To serve, garnish with sour cream and serve with egg noodles, mash potatoes, or [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). 
 
 #### CROCKPOT INSTRUCTIONS 
 
-1. Add the beef and the rest of the ingredients to the crockpot. 
+1. Add the beef and the rest of the ingredients to the [cockpot](https://amzn.to/3qetMos). 
 2. Cook on low for 6 hours or high for 4 hours, depending on your preference.
-3. To serve, garnish with sour cream and serve with egg noodles, mash potatoes, or cauliflower mash. 
+3. To serve, garnish with sour cream and serve with egg noodles, mash potatoes, or [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). 
+
+ ----
+
+### ABOUT THE MEAL
+
+#### What main ingredients do I need for this meal?
+
+* Beef Short Ribs: I prefer how tender the beef short ribs turn out, but stew meat will work just fine for this meal. Be sure to adjust the cooking time accordingly, as stew meat will take longer to become tender. 
+
+* Onion 
+
+* Garlic 
+
+* Mushrooms: I use Bella; any mushroom will do, or you can skip them altogether. 
+
+* Cream of Mushroom 
+
+* Onion Soup Mix 
+
+* Egg Noodles 
+
+#### What equipment do I need to make this recipe?
+
+* A [dutch oven](https://amzn.to/3qf0Yfz) or [crockpot](https://amzn.to/3qetMos)
+
+### DUTCH OVEN INSTRUCTIONS: STEP-BY-STEP 
+
+1. Generously season the beef with salt and pepper, and set it aside. 
+
+{{< figure src="/images/bstro1.jpeg" class="instructionFigure">}}
+
+2. Warm butter in a [dutch oven](https://amzn.to/3qf0Yfz) over medium heat. 
+3. Add a single layer of the reserved beef to the bottom of the [dutch oven](https://amzn.to/3qf0Yfz). Cook until it browns, and then set it aside. Repeat until all the meat is seared.  
+
+{{< figure src="/images/bstro2.jpeg" class="instructionFigure">}}
+
+4. Next, add the onion, garlic, and mushrooms. Sweat them over medium heat until they begin to soften. 
+
+{{< figure src="/images/bstro3.jpeg" class="instructionFigure">}}
+
+5. Stir in the two cans of cream of mushroom and the onion soup mix, then return the meat to the [dutch oven](https://amzn.to/3qf0Yfz) and mix well.  
+
+{{< figure src="/images/bstro4.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/bstro5.jpeg" class="instructionFigure">}}
+
+6. Cover and cook for about 15-20 minutes; stir occasionally to prevent burning. 
+7. To serve, garnish with sour cream and serve with egg noodles, mash potatoes, or [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). 
+
+{{< figure src="/images/bstro6.jpeg" class="instructionFigure">}}
+
+----
+
+I hope you enjoy this recipe for beef stroganoff. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Cauliflower Mash](https://www.jamilghar.com/recipe/cauliflower_mash/) 
+* [Braised Short Ribs](https://www.jamilghar.com/recipe/braised_short_ribs/)
