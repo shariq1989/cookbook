@@ -1,6 +1,7 @@
 # This script optimizes and resizes any images in the optimize directory 
 # navigate out to the images directory
 echo "------Navigating to images dir----------------"
+git pull
 cd ..
 # move any JPG files larger than 1 MB to optimize dir
 echo "------Finding large files and moving them to optimize dir----------------"
