@@ -9,7 +9,7 @@ tags = [
     "low carb"
     
 ]
-thumbnail= "images/cauliflowermash.jpeg"
+thumbnail= "images/caul_mash.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -85,6 +85,8 @@ Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but i
 4. Add salt and pepper, to taste; your dish is ready to eat.
 
 {{< figure src="/images/cmash6.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cauliflowermash.jpeg" class="instructionFigure">}}
 
 ----
 
