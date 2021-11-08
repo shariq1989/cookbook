@@ -114,3 +114,5 @@ Other recipes from The Jamil Ghar:
 
 * [Cauliflower Mash](https://www.jamilghar.com/recipe/cauliflower_mash/) 
 * [Braised Short Ribs](https://www.jamilghar.com/recipe/braised_short_ribs/)
+* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi_roast/)
+* [Rindsgulasch](https://www.jamilghar.com/recipe/rindsgulasch/)
