@@ -31,7 +31,7 @@ Cooling Time: 30 minutes
 #### INSTRUCTIONS
 
  1. Slice the onions thinly and pack them into the bottom of a [glass jar](https://amzn.to/3ETyuvT). Set aside. 
- 2. In a saucepan, add the water, distilled vinegar, apple cider vinegar, salt, and honey. Whisk the ingredients together and bring them to a simmer over medium heat. 
+ 2. In a [saucepan](https://amzn.to/3mQuO8a), add the water, distilled vinegar, apple cider vinegar, salt, and honey. Whisk the ingredients together and bring them to a simmer over medium heat. 
  3. Place the [glass jar](https://amzn.to/3ETyuvT) in a sink and carefully pour the mixture over the onions.
  4. Use a spoon to press the onions down to remove any bubbles. 
  5. Allow the onions to cool for about 30 minutes before serving. 
@@ -53,20 +53,19 @@ Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red 
 #### What equipment do I need to make this recipe?
 
 * A [glass jar](https://amzn.to/3ETyuvT)
-* A saucepan 
+* A [saucepan](https://amzn.to/3mQuO8a) 
 
 #### Are pickled onions vegetarian? Are they vegan?
 
 This recipe is naturally vegetarian. To make it vegan, use sugar or syrup to sweeten the mixture instead of honey. 
 
-
 #### How do I store pickled onions?
 
-After the onions have cooled, seal the mason jar and refrigerate it. The onions will keep in the refrigerator for 2-3 weeks. 
+After the onions have cooled, seal the [glass jar](https://amzn.to/3ETyuvT) and refrigerate it. The onions will keep in the refrigerator for 2-3 weeks. 
 
-#### How can I use pickled onions? 
+#### How can I use pickled red onions? 
 
-Use pickled onions to dress up all sorts of Mexican dishes, like tacos or burritos. You can also add them to burgers, sandwiches, bean dishes, soups, pitas, and salads, or use them as a side to go along with BBQ pulled meats. 
+Use pickled onions to dress up all sorts of dishes, like tacos or burritos; they are great on our [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/). You can also add them to burgers, sandwiches, bean, lentils, soups, pitas, and salads, or use them as a side to go along with BBQ pulled meats like our [carnitas](https://www.jamilghar.com/recipe/carnitas/). 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -99,3 +98,4 @@ Other recipes from The Jamil Ghar:
 * [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/)
 * [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi_roast/) 
 * [Summer Salad Miz](https://www.jamilghar.com/recipe/summer_salad_mix/) 
+* [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
