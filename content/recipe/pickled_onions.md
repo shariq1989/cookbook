@@ -1,7 +1,7 @@
 +++
-title = "Pickled Red Onion"
+title = "Easy Pickled Red Onion"
 date = "2020-12-21"
-description = "Want to spice up your next salad, sandwich, taco, or burger? Transform raw red onions from pungent and crunchy to irresistibly tangy with this quick and easy pickled onion recipe."
+description = "Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red onions from pungent and crunchy to an irresistibly tangy topping with this recipe for quick pickled red onions."
 tags = [
     "side dish",
    
@@ -17,6 +17,8 @@ Cooling Time: 30 minutes
 
 ---- 
 
+### How to Make Quick Pickled Onions 
+
 #### INGREDIENTS 
 
 * 1 large Red Onion, thinly sliced, 1/4-inch
@@ -28,29 +30,29 @@ Cooling Time: 30 minutes
   
 #### INSTRUCTIONS
 
- 1. Slice the onions thinly and pack them into the bottom of a glass jar. Set aside. 
+ 1. Slice the onions thinly and pack them into the bottom of a [glass jar](https://amzn.to/3ETyuvT). Set aside. 
  2. In a saucepan, add the water, distilled vinegar, apple cider vinegar, salt, and honey. Whisk the ingredients together and bring them to a simmer over medium heat. 
- 3. Place the glass jar in a sink and carefully pour the mixture over the onions.
- 4. Use a spoon to press the onions into the mixture and remove any bubbles. 
+ 3. Place the [glass jar](https://amzn.to/3ETyuvT) in a sink and carefully pour the mixture over the onions.
+ 4. Use a spoon to press the onions down to remove any bubbles. 
  5. Allow the onions to cool for about 30 minutes before serving. 
 
 ---- 
 
 ### ABOUT THE SIDE 
 
-Want to spice up your next salad, sandwich, taco, or burger? Transform raw red onions from pungent and crunchy to irresistibly tangy with this quick and easy pickled onion recipe.
+Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red onions from pungent and crunchy to an irresistibly tangy topping with this recipe for quick pickled red onions.
 
-#### What main ingredients do I need for this meal?
+#### What main ingredients do I need for this side?
 
-* Red Onion: I like pickled red onion, but use whatever onion variety you prefer. Just be sure to slice the onions thinly; this helps them maintain crispness. You want them to be no thicker than 1/4-inch. 
+* Red Onions: I like pickled red onion, but use whatever onion variety you prefer. Be sure to slice the onions thinly; this helps them maintain crispness. You want them to be no thicker than 1/4-inch. 
 
 * Vinegar: I use a combination of apple cider vinegar and distilled white vinegar. 
 
-* Sweetener: I use honey in this recipe to balance the vinegar flavor, but you could substitute sugar or syrup. 
+* Sweetener: I use honey to balance the vinegar, but you can substitute sugar or syrup. 
 
 #### What equipment do I need to make this recipe?
 
-* A glass jar 
+* A [glass jar](https://amzn.to/3ETyuvT)
 * A saucepan 
 
 #### Are pickled onions vegetarian? Are they vegan?
@@ -68,7 +70,7 @@ Use pickled onions to dress up all sorts of Mexican dishes, like tacos or burrit
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
- 1. Slice the onions thinly and pack them into the bottom of a glass jar. Set aside. 
+ 1. Slice the onions thinly and pack them into the bottom of a [glass jar](https://amzn.to/3ETyuvT). Set aside. 
  
  {{< figure src="/images/po1.jpg" class="instructionFigure">}}
  
@@ -76,19 +78,24 @@ Use pickled onions to dress up all sorts of Mexican dishes, like tacos or burrit
  
  {{< figure src="/images/po2.jpg" class="instructionFigure">}}
  
- 3. Place the glass jar in a sink and carefully pour the mixture over the onions.
+ 3. Place the [glass jar](https://amzn.to/3ETyuvT) in a sink and carefully pour the mixture over the onions.
  
  {{< figure src="/images/po3.jpg" class="instructionFigure">}}
  
- 5. Use a spoon to press the onions to remove any bubbles. 
+ 4. Use a spoon to press the onions down to remove any bubbles. 
 
 {{< figure src="/images/po4.jpg" class="instructionFigure">}}
 
-6. Allow the onions to cool for about 30 minutes before serving. 
+ 5. Allow the onions to cool for about 30 minutes before serving. 
 
 {{< figure src="/images/po5.jpg" class="instructionFigure">}}
 
 ----
-I hope you enjoy this recipe for pickled red onions. If you try it, be sure to let us know what you think!
+
+I hope you enjoy this pickled onion recipe. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
+
+* [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/)
+* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi_roast/) 
+* [Summer Salad Miz](https://www.jamilghar.com/recipe/summer_salad_mix/) 
