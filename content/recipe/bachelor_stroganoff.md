@@ -1,7 +1,7 @@
 +++
 title = "Bachelor Beef Stroganoff"
 date = "2021-11-07"
-description = "What's in a name? You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a funny story with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, thew two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves."
+description = "What's in a name? You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a funny story with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, thew two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made traditional beef stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves."
 tags = [
     "entree",
     "slow cooker", 
@@ -58,21 +58,21 @@ Cuisine: American
 
 ### ABOUT THE MEAL
 
-What's in a name? You may be wondering why we call this dish "bachelor beef stroganoff". It's a funny story with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, thew two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves.
+What's in a name? You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a funny story with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, thew two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made traditional beef stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves.
 
-#### What main ingredients do I need for this meal?
+#### Beef Stroganoff Ingredients for this Recipe: 
 
-* Beef Short Ribs: I prefer how tender the beef short ribs turn out, but stew meat will work just fine for this meal. Be sure to adjust the cooking time accordingly, as stew meat will take longer to become tender. 
+* Beef Short Ribs: I prefer the tenderness of the beef short ribs, but regular stew meat will work just fine for this meal; that's what Shariq used to use for his batch meals. Most stores will even have the stew meat cut for you. Be sure to adjust the cooking time accordingly, as stew meat can take longer to become tender. 
 
 * Onion 
 
 * Garlic 
 
-* Mushrooms: I use Bella; any mushroom will do, or you can skip them altogether. 
+* Mushrooms: I use Bella for this recipe; any mushroom will do, or you can skip them altogether. 
 
 * Cream of Mushroom 
 
-* Onion Soup Mix 
+* [Onion Soup Mix](https://amzn.to/3GXCZY9)
 
 * Egg Noodles 
 
