@@ -1,7 +1,7 @@
 +++
 title = "Bachelor Beef Stroganoff"
 date = "2020-12-03"
-description = ""
+description = "What's in a name? You may be wondering why we call this dish bachelor beef stroganoff. It's a funny store with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, they alternated making batch meals. His roommate's specialty was meatballs, and Shariq made this stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, we hope you enjoy this recipe our family loves."
 tags = [
     "entree",
     "slow cooker", 
@@ -38,7 +38,7 @@ Cuisine: American
 * Kosher Salt, to taste 
 * Black Pepper, coarse ground, to taste
 
-#### DUTCH OVEN INSTRUCTIONS 
+#### DUTCH OVEN BEEF STROGANOFF INSTRUCTIONS 
 
 1. Generously season beef with salt and pepper, and set it aside. 
 2. Warm butter in a [dutch oven](https://amzn.to/3qf0Yfz) over medium heat. 
@@ -48,7 +48,7 @@ Cuisine: American
 6. Cover and cook for about 15-20 minutes; stir occasionally to prevent burning. 
 7. To serve, garnish with sour cream and serve with egg noodles, mash potatoes, or [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). 
 
-#### CROCKPOT INSTRUCTIONS 
+#### CROCKPOT BEEF STROGANOFF INSTRUCTIONS 
 
 1. Add the beef and the rest of the ingredients to the [cockpot](https://amzn.to/3qetMos). 
 2. Cook on low for 6 hours or high for 4 hours, depending on your preference.
@@ -57,6 +57,8 @@ Cuisine: American
  ----
 
 ### ABOUT THE MEAL
+
+What's in a name? You may be wondering why we call this dish bachelor beef stroganoff. It's a funny store with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, they alternated making batch meals. His roommate's specialty was meatballs, and Shariq made this stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, we hope you enjoy this recipe our family loves.
 
 #### What main ingredients do I need for this meal?
 
@@ -106,7 +108,7 @@ Cuisine: American
 
 ----
 
-I hope you enjoy this recipe for beef stroganoff. If you try it, be sure to let us know what you think!
+I hope you enjoy this easy beef stroganoff recipe. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
 
