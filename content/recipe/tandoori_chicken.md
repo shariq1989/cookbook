@@ -127,7 +127,7 @@ Yes. Allow the chicken to cool completely, and then add it to a freezer-safe con
 {{< figure src="/images/tc3.jpeg" class="instructionFigure">}}
 
 9. Let the chicken rest for 10 minutes before serving. 
-10. To serve, garnish the chicken with onion, lemon wedges, and [chutney](https://www.jamilghar.com/recipe/raita/). 
+10. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney](https://www.jamilghar.com/recipe/raita/). 
 
 {{< figure src="/images/tc5.jpeg" class="instructionFigure">}}
 
