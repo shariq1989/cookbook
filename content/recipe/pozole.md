@@ -1,7 +1,7 @@
 +++
-title = "Mexican Stew - Pozole Rojo"
+title = " Instant Pot Mexican Stew - Instant Pot Pozole Rojo"
 date = "2020-01-29"
-description = ""
+description = "Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chilis that flavor the broth. I hope you enjoy this pozole recipe our family loves."
 tags = [
     "entree",
     "instant pot",
@@ -61,6 +61,8 @@ For the Garnish:
 
 #### ABOUT THE MEAL 
 
+Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chilis that flavor the broth. I hope you enjoy this pozole recipe our family loves.
+
 #### What main ingredients do I need for this meal?
 
 * Pork Shoulder
@@ -75,9 +77,9 @@ For the Garnish:
 
 * An [Instant Pot](https://amzn.to/3taIo6v)
 
-#### Is pozole vegetarian? Is it vegan?
+#### Can I make a vegetarian Pozole? Vegan Pozole?
 
-We make pozole for many of our holiday meals, and I prepare pozole with hominy as the main ingredient since my sister is a vegetarian. Here are some adjustments you can make to this recipe to make it vegetarian and vegan-friendly. 
+I make pozole for many of our holiday meals, and I often prepare this pozole recipe with hominy as the main ingredient since my sister is a vegetarian. Here are some adjustments you can make to this recipe to make it vegetarian and vegan-friendly. 
 
 * Instead of Chicken Better than Bouillion, use [Vegetable Better than Bouillion](https://amzn.to/3dZTYx1)
 
