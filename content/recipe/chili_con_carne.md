@@ -144,6 +144,8 @@ You sure can. First, allow the dish to cool completely. Then add it to a freezer
 8. Secure the lid and cook on manual high pressure for 40 minutes with a 10 minute natural release. 
 9. To serve, garnish with onion, cilantro, cheese, and avocado. Serve with warm corn tortillas for a cozy touch. 
 
+{{< figure src="/images/cconc7.jpeg" class="instructionFigure">}}
+
 ----
 
 I hope you enjoy this easy chili con carne recipe. If you try it, be sure to let us know what you think!
