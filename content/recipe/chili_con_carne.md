@@ -1,6 +1,6 @@
 +++
 title = "Chili Con Carne"
-date = "2021-03-05"
+date = "2021-11-10"
 description = "My husband is a self-proclaimed chili-hater, and he absolutely loves this recipe! Chili Con Carne means 'chili with meat' and is made of tender beef, beans, and a variety of chilis for maximum flavor. Our authentic chili con carne recipe is easily prepared in the Instant Pot, dutch oven, or slow cooker. We hope you enjoy the best chili con carne recipe our family loves."
 tags = [
     "entree",
