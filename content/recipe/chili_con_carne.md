@@ -117,29 +117,29 @@ You sure can. First, allow the dish to cool completely. Then add it to a freezer
 
 1. Add the dried chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
 
-{{< figure src="/images/ccon1.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cconc1.jpeg" class="instructionFigure">}}
 
 2. Remove the chilis and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chilis and 2 tbsp of the sauce from the can. Mix thoroughly and set aside.
 
-{{< figure src="/images/ccon2.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cconc2.jpeg" class="instructionFigure">}}
 
 3. Season the chuck with salt and pepper. 
 4. Add oil to the [Instant Pot](https://amzn.to/3qfNYCZ) and then add a layer of beef chuck. Allow it to sear and form a crust. Repeat until all the meat has had a chance to brown. Set the meat aside. 
 
-{{< figure src="/images/ccon3.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cconc3.jpeg" class="instructionFigure">}}
 
 5. Add onions to the oil and cook until they become translucent and soften. Then, add the garlic and cook for another 1-2 minutes.
 
-{{< figure src="/images/ccon4.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cconc4.jpeg" class="instructionFigure">}}
 
 6. Stir in the cinnamon, cumin, allspice, and Mexican oregano. Cook untiL fragrant about 1-2 minutes.  
 
-{{< figure src="/images/ccon5.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cconc5.jpeg" class="instructionFigure">}}
 
 
 7. Add the reserved meat and chili puree, along with Worcestershire sauce, apple cider vinegar, fish sauce, black beans, and tomato paste to the [Instant Pot](https://amzn.to/3qfNYCZ). 
 
-{{< figure src="/images/ccon6.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cconc6.jpeg" class="instructionFigure">}}
 
 8. Secure the lid and cook on manual high pressure for 40 minutes with a 10 minute natural release. 
 9. To serve, garnish with onion, cilantro, cheese, and avocado. Serve with warm corn tortillas for a cozy touch. 
