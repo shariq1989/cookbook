@@ -29,7 +29,7 @@ then
 	# navigate out to root directory
 	cd ../../..
 	git add *
-	git commit -m "optimized images"
+	git commit -m "Pi optimized images"
 	git push
 else
 	echo "------No images to optimize, aborting----------------"
