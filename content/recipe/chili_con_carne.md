@@ -150,7 +150,7 @@ You sure can. First, allow the dish to cool completely. Then add it to a freezer
 
 2. Remove the chilis and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chilis and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
 
-{{< figure src="/images/cconc2.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cconc2.jpeg..jpeg" class="instructionFigure">}}
 
 3. Season the chuck with salt and pepper. 
 4. Add oil to the [Instant Pot](https://amzn.to/3qfNYCZ) and then add a layer of beef chuck. Allow the meat to sear and form a crust. Repeat until all the chuck has had a chance to brown. Set the meat aside. 
