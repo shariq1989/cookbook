@@ -6,7 +6,7 @@ tags = [
     "entree",
     "instant pot"
 ]
-thumbnail= "images/beefandchickpea.jpg"
+thumbnail= "images/beef_vegetable_soup.jpeg"
 +++
 
 Servings: 6 <!--more-->
@@ -52,7 +52,7 @@ Cuisine: American
 2. In a small bowl, combine the salt, pepper, red chili flakes, and garlic powder. Then, add it to the meat. 
 3. Next, add onion, garlic, carrots, leeks, potatoes, and cabbage to the meat, and cook over medium heat for 5 minutes until the vegetables soften. 
 4. Stir in the peas, followed by the tomato puree and tomato paste. 
-5. Add the water and [Beef Better Than Bouillion]. Cover and allow the soup to cook for 20 minutes. Adjust the temperature to maintain a gentle simmer. 
+5. Add the water, [Beef Better Than Bouillion], and bay leaves. Cover and allow the soup to cook for 20 minutes. Adjust the temperature to maintain a gentle simmer. 
 6. Finish the soup with fish sauce and soy sauce. Stir to combine and allow the soup to cook for another few minutes.
 
 #### INSTANT POT INSTRUCTIONS
@@ -61,7 +61,7 @@ Cuisine: American
 2. In a small bowl, combine the salt, pepper, red chili flakes, and garlic powder. Then, add it to the meat. 
 3. Next, add onion, garlic, carrots, leeks, potatoes, and cabbage to the meat, and cook for 5 minutes until the vegetables soften. 
 4. Stir in the peas, followed by the tomato puree and tomato paste. 
-5. Add the water and [Beef Better Than Bouillion]. Secure the lid and set the [Instant Pot](https://amzn.to/3oosTap) high pressure for 10 minutes with quick release. 
+5. Add the water, [Beef Better Than Bouillion], and bay leaves. Secure the lid and set the [Instant Pot](https://amzn.to/3oosTap) high pressure for 10 minutes with quick release. 
 6. Finish the soup with fish sauce and soy sauce. Stir to combine and allow the soup to cook for another few minutes.
 
  ----
@@ -98,6 +98,40 @@ Cuisine: American
 #### Can I freeze Beef and Vegetable Soup?
 
 You sure can. First, allow the soup to cool completely, and then add it to a freezer-safe container or bag. Beef and Vegetable Soup will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove, and enjoy.
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+1. Warm oil over medium heat in a [heavy-bottomed pan](https://amzn.to/3HirFG8) or [dutch oven](https://amzn.to/3ol6U4e). Then, add the ground beef breaking it up with a [meat chopper](https://amzn.to/3HcA1zb) until finely minced. Continue cooking until beef browns, about 8 minutes.
+
+{{< figure src="/images/vb1.jpeg" class="instructionFigure">}}
+
+2. In a small bowl, combine the salt, pepper, red chili flakes, and garlic powder. Then, add it to the meat. 
+
+{{< figure src="/images/vb2.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/vb3.jpeg" class="instructionFigure">}}
+
+3. Next, add onion, garlic, carrots, leeks, potatoes, and cabbage to the meat, and cook over medium heat for 5 minutes until the vegetables soften. 
+
+{{< figure src="/images/vb4.jpeg" class="instructionFigure">}}
+
+4. Stir in the peas, followed by the tomato puree and tomato paste. 
+
+{{< figure src="/images/vb5.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/vb6.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/vb7.jpeg" class="instructionFigure">}}
+
+5. Add the water, [Beef Better Than Bouillion], and bay leaves. Cover and allow the soup to cook for 20 minutes. Adjust the temperature to maintain a gentle simmer. 
+
+{{< figure src="/images/vb8.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/vb9.jpeg" class="instructionFigure">}}
+
+6. Finish the soup with fish sauce and soy sauce. Stir to combine and allow the soup to cook for another few minutes.
+
+{{< figure src="/images/vb10.jpeg" class="instructionFigure">}}
 
 ----
 
