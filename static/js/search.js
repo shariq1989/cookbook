@@ -74,9 +74,10 @@ function renderSearchResults(results) {
     if (results.length > 0) {
         results.forEach(function (result) {
             // Create result item
-            var li = document.createElement('li');
-            li.innerHTML = '<a href="' + resultDetails[result.ref].href + '">' + result.ref + '</a><br>' + resultDetails[result.ref].description;
-            ul.appendChild(li);
+            var p = document.createElement('p');
+            p.innerHTML = '<a style="color:#486b3d;font-weight: bolder;font-size: larger;" href="' + resultDetails[result.ref].href + '">' + result.ref + '</a><br>' +
+                '<span style="font-weight: lighter;font-size: large;padding-bottom: 1em;">' + resultDetails[result.ref].description + '</span>';
+            ul.appendChild(p);
         });
 
         // Remove any existing content so results aren't continually added as the user types
