@@ -1,7 +1,7 @@
 +++
-title = "Beef and Vegetable Soup"
+title = "Hamburger Vegetable Soup"
 date = "2021-11-13"
-description = ""
+description = "You will love this homemade vegetable soup with ground beef. It's packed with hearty vegetables, like onions, carrots, potatoes, leeks, cabbage, and peas, but feel free to use what you have on hand. This soup can easily be made on the stove-top or in the Instant Pot and is great for a quick and easy weeknight meal. I hope you enjoy this easy hamburger vegetable soup our family loves."
 tags = [
     "entree",
     "instant pot"
@@ -21,7 +21,7 @@ Cuisine: American
 
 ----
 
-### How to Make Beef and Vegetable Soup 
+### How to Make Hamburger Vegetable Soup 
 
 #### INGREDIENTS 
 
@@ -46,7 +46,7 @@ Cuisine: American
 * 1 tsp [Fish Sauce](https://amzn.to/3opawlw)
 * 2 tsp Soy Sauce 
   
-#### STOVE TOP INSTRUCTIONS
+#### STOVE TOP HAMBURGER VEGETABLE SOUP INSTRUCTIONS
 
 1. Warm oil over medium heat in a [heavy-bottomed pan](https://amzn.to/3HirFG8) or [dutch oven](https://amzn.to/3ol6U4e). Then, add the ground beef breaking it up with a [meat chopper](https://amzn.to/3HcA1zb) until finely minced. Continue cooking until beef browns, about 8 minutes.
 2. In a small bowl, combine the salt, pepper, red chili flakes, and garlic powder. Then, add it to the meat. 
@@ -55,7 +55,7 @@ Cuisine: American
 5. Add the water, [Beef Better Than Bouillion], and bay leaves. Cover and allow the soup to cook for 20 minutes. Adjust the temperature to maintain a gentle simmer. 
 6. Finish the soup with fish sauce and soy sauce. Stir to combine and allow the soup to cook for another few minutes.
 
-#### INSTANT POT INSTRUCTIONS
+#### INSTANT POT HAMBURGER VEGETABLE SOUP INSTRUCTIONS
 
 1. Warm oil in an [Instant Pot](https://amzn.to/3oosTap) on saute mode. Then, add the ground beef breaking it up with a [meat chopper](https://amzn.to/3HcA1zb) until finely minced. Continue cooking until beef browns, about 8 minutes.
 2. In a small bowl, combine the salt, pepper, red chili flakes, and garlic powder. Then, add it to the meat. 
@@ -68,15 +68,17 @@ Cuisine: American
 
 ### ABOUT THE MEAL
 
+You will love this homemade vegetable soup with ground beef. It's packed with hearty vegetables, like onions, carrots, potatoes, leeks, cabbage, and peas, but feel free to use what you have on hand. This soup can easily be made on the stove-top or in the Instant Pot and is great for a quick and easy weeknight meal. I hope you enjoy this easy hamburger vegetable soup our family loves.
+
 #### What main ingredients do I need for this meal?
 
-* Ground Beef 
+* Ground Beef: Use lean ground beef, so there is no need to drain the excess grease.
 
-* Onion 
+* Onion: Use a yellow or white onion in this recipe. 
 
 * Garlic 
 
-* Vegetables: I use carrots, potatoes, leeks, cabbage, and peas in the soup recipe, but it is felxibel, so I say use what you have and what you think would go well in the soup. 
+* Vegetables: I use carrots, potatoes, leeks, cabbage, and peas in the soup recipe, but it is flexible, so use what you have. If you're really in a pinch, I recommend buying a frozen bag of mixed vegetables and using that. 
 
 * [Beef Better than Bouillion](https://amzn.to/3Hbz6z0) 
 
@@ -97,7 +99,7 @@ Cuisine: American
 
 #### Can I freeze Beef and Vegetable Soup?
 
-You sure can. First, allow the soup to cool completely, and then add it to a freezer-safe container or bag. Beef and Vegetable Soup will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove, and enjoy.
+Yes, this homemade hamburger vegetable soup freezes perfectly! First, allow the soup to cool completely, and then add it to a freezer-safe container or bag. This soup will freeze for up to 3 months. I suggest making extra and freezing it for an easy meal later on. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove, and enjoy.
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -135,9 +137,9 @@ You sure can. First, allow the soup to cool completely, and then add it to a fre
 
 ----
 
-I hope you enjoy this recipe for Beef and Vegetable Soup. If you try it, be sure to let us know what you think!
+I hope you enjoy this easy Hamburger Vegetable Soup recipe. If you try it, be sure to let us know what you think!
 
-Other hearty recipes from The Jamil Ghar:
+Other soup and stew recipes from The Jamil Ghar:
 
 * [Chili Con Carne](https://www.jamilghar.com/recipe/chili_con_carne/)
 * [Kedjenou](https://www.jamilghar.com/recipe/kedjenou/)
