@@ -1,6 +1,6 @@
 +++
 title = "Pumpkin Bars with Cream Cheese Frosting"
-date = "2020-01-27"
+date = "2021-11-16"
 description = "Let it be known- I am not a fan of anything pumpkin, including dessert. However, a few Christmases ago, our sweet neighbor delivered the best pumpkin bars for our family to enjoy. To my surprise and that of my husband, I gave them a try. I am so glad that I did. She lured me in with the cream cheese frosting, but the whole bar was absolutely delicious. This easy pumpkin bar recipe is an ode to my sweet neighbor, Marilyn. I hope you enjoy this to-die-for pumpkin bar recipe as much as I did."
 tags = [
     "dessert",
