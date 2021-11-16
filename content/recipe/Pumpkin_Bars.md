@@ -11,9 +11,11 @@ tags = [
 
 Servings: 5 <!--more-->
 
-Preparation Time: 15 minutes 
+Preparation Time: 10 minutes 
 
-Cooking Time: 45 minutes
+Cooking Time: 25 minutes
+
+Cooling Time: 20 minutes 
 
 Cuisine: American
 
@@ -28,8 +30,8 @@ For the Pumpkin Bar:
 * 1 cup Butter, unsalted, cut into tbsp pieces
 * 4 Eggs 
 * 2 cup [Pumpkin Puree](https://amzn.to/38hGCJ1), canned
-* 2 cup Sugar, white granulated 
-* 2 cup Flour, All-Purpose 
+* 2 cup White Sugar, granulated 
+* 2 cup Flour, all-purpose 
 * 2 tsp Baking Powder 
 * 1 tsp Baking Soda 
 * ½ tsp Salt 
@@ -47,15 +49,15 @@ For the Cream Cheese Frosting:
 #### INSTRUCTIONS 
 
 1. Pre-heat oven to 350 degrees. 
-2. Mix dry ingredients for the bars together in a large mixing bowl. Set aside. 
-3. In a microwave-safe bowl, melt the butter, and allow it to cool slightly. 
-4. In another large mixing bowl, mix the wet ingredients with the white sugar using a [hand mixer](https://amzn.to/3rZWFmo). 
-5. Combine the dry ingredients with the bowl of wet ingredients, folding all of the ingredients together until fully combined. 
-6. Pour the mixture into a prepared [rimmed baking sheet](https://amzn.to/3s7YJJj). 
+2. Mix dry ingredients for the bars in a large [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
+3. In a microwave-safe [bowl](https://amzn.to/3wMkYre), melt butter, and then allow it to cool slightly. 
+4. Add the wet ingredients and white sugar to another [mixing bowl](https://amzn.to/3DjHZUY), and blend using a [hand mixer](https://amzn.to/3rZWFmo). 
+5. Using a [spatula](https://amzn.to/3FliYJq), fold the dry and wet ingredients together.
+6. Pour the mixture into a prepared [rimmed jelly sheet](https://amzn.to/3s7YJJj). 
 7. Bake for 25 minutes. 
-8. While the bars are baking, mix the ingredients for the frosting in a small bowl using a hand mixer. Begin on a low speed and set them aside at room temperature. 
-9. Remove the bars from the oven and let them stand for 15-20 minutes. 
-10. Once the bars have cooled completely, drizzle them with frosting and garnish with powdered sugar to serve. 
+8. While the bars bake, mix the ingredients for the frosting in a small bowl using a [hand mixer](https://amzn.to/3rZWFmo). Begin on low speed and increase speed until the frosting becomes light and fluffy. Set aside at room temperature. 
+9. Remove the bars from the oven and let them cool for 15-20 minutes. 
+10. Once the bars have cooled completely,  cover them with frosting and garnish with cinnamon to serve. 
 
 ---- 
 
@@ -68,6 +70,7 @@ Let it be known- I am not a fan of anything pumpkin, including dessert. However,
 * A microwave-safe [bowl](https://amzn.to/3wMkYre)
 * 2 large [mixing bowls](https://amzn.to/3DjHZUY) and 1 small bowl
 * A [handmixer](https://amzn.to/3rZWFmo)
+*  A [spatula](https://amzn.to/3FliYJq)
 * A [rimmed jelly sheet](https://amzn.to/3s7YJJj)
 
 ---- 
