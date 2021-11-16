@@ -6,7 +6,7 @@ tags = [
     "dessert",
    
 ]
-#thumbnail= "images/pumpkin bars.jpg"
+thumbnail= "images/pumpkinbars.jpeg"
 +++
 
 Servings: 5 <!--more-->
@@ -49,15 +49,15 @@ For the Cream Cheese Frosting:
 #### INSTRUCTIONS 
 
 1. Pre-heat oven to 350 degrees. 
-2. Mix dry ingredients for the bars in a large [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
+2. Mix the dry ingredients for the bars in a large [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
 3. In a microwave-safe [bowl](https://amzn.to/3wMkYre), melt butter, and then allow it to cool slightly. 
-4. Add the wet ingredients and white sugar to another [mixing bowl](https://amzn.to/3DjHZUY), and blend using a [hand mixer](https://amzn.to/3rZWFmo). 
-5. Using a [spatula](https://amzn.to/3FliYJq), fold the dry and wet ingredients together.
+4. Combine the wet ingredients and white sugar to another [mixing bowl](https://amzn.to/3DjHZUY), and blend using a [hand mixer](https://amzn.to/3rZWFmo). 
+5. Using a [spatula](https://amzn.to/3FliYJq), fold the dry and wet ingredients together. Don't over mix. 
 6. Pour the mixture into a prepared [rimmed jelly sheet](https://amzn.to/3s7YJJj). 
 7. Bake for 25 minutes. 
 8. While the bars bake, mix the ingredients for the frosting in a small bowl using a [hand mixer](https://amzn.to/3rZWFmo). Begin on low speed and increase speed until the frosting becomes light and fluffy. Set aside at room temperature. 
 9. Remove the bars from the oven and let them cool for 15-20 minutes. 
-10. Once the bars have cooled completely,  cover them with frosting and garnish with cinnamon to serve. 
+10. Once the bars have cooled completely, cover them with frosting and garnish with cinnamon to serve. 
 
 ---- 
 
@@ -72,6 +72,41 @@ Let it be known- I am not a fan of anything pumpkin, including dessert. However,
 * A [handmixer](https://amzn.to/3rZWFmo)
 *  A [spatula](https://amzn.to/3FliYJq)
 * A [rimmed jelly sheet](https://amzn.to/3s7YJJj)
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+1. Pre-heat oven to 350 degrees. 
+2. Mix the dry ingredients for the bars in a large [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
+
+{{< figure src="/images/pum2.jpeg" class="instructionFigure">}}
+
+3. In a microwave-safe [bowl](https://amzn.to/3wMkYre), melt butter, and then allow it to cool slightly. 
+
+{{< figure src="/images/pum1.jpeg" class="instructionFigure">}}
+
+4. Combine the wet ingredients and white sugar to another [mixing bowl](https://amzn.to/3DjHZUY), and blend using a [hand mixer](https://amzn.to/3rZWFmo). 
+
+{{< figure src="/images/pum3.jpeg" class="instructionFigure">}}
+
+5. Using a [spatula](https://amzn.to/3FliYJq), fold the dry and wet ingredients together. Don't over mix. 
+6. Pour the mixture into a prepared [rimmed jelly sheet](https://amzn.to/3s7YJJj). 
+
+{{< figure src="/images/pum4.jpeg" class="instructionFigure">}}
+
+7. Bake for 25 minutes. 
+8. While the bars bake, mix the ingredients for the frosting in a small bowl using a [hand mixer](https://amzn.to/3rZWFmo). Begin on low speed and increase speed until the frosting becomes light and fluffy. Set aside at room temperature. 
+
+{{< figure src="/images/pum5.jpeg" class="instructionFigure">}}
+
+9. Remove the bars from the oven and let them cool for 15-20 minutes. 
+
+{{< figure src="/images/pum6.jpeg" class="instructionFigure">}}
+
+10. Once the bars have cooled completely, cover them with frosting and garnish with cinnamon to serve.
+
+{{< figure src="/images/pum7.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/pum8.jpeg" class="instructionFigure">}}
 
 ---- 
 
