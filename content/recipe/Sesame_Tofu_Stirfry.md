@@ -1,7 +1,7 @@
 +++
-title = "Sesame Mushroom and Tofu Stir-Fry"
+title = "Sesame Tofu and Mushroom Stir-Fry"
 date = "2021-03-15"
-description = ""
+description = "This savory tofu and mushroom stir-fry comes together in about 30 minutes and serves as a perfect vegetarian or vegan main dish. The crispy tofu absorbs the earthy mushroom and sesame flavor for a hearty and filling meal. I hope you enjoy this recipe that is on regular rotation in our home."
 tags = [
     "entree",
     "low carb",
