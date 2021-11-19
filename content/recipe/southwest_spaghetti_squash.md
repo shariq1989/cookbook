@@ -35,9 +35,9 @@ For the Southwest Filling:
 * 1 lb Ground Beef, lean
 * 1 Yellow Onion, diced 
 * 3 Garlic Cloves, minced 
-* 3 tbsp Taco Seasoning 
-* 1 tbsp Chipotle Pepper Powder 
-* 1/2 tsp Mexican Oregano 
+* 3 tbsp [Taco Seasoning](https://amzn.to/3coNB4f)
+* 1 tbsp [Chipotle Pepper Powder](https://amzn.to/3HCpSfA)
+* 1/2 tsp [Mexican Oregano](https://amzn.to/3oLQKkG) 
 * 1 tsp Kosher Salt 
 * 1 cup Cherry Tomato, halved 
 * 1 cup Kale, stems removed and chopped 
@@ -52,18 +52,18 @@ For the Topping:
 * Serrano Chilis, thinly sliced 
 * Sour Cream 
   
-#### STOVE-TOP INSTRUCTIONS
+#### INSTRUCTIONS
 
 For the Baked Spaghetti Squash: 
 
 1. Preheat the oven to 400 degrees. 
-2. Place the halved spaghetti squash on a rimmed baking. Drizzle both sides with olive oil and season with salt and pepper. Turn them over so that the insides are facing down on the baking sheet. 
+2. Place the halved spaghetti squash on a [rimmed baking sheet](https://amzn.to/3oXRaVd). Drizzle both sides with olive oil and season with salt and pepper. Turn them over so that the insides are facing down on the baking sheet. 
 3. Bake for 40 minutes until you can easily pierce the flesh with a fork.  
 4. Remove from the oven and allow the squash to cool. Then, use a fork fluff to separate the strands.
 
 For the Southwest Filling: 
 
-1. While the squash is baking, warm oil in a saute pan over medium heat. 
+1. While the squash is baking, warm oil in a [saute pan](https://amzn.to/3wWoZtf) over medium heat. 
 2. Add the ground beef and break it up with a meat chopper; cook until browned and heated through for about 10 minutes. Then add the onions and cook until they begin to soften. 
 3. Next, add the taco seasoning, chipotle pepper powder, and Mexican oregano; stir to combine. 
 4. Stir in the tomatoes, kale, and black beans. Cook for another 5 minutes. Remove from heat and set aside. 
