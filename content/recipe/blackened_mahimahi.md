@@ -19,7 +19,7 @@ Preparation Time: 15 minutes
 
 Cooking Time: 30 minutes 
 
-Cuisine: American/Cajun 
+Cuisine: American, Cajun 
 
 ---- 
 
@@ -29,7 +29,7 @@ Cuisine: American/Cajun
 
 For the Fish: 
 
-* 5 Mahi-Mahi Filets, frozen
+* 5 Mahi Mahi Filets, frozen
 * 1 tbsp Butter, melted 
 * 2 tbsp Avocado Oil 
 
@@ -47,19 +47,19 @@ For the Blackened Mahi Mahi Seasoning:
 
 #### INSTRUCTIONS
 
-1. Defrost the Mahi-Mahi filet in the water a few minutes before you're ready to eat. 
-2. Salt the filets and then dry them with a towel to remove excess moisture. 
+1. Defrost the mahi-mahi filet in the water a few minutes before you're ready to eat. 
+2. Salt the filets, allow them to sit for about 5 minutes, and then dry them with a towel to remove excess moisture. 
 3. Lightly coat the fillets with melted butter. 
 4. Combine the blackening spices in a small bowl, and then cover both sides of the fish with the seasoning. 
 5. Over medium-high heat, warm a [cast-iron skillet](https://amzn.to/3akLyxk) or [heavy-bottomed pan](https://amzn.to/3o6BkHn) with avocado oil.
-6. Once heated, carefully add the mahi-mahi fillets to the pan and cook for 3-4 minutes on each side. Cooking time may vary depending on the thickness of your filet. 
-7. To serve, garnish the filets with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/)
+6. Once heated, carefully add a mahi-mahi filet to the pan and cook for 3-4 minutes on each side. Cooking time may vary depending on the thickness of your filet. Continue until all your fish has cooked. 
+7. To serve, garnish the filets with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/), and enjoy!
 
 ----
 
 ### ABOUT THE MEAL
 
-If you're looking for a healthy fish meal that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet over high heat. I garnish my mahi-mahi with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). I hope you enjoy the best-blackened mahi-mahi recipe our family loves. 
+If you're looking for a healthy seafood meal that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet over high heat. I garnish my mahi-mahi with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). I hope you enjoy the best-blackened mahi-mahi recipe our family loves. 
 
 #### What main ingredients do I need for this meal?
 
@@ -67,7 +67,7 @@ If you're looking for a healthy fish meal that doesn't taste too fishy, mahi-mah
 
 * Butter 
 
-* Blackened Mahi-mahi Seasonings: Blackening is a cooking technique often used in Cajun cooking to prepare fish. I use a tasty combination of chili powder, garlic powder, oregano, smoked paprika, salt, cumin, black pepper, and cayenne pepper to season the fish. This seasoning and process work well with other varieties of fish, shrimp, and chicken.
+* Blackened Mahi-mahi Seasonings: Blackening is a technique often used in Cajun cooking to prepare fish and other meat. I use a tasty combination of chili powder, garlic powder, oregano, smoked paprika, salt, cumin, black pepper, and cayenne pepper to season the fish. This seasoning and process work well with other varieties of fish, shrimp, and chicken.
 
 * [Mango Salsa](https://www.jamilghar.com/recipe/mango_salsa/)
 
@@ -77,13 +77,13 @@ If you're looking for a healthy fish meal that doesn't taste too fishy, mahi-mah
 
 #### How can I serve the mahi-mahi? 
 
-Oh, the options! Of course, you can serve it as is with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). 
+Oh, the options! Of course, you can serve it with our fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/), and that is our personal favorite. 
 
-* Break up the cooked fish and add it to a warmed corn tortilla for a blackened mahi-mahi taco. Top it with [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/) for even more flavor. 
+* Break up the cooked fish and add it to a warmed corn tortilla for a blackened mahi-mahi taco. Top the taco with [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/) for even more flavor. 
 
 * Serve the blackened mahi-mahi over rice or pilaf, or you can mix the fish with the rice and some black beans to make it a bowl. 
 
-* Blackened Mahi-mahi would be a great addition to any salad.
+* Blackened mahi-mahi would be a great addition to any salad.
 
 * Serve it as a blackened mahi-mahi sandwich on ciabatta bread with avocado, cabbage, butter lettuce, and [spicy mayo dressing](https://www.jamilghar.com/recipe/spicy_mayo_dressing/). 
 
@@ -98,7 +98,7 @@ Oh, the options! Of course, you can serve it as is with fresh [mango salsa](http
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Defrost the Mahi-Mahi filet in the water a few minutes before you're ready to eat. 
-2. Salt the filets and then dry them with a towel to remove excess moisture. 
+2. Salt the filets, allow them to sit for about 5 minutes, and then dry them with a towel to remove excess moisture. 
 3. Lightly coat the fillets with melted butter. 
 
 {{< figure src="/images/bmm1.jpg" class="instructionFigure">}}
@@ -115,11 +115,10 @@ Oh, the options! Of course, you can serve it as is with fresh [mango salsa](http
 
 {{< figure src="/images/bmm5.jpg" class="instructionFigure">}}
 
-6. Once heated, carefully add the mahi-mahi fillets to the pan and cook for 3-4 minutes on each side. Cooking time may vary depending on the thickness of your filet. 
-
+6.  Once heated, carefully add a mahi-mahi filet to the pan and cook for 3-4 minutes on each side. Cooking time may vary depending on the thickness of your filet. Continue until all your fish has cooked. 
 {{< figure src="/images/bmm6.jpg" class="instructionFigure">}}
 
-7. To serve, garnish the filets with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/)
+7. To serve, garnish the filets with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/), and enjoy! 
 
 {{< figure src="/images/Blakenedmahi.jpeg" class="instructionFigure">}}
 
