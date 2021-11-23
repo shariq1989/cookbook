@@ -1,7 +1,9 @@
+
+
 +++
 title = "Beef and Chickpea Stew"
-date = "2021-03-12"
-description = "This Moroccan beef and chickpea stew recipe is both flavorful and hearty."
+date = "2021-11-22"
+description = "This Moroccan-inspired beef and chickpea stew are both flavorful and hearty. We hope you enjoy this stew our family loves."
 tags = [
     "entree",
     "instant pot"
@@ -17,48 +19,50 @@ Cooking Time: 1 hour, 45 minutes
 
 Cuisine: Moroccan 
 
+---- 
+
 #### INGREDIENTS 
 
 * 1 tbsp [Sweet Paprika](https://amzn.to/30GYLeZ)
-* 1/2 tsp Turmeric
+* 1/2 tsp [Turmeric](https://amzn.to/3kXm5Qg)
 * 2 tbsp Cumin, ground
 * 1 tsp Green Cardamom, ground
 * 1 tsp Cinnamon, ground
-* Kosher Salt and Ground Black Pepper, to taste
-* 1 lb Chuck Short Rib, trimmed of fat and cut into 1-inch pieces 
+* Kosher Salt, to taste 
+* Black Pepper, coarse ground, to taste
+* 1 lb Short Rib, boneless, trimmed of fat, and cut into 1-inch pieces 
 * 1 Garlic Head 
-* 2 tbsp Salted Butter
+* 2 tbsp Butter, salted
 * 1 Large Yellow Onion, diced 
 * 2 tbsp Tomato Paste
 * 1 tsp [Marmite](https://amzn.to/3cjVzes)
 * 6 cup Water
-* 1 tbsp Beef Better Than Bouillion
+* 1 tbsp Beef [Better Than Bouillion](https://amzn.to/3HERalr) 
 * 1 cup Baby Carrots
 * 1- 15½ oz can of Chickpeas, drained and rinsed
 * 3 cup Baby Spinach
-* 2 tbsp Lemon Juice
-* Garnish with Plain Yogurt
+* 2 tbsp Lemon Juice, about 2 lemons 
+* Plain Yogurt, for garnish
   
 #### STOVE-TOP INSTRUCTIONS 
 
-1. In a small bowl, mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
+1. Mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
-3. In a large dutch oven, over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
-4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil over high heat, then add the beef, and garlic head, cut side down. 
+3. In a [dutch oven](https://amzn.to/3DIlKbp), over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring the pot to a boil over high heat, then add the beef, and garlic head, cut side down. 
 5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
-6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
+6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Use a whisk to blend. 
 7. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
-8. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
+8. Add the lemon juice, season with salt and pepper, and garnish with yogurt. 
 
 #### INSTANT POT INSTRUCTIONS
 
-1. In a small bowl, mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside. 
-2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
-3. In an [Instant Pot](https://amzn.to/3rRWIjZ),  melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+1. Mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside.  2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
+3. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
 4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down. 
-5. Secure the lid and set the Instant Pot to manual low pressure for 50 minutes with a quick release.  
-6. Add the carrots, secure the lid, and set the Instant Pot to manual low pressure for 3 minutes with a quick release. 
-7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
+5. Secure the lid and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 50 minutes with a quick release.  
+6. Add the carrots, secure the lid, and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 3 minutes with a quick release. 
+7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Use a whisk to blend. 
 8. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
 9. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
@@ -66,40 +70,37 @@ Cuisine: Moroccan
 
 ### ABOUT THE MEAL
 
-The development of this recipe came about by happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use chuck short rib instead. I also fine-tuned the dish with a few tasty additions along the way.  
+The development of this recipe came about by a happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use short rib instead. I also fine-tuned the dish with a few tasty additions along the way.  
 
 #### What main ingredients do I need for this meal?
 
-* Chuck Short Rib: Short rib tenderizes well and has a rich flavor. You could also use a chuck roast. 
+* Boneless Short Rib: Short rib tenderizes well and has a rich flavor. 
 
-* Chickpeas: They are a quality source of fiber and complement the beef well in this stew. 
+* Chickpeas: The chickpeas complement the beef well in this stew. 
 
 * Warm Spices: I use sweet paprika, turmeric, cumin, green cardamom, and cinnamon to flavor the dish. 
 
-* Vegetables: I use garlic, onion, carrots, and spinach.
 
 #### What equipment do I need to make this recipe?
 
 * A small bowl 
-* A large [dutch oven](https://amzn.to/38xuVO8) or an [Instant Pot](https://amzn.to/3rRWIjZ)
-* [Tongs](https://amzn.to/2OqsiXM)
-* A lemon [juicer](https://amzn.to/2PFi7yB)
+* A [dutch oven](https://amzn.to/38xuVO8) or [Instant Pot](https://amzn.to/3rRWIjZ)
 
 #### Is this stew vegetarian? Is it Vegan?
 
-One of the main ingredients of this stew is beef, so the answer to that question would appear to be no. However, with a few modifications, you could create a delicious vegetarian and vegan stew. 
+One of the main ingredients of this stew is beef, so the answer to that question would appear to be no. However, with a few modifications, you can easily create a delicious vegetarian and vegan stew. 
 
-* Vegetarian: Use potatoes instead of beef, or double the chickpea amount. 
+* Vegetarian: Use potatoes instead of beef or double the chickpeas. 
 
-* Vegan: Use potatoes instead of beef, or double the chickpea amount. You can also replace the butter with your favorite vegan butter, use Vegetable Better Than Bouillion as a substitute, and leave out the yogurt for garnish.
+* Vegan: Use potatoes instead of beef or double the chickpeas. You can replace the butter with your favorite vegan butter and then use [Vegetable Better Than Bouillion](https://amzn.to/3nHa7vJ) as a substitute. 
 
 #### Can I freeze the beef and chickpea stew? 
 
-You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container or bag. The beef and chickpea stew can freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm on the stovetop, and enjoy! 
+You sure can. First, allow the dish to cool completely, and then add the stew to a freezer-safe container or bag. It will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm on the stovetop, and enjoy! 
 
 ### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 
 
-1. In a small bowl, mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper. Reserve half of the spice mixture, and then massage the beef with the rest of the spice mixture. Set aside.
+1. Mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside.
 
 {{< figure src="/images/bandc1.jpg" class="instructionFigure">}}
 
@@ -109,7 +110,7 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 
 {{< figure src="/images/bandc3.jpg" class="instructionFigure">}}
 
-3. In an [Instant Pot](https://amzn.to/3rRWIjZ),  melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+3. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
 
 {{< figure src="/images/bandc4.jpg" class="instructionFigure">}}
 
@@ -117,11 +118,11 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 
 {{< figure src="/images/bandc5.jpg" class="instructionFigure">}}
 
-5. Secure the lid and set the Instant Pot to manual low pressure for 50 minutes with a quick release. 
+5. Secure the lid and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 50 minutes with a quick release. 
 
-6. Add the carrots, secure the lid, and set the Instant Pot to manual low pressure for 3 minutes with a quick release. 
+6. Add the carrots, secure the lid, and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 3 minutes with a quick release. 
 
-7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. 
+7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Use a whisk to blend. 
 
 {{< figure src="/images/bandc6.jpg" class="instructionFigure">}}
 
@@ -138,7 +139,6 @@ You sure can. First, allow the dish to cool completely and then add it to a free
 I hope you enjoy this recipe for beef and chickpea stew. If you try it, be sure to let us know what you think!
 
 Other soups and stews from The Jamil Ghar:
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
 * [Chili Con Carne](https://www.jamilghar.com/recipe/chili_con_carne/)
 * [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
 * [Olive Garden Copycat Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa_toscana/)  
