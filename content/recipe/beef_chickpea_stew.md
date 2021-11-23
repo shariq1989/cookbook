@@ -3,7 +3,7 @@
 +++
 title = "Beef and Chickpea Stew"
 date = "2021-11-22"
-description = "This Moroccan-inspired beef and chickpea stew are both flavorful and hearty. We hope you enjoy this stew our family loves."
+description = "This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The development of this recipe came about by a happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use short rib instead. I also fine-tuned the dish with a few tasty additions along the way. We hope you enjoy this stew our family loves."
 tags = [
     "entree",
     "instant pot"
@@ -70,8 +70,8 @@ Cuisine: Moroccan
 
 ### ABOUT THE MEAL
 
-The development of this recipe came about by a happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use short rib instead. I also fine-tuned the dish with a few tasty additions along the way.  
-
+This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The development of this recipe came about by a happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use short rib instead. I also fine-tuned the dish with a few tasty additions along the way. We hope you enjoy this stew our family loves.
+ 
 #### What main ingredients do I need for this meal?
 
 * Boneless Short Rib: Short rib tenderizes well and has a rich flavor. 
