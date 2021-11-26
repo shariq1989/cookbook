@@ -1,7 +1,7 @@
 +++
 title = "The Best Homemade Salsa with Cilantro and Avocado"
 date = "2021-05-05"
-description = "Skip going to the store and make your own salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. Feel free to adjust the spice level to your family's preference by limiting the jalapeno used or using a serrano chili for even more spice. I hope you enjoy this fresh salsa recipe our family loves."
+description = "Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family loves."
 tags = [
     "side",
     "vegan",
@@ -47,13 +47,15 @@ Cuisine: Mexican
 
 ### ABOUT THE SIDE
 
+Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family loves.
+
 #### What main ingredients do I need for this meal?
 
 * Roma Tomatoes: Romas work well for making salsa; they hold up well and have fewer seeds than other types of tomatoes; this makes the salsa less watery, which is what we're going for with this salsa. 
 
 * Avocado: Avocado takes this salsa to the next level. 
 
-* Cilantro: This highly debated herb flavors the side. 
+* Cilantro: This highly debated herb flavors the side, but leave it out if it's not your thing. 
 
 * Jalapenos: When making this salsa for large groups of people, jalapenos are my pepper of choice since they're not a spicy as others. If you love jalapenos but crave more spice, leave more of the seeds and membrane intact when chopping them.  I change it up once in a while and use serrano chili to add a bite. 
 
