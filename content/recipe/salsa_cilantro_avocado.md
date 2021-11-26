@@ -7,7 +7,7 @@ tags = [
     "vegan",
     "vegetarian",
 ]
-thumbnail= "images/homemadechunckysalsa.jpg"
+thumbnail= "images/salsacilantroavocado.jpeg"
 +++
 
 Servings: 10 <!--more-->
