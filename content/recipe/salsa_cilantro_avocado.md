@@ -1,7 +1,7 @@
 +++
 title = "The Best Homemade Salsa with Cilantro and Avocado"
 date = "2021-05-05"
-description = "Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family loves."
+description = "Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family (including our littles) loves."
 tags = [
     "side",
     "vegan",
@@ -47,7 +47,7 @@ Cuisine: Mexican
 
 ### ABOUT THE SIDE
 
-Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family loves.
+Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family (including our littles) loves.
 
 #### What main ingredients do I need for this meal?
 
