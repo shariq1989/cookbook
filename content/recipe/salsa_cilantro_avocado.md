@@ -105,3 +105,4 @@ Pair this avocado and cilantro salsa with other recipes from The Jamil Ghar:
 
 * [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
 * [Ground Beef Tacos](https://www.jamilghar.com/recipe/ground_beef_taco/)
+* [Corn Tortilla Chips](https://www.jamilghar.com/recipe/homemade_corn_tortilla_chips/)
