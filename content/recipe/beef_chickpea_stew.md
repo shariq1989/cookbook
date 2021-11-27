@@ -74,12 +74,27 @@ This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The devel
  
 #### What main ingredients do I need for this meal?
 
+* Warm Spices: I use sweet paprika, turmeric, cumin, green cardamom, and cinnamon to flavor the dish. 
+
 * Boneless Short Rib: Short rib tenderizes well and has a rich flavor. 
+
+* Garlic 
+
+* Onion 
+
+* Tomato Paste 
+
+* [Marmite](https://amzn.to/3cjVzes) 
+
+* Beef [Better Than Bouillon](https://amzn.to/3HERalr) 
+
+* Carrots 
 
 * Chickpeas: The chickpeas complement the beef well in this stew. 
 
-* Warm Spices: I use sweet paprika, turmeric, cumin, green cardamom, and cinnamon to flavor the dish. 
+* Spinach 
 
+* Lemon Juice 
 
 #### What equipment do I need to make this recipe?
 
@@ -90,7 +105,7 @@ This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The devel
 
 One of the main ingredients of this stew is beef, so the answer to that question would appear to be no. However, with a few modifications, you can easily create a delicious vegetarian and vegan stew. 
 
-* Vegetarian: Use potatoes instead of beef or double the chickpeas. 
+* Vegetarian: Use potatoes instead of beef or double the chickpeas and then use [Vegetable Better Than Bouillon](https://amzn.to/3nHa7vJ) as a substitute.
 
 * Vegan: Use potatoes instead of beef or double the chickpeas. You can replace the butter with your favorite vegan butter and then use [Vegetable Better Than Bouillon](https://amzn.to/3nHa7vJ) as a substitute. 
 
