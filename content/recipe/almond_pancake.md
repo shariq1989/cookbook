@@ -14,7 +14,7 @@ Cooking Time: 10 minutes
 
 Cuisine: American 
 
-----
+{{< start_recipe >}}
 
 ### How to make almond flour pancakes 
 
@@ -37,7 +37,7 @@ Cuisine: American
 5. Once once side is cooked through and flipped, give it a light tap with your spatula to spread out the mixture since these pancakes will be slightly smaller than regular  pancakes. 
 6. Serve these pancakes with butter, maple syrup, or topping of your choice.
 
- ----
+{{< end_recipe >}}
 
 ### ABOUT THE PANCAKES
 

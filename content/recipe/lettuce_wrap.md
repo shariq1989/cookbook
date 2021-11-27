@@ -18,6 +18,8 @@ Cooking Time: 20 minutes
 
 Cuisine: American, Chinese 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Wrap: 
@@ -53,6 +55,8 @@ For the Homemade Hoisin Sauce:
 5. Remove the lid and lower the heat, allow the beef mixture to reduce, about 2-5 minutes. 
 6. While the meat is cooking, prepare a small skillet with chili oil over medium-high heat. Toast the peanuts until they turn light brown. Set aside. 
 7. Remove the meat mixture from heat. To serve, spoon the meat into butter lettuce. Garnish with scallion greens and toasted peanuts. Use the reserved hoisin as a dipping sauce alongside the lettuce wraps.  
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

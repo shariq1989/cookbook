@@ -16,6 +16,8 @@ Preparation Time: 30 minutes
 
 Cooking Time: 10 minutes
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * ¾ cup All-Purpose Flour 
@@ -34,6 +36,8 @@ Cooking Time: 10 minutes
 2. Preheat the [waffle iron](https://amzn.to/3kII2kI) by plugging it in and leaving it for a moment or two. 
 3. Add 1/4 cup to 1/2 cup mix to the waffle iron, depending on the size of your iron. 
 4. Top with butter, maple syrup, and toppings of your choice. 
+
+{{< start_recipe >}}
 
 ### ABOUT THE WAFFLES 
 

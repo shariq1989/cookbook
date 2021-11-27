@@ -16,6 +16,8 @@ tags = [
 
 Servings: 4<!--more-->
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Meat Mixture: 
@@ -45,3 +47,5 @@ For the Bowl:
 3. Add garlic, ginger, carrots, and beef. Cook beef until color changes. 
 4. Stir in sauce mixture and the whites of the scallions and cover. Cook until mixture combines. 
 5. Serve with rice and top with toasted sesame seeds, edamame, and the greens from the scallions. 
+
+{{< end_recipe >}}

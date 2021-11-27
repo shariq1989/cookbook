@@ -18,6 +18,8 @@ Cook Time: 40 minutes
 
 Cuisine: Chinese, Sichuan  
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Marinade: 
@@ -60,6 +62,8 @@ For the Dish:
 9. Next, add the garlic, ginger, sugar, and rice wine. Cook for about 3 minutes, stirring regularly. 
 10. Add the fried chicken to the mixture and toss to combine. 
 11. Garnish with scallions and serve with jasmine rice. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

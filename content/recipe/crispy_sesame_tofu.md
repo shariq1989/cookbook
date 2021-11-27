@@ -18,6 +18,8 @@ Cooking Time: 30 minutes
 
 Adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach), Nik Sharma 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Coconut - Chili Dressing:
@@ -61,6 +63,8 @@ For the Frying:
 4. Then small batches, pan-fry the tofu until golden brown, about 2 minutes per side. Then, transfer the tofu slices to the rimmed baking sheet. Repeat with the remaining tofu. 
 5. Allow the tofu slices to cool on the wire rack. 
 6. To garnish, drizzle with the coconut chili dressing and serve with steamed jasmine rice, steamed broccoli, or steamed mixed vegetables as we did. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

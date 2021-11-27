@@ -19,6 +19,8 @@ Cooking Time: 1 hour, 15 minutes
 
 Cuisine: American, Italian
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 lb Mild Italian Sausage, ground 
@@ -64,7 +66,7 @@ Cuisine: American, Italian
 5. Gently stir ingredients, cover [crock pot](https://amzn.to/3zIa7hR), and cook on LOW for 5-6 hours or on HIGH for 3-4 hours.  
 6. Unplug the [Crockpot](https://amzn.to/3zIa7hR) and allow the soup to cool some, then stir in the kale and heavy cream to serve. 
 
---- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

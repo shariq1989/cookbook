@@ -18,7 +18,7 @@ Cooking Time: 1 hour, 15 minutes
 
 Cuisine: American, Cajun 
 
----- 
+{{< start_recipe >}}
 
 HOW TO MAKE SHRIMP ETOUFFEE
 
@@ -57,7 +57,7 @@ For the Etouffee:
 * 2 lbs Jumbo Shrimp, peeled and deveined, shells reserved 
 * Kosher Salt, to taste 
   
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 For the Shrimp Broth: 
 
@@ -75,7 +75,7 @@ For the Etoufee:
 6. Add the shrimp to the broth and cook for 3-5 minutes. Cater the cooking time based on the size of the shrimp you use; be careful not to overcook the shrimp. 
 7. Season the etouffee with salt and serve with rice. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

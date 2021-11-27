@@ -13,7 +13,7 @@ Servings: 2-3 <!--more-->
 
 Cuisine: American
 
-----
+{{< start_recipe >}}
 
 ### How to Make Vegetarian Eggs Benedict: 
 
@@ -72,7 +72,7 @@ To Serve:
 1. Remove the eggs with a slotted spoon and set them onto the plated greens.
 2. Top with hollandaise sauce, and enjoy right away! 
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

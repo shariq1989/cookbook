@@ -18,6 +18,8 @@ Cooking Time: 20 minutes
 
 Cuisine: American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Biscuits: 
@@ -55,6 +57,8 @@ For the Gravy:
 1. While the biscuits are baking, brown the sausage in a large saute pan over medium heat for 4-5 minutes. Remove the sausage from the pan using a slotted spoon and set it aside. 
 2. Return the pan to medium heat and add the heavy cream, water, pepper, salt, and garlic powder. Then, gently whisk in the corn starch. 
 3. Bring the mixture to a gentle bubble, stirring occasionally to thicken the gravy. Reduce heat to low and return the meat to the pan. Stir to combine, cover, and simmer for another 5 minutes. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

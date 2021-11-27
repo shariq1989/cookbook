@@ -17,6 +17,8 @@ Cooking Time: 5 minutes
 
 Cuisine: Pakistani 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 tbsp Green Cardamom Pods
@@ -36,7 +38,9 @@ Cuisine: Pakistani
 1. Break down the cinnamon stick and bay leaves and combine them with the other ingredients in a non-stick skillet. Dry roast the spices for 2- 3 minutes over medium heat to warm and draw out the flavor and aroma of the whole spices.  
 2. Allow the ingredients to cool and then add them to a spice grinder in batches, blend until fine. You can also use a mortar and pestle if you don't mind the extra work. 
 3. Add the garam masala to an air-tight glass jar, like a mason jar, and it is ready for use. 
- 
+
+{{< end_recipe >}}
+
 ### ABOUT GARAM MASALA
 Garam Masala, in English, means "hot spice." It is the main ingredient in many Indian dishes. Garam Masala doesn't carry the name "hot spice" because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. 
 

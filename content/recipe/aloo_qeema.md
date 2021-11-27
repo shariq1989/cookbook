@@ -17,7 +17,7 @@ Cooking Time: 30 minutes
 
 Cuisine: Pakistani, Indian 
 
----- 
+{{< start_recipe >}}
 
 ### How to make aloo keema 
 
@@ -46,7 +46,7 @@ Cuisine: Pakistani, Indian
 7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
 8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha](https://www.jamilghar.com/recipe/paratha/), or naan. 
 
- ----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL  
 

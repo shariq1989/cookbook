@@ -19,6 +19,8 @@ Cooking Time: 50 minutes
 
 Cuisine: Indian, Pakistani
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 cup [Moong Dal](https://amzn.to/3rCtNAB), rinsed   
@@ -52,6 +54,8 @@ For the Tadka:
 6. Secure the lid, set the Instant Pot to manual high pressure, and cook for 20 minutes. This cooking time is for high elevation. Reduce the cooking time for lower elevation. Allow the Instant Pot to release naturally for 5 minutes, and then do a quick release. 
 7. Stir the dal to check the consistency. If it is thicker than desired, add 1/2 cup HOT water before serving. 
 8. Garnish with the reserved onion mixture, cilantro, and extra green chilis, if desired. Serve with long-grained Basmati rice. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

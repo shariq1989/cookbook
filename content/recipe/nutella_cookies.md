@@ -18,7 +18,7 @@ Cooking Time: 10 minutes
 
 Cuisine: American  
 
-----
+{{< start_recipe >}}
 
 ### How to make Nutella and Peanut Butter Cookies
 
@@ -46,7 +46,7 @@ Cuisine: American
 6. Pre-heat the oven to 350 degrees. 
 7. Drop spoonfuls of dough onto a lightly greased [baking sheet](https://amzn.to/3vhinF4) and bake for 15 minutes. This cooking time is for higher elevation. Reduce the cooking time to 10 minutes for lower elevation. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THESE COOKIES   
 

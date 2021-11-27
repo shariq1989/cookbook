@@ -15,6 +15,8 @@ Servings: 4 <!--more-->
 
 Cuisine: American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Rub: 
@@ -58,7 +60,7 @@ Cooking Time: 1 hour, 10 minutes
 9. Brush the other side with bbq sauce, and cook on the same side for another minute.  
 10. Remove the chicken from heat and let them rest for 5 minutes before serving.
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

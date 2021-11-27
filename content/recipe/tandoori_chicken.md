@@ -24,7 +24,7 @@ Cook Time:
 
 Cuisine: Pakistani, Indian 
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Tandoori Chicken 
 
@@ -67,7 +67,7 @@ Cuisine: Pakistani, Indian
 9. Let the chicken rest for 10 minutes before serving. 
 10. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney](https://www.jamilghar.com/recipe/raita/). 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

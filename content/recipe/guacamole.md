@@ -18,7 +18,7 @@ Preparation Time: 10 minutes
 
 Cuisine: Mexican
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Guacamole 
 
@@ -40,7 +40,7 @@ Cuisine: Mexican
 3. Add the remaining ingredients and mix well by hand for a chucky guacamole or in a [food processor](https://amzn.to/3lamLSe) to whip it smooth, whichever you prefer.  
 4. Taste the guacamole and adjust the spices according to your preference. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE SIDE 
 

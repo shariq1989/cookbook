@@ -16,6 +16,8 @@ Servings: 12 <!--more-->
 
 Cooking Time: 20 minutes 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 6 large Eggs 
@@ -32,6 +34,8 @@ Cooking Time: 20 minutes
 4. Mash the yolks into a fine crumble using a fork. Add mayonnaise, mustard, paprika, and salt. Mix well. 
 5. Evenly disperse the yolk mixture into the egg whites. 
 6. Sprinkle lightly with paprika to serve.
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

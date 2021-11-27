@@ -19,6 +19,8 @@ Cooking Time: 1 hour 20 minutes
 
 Cuisine: American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 lb Ground Beef, Lean 
@@ -47,6 +49,8 @@ Cuisine: American
 8. Finish with lightly sprinkled parmesan cheese and season with dried basil. Cover the casserole dish with aluminum foil and bake for 45 minutes. 
 9. Drain some excess fluid and bake, uncovered for 15 minutes. 
 10. Let the lasagna cool before serving. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

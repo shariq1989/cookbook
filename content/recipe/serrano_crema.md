@@ -19,6 +19,8 @@ Cuisine: Peruvian
 
 Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-style-grilled-chicken-sandwiches-recipe.html), J. Kenji Lopez-Alt
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 3-4 Serrano Chilis, roughly chopped 
@@ -35,7 +37,7 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 1. Add the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
 2. Then, stir in the olive oil and season to taste with salt and pepper. Mix well. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

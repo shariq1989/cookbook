@@ -19,6 +19,8 @@ Cooking Time: 30 minutes
 
 Cuisine: Indian, Pakistani
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Roasted Eggplant: 
@@ -40,7 +42,7 @@ For the Baingan Bharta:
 * 1/2 tsp Salt
 * 1/4 cup Water
 * 1/4 cup Cilantro, chopped
-  
+
 #### STOVE-TOP INSTRUCTIONS 
 
 For the Roasted Eggplant: 
@@ -61,6 +63,7 @@ For the Baingan Bharta:
 6. Stir in the cilantro and remove the pan from heat.
 7. Season with salt, to taste. Serve with long-grained basmati rice or fresh roti. 
 
+{{< end_recipe >}}
  
 ### ABOUT THE MEAL
 

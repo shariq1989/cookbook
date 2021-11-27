@@ -1,5 +1,3 @@
-
-
 +++
 title = "Homemade Spicy Mayo Dressing"
 date = "2021-09-24"
@@ -16,9 +14,9 @@ Preparation Time: 5 minutes
 
 Cuisine: American 
 
----- 
+{{< start_recipe >}}
 
-### HOW TO MAKE SPICY MAYO DRESSING 
+### How TO MAKE SPICY MAYO DRESSING 
 
 #### SPICY MAYO DRESSING INGREDIENTS 
 
@@ -34,7 +32,7 @@ Cuisine: American
 1. Add all the ingredients to a bowl and whisk together until creamy. 
 2. Chop the onion until finely minced, and then stir them to the bowl with the other ingredients. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE DRESSING
 

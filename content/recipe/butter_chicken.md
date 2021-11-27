@@ -19,6 +19,8 @@ Cook Time: 40 minutes
 
 Cuisine: Indian
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Chicken: 
@@ -83,6 +85,8 @@ For the Curry:
 7. Pour the mixture into a blender or food processor. Blend until smooth. You could also use an [immersion blender](https://amzn.to/30O0Ndo) for this step. 
 8. Return the mixture to the Instant Pot, and stir in the butter and cream until well incorporated. Then, nestle the cooked chicken back into the pan. Allow the dish to maintain a gentle bubble for 5 minutes, stirring regularly.
 9. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
+
+{{< end_recipe >}}
 
 #### ABOUT THE MEAL
 

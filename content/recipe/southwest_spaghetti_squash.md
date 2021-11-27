@@ -16,7 +16,7 @@ Cooking Time: 50 minutes
 
 Cuisine: American 
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Southwest Spaghetti Squash 
 
@@ -72,7 +72,7 @@ For the Southwest Filling:
 7. Cover the mixture with cheese and bake for another 10 minutes. 
 8. Garnish with cilantro, cabbage, onion, chilis, or sour cream; serve with a side salad, cilantro lime rice, or [Mexican rice]. 
 
- ----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

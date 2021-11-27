@@ -19,7 +19,7 @@ Preparation Time: 15 minutes
 
 Cuisine: American
 
-----
+{{< start_recipe >}}
 
 ### How to Make Cucumber, Avocado, and Tomato Salad with Lime
 
@@ -41,7 +41,7 @@ Cuisine: American
 2. Add olive oil, lime juice, garlic, salt, and pepper to another bowl and stir to mix well. 
 3. Next, add the avocado and gently fold them into the salad, careful not to overmix. 
  
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE SALAD 
 
@@ -97,7 +97,7 @@ Sure, fresh dill is a great substitute. If you go this route, I suggest using le
 
 {{< figure src="/images/cat4.jpeg" class="instructionFigure">}}
 
-----
+{{< end_recipe >}}
 
 I hope you enjoy this easy cucumber, avocado, and tomato salad recipe. If you try it, be sure to let us know what you think!
 

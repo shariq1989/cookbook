@@ -20,6 +20,8 @@ Cuisine: American
 
 Original Recipe: "Keto Made Easy", Megha Barot and Matt Gaedke
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Buffalo Sauce: 
@@ -55,7 +57,7 @@ For the Topping:
 9. Remove the crust from the oven and cover the surface with buffalo sauce using a spoon or spatula. Top with mozzarella cheese and bake for another 8 minutes. 
 10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chilis if desired. 
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

@@ -18,7 +18,7 @@ Cook Time: 30 minutes
 
 Cuisine: American
 
-----
+{{< start_recipe >}}
 
 ### How to make no yeast - cinnamon rolls
 
@@ -61,7 +61,7 @@ For the Frosting:
 8. While the rolls are baking, let's make the icing. Using a [hand mixer](https://amzn.to/2OXaeEn), blend the softened butter, and add the vanilla. Next, slowly add the powdered sugar and blend until smooth. Next, whisk in the milk. Set aside. 
 9.  Retrieve the cinnamon rolls from the oven, allow them to cool for 5 minutes and then drizzle them with the frosting.
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE CINNAMON ROLLS 
 

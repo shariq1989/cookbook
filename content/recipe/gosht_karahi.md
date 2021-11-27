@@ -17,7 +17,7 @@ Cooking Time: 1 hour, 30 minutes
 
 Cuisine: Pakistani, Indian 
 
----- 
+{{< start_recipe >}}
 
 ### HOW TO MAKE KARAHI GOSHT
 
@@ -47,7 +47,7 @@ Cuisine: Pakistani, Indian
 7. Let the karahi cook for about 1 hour, stirring occasionally, to ensure nothing sticks to the bottom of the pan. At the 1 hour mark, check the goat for tenderness by attempting to separate the meat from the bone using a fork. The goat should easily pull. If not, allow the meat to simmer until it reaches the desired tenderness.
 8. Garnish with ginger batons, cilantro, and extra green chilis. Serve with naan or long-grain basmati rice.
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

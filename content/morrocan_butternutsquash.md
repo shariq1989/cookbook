@@ -17,6 +17,8 @@ Cooking Time: 40 minutes
 
 Cuisine: American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 large Butternut Squash, peeled and seeded, cut into 1-inch pieces
@@ -27,17 +29,19 @@ Cuisine: American
 * 2 tsp Kosher Salt 
 * 1 tsp Pepper, coarse ground 
 * 1/2 Green Apple, small diced  
-* Fresh Parsely, finely chopped, to garnish 
+* Fresh Parsley, finely chopped, to garnish 
   
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. Preheat the oven to 400 degrees and prepare a rimmed baking sheet. 
 2. Add the squash, brussel sprouts, and onions to the pan. 
 3. Drizzle generously with olive oil and season the vegetables with ras el hanout, salt, and pepper. Use a spatula to distribute the oil and seasonings. 
 4. Arrange the squash in a single layer and bake for 20 minutes. Stir the butternut squash and bake for another 20 minutes. 
 5. Allow the squash to cool and then add it to a serving dish. 
-6. Fold in the green apple pieces and garnish with parsley to serve. 
- 
+6. Fold in the green apple pieces and garnish with parsley to serve.
+
+{{< end_recipe >}}
+
 ### ABOUT THE MEAL
 
 #### What main ingredients do I need for this meal?

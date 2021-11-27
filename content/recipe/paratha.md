@@ -18,6 +18,8 @@ Cooking Time: 15 minutes
 
 Cuisine: Indian, Pakistani 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 3 cups All-Purpose Flour 
@@ -49,6 +51,8 @@ Cooking the Parathas:
 2. With a spatula, flip the paratha and top it with ghee, spreading it evenly over the surface. Cook until it turns light brown, about 2 minutes.
 3. Flip the paratha and top that side with ghee, spreading it evenly over the surface. Cook until light brown, 1 to 2 minutes.
 4. Repeat with the remaining dough. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

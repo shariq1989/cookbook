@@ -21,7 +21,7 @@ Cooking Time: 30 minutes
 
 Cuisine: American, Cajun 
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Blackened Mahi Mahi 
 
@@ -55,7 +55,7 @@ For the Blackened Mahi Mahi Seasoning:
 6. Once heated, carefully add a mahi-mahi filet to the pan and cook for 3-4 minutes on each side. Cooking time may vary depending on the thickness of your filet. Continue until all your fish has cooked. 
 7. To serve, garnish the filets with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/), and enjoy!
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

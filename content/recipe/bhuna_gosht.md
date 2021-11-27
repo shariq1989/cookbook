@@ -18,6 +18,8 @@ Cooking Time: 1 hour
 
 Cuisine: Indian, Pakistani 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Gosht: 
@@ -75,7 +77,7 @@ For the Whole Spices:
 11. Continue to cook on saute mode, stirring regularly. The goat mixture will begin to thicken and turn a rich brown color.
 12. Garnish with cilantro and fresh ginger slices. Serve with naan or long-grained basmati rice. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

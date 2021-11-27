@@ -20,6 +20,8 @@ Cuisine: Georgian
 
 Adapted from: Milk Street [Georgian Chicken Soup](https://wskg.org/episodes/milk-street-suppers-ep-106/), by Chris Kimball
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Chicken Broth: 
@@ -93,6 +95,8 @@ For the Soup:
 5. Add the reserved chicken and any accumulated juices. Do not simmer once the eggs are in the mixture. 
 6. Taste, and then and season with salt, pepper, and red chili flakes.
 7. Garnish with fresh cilantro and dill. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

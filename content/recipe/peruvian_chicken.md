@@ -22,6 +22,8 @@ Cuisine: Peruvian
 
 Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 Whole Chicken, 3-4 lbs, butterflied
@@ -43,6 +45,8 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
 8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chilis. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

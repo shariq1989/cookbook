@@ -19,6 +19,8 @@ thumbnail= "images/ApplePie.jpg"
 
 Servings: 8 <!--more-->
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Double Pie Crust: 
@@ -36,3 +38,5 @@ For the Double Pie Crust:
 For the Double Pie Crust: 
 
 1. 
+
+{{< end_recipe >}}

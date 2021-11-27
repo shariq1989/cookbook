@@ -19,7 +19,7 @@ Cooling Time: 20 minutes
 
 Cuisine: American
 
-----
+{{< start_recipe >}}
 
 ### How to Make Pumpkin Bars 
 
@@ -57,9 +57,9 @@ For the Cream Cheese Frosting:
 7. Bake for 25 minutes. 
 8. While the bars bake, mix the ingredients for the frosting in a small bowl using a [hand mixer](https://amzn.to/3rZWFmo). Begin on low speed and increase speed until the frosting becomes light and fluffy. Set aside at room temperature. 
 9. Remove the bars from the oven and let them cool for 15-20 minutes. 
-10. Once the bars have cooled completely, cover them with frosting and garnish with cinnamon to serve. 
+10. Once the bars have cooled completely, cover them with frosting and garnish with cinnamon to serve.
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE DESSERT 
 

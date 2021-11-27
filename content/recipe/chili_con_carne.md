@@ -17,7 +17,7 @@ Cook Time: 45 minutes
 
 Cuisine: Mexican, American
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Chili Con Carne 
 
@@ -89,7 +89,7 @@ For the Garnish:
 8. Set the [slow cooker](https://amzn.to/3omieNl) to low and cook for 8 hours.  
 9. To serve, garnish with onion, cilantro, cheese, and avocado. Serve with warm corn tortillas for a cozy touch.
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

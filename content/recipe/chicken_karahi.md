@@ -17,7 +17,7 @@ Cooking Time: 30 minutes
 
 Cuisine: Pakistani, Indian 
 
----- 
+{{< start_recipe >}}
 
 ### HOW TO MAKE CHICKEN KARAHI 
 
@@ -46,7 +46,7 @@ Cuisine: Pakistani, Indian
 6. Next, add the chicken and cook for 20 minutes on low heat, stirring occasionally. 
 7. Garnish with ginger batons, cilantro, and extra green chilis. Serve with naan or long-grain basmati rice.
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

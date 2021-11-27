@@ -16,7 +16,7 @@ Preparation Time: 10 minutes
 
 Chilling Time: 1 hour 
 
----- 
+{{< start_recipe >}}
 
 ### How to Make No-Bake Paleo Granola Bars 
 
@@ -47,7 +47,7 @@ Chilling Time: 1 hour
 9. Remove the pan from the freezer and grab opposing ends of the parchment paper to remove the bars. Transfer them to a cutting board.
 10. Use a sharp knife to cut the mixture into bars. You can do squares or rods, whichever you prefer. 
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE SNACK
 

@@ -17,6 +17,8 @@ Cooking Time: 40 minutes
 
 Cuisine: Chinese, American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Marinade:
@@ -72,6 +74,8 @@ For the Sauce:
 To Serve: 
 
 1. Garnish with toasted sesame seeds and serve the orange chicken with jasmine rice. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

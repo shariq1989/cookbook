@@ -20,6 +20,8 @@ Cooking Time: 30 minutes
 
 Cuisine: Persian 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 2 cups Long-Grained Basmati Rice
@@ -52,7 +54,7 @@ Cuisine: Persian
 7. Layer the tabs of butter overtop the rice. Cover with the lid, but do not seal. Let the rice stand until the butter infuses with the rice. 
 8. Using a fork, lightly fluff the rice and serve.
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE RICE  
 

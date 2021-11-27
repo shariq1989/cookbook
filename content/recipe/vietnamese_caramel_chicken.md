@@ -21,6 +21,8 @@ Cuisine: Vietnamese
 
 Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-caramel-chicken)
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 3 tbsp White Sugar 
@@ -46,6 +48,8 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 7. Season the chicken with salt and pepper and nestle the thighs into the pan. Let it continue to simmer for another 10 minutes. 
 8. Turn the chicken and maintain a simmer until the mixture is thoroughly caramelized. 
 9. Garnish the thighs with cilantro and your choice of thinly sliced chili. To serve, pair the caramel chicken with rice, coconut rice, or a Vietnamese tossed salad. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

@@ -21,6 +21,8 @@ Cooking Time: 1 hour, 10 minutes
 
 Cuisine: Indian, Pakistani  
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 tbsp [Ghee](https://amzn.to/3vmpBaf)
@@ -51,6 +53,8 @@ Cuisine: Indian, Pakistani
 7. Using a colander or strainer, pour the yakhni into a large serving bowl. Toss the cinnamon stick, the spices inside the spice infuser, and any ingredients left behind in the straining process. 
 8. You will have tender goat pieces after making the soup; we prefer to reserve them separately to make Yakhni Pulao. If you decide to make pulao, you should also save 1 cup of yakhni soup. Do not store it in the same dish as the goat. 
 9. Add the soup to a bowl or a nice mug, garnish with extra ginger pieces and enjoy.  
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

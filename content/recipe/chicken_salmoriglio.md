@@ -19,6 +19,8 @@ Cuisine: Italian, Sicilian
 
 Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/chicken-salmoriglio-tn-med), Christopher Kimball
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 2 Lemons, divided, zested 
@@ -54,8 +56,9 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 5. Season the chicken with salt and pepper. Then, make cuts in the chicken thighs; arrange them on the grill, along with the lemons. Cook for about 25 minutes, flipping occasionally.
 6. When the chicken is almost finished cooking, warm a pan on the grill or a stove-top. Then, add the chicken to the pan. Cover the thighs with some of the olive oil mixture, fresh parsley, and sundried tomatoes. 
 7. Cook, turning the chicken to make sure they are coated, for 3-5 minutes. 
-8. To serve, squeeze the juice from the grilled lemon into the reserved olive oil mixture and pour it over the chicken. Garnish with fresh parsley, and enjoy!  
-----
+8. To serve, squeeze the juice from the grilled lemon into the reserved olive oil mixture and pour it over the chicken. Garnish with fresh parsley, and enjoy!  {{< end_recipe >}}
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

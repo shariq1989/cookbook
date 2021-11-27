@@ -18,12 +18,14 @@ Cooking Time:
 
 Cuisine: Indian, Pakistani 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
   
 #### INSTRUSTIONS
 
-
+{{< end_recipe >}}
 
  
 

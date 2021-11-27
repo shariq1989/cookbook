@@ -16,6 +16,7 @@ Preparation Time: 10 minutes
 
 Chilling Time: 1 hour 
 
+{{< start_recipe >}}
 
 #### INGREDIENTS 
 
@@ -44,6 +45,7 @@ Chilling Time: 1 hour
 8. Remove the pan from the freezer and grab opposing ends of the parchment paper to remove the bars and transfer them to a cutting board.
 9. Use a knife to cut the mixture into bars. 
 
+{{< end_recipe >}}
 
 ### ABOUT THE SNACK
 

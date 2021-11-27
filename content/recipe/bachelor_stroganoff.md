@@ -20,7 +20,7 @@ Cooking Time:
 
 Cuisine: American 
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Bachelor Beef Stroganoff 
 
@@ -54,7 +54,7 @@ Cuisine: American
 2. Cook on low for 6 hours or high for 4 hours, depending on your preference.
 3. To serve, garnish with sour cream and serve with egg noodles, mash potatoes, or [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). 
 
- ----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

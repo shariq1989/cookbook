@@ -19,6 +19,8 @@ Marinating Time: 1 - 8 hours
 
 Cuisine: American 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 3 tbsp White Miso Paste
@@ -32,7 +34,7 @@ Cuisine: American
 * 1 tbsp Kosher Salt 
 * 10 Chicken Drumsticks, bone-in, skin on
 
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 
 1. Warm 2 tbsp of water in a small bowl and stir the miso paste and 1 tsp of olive oil until the miso dissolves completely. 
@@ -43,6 +45,8 @@ Cuisine: American
 6. Arrange the drumsticks onto the wire rack and bake for 20 minutes. Flip the drumsticks halfway and bake for another 20 minutes. 
 7. If you prefer crispier skin the way we do, you can broil the chicken on high for 2-3 minutes. 
 8. Allow the chicken to rest for 3-5 minutes. Serve the drumsticks with a fresh salad, vegetables, rice, or try another sheet pan side like our [Moroccan-spiced butternut squash]( and cook them simultaneously.
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

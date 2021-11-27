@@ -19,7 +19,7 @@ Cooking Time: 1 hour, 45 minutes
 
 Cuisine: Moroccan 
 
----- 
+{{< start_recipe >}}
 
 #### INGREDIENTS 
 
@@ -58,15 +58,15 @@ Cuisine: Moroccan
 #### INSTANT POT INSTRUCTIONS
 
 1. Mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside.  2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
-3. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
-4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down. 
-5. Secure the lid and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 50 minutes with a quick release.  
-6. Add the carrots, secure the lid, and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 3 minutes with a quick release. 
-7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Use a whisk to blend. 
-8. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
-9. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
+2. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+3. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down. 
+4. Secure the lid and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 50 minutes with a quick release.  
+5. Add the carrots, secure the lid, and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 3 minutes with a quick release. 
+6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Use a whisk to blend. 
+7. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
+8. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

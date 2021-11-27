@@ -21,6 +21,8 @@ Cooking Time: 25 minutes
 
 Cuisine: American 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 2 cups [Almond Flour](https://amzn.to/3r1D3P6)
@@ -45,6 +47,8 @@ Cuisine: American
 7. Bake for 20-25 minutes, until cooked throughout. 
 8. Remove the muffins from the oven and remove each muffin from the tins immediately using a fork. 
 9. Allow the muffins to cool before serving. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MUFFINS
 

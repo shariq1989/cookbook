@@ -18,6 +18,8 @@ Cooking Time: 1 hour, 30 minutes
 
 Cuisine: Mexican 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Carnitas: 
@@ -57,7 +59,7 @@ To Serve:
 8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes, until you begin to see crispy bits, and depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on your personal preference. 
 9. Garnish with onions and cilantro and serve with warm corn tortillas and [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/).
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

@@ -21,6 +21,8 @@ Cuisine: Goan
 
 Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-with-coconut-milk-and-spinach-durotherm)
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 tbsp Coconut Oil 
@@ -63,6 +65,8 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 7. Remove the lid and stir in spinach. Return to a simmer on saute mode, about 3-4 minutes. 
 8. Add the last 1 tbsp of ginger, lime juice, and kosher salt.  Stir well. 
 9. Garnish with lime wedges and serve with long-grain basmati rice. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

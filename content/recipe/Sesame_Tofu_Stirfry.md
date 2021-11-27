@@ -21,7 +21,7 @@ Cooking Time: 30 minutes
 
 Cuisine: Chinese, American
 
-----
+{{< start_recipe >}}
 
 #### How to make sesame mushroom and tofu stir-fry 
 
@@ -56,7 +56,7 @@ Cuisine: Chinese, American
 10. Return the tofu to the pan and stir to combine.
 11. Garnish with toasted sesame seeds and scallion greens, and then serve with jasmine rice. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

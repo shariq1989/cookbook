@@ -21,7 +21,7 @@ Cuisine: Austrian
 
 Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash), Christopher Kimball
 
-----
+{{< start_recipe >}}
 
 ### How to make Rindsgulasch 
 
@@ -67,7 +67,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 7. Add the fresh dill and stir in the apple cider vinegar. 
 8. Taste and season with salt and pepper, and garnish with sour cream. Serve with egg noodles. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

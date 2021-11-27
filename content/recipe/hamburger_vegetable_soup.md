@@ -19,7 +19,7 @@ Cooking Time:
 
 Cuisine: American 
 
-----
+{{< start_recipe >}}
 
 ### How to Make Hamburger Vegetable Soup 
 
@@ -64,7 +64,7 @@ Cuisine: American
 5. Add the water, [Beef Better Than Bouillion], and bay leaves. Secure the lid and set the [Instant Pot](https://amzn.to/3oosTap) high pressure for 10 minutes with quick release. 
 6. Finish the soup with fish sauce and soy sauce. Stir to combine and allow the soup to cook for another few minutes.
 
- ----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

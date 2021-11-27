@@ -20,6 +20,8 @@ Cooking Time: 20 minutes
 
 Cuisine: Thai
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 -4 oz [Thai Red Curry Paste](https://amzn.to/2NmwVBf), the whole can for spicy, 1/2 can for mild
@@ -50,7 +52,7 @@ Cuisine: Thai
 5. Remove the lid and add the remaining coconut milk and fish sauce.
 6. Garnish with Thai basil leaves and serve with jasmine rice.
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

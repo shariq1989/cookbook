@@ -18,6 +18,8 @@ Cooking Time: 40 minutes
 
 Cuisine: Indian, Pakistani
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 2 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
@@ -59,7 +61,9 @@ Cuisine: Indian, Pakistani
 6. Remove the green chilis and set them aside. Remove the mixture from heat and add it to a food processor. Blend until smooth.
 7. Return the mixture to the [Instant Pot](https://amzn.to/3ttlual), along with the reserved chilis. Then add the chickpeas, cilantro, 1/2 cup water, and bring it all to a simmer.
 8. Sprinkle the dish with kalonji seeds and secure the lid. Set the [Instant Pot](https://amzn.to/3ttlual) to manual high pressure, and cook for 10 minutes. 
-9. Season the Chana Masala with salt, to taste, and garnish with cilantro. 
+9. Season the Chana Masala with salt, to taste, and garnish with cilantro.
+   
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

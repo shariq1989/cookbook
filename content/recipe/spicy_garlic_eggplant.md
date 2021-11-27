@@ -18,6 +18,8 @@ Cooking Time: 20 minutes
 
 Cuisine: Sichuan, Chinese
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Sauce: 
@@ -39,8 +41,7 @@ For the Dish:
 * 5 Garlic Cloves, minced 
 * 1 tbsp Fresh Ginger, minced 
 * 3-5 Chilis De Arbol, dried 
-* 4 Green Onion, thinly sliced 
-
+* 4 Green Onion, thinly sliced
 
 #### INSTRUCTIONS
 
@@ -54,6 +55,7 @@ For the Dish:
 8. Return the eggplant to the pan and allow the mixture to simmer until the sauce thickens and the eggplant is tender. 
 9. Transfer to a serving dish and garnish with green onions to serve. 
 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

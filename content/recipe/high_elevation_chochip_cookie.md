@@ -15,7 +15,7 @@ Preparation Time: 20 minutes
 
 Cooking Time: 10-14 minutes
 
-----
+{{< start_recipe >}}
 
 #### INGREDIENTS 
 
@@ -41,7 +41,7 @@ Cooking Time: 10-14 minutes
 7. Drop by large spoonfuls onto an ungreased baking sheet, spaced about 2 inches apart. 
 8. Bake for 10-14 minutes until the edges turn golden brown. 
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THIS DESSERT
 

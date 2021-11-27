@@ -14,6 +14,8 @@ Preparation Time: 10 minutes
 
 Cuisine: Indian, Pakistani
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 2 cups [Full-Fat Yogurt](https://amzn.to/30348EW)
@@ -29,6 +31,8 @@ Cuisine: Indian, Pakistani
 1. Combine the yogurt with the remaining ingredients, except for the cucumber, in a food processor. Blend until smooth. 
 2. Stir in the chopped cucumber. 
 3. Cover and refrigerate until you're ready to serve. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE SAUCE 
 

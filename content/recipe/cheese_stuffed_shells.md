@@ -15,6 +15,8 @@ Cooking Time: 1 hour
 
 Cuisine: Sicilian 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 10-15 [Jumbo Pasta Shells](https://amzn.to/3rUskFr), cooked al dente, according to the package
@@ -41,6 +43,8 @@ Cuisine: Sicilian
 8. Drizzle more basil pesto sauce on top and then sprinkle with parmesan cheese. 
 9. Cover the baking dish with aluminum foil and bake for 50 minutes. 
 10. Remove the foil and cook for another 5-8 minutes. If your cheese hasn't begun to brown, you can broil for 1-2 minutes to achieve the desired effect. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

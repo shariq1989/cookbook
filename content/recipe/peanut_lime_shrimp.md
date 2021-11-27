@@ -17,6 +17,8 @@ Cooking Time: 20 minutes
 
 Cuisine: American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1-2 lb Colossal Shrimp, peeled and deveined, tails removed and set aside
@@ -47,7 +49,7 @@ Cuisine: American
 9. Return the shrimp to skillet and add cilantro and lime juice. Toss to combine.
 10. Transfer the shrimp to a platter, garnish with lime wedges, and serve with creamy coconut cauliflower rice. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

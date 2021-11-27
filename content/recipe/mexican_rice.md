@@ -20,6 +20,8 @@ Cooking Time: 30 minutes
 
 Cuisine: Mexican 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 3 Roma Tomatoes, quartered
@@ -56,6 +58,8 @@ Cuisine: Mexican
 6. Secure the lid and set it to manual low pressure for 4-6 minutes.
 7. Fluff the rice with a fork and cover with the lid, do not secure it. Allow the rice to steam for 5 minutes before serving. 
 8. To serve, add the cilantro and lime juice and fluff again to combine. Garnish with lime wedges and enjoy. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

@@ -18,7 +18,7 @@ Cooking Time: 1 hour, 20 minutes
 
 Cuisine: Mexican
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Pozole Rojo 
 
@@ -57,7 +57,7 @@ For the Garnish:
 4. Combine the remaining ingredients, along with the reserved meat. Stir the mixture to combine, and then secure the lid. Cook on manual high pressure for 50 minutes with quick release. 
 5. To serve, garnish with radishes, red onion, cabbage, cilantro, lime wedges, avocado, chili flakes, and Mexican oregano.    
 
-----
+{{< end_recipe >}}
 
 #### ABOUT THE MEAL 
 

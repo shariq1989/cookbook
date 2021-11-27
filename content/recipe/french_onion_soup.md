@@ -22,6 +22,8 @@ Cuisine: French
 
 Adapted from: Serious Eats, J. Kenji Lopez-Alt
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 4 tbsp [Unsalted Butter](https://amzn.to/2NK7WbO), plus more for the baguette slices
@@ -56,6 +58,8 @@ To Serve:
 4. Spoon a bit more broth over the top and cover with the remaining Gruyère. 
 5. Set the bowls onto a rimmed baking sheet. Place the baking sheet into the oven.
 6. Broil until the cheese melts and brown spots begin to appear if you can wait that long. 
+
+{{< end_recipe >}}
 
 #### ABOUT THE MEAL
 

@@ -18,6 +18,8 @@ Cooking Time: 20 minutes
 
 Cuisine: Thai 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 2 lbs Shrimp, large 
@@ -41,6 +43,8 @@ Cuisine: Thai
 6. Add the reserved shrimp and stir to combine. Allow the shrimp to simmer with the rest of the curry for another 5 minutes until fully cooked. 
 7. Off heat, mix in the fish sauce. 
 8. Garnish the curry with Thai basil leaves and serve with jasmine rice or cauliflower rice.
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

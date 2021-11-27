@@ -17,7 +17,7 @@ Cooking Time: 20 minutes
 
 Cuisine: Thai 
 
-----
+{{< start_recipe >}}
 
 ### How to Make Yellow Chicken Curry 
 
@@ -45,7 +45,7 @@ Cuisine: Thai
 6. Stir in the garlic and ginger and allow the mixture to simmer for another 2-3 minutes. 
 7. Garnish with more Thai basil leaves and serve with jasmine rice.
 
- ----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

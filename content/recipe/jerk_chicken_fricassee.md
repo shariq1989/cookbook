@@ -18,6 +18,8 @@ Cuisine: Caribbean
 
 Adapted From: [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Jerk Seasoning:
@@ -57,6 +59,8 @@ For the Fricassee:
 6. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
 7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the gravy thickens, 7-10 minutes.
 8. To serve, pour the mixture over the chicken and garnish with scallion greens. 
+
+{{< end_recipe >}}
 
 ### ABOUT THIS MEAL 
 

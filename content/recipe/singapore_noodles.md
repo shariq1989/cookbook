@@ -17,6 +17,8 @@ Cooking Time: 1 hour
 
 Cuisine: Cantonese, American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * ¼ lb. Shrimp, shelled, deveined, and rinsed under cold water
@@ -48,6 +50,8 @@ Cuisine: Cantonese, American
 7. Wipe the pan clean again and heat the remaining 2 tbsp canola oil on high, until smoking. Add the rice-stick noodles and stir-fry for 30 seconds. Add the sauce mixture and the remaining 2 tsp of curry powder. Stir to combine. 
 8. Return the egg, shrimp, and vegetables to the pan and stir-fry until everything mixes well. Season with salt and remove from heat. 
 9. Garnish with scallions and drizzle with sesame oil to serve. 
+
+{{< start_recipe >}}
 
 ### ABOUT THE MEAL 
 

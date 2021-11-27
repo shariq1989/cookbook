@@ -18,6 +18,8 @@ Cook Time: 1 hour
 
 Cuisine: American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS
 
 * 2 cups Flour, All-Purpose 
@@ -43,7 +45,7 @@ Cuisine: American
 8. Pour the mixture into two greased 9x5 [loaf pans](https://amzn.to/3lhGhv0) and bake them for 1 hour. 
 9. Let the banana bread cool before serving. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE BREAD 
 

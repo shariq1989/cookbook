@@ -18,6 +18,8 @@ Cooking Time: 10 minutes
 
 Cuisine: Chinese, American  
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 3 tsp Sesame Oil, divided
@@ -38,6 +40,8 @@ Cuisine: Chinese, American
 4. Move the vegetables to one side of the pan and add 1/2 tsp of butter. Cook until melted, and then add the reserved egg mixture. Let the egg cook undisturbed for 30 seconds, and gently push the eggs from one side of the pan to the other, incorporating the eggs with the vegetables. 
 5. Increase the temperature to high and add the reserved chilled rice, the remaining 1 tbsp butter, soy sauce, and oyster sauce; stir to combine. Allow the rice to cook with the rest of the ingredients for 3-5 minutes, stirring occasionally. 
 6. Off heat, stir in the remaining sesame oil to serve. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

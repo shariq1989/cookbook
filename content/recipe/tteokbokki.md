@@ -16,6 +16,8 @@ Cooking Time: 20 minutes
 
 Cuisine: Korean 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 4 cups Water
@@ -27,7 +29,7 @@ Cuisine: Korean
 * 1 tsp Granulated White Sugar
 * 7 Scallions, cut into 2-inch pieces
   
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. In a saucepan, add water, fish sauce, and Better than Bouillion. 
 2. Allow the broth to boil uncovered for 8 minutes over medium-high heat. 
@@ -36,7 +38,7 @@ Cuisine: Korean
 5. Allow the rice cakes to cook and maintain a gentle bubble, over medium heat, for 15 minutes until the sauce begins to thicken; stir frequently.  
 6. Check the consistency of the rice cakes; you want them to be soft. If the rice cakes haven't reached the desired consistency, let them continue cooking while stirring. Add more water if necessary.  
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

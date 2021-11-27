@@ -20,7 +20,7 @@ Cooking Time: 30 minutes
 
 Cuisine: Korean
 
----- 
+{{< start_recipe >}}
 
 ### How to make Korean Kimchi Jjigae
 
@@ -66,7 +66,7 @@ For the Jjigae:
 6. Next, add the tofu and set the[ Instant Pot](https://amzn.to/3DpZGSo) to saute mode for a few minutes before gently stirring in the spice mixture- careful not to break up the tofu. 
 7. Garnish with extra Gochugaru if you prefer spicy kimchi jjigae, and serve with a side of sticky rice. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

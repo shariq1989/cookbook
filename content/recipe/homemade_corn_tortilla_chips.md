@@ -18,6 +18,8 @@ Cooking Time: 25 minutes
 
 Cuisine: Mexican
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 2 cups Coconut Oil 
@@ -41,6 +43,8 @@ Cuisine: Mexican
 4. Add the tortillas in a single layer onto the prepared baking sheets. 
 5. Bake the chips for 7-10 minutes. Then, rotate the pans and continue cooking them for another 7-10 minutes. 
 6. While the tortillas are still piping hot, sprinkle them with salt and then set them aside to cool.
+
+{{< end_recipe >}}
 
 ### ABOUT THE SIDE
 

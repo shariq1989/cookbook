@@ -18,6 +18,8 @@ Cooking Time: 3 hours, 20 minutes
 
 Cuisine: American 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 3-4 lbs Short Ribs, bone-in, about 8 Ribs 
@@ -48,7 +50,7 @@ Cuisine: American
 8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours over medium heat. 
 9. Serve with mashed potatoes or a cauliflower mash. You will want something to soak up all vegetables and gravy the meat cooks in.  
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

@@ -14,6 +14,8 @@ Servings: 6-8 <!--more-->
 
 Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe), Daniel Gritzer
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 2 lb Boneless Short Ribs, cut into 1-inch pieces  
@@ -56,7 +58,7 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe
 7. Cook on high pressure for 50 min.  
 8. Quick release, and then stir in the kale to serve. 
 
-----
+{{< end_recipe >}}
 
 I hope you enjoy this recipe for a beef and barley stew. If you try it, be sure to let us know what you think!
 

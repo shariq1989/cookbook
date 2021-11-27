@@ -20,7 +20,8 @@ Cooking Time: 1 hour, 10 minutes
 
 Cuisine: Ivorian, African 
 
-----
+{{< start_recipe >}}
+
 ### How to make Chicken Kedjenou 
 
 #### KEDJENOU INGREDIENTS 
@@ -71,7 +72,7 @@ For the Kedjenou Spice:
 5. Set the [Instant Pot](https://amzn.to/3qfNYCZ) on manual high pressure for 50 minutes with a quick release. 
 6. Remove from the [Instant Pot](https://amzn.to/3qfNYCZ), place in a serving dish, and allow the chicken to cool some before serving. Eat it as a stew, over a bed of rice, or with attiéké. 
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 

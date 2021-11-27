@@ -19,6 +19,8 @@ Cooking Time: 1 hour, 20 minutes
 
 Cuisine: American 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 For the Roast: 
@@ -51,6 +53,8 @@ For the Ranch Dressing:
 6. Secure the lid, and set the Instant Pot to manual high pressure. Allow the meat to cook for 70 minutes with a quick release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation, though it needs to cook long enough to be able to shred easily. Let it rest, about 5 minutes.
 7. Remove the roast and shred it, then add it to a serving dish with some of the liquid from inside the Instant Pot.
 8. Garnish the meat with parsley and serve it as a roast, or throw it on a hoagie with provolone cheese and a side of au jus. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

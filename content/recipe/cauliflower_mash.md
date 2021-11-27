@@ -20,7 +20,7 @@ Cooking Time: 10 minutes
 
 Cuisine: American 
 
-----
+{{< start_recipe >}}
 
 ### How to make cauliflower mash 
 
@@ -46,8 +46,9 @@ Cuisine: American
 1. In an [Instant Pot](https://amzn.to/3mYZOBH), steam cauliflower on manual high pressure for 2 minutes with a quick release. 
 2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream and butter. Mix well. 
 3. Return cauliflower to the [Instant Pot](https://amzn.to/3mYZOBH) and select saute mode. Add the parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
-4. Add salt and pepper, to taste; your dish is ready to eat. 
- ----
+4. Add salt and pepper, to taste; your dish is ready to eat.
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

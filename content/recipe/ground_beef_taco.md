@@ -17,7 +17,7 @@ Cooking Time: 20 minutes
 
 Cuisine: Mexican, American 
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Ground Beef Tacos 
 
@@ -59,7 +59,7 @@ For the Tacos:
 4. Stir in the garlic and cilantro, and season the meat with garlic powder, salt, and taco seasoning. Mix to combine. Cover and allow the meat to simmer for about 5 minutes. 
 5. To serve, spoon the beef onto warmed corn tortillas and top with sour cream, homemade [guacamole](https://www.jamilghar.com/recipe/guacamole/), cheese, and a few drops of [Tapatio](https://amzn.to/3HB21ww). These tacos go great with our favorite [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/). 
 
-----
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

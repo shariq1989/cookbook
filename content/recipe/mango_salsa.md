@@ -15,6 +15,8 @@ Preparation Time: 15 minutes
 
 Cuisine: American 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1/2 Red Onion, finely diced 
@@ -28,10 +30,12 @@ Cuisine: American
 * Kosher Salt, to taste 
 * Black Pepper, coarse ground, to taste 
 
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. In a small serving bowl, add the onion, jalapeno, lime juice, lime zest, olive oil, salt, and pepper. Mix well. 
 2. Next, gently stir in the tomato and mango until combined, careful not to over stir.  
+
+{{< end_recipe >}}
 
 ### ABOUT THE SALSA
 

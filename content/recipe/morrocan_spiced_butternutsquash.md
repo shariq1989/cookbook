@@ -17,6 +17,8 @@ Cooking Time: 40 minutes
 
 Cuisine: American
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 large Butternut Squash, peeled and seeded, cut into 1-inch pieces
@@ -37,7 +39,9 @@ Cuisine: American
 4. Arrange the squash in a single layer and bake for 20 minutes. Stir the butternut squash and bake for another 20 minutes. 
 5. Allow the squash to cool, and then move it to a serving dish. 
 6. Fold in the green apple pieces and garnish with parsley to serve. 
- 
+
+{{< end_recipe >}}
+
 ### ABOUT THE MEAL
 
 #### What main ingredients do I need for this meal?

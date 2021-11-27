@@ -15,7 +15,7 @@ Preparation Time: 10 minutes
 
 Cooling Time: 30 minutes 
 
----- 
+{{< start_recipe >}}
 
 ### How to Make Quick Pickled Onions 
 
@@ -36,7 +36,7 @@ Cooling Time: 30 minutes
  4. Use a spoon to press the onions down to remove any bubbles. 
  5. Allow the onions to cool for about 30 minutes before serving. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE SIDE 
 

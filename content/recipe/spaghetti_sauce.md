@@ -17,6 +17,8 @@ Cooking Time: 30 minutes
 
 Cuisine: American, Italian
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 tsp Olive Oil 
@@ -46,6 +48,8 @@ Cuisine: American, Italian
 5. Next, add the tomato sauce and sugar to the pan. Stir well and increase the temperature to medium-high; allow the mixture to come to a boil.
 6. Stir in the soy sauce and then reduce the heat to maintain a gentle simmer for 20 minutes. 
 7. Off heat, stir in the fish sauce, and top the sauce with fresh basil to serve. 
+
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 

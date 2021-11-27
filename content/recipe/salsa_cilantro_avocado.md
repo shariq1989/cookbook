@@ -16,7 +16,7 @@ Preparation Time: 20 minutes
 
 Cuisine: Mexican 
 
-----
+{{< start_recipe >}}
 
 ### How to Make Salsa with Cilantro and Avocado 
 
@@ -43,7 +43,7 @@ Cuisine: Mexican
 5. Squeeze the lime over salsa, and stir to combine. 
 6. Next, slice the avocado in half and remove the pit. Cut the avocado into cubes, and then add them to the salsa by carefully folding them into the mixture. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE SIDE
 

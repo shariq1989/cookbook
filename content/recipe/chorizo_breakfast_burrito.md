@@ -17,6 +17,8 @@ Cooking Time: 15 minutes
 
 Cuisine: Mexican, American 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 3 Red Potatoes, cubed 
@@ -89,3 +91,4 @@ To serve, reheat the burritos uncovered in the oven and 325 degrees until the bu
 
 {{< figure src="/images/chorizoburrito.jpg" class="instructionFigure">}}
 
+{{< end_recipe >}}

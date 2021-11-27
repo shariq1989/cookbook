@@ -18,6 +18,8 @@ Preparation Time: 10 minutes
 
 Cuisine: Japanese 
 
+{{< start_recipe >}}
+
 #### INGREDIENTS 
 
 * 1 tsp Kosher Salt, divided 
@@ -36,7 +38,7 @@ Cuisine: Japanese
 5. Use a fork or slotted spoon to serve the cucumbers so that the cucumbers carry some of the marinade flavor. 
 6. Garnish with toasted white sesame seeds. 
 
----- 
+{{< end_recipe >}}
 
 ### ABOUT THE SIDE 
 

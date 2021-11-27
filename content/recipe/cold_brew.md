@@ -10,6 +10,8 @@ thumbnail= "images/classiccoldbrew.jpeg"
 
 Servings: About 12 <!--more-->
 
+{{< start_recipe >}}
+
 #### INGREDIENTS
 
 For the Brewing Process: 
@@ -47,6 +49,8 @@ For Classic Cold Brew:
 1. Fill an 8 oz. glass with ice.
 2. Fill your glass 1/3 of the way with the cold brew concentrate, about 1/2 cup.  
 3. Add the water and fill the class 2/3's of the way, and then top it off with heavy cream or half-and-half and a sweetener of your choice. 
+
+{{< end_recipe >}}
 
 ### ABOUT COLD BREW 
 
