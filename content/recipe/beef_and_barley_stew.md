@@ -40,7 +40,7 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe
 
 1. Season the short ribs with salt and pepper. 
 2. Heat oil in an [Dutch Oven](https://amzn.to/2XTgTEa) until smoking. 
-3. Add a layer of the meat and brown, repeat until all the beef has had a chance to brown. Set meat aside. 
+3. Add a layer of short ribs and brown, repeat until all the beef has had a chance to brown. Set meat aside. 
 4. Next, add the carrots, celery, and onion. Cook until they have browned and formed a roux. 
 5. Combine the marmite or fish sauce, soy sauce, Worcestershire, and tomato paste into the pan. Cook until fragrant. 
 6. Add the broth and gently scrape up the brown bits from the bottom of the pan left by the meat. Add the beef, tomatoes, garlic, barley, and bay leaves. 
@@ -51,12 +51,12 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe
 
 1. Season the short ribs with salt and pepper. 
 2. Heat oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until smoking. 
-3. Add a layer of the meat and brown, repeat until all the beef has had a chance to brown. Set meat aside. 
+3. Add a layer of the short ribs and brown, repeat until all the beef has had a chance to brown. Set meat aside. 
 4. Next, add the carrots, celery, and onion. Cook until they have browned and formed a roux. 
 5. Combine the marmite or fish sauce, soy sauce, Worcestershire, and tomato paste into the Instant Pot. Cook until fragrant. 
 6. Add the broth and gently scrape up the brown bits from the bottom of the pan left by the meat. Add the beef, tomatoes, garlic, barley, and bay leaves. 
-7. Cook on high pressure for 50 min.  
-8. Quick release, and then stir in the kale to serve. 
+7. Secure the [Instant Pot](https://amzn.to/3qfNYCZ) lid and cook on high pressure for 50 minutes with a quick release.  
+8. Stir in the kale to serve. 
 
 {{< end_recipe >}}
 
