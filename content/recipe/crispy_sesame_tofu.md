@@ -76,7 +76,7 @@ If you like tofu, enjoy this nutty and sweet tofu created by Nik Sharma. This ve
 
 * Sesame: I firmly believe tofu and sesame are a perfect pair. For that reason, I included two types of sesame seeds and used sesame oil in the dressing.
 
-* Chilis: The combination of chili oil, chili paste, and chili flakes introduce heat to balances the sweetness of the dressing. 
+* Chilies: The combination of chili oil, chili paste, and chili flakes introduce heat to balance the sweetness of the dressing. 
 
 * Panko: I used panko for this recipe to create the crust for the tofu. If you're looking for a low-carb option, check out my [Low-Carb Breadcrumb Panko] recipe. 
 

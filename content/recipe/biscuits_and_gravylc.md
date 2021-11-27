@@ -42,7 +42,7 @@ For the Gravy:
 * 1 tsp Garlic Powder
 * 1 tsp Corn Starch
 
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 For the Biscuits: 
 1. Preheat the oven to 400 degrees and line a rimmed baking sheet with parchment paper.

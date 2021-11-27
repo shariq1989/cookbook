@@ -1,7 +1,7 @@
 +++
 title = "Beef Chili Con Carne"
 date = "2021-11-10"
-description = "My husband is a self-proclaimed chili-hater, and he absolutely loves this recipe! Chili Con Carne means 'chili with meat' and is made of tender beef, beans, and a variety of chilis for maximum flavor. Our authentic chili con carne recipe is easily prepared in the Instant Pot, dutch oven, or slow cooker. We hope you enjoy the best chili con carne recipe and one that our family loves."
+description = "My husband is a self-proclaimed chili-hater, and he absolutely loves this recipe! Chili Con Carne means 'chili with meat' and is made of tender beef, beans, and a variety of chillies for maximum flavor. Our authentic chili con carne recipe is easily prepared in the Instant Pot, dutch oven, or slow cooker. We hope you enjoy the best chili con carne recipe and one that our family loves."
 tags = [
     "entree",
     "instant pot",
@@ -27,7 +27,7 @@ For the Chili:
 
 * 2 Arbol Chilis, dried 
 * 2 Guajillo Chilis, dried
-* 1 can [Chipotles En Adobo](https://amzn.to/3f0lZoT), use only 2 chilis and 2 tbsp chipotle sauce 
+* 1 can [Chipotles En Adobo](https://amzn.to/3f0lZoT), use only 2 chillies and 2 tbsp chipotle sauce 
 * 1 1/2 qt Chicken Broth  
 * 4 lb Beef Chuck, cut into 1-inch pieces. 
 * Kosher Salt, to taste 
@@ -55,8 +55,8 @@ For the Garnish:
 
 #### DUTCH OVEN INSTRUCTIONS 
 
-1. Add the dried chilis to a [dutch oven](https://amzn.to/2YHB09g) and cook over high heat until blistered, 1 minute.  
-2. Remove the chilis and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chilis and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
+1. Add the dried chillies to a [dutch oven](https://amzn.to/2YHB09g) and cook over high heat until blistered, 1 minute.  
+2. Remove the chillies and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chillies and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
 3. Season the chuck with salt and pepper. 
 4. Add oil to the [dutch oven](https://amzn.to/2YHB09g) followed by a layer of beef chuck. Allow the meat to sear and form a crust. Repeat until all the chuck has had a chance to brown. Set aside. 
 5. Add onions to the oil and cook until they become translucent and soften. Then, add the garlic and cook for another 1-2 minutes.
@@ -67,8 +67,8 @@ For the Garnish:
 
 #### INSTANT POT INSTRUCTIONS 
 
-1. Add the dried chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
-2. Remove the chilis and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chilis and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
+1. Add the dried chillies to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
+2. Remove the chillies and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chillies and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
 3. Season the chuck with salt and pepper. 
 4. Add oil to the [Instant Pot](https://amzn.to/3qfNYCZ) followed by a layer of beef chuck. Allow the meat to sear and form a crust. Repeat until all the chuck has had a chance to brown. Set aside. 
 5. Add onions to the oil and cook until they become translucent and soften. Then, add the garlic and cook for another 1-2 minutes.
@@ -79,8 +79,8 @@ For the Garnish:
 
 #### SLOW COOKER INSTRUCTIONS 
 
-1. Add the dried chilis to a [frying pan](https://amzn.to/3qv4Jhd) and cook on high heat until blistered, 1 minute.  
-2. Remove the chilis and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chilis and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
+1. Add the dried chillies to a [frying pan](https://amzn.to/3qv4Jhd) and cook on high heat until blistered, 1 minute.  
+2. Remove the chillies and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chillies and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
 3. Season the chuck with salt and pepper. 
 4. Add oil to the same [frying pan](https://amzn.to/3qv4Jhd) followed by a layer of beef chuck. Allow the meat to sear and form a crust. Repeat until all the chuck has had a chance to brown. Set aside. 
 5. Add onions to the oil and cook until they become translucent and soften. Then, add the garlic and cook for another 1-2 minutes.
@@ -93,11 +93,11 @@ For the Garnish:
 
 ### ABOUT THE MEAL 
 
-My husband is a self-proclaimed chili-hater, and he absolutely loves this recipe! Chili Con Carne means 'chili with meat' and is made of tender beef, beans, and a variety of chilis for maximum flavor. Our authentic chili con carne recipe is easily prepared in the Instant Pot, dutch oven, or slow cooker. We hope you enjoy the best chili con carne recipe and one our family loves.
+My husband is a self-proclaimed chili-hater, and he absolutely loves this recipe! Chili Con Carne means 'chili with meat' and is made of tender beef, beans, and a variety of chillies for maximum flavor. Our authentic chili con carne recipe is easily prepared in the Instant Pot, dutch oven, or slow cooker. We hope you enjoy the best chili con carne recipe and one our family loves.
 
 #### Chili Con Carne Ingredients: 
 
-In the development phase of recipe creation, I experiment with different ingredients to find the right combination. That is true of our chili con carne as well. After testing many of the highly-debated ingredients for chili con carne we favored the beef chuck and black beans duo overall. The tenderness of the chuck, cooked with the beans and chilis make for the best chili con carne recipe I have ever tried; the chuck achieves a heartiness that is missing with other meat options. However, the real star of this dish, in my opinion, is the variety of chilis used- they flavor the dish without overwhelming the chili with heat.
+In the development phase of recipe creation, I experiment with different ingredients to find the right combination. That is true of our chili con carne as well. After testing many of the highly-debated ingredients for chili con carne we favored the beef chuck and black beans duo overall. The tenderness of the chuck, cooked with the beans and chillies make for the best chili con carne recipe I have ever tried; the chuck achieves a heartiness that is missing with other meat options. However, the real star of this dish, in my opinion, is the variety of chillies used- they flavor the dish without overwhelming the chili with heat.
 
 * Beef Chuck: Beef Chuck is marbled with fat and ideal for this stew, but be sure to sear it to seal in all the flavor. 
 
@@ -133,7 +133,7 @@ Served as a stew without beans and paired with a low-carb [tortilla](https://amz
 
 #### What is chili con carne traditionally served with? 
 
-Like the dish itself, this too is highly debated. We enjoy our chili con carne as a stew topped with onion, shredded cheese, cilantro, avocado, and thinly sliced chilis. Our meal is made complete with warm corn tortillas. 
+Like the dish itself, this too is highly debated. We enjoy our chili con carne as a stew topped with onion, shredded cheese, cilantro, avocado, and thinly sliced chillies. Our meal is made complete with warm corn tortillas. 
 
 Because chili con carne ingredients are so widely disputed, there is room to serve it however you would like. As a stew, you can pair the chili with corn tortillas like we do or opt for tortilla chips, corn chips, flour tortillas, or cornbread. Hey, this is the Texas state dish after all. I have even seen chili con carne served over rice or macaroni noodles. You could also pair it with a side of [Mexican Rice](https://www.jamilghar.com/recipe/mexican_rice/). The moral of the story is- get creative and adjust the meal to your family's preference. Either way, we know it is a meal you and those around you will enjoy.  
 
@@ -144,11 +144,11 @@ You sure can. First, allow the dish to cool completely. Then add it to a freezer
 
 ### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 
 
-1. Add the dried chilis to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
+1. Add the dried chillies to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
 
 {{< figure src="/images/cconc1.jpeg" class="instructionFigure">}}
 
-2. Remove the chilis and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chilis and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
+2. Remove the chillies and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chillies and 2 tbsp of the sauce from the can. Blend thoroughly and set aside.
 
 {{< figure src="/images/cconc2.jpeg..jpeg" class="instructionFigure">}}
 

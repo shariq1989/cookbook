@@ -50,7 +50,7 @@ Cuisine: Pakistani, Indian
 
 ### ABOUT THE MEAL  
 
-Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chilis, and onions. 
+Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chillies, and onions. 
 
 #### What main ingredients do I need for this meal? 
 

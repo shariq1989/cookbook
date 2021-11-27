@@ -37,18 +37,18 @@ Cuisine: Mexican
 
 1. Slice the avocados in half, remove the pit, and scoop them into a small bowl. 
 2. Mash the avocados with a fork or use a [food processor](https://amzn.to/3lamLSe). 
-3. Add the remaining ingredients and mix well by hand for a chucky guacamole or in a [food processor](https://amzn.to/3lamLSe) to whip it smooth, whichever you prefer.  
+3. Add the remaining ingredients and mix well by hand for a chunky guacamole or in a [food processor](https://amzn.to/3lamLSe) to whip it smooth, whichever you prefer.  
 4. Taste the guacamole and adjust the spices according to your preference. 
 
 {{< end_recipe >}}
 
 ### ABOUT THE SIDE 
 
-For a super easy guacamole on the go, all you really need is a few ripe avocados and a little bit of salt; everything else is extra, but oh so tasty. Enjoy this fresh guacamole recipe our whole family loves. 
+For a super easy guacamole on the go, all you really need is a few ripe avocados and a little salt; everything else is extra, but oh so tasty. Enjoy this fresh guacamole recipe our whole family loves. 
 
 #### What main ingredients do I need for this meal?
 
-* Avocado: You will want to use large avocados for this recipe- the riper, the better. If you cannot find large avocadoes, use 4-5 smaller ones. Check for ripeness by gently pressing the outside of the avocado. If there is no give, the avocado is not ripe. If there is just a little give, the avocado is ripe. If there is too much give, the avocado may be past ripe. 
+* Avocado: You will want to use large avocados for this recipe- the riper, the better. If you cannot find large avocados, use 4-5 smaller ones. Check for ripeness by gently pressing the outside of the avocado. If there is no give, the avocado is not ripe. If there is just a little give, the avocado is ripe. If there is too much give, the avocado may be past ripe. 
 
 * Red Onion: I prefer the strong flavor of red onion in my guacamole. If red onions are too strong for you, rinse the chopped onion under water and pat them dry before mixing them into the guacamole. 
 

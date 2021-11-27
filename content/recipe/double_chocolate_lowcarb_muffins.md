@@ -40,7 +40,7 @@ Cuisine: American
 
 1. Preheat the oven to 350 degrees.
 2. Line a muffin tin with muffin liners.
-3. In a large bowl, mix together all of the dry ingredients.
+3. In a large bowl, mix together all the dry ingredients.
 4. Then, stir in the melted butter, beaten eggs, vanilla, and almond milk one by one. Do not overmix the batter.
 5. Add the chocolate chips and fold them into the batter. 
 6. The batter is thick and dense, so use a spoon to divide the batter evenly among the prepared muffin liners. Top each one with a few chocolate chips. 
@@ -56,7 +56,7 @@ Cuisine: American
 
 * [Almond Flour](https://amzn.to/3r1D3P6)
 * [Cocoa Powder](https://amzn.to/3ANnCyp) 
-* Sweetener: I use [monkfruit](https://amzn.to/3hZP1Vc) in this recipe for a few reasons. We always have on hand and it is the only one that doesn't leave me with a strange after-taste.  
+* Sweetener: I use [monkfruit](https://amzn.to/3hZP1Vc) in this recipe for a few reasons. We always have on hand, and it is the only one that doesn't leave me with a strange after-taste.  
 * Baking Powder 
 * Salt 
 * Butter: Melted butter compliments the almond flour, which will easily dry out your baked goods if not paired well. 
@@ -78,7 +78,7 @@ Cuisine: American
 
 {{< figure src="/images/dcm1.jpg" class="instructionFigure">}}
 
-3. In a large bowl, mix together all of the dry ingredients.
+3. In a large bowl, mix together all the dry ingredients.
 
 {{< figure src="/images/dcm2.jpeg" class="instructionFigure">}}
 

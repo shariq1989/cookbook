@@ -58,7 +58,7 @@ For the Dish:
 5. Add ⅓ of the chicken to the cornstarch and toss to coat, pressing the pieces into the mixture. Shake the chicken pieces to remove any excess cornstarch and transfer them to one of the prepared racks. Repeat with the remaining chicken and cornstarch mixture. 
 6. In a [large dutch oven](https://amzn.to/3bVhcBR), over medium heat, warm the oil to 350 degrees. Add half of the coated chicken in a single layer and cook until both sides brown, about 3-5 minutes. Using a slotted spoon, transfer the chicken to the other prepared wire rack. 
 7. Allow the oil to reach 350 degrees again and repeat with the remaining chicken. 
-8. In a heavy-bottomed pan, heat the chili oil, canola oil, Arbol chilis, and Sichuan chilis until they begin to sputter. 
+8. In a heavy-bottomed pan, heat the chili oil, canola oil, Arbol chillies, and Sichuan chillies until they begin to sputter. 
 9. Next, add the garlic, ginger, sugar, and rice wine. Cook for about 3 minutes, stirring regularly. 
 10. Add the fried chicken to the mixture and toss to combine. 
 11. Garnish with scallions and serve with jasmine rice. 
@@ -67,12 +67,12 @@ For the Dish:
 
 ### ABOUT THE MEAL 
 
-In Chinese, Laziji means dried chili pepper chicken, and when you see pictures of Chongqing laziji, or mala chicken you know why. Although this dish looks like it will light a fire in your mouth, it's not actually that hot unless you decide to break up the chilis during the cooking process or bite into them as I do.
+In Chinese, Laziji means dried chili pepper chicken, and when you see pictures of Chongqing laziji, or mala chicken you know why. Although this dish looks like it will light a fire in your mouth, it's not actually that hot unless you decide to break up the chillies during the cooking process or bite into them as I do.
 
 #### What main ingredients are needed for this meal?
 * Chicken Thighs: We use boneless chicken thighs cut into bit-size pieces because it is easier, but traditionally it is made with a whole chicken. 
 
-* Dried Red Chilis: Dried red chilis are the star of this recipe, as you can see in the photos. I try to balance the chicken to chili ratio, in large part, because I cannot handle it otherwise. You can most certainly use more or fewer chilis based on your personal preference. I also cook the chilis whole rather than cutting them up, as other versions of this recipe will do. 
+* Dried Red Chilis: Dried red chillies are the star of this recipe, as you can see in the photos. I try to balance the chicken to chili ratio, in large part, because I cannot handle it otherwise. You can most certainly use more or fewer chillies based on your personal preference. I also cook the chillies whole rather than cutting them up, as other versions of this recipe will do. 
 
 * Sichuan Chilis
 

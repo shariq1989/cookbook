@@ -46,7 +46,7 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 
 1. Gather 1 cup of masoor dal. Rinse it in a colander and set it aside. 
 2. In a large saute pan, add the coconut oil and onion. Cook on low heat until the onions brown and caramelize. 
-3. When the onions caramelize, add the garlic, ginger, chilis, and kosher salt. Allow the mixture to cook for about 1 minute. 
+3. When the onions caramelize, add the garlic, ginger, chilies, and kosher salt. Allow the mixture to cook for about 1 minute. 
 4. Next, add the mustard seed, turmeric, coriander, and fennel. Stir for 1 minute until the mixture is fully incorporated. 
 5. Add the water and then whisk in the coconut milk. Stir in the lentils and bring the mixture to a boil. 
 6. Reduce the heat and cover the pan with a lid. Cook on medium heat for about 25-30 minutes. Be sure to check the dal every so often and give it a quick stir to prevent it from sticking to the bottom of the pan. Overcooked dal is mushy, and undercooked dal is crunchy, much like a seed. You want the dal to be tender but still have substance.
@@ -58,7 +58,7 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 
 1. Gather 1 cup of masoor dal. Rinse it in a colander and set it aside. 
 2. In an [Instant Pot](https://amzn.to/3qfNYCZ), add the coconut oil and the onion. Cook on saute mode until the onions brown and caramelize. 
-3. When the onions caramelize, add the garlic, ginger, chilis, and kosher salt. Allow the mixture to cook for about 1 minute. 
+3. When the onions caramelize, add the garlic, ginger, chilies, and kosher salt. Allow the mixture to cook for about 1 minute. 
 4.  Next, add the mustard seed, turmeric, coriander, and fennel. Stir for 1 minute until the mixture is fully incorporated. 
 5. Add the water and then whisk in the coconut milk. Add the lentils and bring the mixture to a boil on saute mode. 
 6. Secure the lid and set the Instant Pot to manual high pressure for 15 minutes with a quick release. 
@@ -96,7 +96,7 @@ Yes, first allow the dal to cool and gather several freezer-safe resealable plas
 
 {{< figure src="/images/gd1.jpg" class="instructionFigure">}}
 
-2. When the onions caramelize, add the garlic, ginger, chilis, and kosher salt. Allow the mixture to cook for about 1 minute. 
+2. When the onions caramelize, add the garlic, ginger, chilies, and kosher salt. Allow the mixture to cook for about 1 minute. 
 
 {{< figure src="/images/gd2.jpg" class="instructionFigure">}}
 

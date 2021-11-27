@@ -26,7 +26,7 @@ Cuisine: Mexican
 * 12 Corn Tortillas, cut into six wedges 
 * Kosher Salt, to taste
   
-#### STOVE-TOP INSTRUSTIONS
+#### STOVE-TOP INSTRUCTIONS
 
 1. Gather the corn tortillas and cut them into six wedges. Set aside. 
 2. Prepare a rimmed baking sheet with a wire rack. I cover the baking sheet with a cloth for easy cleanup. 

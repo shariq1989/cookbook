@@ -27,7 +27,7 @@ Cuisine: Mexican
 * 3 Roma Tomatoes, quartered
 * 1/2 Red Onion, finely chopped
 * 2 cups Water
-* 2 tsp [Chicken](https://amzn.to/3s2fa9M) or [Vegetable](https://amzn.to/31eZDI9) Better than Bouillion 
+* 2 tsp [Chicken](https://amzn.to/3s2fa9M) or [Vegetable](https://amzn.to/31eZDI9) Better than Bouillon 
 * 1 1/2 tsp Kosher Salt
 * 1/2 tsp Cumin, ground
 * 2 tbsp Avocado Oil 
@@ -83,7 +83,7 @@ Cuisine: Mexican
 
 #### Is Mexican rice vegetarian? Is it vegan?
 
-Mexican rice caters well to both a vegetarian and vegan diet. Just be sure to use the [Vegetable Better than Bouillion](https://amzn.to/31eZDI9). 
+Mexican rice caters well to both a vegetarian and vegan diet. Just be sure to use the [Vegetable Better than Bouillon](https://amzn.to/31eZDI9). 
 
 #### Can I freeze Mexican rice? 
 

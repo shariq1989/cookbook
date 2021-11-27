@@ -37,7 +37,7 @@ Cuisine: Moroccan
 * 2 tbsp Tomato Paste
 * 1 tsp [Marmite](https://amzn.to/3cjVzes)
 * 6 cup Water
-* 1 tbsp Beef [Better Than Bouillion](https://amzn.to/3HERalr) 
+* 1 tbsp Beef [Better Than Bouillon](https://amzn.to/3HERalr) 
 * 1 cup Baby Carrots
 * 1- 15½ oz can of Chickpeas, drained and rinsed
 * 3 cup Baby Spinach
@@ -92,7 +92,7 @@ One of the main ingredients of this stew is beef, so the answer to that question
 
 * Vegetarian: Use potatoes instead of beef or double the chickpeas. 
 
-* Vegan: Use potatoes instead of beef or double the chickpeas. You can replace the butter with your favorite vegan butter and then use [Vegetable Better Than Bouillion](https://amzn.to/3nHa7vJ) as a substitute. 
+* Vegan: Use potatoes instead of beef or double the chickpeas. You can replace the butter with your favorite vegan butter and then use [Vegetable Better Than Bouillon](https://amzn.to/3nHa7vJ) as a substitute. 
 
 #### Can I freeze the beef and chickpea stew? 
 

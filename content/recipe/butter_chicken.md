@@ -63,9 +63,9 @@ For the Curry:
 1. In the same pan, warm 1 1/2 tbsp of butter. Add the green cardamom pods and cinnamon stick. Cook until the ingredients begin to sputter, then add the onions. Cook the onions until they become translucent and soften. 
 2. Next, add the garlic, ginger, and green chilies and cook for another minute.
 3. Stir in the Kashmiri chili powder, garam masala, cumin, salt, turmeric, and tomatoes into the mixture. Cook for 5-7 minutes and allow the tomatoes to simmer. 
-4. Remove the cinnamon stick (and green chilis, if you want it to be less spicy) and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
+4. Remove the cinnamon stick (and green chillies, if you want it to be less spicy) and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
 5. Return the mixture to the pan over low heat and stir in the butter and cream. Then, nestle the reserved chicken into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes. Adjust the temperature as necessary. 
-6. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
+6. Garnish the butter chicken with cilantro and green chillies and serve with basmati rice or naan.
 
 #### INSTANT POT INSTRUCTIONS
 
@@ -84,7 +84,7 @@ For the Curry:
 6. Remove the chicken, and set it aside. Remove the cinnamon stick, and discard. 
 7. Pour the mixture into a blender or food processor. Blend until smooth. You could also use an [immersion blender](https://amzn.to/30O0Ndo) for this step. 
 8. Return the mixture to the Instant Pot, and stir in the butter and cream until well incorporated. Then, nestle the cooked chicken back into the pan. Allow the dish to maintain a gentle bubble for 5 minutes, stirring regularly.
-9. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
+9. Garnish the butter chicken with cilantro and green chillies and serve with basmati rice or naan.
 
 {{< end_recipe >}}
 
@@ -161,7 +161,7 @@ For the Curry:
 {{< figure src="/images/bc4.jpeg" class="instructionFigure">}}
 
 3. Stir in the Kashmiri chili powder, garam masala, cumin, salt, turmeric, and tomatoes into the mixture. Cook for 5-7 minutes and allow the tomatoes to simmer. 
-4. Remove the cinnamon stick (and green chilis, if you want it to be less spicy) and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
+4. Remove the cinnamon stick (and green chillies, if you want it to be less spicy) and pour the mixture into a blender or food processor. Blend until smooth. You could also use an immersion blender for this step.  
 
 {{< figure src="/images/bc11.jpeg" class="instructionFigure">}}
 
@@ -175,6 +175,6 @@ For the Curry:
 
 {{< figure src="/images/bc8.jpeg" class="instructionFigure">}}
 
-6. Garnish the butter chicken with cilantro and green chilis and serve with basmati rice or naan.
+6. Garnish the butter chicken with cilantro and green chillies and serve with basmati rice or naan.
 
 {{< figure src="/images/bc9.jpeg" class="instructionFigure">}}

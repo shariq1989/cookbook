@@ -48,7 +48,7 @@ Cuisine: Chinese, American
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes and lightly season with salt and pepper. 
 3. Spread out the tofu onto the [rimmed baking sheet](https://amzn.to/3BmRIbW) and cook for 15 minutes, turning the tofu pieces midway.
 4. In a [large skillet](https://amzn.to/3nUk88P) or [wok](https://amzn.to/2YC4Mfx), warm sesame oil over medium-high heat and add the already baked tofu to the hot pan. Fry until the pieces become golden brown. Set aside. 
-5. Using the same oil (add more if needed), add the chilis, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
+5. Using the same oil (add more if needed), add the chillies, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
 6. In a small bowl, stir the soy sauce, rice wine vinegar, fish sauce, honey, and water until honey completely dissolves. 
 7. Off heat, add the ingredients in the bowl to the pan, and season with black pepper. 
 8. Return the pan to medium-high heat, and bring the mixture to a boil. Then, whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind. 
@@ -90,7 +90,7 @@ This dish caters to both a vegetarian and vegan way of eating. Easily replace th
 
 {{< figure src="/images/msf2.jpg" class="instructionFigure">}}
 
-5. Using the same oil (add more if needed), add the chilis, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
+5. Using the same oil (add more if needed), add the chillies, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
 
 {{< figure src="/images/msf4.jpg" class="instructionFigure">}}
 

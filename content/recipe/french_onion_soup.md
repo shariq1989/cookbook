@@ -32,7 +32,7 @@ Adapted from: Serious Eats, J. Kenji Lopez-Alt
 * ½ tsp Baking Powder 
 * Kosher Salt and Coarse Ground Pepper, to taste  
 * ½ cup Dry Sherry 
-* 2 qt Water and 2 tbsp [Beef Better Than Bouillion](https://amzn.to/2Pk82Hf)
+* 2 qt Water and 2 tbsp [Beef Better Than Bouillon](https://amzn.to/2Pk82Hf)
 * 2 Thyme Sprigs 
 * 1 Bay Leaf 
 * 1 tsp [Fish Sauce](https://amzn.to/3jMYZdj) 
@@ -47,7 +47,7 @@ For the Soup:
 2. Seal the Instant Pot lid and cook on manual high pressure for 20 minutes with a quick release. 
 3. Continue cooking the onions with the lid off until the liquid inside reduces and the onions become brown and sticky, about 5 minutes. Be sure to stir constantly to prevent burning. 
 4. Add the sherry and bring the mixture to a simmer, scraping up any brown bits left behind. Cook until the alcohol smell is mostly gone.
-5. Next, add the water, Better Than Bouillion, thyme sprigs, and bay leaf. Bring to a simmer for 10 minutes.
+5. Next, add the water, Better Than Bouillon, thyme sprigs, and bay leaf. Bring to a simmer for 10 minutes.
 6. Stir in the fish sauce and season with salt and pepper. Discard thyme sprigs and bay leaf before serving.
 
 To Serve: 
@@ -73,7 +73,7 @@ French onion soup is a timeless classic and happens to be on the list of my favo
 
 * Bread: You can use any bread, but I recommended slicing up a delicious baguette, buttering that thing up, rubbing it with a garlic clove, and using that to top your soup. 
 
-* Cheese: The classic choice is Gruyere, and I do not deviate from that. It is the more expensive alternative, but so worth it when making this soup. However, if you're looking for a budget-friendly cheese, you can substitute it with swiss, asiago, or parmesan.
+* Cheese: The classic choice is Gruyere, and I do not deviate from that. It is the more expensive alternative, but so worth it when making this soup. However, if you're looking for a budget-friendly cheese, you can substitute it with swiss, asiago, or Parmesan.
 
 #### What equipment do I need to make this recipe? 
 

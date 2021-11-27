@@ -22,7 +22,7 @@ Cuisine: Korean
 
 * 4 cups Water
 * 2 tbsp Fish Sauce 
-* 1 tsp [Chicken Better than Bouillion](https://amzn.to/2RGiSsu)
+* 1 tsp [Chicken Better than Bouillon](https://amzn.to/2RGiSsu)
 * 1 bag of Korean Rice Cakes
 * 1/4 cup [Gochuchang](https://amzn.to/32A6v3v)
 * 1 tbsp [Gochugaro](https://amzn.to/3v0RhQT)  
@@ -31,7 +31,7 @@ Cuisine: Korean
   
 #### INSTRUCTIONS
 
-1. In a saucepan, add water, fish sauce, and Better than Bouillion. 
+1. In a saucepan, add water, fish sauce, and Better than Bouillon. 
 2. Allow the broth to boil uncovered for 8 minutes over medium-high heat. 
 3. Meanwhile, combine the Gochuchang, Gochugaro, and sugar in a small bowl. Then, add it to the saucepan. Stir to combine. 
 4. Add the rice cakes and scallions to the saucepan. 
@@ -65,7 +65,7 @@ My experience with tteokbokki began several years ago; Shariq and I were with in
 
 #### Is Tteokbokki vegetarian? Is it vegan?
 
-To make this particular recipe vegetarian and vegan, omit the fish sauce and use [Vegetable Better Than Bouillion](https://amzn.to/3ggLeni) to flavor the broth.
+To make this particular recipe vegetarian and vegan, omit the fish sauce and use [Vegetable Better Than Bouillon](https://amzn.to/3ggLeni) to flavor the broth.
 
 #### Can I make Tteokbokki less spicy? 
  
@@ -77,7 +77,7 @@ There are so many ways to dress up Tteokbokki. Many people enjoy adding fish cak
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. In a saucepan, add water, fish sauce, and Better than Bouillion. 
+1. In a saucepan, add water, fish sauce, and Better than Bouillon. 
 
 {{< figure src="/images/korean1.jpg" class="instructionFigure">}}
 

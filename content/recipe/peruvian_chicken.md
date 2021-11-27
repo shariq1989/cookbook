@@ -44,7 +44,7 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 5. Spread the mixture evenly over the whole chicken and under the skin.
 6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chilis. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
+8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chillies. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
 
 {{< end_recipe >}}
 
@@ -98,7 +98,7 @@ To finish your low-carb meal, I recommend serving this Peruvian chicken with coc
 
 6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chilis. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
+8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chillies. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
 
 {{< figure src="/images/perc5.jpg" class="instructionFigure">}}
 

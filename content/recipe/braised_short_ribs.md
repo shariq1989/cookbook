@@ -62,7 +62,7 @@ Cuisine: American
 
 * Tomato Paste 
 
-* [Better than Bouillion](https://amzn.to/3m5LpmO) 
+* [Better than Bouillon](https://amzn.to/3m5LpmO) 
 
 * Flour 
 
@@ -85,7 +85,7 @@ Cuisine: American
 {{< figure src="/images/bsr2.jpg" class="instructionFigure">}}
 
 4. In the same pot, add carrots, celery, and onion. Cook until the onions become translucent and soften. 
-5. Next, add garlic, tomato paste, Better than Bouillion, and flour. Stir to build a roux for another 2 minutes. 
+5. Next, add garlic, tomato paste, Better than Bouillon, and flour. Stir to build a roux for another 2 minutes. 
 
 {{< figure src="/images/bsr3.jpg" class="instructionFigure">}}
 

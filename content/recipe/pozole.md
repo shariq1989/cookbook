@@ -1,7 +1,7 @@
 +++
 title = " Instant Pot Mexican Stew - Instant Pot Pozole Rojo"
 date = "2020-01-29"
-description = "Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chilis that flavor the broth. I hope you enjoy this pozole recipe our family loves."
+description = "Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chillies that flavor the broth. I hope you enjoy this pozole recipe our family loves."
 tags = [
     "entree",
     "instant pot",
@@ -61,7 +61,7 @@ For the Garnish:
 
 #### ABOUT THE MEAL 
 
-Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chilis that flavor the broth. I hope you enjoy this pozole recipe our family loves.
+Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chillies that flavor the broth. I hope you enjoy this pozole recipe our family loves.
 
 #### What main ingredients do I need for this meal?
 
@@ -69,7 +69,7 @@ Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a
 
 * Hominy: I use canned hominy, but if you want to use dried hominy, you need to set aside extra time to prepare it.
 
-* Chilis: For this recipe, I use canned [chipotle in adobo sauce](https://amzn.to/2OIJBTR) and dried guajillo chilis
+* Chilis: For this recipe, I use canned [chipotle in adobo sauce](https://amzn.to/2OIJBTR) and dried guajillo chillies
 
 * Garnish: Pozole is all about the garnish, at least for me; you get to make the stew your own with a variety of toppings. I usually garnish with radishes, red onion, cabbage, cilantro, lime wedges, avocado, chili flakes, and Mexican oregano.  
 
@@ -81,7 +81,7 @@ Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a
 
 I make pozole for many of our holiday meals, and I often prepare this pozole recipe with hominy as the main ingredient since my sister is a vegetarian. Here are some adjustments you can make to this recipe to make it vegetarian and vegan-friendly. 
 
-* Instead of Chicken Better than Bouillion, use [Vegetable Better than Bouillion](https://amzn.to/3dZTYx1)
+* Instead of Chicken Better than Bouillon, use [Vegetable Better than Bouillon](https://amzn.to/3dZTYx1)
 
 * In place of meat, double the hominy, using 2 - 29 oz cans instead.   
 

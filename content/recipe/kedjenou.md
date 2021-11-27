@@ -60,7 +60,7 @@ For the Kedjenou Spice:
 2. In a small bowl, mix the ingredients for the Kedjenou Spice. Use 2-3 tbsp to cover the chicken. Set aside for 30 minutes. 
 3. Warm oil in an [Dutch Oven](https://amzn.to/3sgQtGK) over medium heat. Add the chicken thighs and saute skin-side down for 3-4 minutes. 
 4. Add the tomatoes, onion, bell pepper, garlic, ginger paste, carrots, and eggplant, and the rest of the Kedjenou Spice Mix. Cook for 2-3 minutes until aromatic.
-5. Next, add the water, [Better Than Bouillion](https://amzn.to/3rR71VA), bay leaves, and thyme. Cover the pot with aluminum foil followed by the lid. Place it in the oven to cook for 1 hour, removing the dutch oven to shake back and forth 2-3 times during the cooking process, as is custom.   
+5. Next, add the water, [Better Than Bouillon](https://amzn.to/3rR71VA), bay leaves, and thyme. Cover the pot with aluminum foil followed by the lid. Place it in the oven to cook for 1 hour, removing the dutch oven to shake back and forth 2-3 times during the cooking process, as is custom.   
 6. Remove from the oven, place in a serving dish, and allow the chicekn to cool some before serving. Eat it as a stew, over a bed of rice, or with attiéké.
 
 #### INSTANT POT INSTRUCTIONS 
@@ -68,7 +68,7 @@ For the Kedjenou Spice:
 1. In a small bowl, mix the ingredients for the Kedjenou Spice. Use 2 tbsp to cover the chicken. Set aside for 30 minutes. 
 2. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the chicken and saute skin-side down for 3-4 minutes.
 3. Add the tomatoes, onion, bell pepper, garlic, ginger paste, carrots, and eggplant, and the rest of the Kedjenou Spice Mix. Cook for 2-3 minutes until aromatic.
-4. Next, add the water, [Better Than Bouillion](https://amzn.to/3rR71VA), bay leaves, and thyme. 
+4. Next, add the water, [Better Than Bouillon](https://amzn.to/3rR71VA), bay leaves, and thyme. 
 5. Set the [Instant Pot](https://amzn.to/3qfNYCZ) on manual high pressure for 50 minutes with a quick release. 
 6. Remove from the [Instant Pot](https://amzn.to/3qfNYCZ), place in a serving dish, and allow the chicken to cool some before serving. Eat it as a stew, over a bed of rice, or with attiéké. 
 
@@ -86,7 +86,7 @@ Kedjenou, pronounced (KED-gen-ooh), is popular in the Ivory Coast, known for its
 
 * Kedjenou Spice Blend: Like all good spice blends, Kedjenou varies from home to home. This recipe contains the spice blend we use in our home.  
 
-* Chicken Broth: I use [Better than Bouillion](https://amzn.to/3rR71VA) to flavor the dish; if you prefer, use [Maggi](https://amzn.to/3pauBhp), a popular ingredient in Ivorian cuisine. 
+* Chicken Broth: I use [Better than Bouillon](https://amzn.to/3rR71VA) to flavor the dish; if you prefer, use [Maggi](https://amzn.to/3pauBhp), a popular ingredient in Ivorian cuisine. 
 
 #### What equipment do I need to make this recipe?
 
@@ -123,7 +123,7 @@ You sure can. First, allow the dish to cool completely. Then, add it to a freeze
 
 {{< figure src="/images/kj5.jpeg" class="instructionFigure">}}
 
-5. Next, add the water, [Better Than Bouillion](https://amzn.to/3rR71VA), bay leaves, and thyme. Cover the pot with aluminum foil followed by the lid. Place it in the oven to cook for 1 hour, removing the dutch oven to shake back and forth 2-3 times during the cooking process, as is custom.   
+5. Next, add the water, [Better Than Bouillon](https://amzn.to/3rR71VA), bay leaves, and thyme. Cover the pot with aluminum foil followed by the lid. Place it in the oven to cook for 1 hour, removing the dutch oven to shake back and forth 2-3 times during the cooking process, as is custom.   
 
 {{< figure src="/images/kj6.jpeg" class="instructionFigure">}}
 {{< figure src="/images/kj7.jpeg" class="instructionFigure">}}

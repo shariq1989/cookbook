@@ -34,7 +34,7 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
   
 #### INSTRUCTIONS
 
-1. Add the serrano chilis, cilantro, garlic, yogurt, sour cream, and lime juice to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
+1. Add the serrano chillies, cilantro, garlic, yogurt, sour cream, and lime juice to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
 2. Then, stir in the olive oil and season to taste with salt and pepper. Mix well. 
 
 {{< end_recipe >}}
@@ -45,7 +45,7 @@ I made this serrano chili crema as a side for our  [Peruvian Chicken](https://ww
 
 #### Serrano Crema Ingredients: 
 
-* Serrano Chili: I prefer the flavor and heat from serrano chilis, but the use of this chili creates a spicy serrano crema that may be too hot for some. If you're looking for a milder sauce, use jalapenos instead. 
+* Serrano Chili: I prefer the flavor and heat from serrano chillies, but the use of this chili creates a spicy serrano crema that may be too hot for some. If you're looking for a milder sauce, use jalapenos instead. 
 
 * Yogurt
 
@@ -63,7 +63,7 @@ Avocado would make for a creamy addition to the crema; you could even call it av
 * A [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM) 
 
 #### Is serrano crema spicy? 
-The use of serrano chilis may be too hot for some. If you're looking for a milder sauce, use jalapeno chilis instead. 
+The use of serrano chillies may be too hot for some. If you're looking for a milder sauce, use jalapeno chillies instead. 
   
 ----
 

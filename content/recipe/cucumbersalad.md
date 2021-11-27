@@ -35,7 +35,7 @@ Cuisine: Japanese
 2. Thinly slice the cucumbers into rounds. 
 3. Sprinkle the reserved kosher salt onto the cucumbers and massage it in. Let them stand, about 5 minutes. 
 4. Blot the cucumbers with a paper towel to remove any excess moisture, and then add them to the sauce mixture. 
-5. Use a fork or slotted spoon to serve the cucumbers so that the cucumbers carry some of the marinade flavor. 
+5. Use a fork or slotted spoon to serve the cucumbers so that the cucumbers carry some marinade flavor. 
 6. Garnish with toasted white sesame seeds. 
 
 {{< end_recipe >}}
@@ -76,7 +76,7 @@ Cuisine: Japanese
 
 {{< figure src="/images/cuc4.jpg" class="instructionFigure">}}
 
-5. Use a fork or slotted spoon to serve the cucumbers so that the cucumbers carry some of the marinade flavor. 
+5. Use a fork or slotted spoon to serve the cucumbers so that the cucumbers carry some marinade flavor. 
 
 {{< figure src="/images/cuc5.jpg" class="instructionFigure">}}
 

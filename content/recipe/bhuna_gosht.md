@@ -89,7 +89,7 @@ Bhuna gosht is a popular dish in Pakistan and India. It often refers to a thick,
 
 * Onions: Thinly slice the onions and use a lot of them. 
 
-* Whole Spices: We use boriya chilis, bay leaves, whole cinnamon stick, cloves, black peppercorns, green cardamom, black cardamom, and then stir in ground nutmeg since whole nutmeg is difficult to come by. 
+* Whole Spices: We use boriya chillies, bay leaves, whole cinnamon stick, cloves, black peppercorns, green cardamom, black cardamom, and then stir in ground nutmeg since whole nutmeg is difficult to come by. 
 
 #### What equipment do I need to make this recipe?
 

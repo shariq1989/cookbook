@@ -26,7 +26,7 @@ For the Carnitas:
 
 * 2 tsp Salt 
 * 1 tsp Cumin, ground 
-* 1 tbsp [Chipotle en Adobo](https://amzn.to/3vyJ1sM), sauce and 1-3 chilis
+* 1 tbsp [Chipotle en Adobo](https://amzn.to/3vyJ1sM), sauce and 1-3 chillies
 * ½ tsp Black Pepper 
 * 1 tsp Cinnamon,ground
 * 2 tsp Oregano 
@@ -83,7 +83,7 @@ Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder t
 
 #### Are carnitas keto? Are they low-carb?
 
-Yes, replace the orange juice with water and add 1 tsp of [Chicken Better than Bouillion](https://amzn.to/2P3CipM) for added flavor.  These macros account for the pork in the taco and not the tortilla or the toppings.  The serving size for this dish is three tacos. 
+Yes, replace the orange juice with water and add 1 tsp of [Chicken Better than Bouillon](https://amzn.to/2P3CipM) for added flavor.  These macros account for the pork in the taco and not the tortilla or the toppings.  The serving size for this dish is three tacos. 
 
 * CARBS – 2 Net Carbs 
 * PROTEIN – 44g

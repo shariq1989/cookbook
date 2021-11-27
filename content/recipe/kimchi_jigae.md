@@ -30,7 +30,7 @@ For the Broth:
 
 * 3-4 cups Water
 * 2 tbsp [Fish Sauce](https://amzn.to/3uYz9IW)
-* 1 tbsp [Beef](https://amzn.to/3oM8L3W) or [Vegetable](https://amzn.to/3Atsuay) Better than Bouillion 
+* 1 tbsp [Beef](https://amzn.to/3oM8L3W) or [Vegetable](https://amzn.to/3Atsuay) Better than Bouillon 
 * 1/2 tsp Soy Sauce 
 * 1 tsp [Gochochang](https://amzn.to/2NHrNZ3)
 
@@ -48,7 +48,7 @@ For the Jjigae:
 
 #### STOVE-TOP INSTRUCTIONS 
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillion](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillon](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste using the Gochugaru, 2 tsp sesame oil, and ground black pepper. Set aside. 
 3. In a [dutch oven](https://amzn.to/3lC91Pi) or [earthenware pot](https://amzn.to/3soWXDL), saute the kimchi until it becomes soft. Set it aside. 
 4. In the same pot, add 1 tbsp sesame oil over medium heat. Then add the onion, garlic, and scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
@@ -58,7 +58,7 @@ For the Jjigae:
 
 #### INSTANT POT INSTRUCTIONS 
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillion](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillon](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste using the Gochugaru, 2 tsp sesame oil, and ground black pepper. Set aside. 
 3. In an [Instant Pot](https://amzn.to/3DpZGSo), cook the Kimchi on saute mode until it becomes soft. Set it aside. 
 4. Back in the [Instant Pot](https://amzn.to/3DpZGSo), add 1 tbsp sesame oil over medium heat. Then add the onion, garlic, and scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
@@ -90,7 +90,7 @@ Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup (whichever name you ch
 
 #### Is kimchi jjigae vegetarian? Is it vegan?
 
-To make this kimchi stew recipe vegetarian and vegan-friendly, omit the fish sauce, and be sure to use [Vegetable Better than Bouillion](https://amzn.to/3f8LK6e). 
+To make this kimchi stew recipe vegetarian and vegan-friendly, omit the fish sauce, and be sure to use [Vegetable Better than Bouillon](https://amzn.to/3f8LK6e). 
 
 #### Can I freeze this Korean kimchi soup? 
 
@@ -98,7 +98,7 @@ You sure can, but before freezing, remove the tofu from the dish. It doesn't reh
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillion](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillon](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 
 {{< figure src="/images/korean1.jpg" class="instructionFigure">}}
 

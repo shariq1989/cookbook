@@ -55,7 +55,7 @@ For the Topping:
 7. Line the baking sheet with a fresh sheet of parchment paper and spread out the chicken onto it. Place another sheet of parchment paper on top and roll out the chicken with a rolling pin. Remove the top piece of parchment paper and discard. 
 8. Bake in the oven for 8 minutes. 
 9. Remove the crust from the oven and cover the surface with buffalo sauce using a spoon or spatula. Top with mozzarella cheese and bake for another 8 minutes. 
-10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chilis if desired. 
+10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chillies if desired. 
 
 {{< end_recipe >}}
 
@@ -110,7 +110,7 @@ Store the leftovers in a sealed container for 3 days. Reheat the pizza in the ov
 
 {{< figure src="/images/bcp7.jpg" class="instructionFigure">}}
 
-10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chilis if desired. 
+10. Remove the crust from the oven and add the scallions. You can also add the arugula and serrano chillies if desired. 
 
 {{< figure src="/images/bcp8.jpg" class="instructionFigure">}}
 

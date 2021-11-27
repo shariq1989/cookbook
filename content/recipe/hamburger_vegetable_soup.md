@@ -39,7 +39,7 @@ Cuisine: American
 * 1 cup Green Cabbage, shredded 
 * 1 cup Peas 
 * 4 cups Water 
-* 2 tbsp [Beef Better Than Bouillion](https://amzn.to/3Hbz6z0) 
+* 2 tbsp [Beef Better Than Bouillon](https://amzn.to/3Hbz6z0) 
 * 1 tbsp Worsteshire Sauce 
 * 2 tbsp Tomato Paste 
 * 3 Roma Tomatoes, coarsely chopped, and then blended 
@@ -52,7 +52,7 @@ Cuisine: American
 2. In a small bowl, combine the salt, pepper, red chili flakes, and garlic powder. Then, add it to the meat. 
 3. Next, add onion, garlic, carrots, leeks, potatoes, and cabbage to the meat, and cook over medium heat for 5 minutes until the vegetables soften. 
 4. Stir in the peas, followed by the tomato puree and tomato paste. 
-5. Add the water, [Beef Better Than Bouillion], and bay leaves. Cover and allow the soup to cook for 20 minutes. Adjust the temperature to maintain a gentle simmer. 
+5. Add the water, [Beef Better Than Bouillon], and bay leaves. Cover and allow the soup to cook for 20 minutes. Adjust the temperature to maintain a gentle simmer. 
 6. Finish the soup with fish sauce and soy sauce. Stir to combine and allow the soup to cook for another few minutes.
 
 #### INSTANT POT HAMBURGER VEGETABLE SOUP INSTRUCTIONS
@@ -61,7 +61,7 @@ Cuisine: American
 2. In a small bowl, combine the salt, pepper, red chili flakes, and garlic powder. Then, add it to the meat. 
 3. Next, add onion, garlic, carrots, leeks, potatoes, and cabbage to the meat, and cook for 5 minutes until the vegetables soften. 
 4. Stir in the peas, followed by the tomato puree and tomato paste. 
-5. Add the water, [Beef Better Than Bouillion], and bay leaves. Secure the lid and set the [Instant Pot](https://amzn.to/3oosTap) high pressure for 10 minutes with quick release. 
+5. Add the water, [Beef Better Than Bouillon], and bay leaves. Secure the lid and set the [Instant Pot](https://amzn.to/3oosTap) high pressure for 10 minutes with quick release. 
 6. Finish the soup with fish sauce and soy sauce. Stir to combine and allow the soup to cook for another few minutes.
 
 {{< end_recipe >}}
@@ -80,7 +80,7 @@ You will love this homemade vegetable soup with ground beef. It's packed with he
 
 * Vegetables: I use carrots, potatoes, leeks, cabbage, and peas in the soup recipe, but it is flexible, so use what you have. If you're really in a pinch, I recommend buying a frozen bag of mixed vegetables and using that. 
 
-* [Beef Better than Bouillion](https://amzn.to/3Hbz6z0) 
+* [Beef Better than Bouillon](https://amzn.to/3Hbz6z0) 
 
 * Worcestershire Sauce
 
@@ -125,7 +125,7 @@ Yes, this homemade hamburger vegetable soup freezes perfectly! First, allow the 
 
 {{< figure src="/images/vb7.jpeg" class="instructionFigure">}}
 
-5. Add the water, [Beef Better Than Bouillion], and bay leaves. Cover and allow the soup to cook for 20 minutes. Adjust the temperature to maintain a gentle simmer. 
+5. Add the water, [Beef Better Than Bouillon], and bay leaves. Cover and allow the soup to cook for 20 minutes. Adjust the temperature to maintain a gentle simmer. 
 
 {{< figure src="/images/vb8.jpeg" class="instructionFigure">}}
 

@@ -41,25 +41,25 @@ Cuisine: Indian, Pakistani
 
 #### CHANA MASALA STOVE - TOP INSTRUCTIONS 
 
-1. Warm ghee in a [heavy-bottomed](https://amzn.to/3F0cvEn) pan over medium-high heat. Add 1 tsp of the kalonji seeds, the cumin seed, and the green chilis. Cook until ingredients begin to sputter.
+1. Warm ghee in a [heavy-bottomed](https://amzn.to/3F0cvEn) pan over medium-high heat. Add 1 tsp of the kalonji seeds, the cumin seed, and the green chillies. Cook until ingredients begin to sputter.
 2. Lower the heat to medium-low, and then add the onion. Cook until they brown and caramelize. This step may take a while, and that’s okay. You are building flavor. Be sure to stir the onions frequently to prevent them from burning. 
 3. Next, add the garlic and ginger. Stir to combine.
 4. In a small bowl, combine chili powder, turmeric, and garam masala. Stir the spices into the mixture until it becomes fragrant, about 30 seconds.
 5. Add the tomatoes and allow the gravy to simmer for about 5 minutes.
-6. Remove the green chilis and set them aside. Remove the mixture from heat and add it to a food processor. Blend until smooth.
-7. Return the mixture to the pan, along with the reserved chilis. Then add the chickpeas, cilantro, 1/2 cup water, and bring it all to a simmer.
+6. Remove the green chillies and set them aside. Remove the mixture from heat and add it to a food processor. Blend until smooth.
+7. Return the mixture to the pan, along with the reserved chillies. Then add the chickpeas, cilantro, 1/2 cup water, and bring it all to a simmer.
 8. Sprinkle the dish with kalonji seeds and cover the pan with the lid slightly ajar. Lower the heat even more to maintain a gentle bubble. Cook until the liquid reduces, about 12-15 minutes. Be sure to stir frequently to prevent burning. 
 9. Season the Chana Masala with salt, to taste, and garnish with cilantro. 
 
 #### CHANA MASALA INSTANT POT INSTRUCTIONS 
 
-1. Heat the ghee in an [Instant Pot](https://amzn.to/3ttlual) pan over medium-high heat. Add 1 tsp of the kalonji seeds, the cumin seed, and the green chilis. Cook until ingredients begin to sputter.
+1. Heat the ghee in an [Instant Pot](https://amzn.to/3ttlual) pan over medium-high heat. Add 1 tsp of the kalonji seeds, the cumin seed, and the green chillies. Cook until ingredients begin to sputter.
 2. Add the onion. Cook until they brown and caramelize. This step may take a while, and that’s okay. You are building flavor. Be sure to stir the onions frequently to prevent them from burning. 
 3. Next, add the garlic and ginger. Stir to combine.
 4. In a small bowl, combine chili powder, turmeric, and garam masala. Stir the spices into the mixture until it becomes fragrant, about 30 seconds.
 5. Add the tomatoes and allow the gravy to simmer for about 5 minutes.
-6. Remove the green chilis and set them aside. Remove the mixture from heat and add it to a food processor. Blend until smooth.
-7. Return the mixture to the [Instant Pot](https://amzn.to/3ttlual), along with the reserved chilis. Then add the chickpeas, cilantro, 1/2 cup water, and bring it all to a simmer.
+6. Remove the green chillies and set them aside. Remove the mixture from heat and add it to a food processor. Blend until smooth.
+7. Return the mixture to the [Instant Pot](https://amzn.to/3ttlual), along with the reserved chillies. Then add the chickpeas, cilantro, 1/2 cup water, and bring it all to a simmer.
 8. Sprinkle the dish with kalonji seeds and secure the lid. Set the [Instant Pot](https://amzn.to/3ttlual) to manual high pressure, and cook for 10 minutes. 
 9. Season the Chana Masala with salt, to taste, and garnish with cilantro.
    
@@ -73,7 +73,7 @@ Like many dishes in Indian and Pakistan, recipes for chana masala or channa masa
 
 * Chickpeas: We used canned simply out of convenience. You can also use dry chickpeas, but you will need to soak them for 6-24 hours, and you will need to increase the cooking time for this recipe, about 1-2 hours.
 
-* Onion and Tomato: There is nothing quite like a spicy gravy made from slow-cooking onion and tomatoes, along with the ginger, garlic, and green chilis.  
+* Onion and Tomato: There is nothing quite like a spicy gravy made from slow-cooking onion and tomatoes, along with the ginger, garlic, and green chillies.  
 
 * Garam Masala: India is a large country with varying sub-cultures. As a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used and cater it specifically to your preferences. Here is one of the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) spice blends we use in our home. If you choose to buy garam masala, I suggest getting [Rani](https://amzn.to/3m1KWBX).
 

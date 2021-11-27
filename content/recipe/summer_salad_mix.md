@@ -23,7 +23,7 @@ Preparation Time: 10 minutes
 * 1 cup Cilantro, chopped
 * 1 cup Arugula 
   
-#### INSTRUSTIONS
+#### INSTRUCTIONS
 
 1. Take the 1/2 cabbage and slice it in half once again. From there, slice the cabbage into strips. Place the cabbage into a large bowl.
 2. Slice the 1/2 onion into strips and then cut them in half once again. Add it to the cabbage. 

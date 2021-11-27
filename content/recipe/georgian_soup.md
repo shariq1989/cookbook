@@ -27,8 +27,8 @@ Adapted from: Milk Street [Georgian Chicken Soup](https://wskg.org/episodes/milk
 For the Chicken Broth: 
 
 * 2½ - 3 lbs Bone-in, Skin-on Chicken 
-* 1 bunch Cilantro, stems and ends reserved seperately
-* 1 bunch Dill, stems and ends reserved seperately
+* 1 bunch Cilantro, stems and ends reserved separately
+* 1 bunch Dill, stems and ends reserved separately
 * 1 Garlic Head 
 * 8 cup Water 
 * 1 large White Onion, quartered 
@@ -104,7 +104,7 @@ Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold
 
 #### What main ingredients do I need for this meal?
 
-* Chicken: For this recipe, I prefer using bone-in chicken because it makes for a great-tasting broth. You can also use any combination of boneless legs, thighs, and breasts to make your soup.  If you choose to go this route, you can use store-bought chicken stock to flavor the soup. Since you're skipping the broth-making process, I would still take a moment to allow the chicken broth to cook with the cilantro and dill stems, garlic, onions, and whole spices so you don't lose any of the flavors. 
+* Chicken: For this recipe, I prefer using bone-in chicken because it makes for a great-tasting broth. You can also use any combination of boneless legs, thighs, and breasts to make your soup.  If you choose to go this route, you can use store-bought chicken stock to flavor the soup. Since you're skipping the broth-making process, I would still take a moment to allow the chicken broth to cook with the cilantro and dill stems, garlic, onions, and whole spices, so you don't lose any of the flavors. 
 
 * Vegetables: I stuck with the more traditional use of carrots, onion, garlic, to build a tasty roux for the chikhirtma.  
 

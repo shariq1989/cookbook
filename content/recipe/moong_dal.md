@@ -48,12 +48,12 @@ For the Tadka:
 
 1. Set an [Instant Pot](https://amzn.to/3qfNYCZ) to saute mode and warm the ghee. 
 2. Add the boriya chili, cumin seed, mustard seed, and curry leaves. 
-3. Once they begin to sputter, add the onion and green chilis. Fry until the onions brown and caramelize. Reserve half of the onion mixture and set aside at room temperature. 
+3. Once they begin to sputter, add the onion and green chillies. Fry until the onions brown and caramelize. Reserve half of the onion mixture and set aside at room temperature. 
 4. Add the ginger, garlic, turmeric, chili powder, and garam masala to the Instant Pot, give it a quick stir, and then add the tomatoes. Let the mixture simmer, about 2 minutes. 
 5. Next, add the rinsed moong dal, salt, and water to the other ingredients in the Instant Pot. Stir well. 
 6. Secure the lid, set the Instant Pot to manual high pressure, and cook for 20 minutes. This cooking time is for high elevation. Reduce the cooking time for lower elevation. Allow the Instant Pot to release naturally for 5 minutes, and then do a quick release. 
 7. Stir the dal to check the consistency. If it is thicker than desired, add 1/2 cup HOT water before serving. 
-8. Garnish with the reserved onion mixture, cilantro, and extra green chilis, if desired. Serve with long-grained Basmati rice. 
+8. Garnish with the reserved onion mixture, cilantro, and extra green chillies, if desired. Serve with long-grained Basmati rice. 
 
 {{< end_recipe >}}
 
@@ -67,7 +67,7 @@ Before meeting Shariq, I had no experience with Desi food. If you asked me the d
 
 * Moong Dal: Moong dal or split mung beans are the most common lentils used in India, featured in many recipes.  
 
-* Warm Spices: Turmeric, Kashmiri chili powder, garam masala, cumin, and various chilis flavor the dish. 
+* Warm Spices: Turmeric, Kashmiri chili powder, garam masala, cumin, and various chillies flavor the dish. 
 
 #### What equipment do I need to make this recipe?
 

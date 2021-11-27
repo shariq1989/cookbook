@@ -92,11 +92,11 @@ There are way too many versions of this Olive Garden soup recipe floating around
 
 #### Can I make vegatarian Zuppa Toscana? 
 
-Yes. You have a few options to replace the meat in this Zuppa Toscana copycat recipe and still maintain the original flavor and consistency; I suggest doubling the vegetables by adding more potatoes and kale. You could even include carrots or cauliflower. As another option, you could use an alternative like Beyond Sausage. It comes in sweet Italian and hot Italian to fit your preferences. Instead of the Chicken Better than Bouillion, use their [vegetable](https://amzn.to/3kK88Fi) option instead. 
+Yes. You have a few options to replace the meat in this Zuppa Toscana copycat recipe and still maintain the original flavor and consistency; I suggest doubling the vegetables by adding more potatoes and kale. You could even include carrots or cauliflower. As another option, you could use an alternative like Beyond Sausage. It comes in sweet Italian and hot Italian to fit your preferences. Instead of the Chicken Better than Bouillon, use their [vegetable](https://amzn.to/3kK88Fi) option instead. 
 
 #### Can I make Zuppa Toscana vegan? 
 
-Like the vegetarian options above, replace the meat with more vegetables by doubling the potatoes and kale. You could even include carrots or cauliflower. Additionally, you can use an alternative like Beyond Sausage. It comes in sweet Italian and hot Italian to fit your preferences. Instead of the Chicken Better than Bouillion, use their [vegetable](https://amzn.to/3kK88Fi) option instead. Replace the heavy cream with full-fat [coconut cream](https://amzn.to/3ufLoA8), and skip the parmesan cheese. With these modifications, you will have a tasty, vegan Zuppa Toscana soup. 
+Like the vegetarian options above, replace the meat with more vegetables by doubling the potatoes and kale. You could even include carrots or cauliflower. Additionally, you can use an alternative like Beyond Sausage. It comes in sweet Italian and hot Italian to fit your preferences. Instead of the Chicken Better than Bouillon, use their [vegetable](https://amzn.to/3kK88Fi) option instead. Replace the heavy cream with full-fat [coconut cream](https://amzn.to/3ufLoA8), and skip the parmesan cheese. With these modifications, you will have a tasty, vegan Zuppa Toscana soup. 
 
 #### Can I freeze Zuppa Toscana? 
 

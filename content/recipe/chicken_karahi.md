@@ -1,7 +1,7 @@
 +++
 title = "Pakistani Karahi Murgh - Pakistani Chicken Karahi"
 date = "2021-10-10"
-description = "Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chilis. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves."
+description = "Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chillies. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves."
 tags = [
     "entree",
   
@@ -50,7 +50,7 @@ Cuisine: Pakistani, Indian
 
 ### ABOUT THE MEAL
 
-Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chilis. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves. 
+Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chillies. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves. 
 
 #### What main ingredients do I need for this meal?
 
@@ -98,7 +98,7 @@ You sure can. First, allow the chicken karahi to cool completely, and then add i
 
 {{< figure src="/images/ck2.jpeg" class="instructionFigure">}}
 
-4. In a small bowl, mix the Karahi masala, Kashmiri chili powder, and turmeric, then add it to the karahi, along with the green chilis. 
+4. In a small bowl, mix the Karahi masala, Kashmiri chili powder, and turmeric, then add it to the karahi, along with the green chillies. 
 
 {{< figure src="/images/ck3.jpeg" class="instructionFigure">}}
 
@@ -110,7 +110,7 @@ You sure can. First, allow the chicken karahi to cool completely, and then add i
 
 {{< figure src="/images/ck6.jpeg" class="instructionFigure">}}
 
-7. Garnish with ginger batons, cilantro, and extra green chilis. Serve with naan or long-grain basmati rice.
+7. Garnish with ginger batons, cilantro, and extra green chillies. Serve with naan or long-grain basmati rice.
 
 {{< figure src="/images/chicken_karahi.jpeg" class="instructionFigure">}}
 
