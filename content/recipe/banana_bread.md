@@ -1,7 +1,7 @@
 +++
 title = "Banana Bread"
 date = "2020-12-18"
-description = "A moist and delicious baked banana bread recipe that our family loves, especially our kids. It is easy to make, and there is no need for a mixer!."
+description = "A moist and delicious baked banana bread recipe that our family loves, especially the kids. It is easy to make, and there is no need for a mixer!"
 tags = [
     "breakfast",
     "vegetarian",
@@ -35,40 +35,44 @@ Cuisine: American
 
 #### INSTRUCTIONS 
 
-1. Mix the dry ingredients together in a large bowl. Set aside. 
-2. In another bowl, add the softened butter and mash it until it is broken down. 
-3. Next, add the bananas and mush them into the butter with a fork until smooth. 
-4. Add the eggs and milk to the butter and banana mixture and stir until smooth. 
-5. Combine the dry ingredients together with the wet ingredients. Do not over-mix. Instead, fold the ingredients together until fully incorporated.
+1. Mix the dry ingredients together in a [mixing bowl](https://amzn.to/3rczKGV). Set aside. 
+2. In another [bowl](https://amzn.to/3rczKGV), add the softened butter and mash it with a fork until it is broken down. 
+3. Next, add the bananas and mush them into the butter until smooth. 
+4. Add the eggs and milk to the butter and banana mixture, and stir until smooth. 
+5. Combine the dry ingredients together with the wet ingredients. Do not overmix. Instead, fold the ingredients with a [spatula](https://amzn.to/3E0CF9b) until fully incorporated.
 6. Cover the bowl and set aside for 1 hour at room temperature. 
 7. Pre-heat the oven to 350 degrees. 
-8. Pour the mixture into two greased 9x5 [loaf pans](https://amzn.to/3lhGhv0) and bake them for 1 hour. 
+8. Pour the mixture into two greased [loaf pans](https://amzn.to/3lhGhv0) and bake them for 1 hour. 
 9. Let the banana bread cool before serving. 
 
 {{< end_recipe >}}
 
 ### ABOUT THE BREAD 
 
+A moist and delicious baked banana bread recipe that our family loves, especially the kids. It is easy to make, and there is no need for a mixer!
+
 #### What main ingredients do I need for this bread?
-
-* Over-Ripe Bananas: Use bananas that have begun to freckle and are a little too soft to snack on. The riper the banana, the richer the banana-flavor will become. 
-
-* Unsalted Butter: Other banana bread recipes use oil, but I enjoy the flavor and texture butter lends to the bread. 
-
-* Sugar: I use a mix of brown and white sugar for this recipe. 
-
-* Eggs & Milk: I use eggs and milk to bind everything together.
 
 * All-Purpose Flour
 
-* Baking Soda & Baking Powder
+* Sugar: I use a mix of brown and white sugar. 
 
-* Cinnamon: Cinnamon is optional, but I think it balances the flavors well and adds a rich brown coloring to the bread. 
+* Baking Soda 
+
+* Baking Powder 
+
+* Cinnamon: Cinnamon is optional, but it balances the flavors well and adds a rich brown coloring to the bread that makes it feel warm and cozy. 
+
+* Unsalted Butter: Other banana bread recipes use oil, but I enjoy the flavor and texture butter lends to the bread. 
+
+* Bananas: Use bananas that have begun to freckle and are a little too soft to snack on. The riper the banana, the richer the flavor will become. 
+
+* Eggs & Milk: I use eggs and milk to bind everything together.
 
 #### What equipment do I need to make this recipe?
 
-* A large bowl
-* A small bowl
+* 2 [mixing bowl](https://amzn.to/3rczKGV)
+* A [spatula](https://amzn.to/3E0CF9b)
 * 2- 9x5 [loaf pans](https://amzn.to/3lhGhv0)
 
 #### What can I add to my banana bread?
@@ -85,7 +89,7 @@ Cuisine: American
 
 #### How should I store banana bread? 
 
-To keep your banana bread moist, allow it to cool completely and then wrap it in a layer of plastic wrap. Then, store it in a Ziploc bag or a container with a tight-fitting lid. It will last on the counter for up to 3 days. 
+To keep your banana bread moist, allow it to cool completely and then wrap it in a layer of plastic. Next, store it in a Ziploc bag or a container with a tight-fitting lid. It will last on the counter for up to 3 days. 
 
 #### Can I freeze the banana bread?
 
@@ -93,3 +97,9 @@ You sure can. First, allow the banana bread to cool completely and then wrap it 
 
 ---- 
 
+I hope you enjoy this banana bread recipe. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
+* [Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/nutella_cookies/) 
