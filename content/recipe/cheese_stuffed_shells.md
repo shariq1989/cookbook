@@ -36,11 +36,11 @@ Cuisine: Sicilian
 1. Cook the pasta shells, al dente, according to the package, and strain. Set them aside. 
 2. In a small skillet, saute the spinach with 1 tsp of olive oil until wilted. Set aside. 
 3. Pre-heat the oven to 375 degrees. 
-4. In a large bowl, mix the ricotta cheese and egg. Then, stir in the minced garlic, wilted spinach, and parmesan cheese. Season the mixture with pepper.
-5. Prepare a 9 x 10 baking dish with olive oil and layer some of the basil pesto sauce along the bottom of the dish. 
+4. In a large bowl, mix the ricotta cheese and egg. Then, stir in the minced garlic, wilted spinach, and Parmesan cheese. Season the mixture with pepper.
+5. Prepare a 9 x 10 baking dish with olive oil and layer some basil pesto sauce along the bottom of the dish. 
 6. Divide the cheese mixture into the cooked pasta shells; fill each shell with 2 tbsp of the cheese mixture. 
 7. Line the shells in the baking dish, facing upright, so the filling will not spill into the pan. 
-8. Drizzle more basil pesto sauce on top and then sprinkle with parmesan cheese. 
+8. Drizzle more basil pesto sauce on top and then sprinkle with Parmesan cheese. 
 9. Cover the baking dish with aluminum foil and bake for 50 minutes. 
 10. Remove the foil and cook for another 5-8 minutes. If your cheese hasn't begun to brown, you can broil for 1-2 minutes to achieve the desired effect. 
 

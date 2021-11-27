@@ -39,7 +39,7 @@ Cuisine: American
 2. In another bowl, add the softened butter and mash it until it is broken down. 
 3. Next, add the bananas and mush them into the butter with a fork until smooth. 
 4. Add the eggs and milk to the butter and banana mixture and stir until smooth. 
-5. Combine the dry ingredients together with the wet ingredients. Do not overmix. Instead, fold the ingredients together until fully incorporated.
+5. Combine the dry ingredients together with the wet ingredients. Do not over-mix. Instead, fold the ingredients together until fully incorporated.
 6. Cover the bowl and set aside for 1 hour at room temperature. 
 7. Pre-heat the oven to 350 degrees. 
 8. Pour the mixture into two greased 9x5 [loaf pans](https://amzn.to/3lhGhv0) and bake them for 1 hour. 

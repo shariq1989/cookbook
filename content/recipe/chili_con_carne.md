@@ -139,7 +139,7 @@ Because chili con carne ingredients are so widely disputed, there is room to ser
 
 #### Can I freeze chili con carne?
 
-You sure can. First, allow the dish to cool completely. Then add it to a freezer-safe container or bag. Chili con carne will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm the stew on the stovetop and prepare all of your toppings. 
+You sure can. First, allow the dish to cool completely. Then add it to a freezer-safe container or bag. Chili con carne will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm the stew on the stove and prepare all of your toppings. 
 
 
 ### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 

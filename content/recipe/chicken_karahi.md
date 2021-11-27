@@ -41,10 +41,10 @@ Cuisine: Pakistani, Indian
 1. In a heavy-bottomed pan or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
 2. Add the onion and cook until they become brown and caramelized. This step can take some time; that’s okay. You are building flavor for the dish. 
 3. Next, add the ginger paste and garlic. Stir regularly, and cook for 2 minutes.
-4. In a small bowl, mix the karahi masala, Kashmiri chili powder, and turmeric, then add it to the Karahi, along with the green chilis. 
+4. In a small bowl, mix the karahi masala, Kashmiri chili powder, and turmeric, then add it to the Karahi, along with the green chilies. 
 5. Add the tomatoes and lower the heat to maintain a gentle simmer for 5 minutes.
 6. Next, add the chicken and cook for 20 minutes on low heat, stirring occasionally. 
-7. Garnish with ginger batons, cilantro, and extra green chilis. Serve with naan or long-grain basmati rice.
+7. Garnish with ginger batons, cilantro, and extra green chilies. Serve with naan or long-grain basmati rice.
 
 {{< end_recipe >}}
 

@@ -54,7 +54,7 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 3. Cut the ends of 2 lemons off, and then cut them in half. Set lemons aside. 
 4. In the bowl with lemon zest, add the juice from one lemon, olive oil, garlic, oregano, salt, and pepper. Stir to combine. 
 5. Season the chicken with salt and pepper. Then, make cuts in the chicken thighs; arrange them on the grill, along with the lemons. Cook for about 25 minutes, flipping occasionally.
-6. When the chicken is almost finished cooking, warm a pan on the grill or a stove-top. Then, add the chicken to the pan. Cover the thighs with some of the olive oil mixture, fresh parsley, and sundried tomatoes. 
+6. When the chicken is almost finished cooking, warm a pan on the grill or a stove-top. Then, add the chicken to the pan. Cover the thighs with some olive oil mixture, fresh parsley, and sundried tomatoes. 
 7. Cook, turning the chicken to make sure they are coated, for 3-5 minutes. 
 8. To serve, squeeze the juice from the grilled lemon into the reserved olive oil mixture and pour it over the chicken. Garnish with fresh parsley, and enjoy!  {{< end_recipe >}}
 

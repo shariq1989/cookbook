@@ -45,7 +45,7 @@ Cuisine: American
 
 1. In an [Instant Pot](https://amzn.to/3mYZOBH), steam cauliflower on manual high pressure for 2 minutes with a quick release. 
 2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream and butter. Mix well. 
-3. Return cauliflower to the [Instant Pot](https://amzn.to/3mYZOBH) and select saute mode. Add the parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
+3. Return cauliflower to the [Instant Pot](https://amzn.to/3mYZOBH) and select saute mode. Add the Parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
 4. Add salt and pepper, to taste; your dish is ready to eat.
 
 {{< end_recipe >}}
@@ -79,7 +79,7 @@ Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but i
 
 {{< figure src="/images/cmash4.jpeg" class="instructionFigure">}}
 
-3. Return the cauliflower to the [large pot](https://amzn.to/3n4isbc) over low heat. Add the parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
+3. Return the cauliflower to the [large pot](https://amzn.to/3n4isbc) over low heat. Add the Parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
 
 {{< figure src="/images/cmash5.jpeg" class="instructionFigure">}}
 
