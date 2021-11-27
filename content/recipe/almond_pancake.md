@@ -16,7 +16,7 @@ Cuisine: American
 
 ----
 
-### How to make almond flour pancakes 
+### How to Make Almond Flour Pancakes 
 
 #### INGREDIENTS 
 
@@ -26,13 +26,13 @@ Cuisine: American
 * 1/2 tsp Cinnamon 
 * ¼ cup Unsweetened Almond Milk
 * 2 Large Eggs
-* 1 tsp Vanilla Extract 
+* 1 tsp [Vanilla Extract](https://amzn.to/313NuIU)
   
 #### INSTRUCTIONS
 
-1. In a large bowl, mix the dry ingredients. Set aside. 
+1. In a [mixing bowl](https://amzn.to/3FUghPc), mix the dry ingredients. Set aside. 
 2. In a small bowl, whisk the almond milk, eggs, and vanilla.
-3. Pour the wet ingredients into the large bowl with the dry ingredients. Stir to combine. 
+3. Pour the wet ingredients into the bowl with the dry ingredients. Stir to combine. 
 4. Heat a [non-stick skillet](https://amzn.to/3xy2Mkd) or [griddle](https://amzn.to/3vFthD9) over medium-low heat. Once the surface is warm, use a ¼ measuring cup to pour the batter onto the pan. Cook the pancakes for 1-2 minutes per side, adjusting the heat so that the middle cooks without burning the outside. Quick note, almond flour pancakes tend to darken a bit faster. 
 5. Once once side is cooked through and flipped, give it a light tap with your spatula to spread out the mixture since these pancakes will be slightly smaller than regular  pancakes. 
 6. Serve these pancakes with butter, maple syrup, or topping of your choice.
@@ -47,17 +47,21 @@ These almond flour pancakes have saved me so much time and preparation. Before t
 
 * [Almond Flour](https://amzn.to/3F38Qpi): For best results and fluffy pancakes, I recommend using blanched almond flour.
 
-* Eggs: Eggs add texture and act as a binder.  
-
 * Baking Powder
+
+* Salt 
+
+* Cinnamon 
 
 * Almond Milk: Adding to the overall nuttiness, almond milk also provides needed moisture for the pancakes. 
 
-* Vanilla Extract
+* Eggs: Eggs act as a binder and provide texture.  
+
+* [Vanilla Extract](https://amzn.to/313NuIU)
 
 #### What equipment do I need to make this recipe?
 
-* A large bowl 
+* A [mixing bowl](https://amzn.to/3FUghPc)
 * A small bowl 
 * A [non-stick skillet](https://amzn.to/3xy2Mkd) or [griddle](https://amzn.to/3vFthD9) 
 
@@ -75,35 +79,32 @@ Yes, first allow the pancakes to cool completely, and then add them to a freezer
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. In a large bowl, mix the dry ingredients. Set aside. 
+1. In a [mixing bowl](https://amzn.to/3FUghPc), mix the dry ingredients. Set aside. 
 2. In a small bowl, whisk the almond milk, eggs, and vanilla.
 
 {{< figure src="/images/afp1.jpg" class="instructionFigure">}}
 
-3. Pour the wet ingredients into the bowl with the dry ingredients and stir until combined. Pour the wet ingredients into the bowl with the dry ingredients. Stir to combine. 
+3. Pour the wet ingredients into the bowl with the dry ingredients. Stir to combine. 
 
 {{< figure src="/images/afp2.jpg" class="instructionFigure">}}
 
 4. Heat a [non-stick skillet](https://amzn.to/3xy2Mkd) or [griddle](https://amzn.to/3vFthD9) over medium-low heat. Once the surface is warm, use a ¼ measuring cup to pour the batter onto the pan. Cook the pancakes for 1-2 minutes per side, adjusting the heat so that the middle cooks without burning the outside. Quick note, almond flour pancakes tend to darken a bit faster. 
 
-5. Once once side is cooked through and flipped, give it a light tap with your spatula to spread out the mixture since these pancakes will be slightly smaller than other pancakes. 
+5. Once once side is cooked through and flipped, give it a light tap with your spatula to spread out the mixture since these pancakes will be slightly smaller than regular  pancakes. 
 
 {{< figure src="/images/afp3.jpg" class="instructionFigure">}}
 
-5. Serve these pancakes with butter, maple syrup, or topping of your choice.
+6. Serve these pancakes with butter, maple syrup, or topping of your choice.
 
 {{< figure src="/images/afp4.jpg" class="instructionFigure">}}
 
 ----
 
-I hope you enjoy this easy almond flour pancakes recipe. If you try it, be sure to let us know what you think!
+I hope you enjoy this easy almond flour pancake recipe. If you try it, be sure to let us know what you think!
 
 Other breakfast recipes from The Jamil Ghar:
 
 * [Banana Bread](https://www.jamilghar.com/recipe/banana_bread/)
-* [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/)
 * [Crispy Belgium Waffle](https://www.jamilghar.com/recipe/belgium_waffles/)
 * [Double Chocolate Low Carb Muffins](https://www.jamilghar.com/recipe/double_chocolate_lowcarb_muffins/)
-* [Low Carb Biscuits ans Gravy](https://www.jamilghar.com/recipe/biscuits_and_gravylc/)
 * [No Yeast-Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
-* [Vegetarian Eggs Benedict](https://www.jamilghar.com/recipe/veg_eggs_benedict/)
