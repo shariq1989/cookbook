@@ -36,9 +36,9 @@ For the Chicken:
 
 #### OVEN INSTRUCTIONS
 
-Cooking Time: 40 minutes 
+* Cooking Time: 40 minutes 
 
-1. In a large bowl, mix the spices for the rub and massage them into the drumsticks. Cover the bowl and marinate them in the fridge for 6 hours.
+1. In a [mixing bowl](https://amzn.to/3o4ml1T), add the spices for the rub and massage them into the drumsticks. Cover the bowl and marinate them in the fridge for 6 hours.
 2. Preheat the oven to 400 degrees and then set a [wire rack](https://amzn.to/3AQLn8k) into a [rimmed baking sheet](https://amzn.to/3COm9rS); line the drumsticks onto it.
 3. Cook for 25-30 minutes, flipping the drumsticks halfway through.
 4. Brush them with bbq sauce and cook them for 3 minutes, sauce side down. 
@@ -47,9 +47,9 @@ Cooking Time: 40 minutes
 
 #### GRILL INSTRUCTION 
 
-Cooking Time: 1 hour, 10 minutes
+* Cooking Time: 1 hour, 10 minutes
 
-1. In a large bowl, mix the spices for the rub and massage them into the drumsticks. Cover the bowl and marinate them in the fridge for 6 hours.
+1. In a [mixing bowl](https://amzn.to/3o4ml1T), add the spices for the rub and massage them into the drumsticks. Cover the bowl and marinate them in the fridge for 6 hours.
 2. Pre-heat the grill by setting all the burners to high heat, about 10 minutes.
 3. Turn off the rightmost burner, but maintain a grill temperature of 350 degrees. Adjust the temperature accordingly.
 4. Oil the grates and cook the drumsticks on the hottest side of the grill. Cook until they become blistered, about 5 minutes. I check them halfway through to prevent burning. 
@@ -68,15 +68,16 @@ We love get-togethers with family and friends; these BBQ chicken drumsticks are 
 
 #### What main ingredients do I need for this meal?
 
+* BBQ Rub: You can use your favorite rub, but I prefer the homemade rub in this recipe. I will often double or triple the batch and put the rub into an airtight container, like a mason jar, to have some on hand. The rub will keep for up to 3 months. If you go the store-bought route, I recommend [Montreal's](https://amzn.to/2QOX1P8) mixed with brown sugar, about 2 tbsp.
+
 * Chicken Drumsticks: You can grill any part of the chicken, but I love using drumsticks. They are easy to eat and universally well-liked. Bonus, our kids devour them. 
 
 * BBQ Sauce: I am sure there are many tasty BBQ sauces out there I don't know about, but our family go-to is [Sweet Baby Ray's](https://amzn.to/2NsxauJ). This brand is always delicious, and they offer [sugar-free](https://amzn.to/2MYvhWR), which makes everyone in the family happy. 
 
-* BBQ Rub: You can use your favorite rub, but I prefer the homemade rub in this recipe. I will often double or triple the batch and put the rub into an airtight container, like a mason jar, to have some on hand. The rub will keep for up to 3 months. If you go the store-bought route, we recommend [Montreal's](https://amzn.to/2QOX1P8) mixed with brown sugar, about 2 tbsp.
 
 #### What equipment do I need to make this recipe?
 
-* A large bowl 
+* A [mixing bowl](https://amzn.to/3o4ml1T) 
 
 * 2 [rimmed baking sheets](https://amzn.to/3COm9rS)
 
@@ -84,7 +85,7 @@ We love get-togethers with family and friends; these BBQ chicken drumsticks are 
 
 #### Are BBQ chicken drumsticks keto? Are BBQ Chicken Drumsticks low-carb?
 
-They are!! Substitute sugar-free [bbq sauce](https://amzn.to/2MYvhWR) of your choice and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar replacement. I calculated the macros for one serving of the BBQ drumsticks to make it easy for you. The serving size is two drumsticks. 
+They are!! Use sugar-free [bbq sauce](https://amzn.to/2MYvhWR) of your choice and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar replacement. I calculated the macros for one serving of the BBQ drumsticks to make it easy for you. The serving size is two drumsticks. 
 
 For the Chicken Drumsticks with Rub (Swerve replacement included): 
 
