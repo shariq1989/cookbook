@@ -21,7 +21,7 @@ Cuisine: American
 
 {{< start_recipe >}}
 
-### How to Make Cucumber, Avocado, and Tomato Salad with Lime
+### How to Make Cucumber Avocado Tomato Salad with Lime
 
 #### INGREDIENTS 
 
@@ -37,8 +37,8 @@ Cuisine: American
 
 #### INSTRUCTIONS
 
-1. Cut the cucumbers, tomatoes, and cilantro and add them to a bowl. 
-2. Add olive oil, lime juice, garlic, salt, and pepper to another bowl and stir to mix well. 
+1. Cut the cucumbers, tomatoes, and cilantro and add them to a serving bowl. 
+2. Add olive oil, lime juice, garlic, salt, and pepper to the bowl and stir to mix well. 
 3. Next, add the avocado and gently fold them into the salad, careful not to overmix. 
  
 {{< end_recipe >}}
@@ -51,15 +51,19 @@ This salad is full of herbs, juicy tomato, crisp cucumber, and creamy avocado. T
 
 * Persian Cucumber: You can also use regular cucumbers, but I prefer these. To me, they are crisper than regular ones, and I love the crunch they add. 
 
-* Tomato: I reach for the tomato medley for this salad, mostly because I like all the colors. Use what you have - cherry tomatoes, grape tomatoes, or Roma tomatoes. 
+* Tomato: I reach for the tomato medley for this salad, mostly for color, but use what you have - cherry tomatoes, grape tomatoes, or Roma tomatoes. 
 
-* Avocado 
-
-* Garlic 
+* Cilantro 
 
 * Olive Oil  
 
+* Lime 
+
+* Garlic 
+
 * Salt and Pepper 
+
+* Avocado 
 
 #### What equipment do I need to make this recipe?
 
@@ -73,9 +77,9 @@ Sure, fresh dill is a great substitute. If you go this route, I suggest using le
 
 #### What additions or changes could I make to this salad? 
 
-* Red onions
-* Slice fresh mozzarella to make an avocado, tomato, cucumber, and mozzarella salad
+* Slice fresh mozzarella to make an avocado, tomato, cucumber, and mozzarella salad, yum! 
 * Corn
+* Red onions
 * Crumble feta cheese and add it for cucumber, tomato, avocado, feta salad
 * Basil
 * Make the salad a whole meal by adding canned salmon or tuna
@@ -84,8 +88,8 @@ Sure, fresh dill is a great substitute. If you go this route, I suggest using le
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. Cut the cucumbers, tomatoes, and cilantro and add them to a bowl. 
-2. Add olive oil, lime juice, garlic, salt, and pepper to another bowl and stir to mix well. 
+1. Cut the cucumbers, tomatoes, and cilantro and add them to a serving bowl. 
+2. Add olive oil, lime juice, garlic, salt, and pepper to the bowl and stir to mix well. 
 
 {{< figure src="/images/cat1.jpeg" class="instructionFigure">}}
 
@@ -98,6 +102,12 @@ Sure, fresh dill is a great substitute. If you go this route, I suggest using le
 {{< figure src="/images/cat4.jpeg" class="instructionFigure">}}
 
 {{< end_recipe >}}
+
+#### ABOUT THE SALAD 
+
+This salad is full of herbs, juicy tomato, crisp cucumber, and creamy avocado. The addition of olive oil and lime makes for a perfect light salad or side dish to any meal. 
+
+---- 
 
 I hope you enjoy this easy cucumber, avocado, and tomato salad recipe. If you try it, be sure to let us know what you think!
 
