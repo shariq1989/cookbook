@@ -1,7 +1,7 @@
 +++
 title = "Healthy Cauliflower Mash"
 date = "2021-09-12"
-description = ""
+description = "Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but it is a delicious side in its own right. This cauli mash recipe is easy to make and the perfect side dish for any main entree. Enjoy the best cauliflower mash recipe our family returns to again and again. "
 tags = [
     "side",
     "vegetarian",
@@ -22,7 +22,7 @@ Cuisine: American
 
 {{< start_recipe >}}
 
-### How to make cauliflower mash 
+### How to Make Cauliflower Mash 
 
 #### INGREDIENTS 
 
@@ -36,29 +36,30 @@ Cuisine: American
   
 #### CAULIFLOWER MASH STOVE-TOP INSTRUCTIONS
 
-1. In a [large pot](https://amzn.to/3n4isbc), steam cauliflower over medium heat, about 5 minutes, or until the florets soften. 
-2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream and butter. Mix well. 
-3. Return cauliflower to the [large pot](https://amzn.to/3n4isbc) over low heat. Add the parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
-4. Add salt and pepper, to taste; your side dish is ready to eat. 
+1. In a [large pot](https://amzn.to/3n4isbc), steam cauliflower over medium heat for about 5 minutes, or until the florets soften. 
+2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream, butter, and parmesan cheese. Mix well. 
+3. Add salt and pepper, to taste, and enjoy. 
 
 #### CAULIFLOWER MASH INSTANT POT INSTRUCTIONS
 
 1. In an [Instant Pot](https://amzn.to/3mYZOBH), steam cauliflower on manual high pressure for 2 minutes with a quick release. 
-2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream and butter. Mix well. 
-3. Return cauliflower to the [Instant Pot](https://amzn.to/3mYZOBH) and select saute mode. Add the Parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
-4. Add salt and pepper, to taste; your dish is ready to eat.
+2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream, butter, and parmesan cheese. Mix well. 
+3. Add salt and pepper, to taste, and enjoy. 
 
 {{< end_recipe >}}
 
 ### ABOUT THE MEAL
 
-Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but is a delicious side in its own right. This cauli mash recipe is easy to make and the perfect side dish for any main entree. Enjoy the best cauliflower mash recipe our family returns to again and again. 
+Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but it is a delicious side in its own right. This cauli mash recipe is easy to make and the perfect side dish for any main entree. Enjoy the best cauliflower mash recipe our family returns to again and again. 
 
 #### What main ingredients do I need for this meal?
 
-* Cauliflower 
+* Cauliflower Head 
+
 * Heavy Cream 
+
 * Butter 
+
 * Parmesan Cheese 
 
 #### What equipment do I need to make this recipe?
@@ -67,6 +68,7 @@ Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but i
 * A [food processor](https://amzn.to/3BPnFtT) or [blender](https://amzn.to/3FXvdwQ) 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
+
 1. In a [large pot](https://amzn.to/3n4isbc), steam cauliflower over medium heat, about 5 minutes, or until the florets soften. 
 
 {{< figure src="/images/cmash1.jpeg" class="instructionFigure">}}
@@ -79,11 +81,7 @@ Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but i
 
 {{< figure src="/images/cmash4.jpeg" class="instructionFigure">}}
 
-3. Return the cauliflower to the [large pot](https://amzn.to/3n4isbc) over low heat. Add the Parmesan cheese and cook until fully incorporated, stir-frequently, to prevent sticking. 
-
-{{< figure src="/images/cmash5.jpeg" class="instructionFigure">}}
-
-4. Add salt and pepper, to taste; your dish is ready to eat.
+3. Add salt and pepper, to taste; your dish is ready to eat.
 
 {{< figure src="/images/cmash6.jpeg" class="instructionFigure">}}
 
