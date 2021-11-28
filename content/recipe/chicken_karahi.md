@@ -19,16 +19,16 @@ Cuisine: Pakistani, Indian
 
 {{< start_recipe >}}
 
-### HOW TO MAKE CHICKEN KARAHI 
+### How to Make Chicken Karahi 
 
 #### CHICKEN KARAHI INGREDIENTS 
 
-* 2 tsp Cumin Seeds
+* 2 tsp [Cumin Seeds](https://amzn.to/3E1bnj6)
 * 2 tbsp [Ghee](https://amzn.to/2ZkJkrW)
 * 1 1/2 lb Chicken Thighs and legs, trimmed
 * 1 medium Purple Onion, thinly sliced
 * 3 large Roma Tomatoes, pureed 
-* 2 tsp Ginger Paste
+* 2 tsp [Ginger Paste](https://amzn.to/3p0Q4b4)
 * 3 Garlic Cloves, minced
 * 1/2 Package Karahi Masala 
 * 1 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
@@ -38,13 +38,13 @@ Cuisine: Pakistani, Indian
 
 #### INSTRUCTIONS 
 
-1. In a heavy-bottomed pan or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
-2. Add the onion and cook until they become brown and caramelized. This step can take some time; that’s okay. You are building flavor for the dish. 
-3. Next, add the ginger paste and garlic. Stir regularly, and cook for 2 minutes.
-4. In a small bowl, mix the karahi masala, Kashmiri chili powder, and turmeric, then add it to the Karahi, along with the green chilies. 
-5. Add the tomatoes and lower the heat to maintain a gentle simmer for 5 minutes.
+1. In a [heavy-bottomed pan](https://amzn.to/3xwp9HO) or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
+2. Add the onion and cook until they brown and caramelized. This can take time, and that’s okay. You are building flavor for the dish. 
+3. Next, add the ginger paste and garlic. Stir regularly, and cook for another 2 minutes.
+4. In a small bowl, mix the karahi masala, Kashmiri chili powder, and turmeric, then add it to the karahi, along with the green chilies. 
+5. Add the tomatoes and lower the heat to maintain a gentle simmer for 5 minutes. Adjust the heat accordingly.
 6. Next, add the chicken and cook for 20 minutes on low heat, stirring occasionally. 
-7. Garnish with ginger batons, cilantro, and extra green chilies. Serve with naan or long-grain basmati rice.
+7. Garnish with ginger, cilantro, and extra green chilies. Serve with naan or long-grain basmati rice.
 
 {{< end_recipe >}}
 
@@ -66,7 +66,7 @@ Karahi is a Pakistani dish that gets its name from the wok-like pan it is made i
 
 #### What equipment do I need to make this recipe?
 
-* A heavy-bottomed pan or [karahi](https://amzn.to/3BuoEPL)
+* A [heavy-bottomed pan](https://amzn.to/3xwp9HO) or [karahi](https://amzn.to/3BuoEPL)
 
 #### Can I make chicken karahi spicy? Can I lower the spice? 
 
@@ -89,20 +89,20 @@ You sure can. First, allow the chicken karahi to cool completely, and then add i
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. In a heavy-bottomed pan or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
-2. Add the onion and cook until they become brown and caramelized. This step can take some time; that’s okay. You are building flavor for the dish. 
+1. In a [heavy-bottomed pan](https://amzn.to/3xwp9HO) or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
+2. Add the onion and cook until they brown and caramelized. This can take time, and that’s okay. You are building flavor for the dish. 
 
 {{< figure src="/images/ck1.jpeg" class="instructionFigure">}}
 
-3. Next, add the ginger paste and garlic. Stir regularly, and cook for 2 minutes.
+3. Next, add the ginger paste and garlic. Stir regularly, and cook for another 2 minutes.
 
 {{< figure src="/images/ck2.jpeg" class="instructionFigure">}}
 
-4. In a small bowl, mix the Karahi masala, Kashmiri chili powder, and turmeric, then add it to the karahi, along with the green chillies. 
+4. In a small bowl, mix the karahi masala, Kashmiri chili powder, and turmeric, then add it to the karahi, along with the green chilies. 
 
 {{< figure src="/images/ck3.jpeg" class="instructionFigure">}}
 
-5. Add the tomatoes and lower the heat to maintain a gentle simmer for 5 minutes.
+5. Add the tomatoes and lower the heat to maintain a gentle simmer for 5 minutes. Adjust the heat accordingly.
 
 {{< figure src="/images/ck4.jpeg" class="instructionFigure">}}
 
@@ -110,7 +110,7 @@ You sure can. First, allow the chicken karahi to cool completely, and then add i
 
 {{< figure src="/images/ck6.jpeg" class="instructionFigure">}}
 
-7. Garnish with ginger batons, cilantro, and extra green chillies. Serve with naan or long-grain basmati rice.
+7. Garnish with ginger, cilantro, and extra green chilies. Serve with naan or long-grain basmati rice.
 
 {{< figure src="/images/chicken_karahi.jpeg" class="instructionFigure">}}
 
@@ -118,7 +118,7 @@ You sure can. First, allow the chicken karahi to cool completely, and then add i
 
 I hope you enjoy the best chicken karahi recipe our family comes back to again and again. If you try it, be sure to let us know what you think!
 
-Other Pakistani and Indian recipes from The Jamil Ghar:
+Similar recipes from The Jamil Ghar:
 * [Aloo Qeema](https://www.jamilghar.com/recipe/aloo_qeema/)
 * [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna_gosht/) 
 * [Channa Masala](https://www.jamilghar.com/recipe/chana_masala/) 
