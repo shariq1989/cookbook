@@ -1,7 +1,7 @@
 +++
 title = "Braised Short Ribs"
 date = "2021-06-27"
-description = ""
+description = "I hope you enjoy these braised short ribs our family loves."
 tags = [
     "entree",
    
@@ -42,13 +42,13 @@ Cuisine: American
 
 1. Pre-heat oven to 300 degrees.
 2. Generously season the short ribs with salt and pepper on all sides. 
-3. Heat oil in a [dutch oven](https://amzn.to/3ob8ebq) and sear the short ribs until all sides are golden brown, about 1 1/2 minute for each side. Remove the meat from the pan and set it aside. You may have to do this in batches until all the short ribs have had a chance to cook.
+3. Heat oil in a [dutch oven](https://amzn.to/3ob8ebq) and sear the short ribs until all sides are golden brown, about 1 1/2 minute for each side. Set aside. You may have to do this in batches until all the short ribs have had a chance to cook.
 4. In the same pot, add carrots, celery, and onion. Cook until the onions become translucent and soften. 
-5. Next, add garlic, tomato paste, Better than Bouillon, and flour. Stir to build a roux for another 2 minutes. 
-6. Add water and the cooking wine and stir to combine. Bring the mixture to a boil and then turn off the heat.
-7. Nestle the reserved short ribs into the pan, along with fresh thyme and butter. 
-8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours over medium heat. 
-9. Serve with mashed potatoes or a cauliflower mash. You will want something to soak up all vegetables and gravy the meat cooks in.  
+5. Next, add garlic, tomato paste, [Better than Bouillon](https://amzn.to/39EkMPQ), and flour. Stir to build a roux for another 2 minutes. 
+6. Add water, cooking wine, and stir to combine. Bring the mixture to a boil and then turn off the heat.
+7. Nestle the reserved short ribs into the pan, along with thyme and butter. 
+8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours. 
+9. Serve with mashed potatoes or a [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). You will want something to soak up the vegetables and gravy the meat cooks in.  
 
 {{< end_recipe >}}
 
@@ -58,7 +58,7 @@ Cuisine: American
 
 * Short Ribs 
 
-* Vegetables: I use the blessed trio: onion, celery, carrots, to flavor the dish and build a roux for the meat to cook within. 
+* Vegetables: I use the blessed trio of onion, celery, carrots, to flavor the dish and build a roux. 
 
 * Tomato Paste 
 
@@ -78,30 +78,30 @@ Cuisine: American
 
 1. Pre-heat oven to 300 degrees.
 2. Generously season the short ribs with salt and pepper on all sides. 
-3. Heat oil in a [dutch oven](https://amzn.to/3ob8ebq) and sear the short ribs until all sides are golden brown, about 1 1/2 minute for each side. Remove the meat from the pan and set it aside. You may have to do this in batches until all the short ribs have had a chance to cook.
+3. Heat oil in a [dutch oven](https://amzn.to/3ob8ebq) and sear the short ribs until all sides are golden brown, about 1 1/2 minute for each side. Set aside. You may have to do this in batches until all the short ribs have had a chance to cook.
 
 {{< figure src="/images/bsr1.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/bsr2.jpg" class="instructionFigure">}}
 
 4. In the same pot, add carrots, celery, and onion. Cook until the onions become translucent and soften. 
-5. Next, add garlic, tomato paste, Better than Bouillon, and flour. Stir to build a roux for another 2 minutes. 
+5. Next, add garlic, tomato paste, [Better than Bouillon](https://amzn.to/39EkMPQ), and flour. Stir to build a roux for another 2 minutes. 
 
 {{< figure src="/images/bsr3.jpg" class="instructionFigure">}}
 
 {{< figure src="/images/bsr4.jpg" class="instructionFigure">}}
 
-6. Add water and the cooking wine and stir to combine. Bring the mixture to a boil and then turn off the heat.
+6. Add water, cooking wine, and stir to combine. Bring the mixture to a boil and then turn off the heat.
 
 {{< figure src="/images/bsr5.jpg" class="instructionFigure">}}
 
-7. Nestle the reserved short ribs into the pan, along with fresh thyme and butter. 
+7. Nestle the reserved short ribs into the pan, along with thyme and butter. 
 
 {{< figure src="/images/bsr6.jpg" class="instructionFigure">}}
 {{< figure src="/images/bsr7.jpg" class="instructionFigure">}}
 
-8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours over medium heat. 
-9. Serve with mashed potatoes or a cauliflower mash. You will want something to soak up the vegetables and gravy the meat cooks in.  
+8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours. 
+9. Serve with mashed potatoes or a [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). You will want something to soak up the vegetables and gravy the meat cooks in.    
 
 {{< figure src="/images/bshr8.jpg" class="instructionFigure">}}
 
