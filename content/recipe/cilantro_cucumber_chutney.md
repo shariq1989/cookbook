@@ -16,20 +16,22 @@ Cuisine: Indian, Pakistani
 
 {{< start_recipe >}}
 
+### How to Make Cilantro Cucumber Chutney 
+
 #### INGREDIENTS 
 
 * 2 cups [Full-Fat Yogurt](https://amzn.to/30348EW)
-* 1/3 cup Cilantro, chopped
+* 1/2 Serrano Chili, coarsely chopped   
+* 1/3 cup Cilantro, coarsely chopped
 * ½ tsp Cumin, ground 
-* ¼ tsp Salt
+* ¼ tsp Kosher Salt
 * 1 tbsp Olive Oil
-* 1/4 Cucumber, finely chopped
-* 1/2 Serrano Chili, finely chopped, optional  
+* 1/4 Persian Cucumber, finely chopped
 
 #### INSTRUCTIONS 
 
-1. Combine the yogurt with the remaining ingredients, except for the cucumber, in a food processor. Blend until smooth. 
-2. Stir in the chopped cucumber. 
+1. Combine the yogurt with the other ingredients, except for the cucumber, in a [food processor](https://amzn.to/3uclbmi) or [blender](https://amzn.to/3zECHk1). Blend until smooth. 
+2. Stir in the cucumber. 
 3. Cover and refrigerate until you're ready to serve. 
 
 {{< end_recipe >}}
@@ -42,9 +44,15 @@ This tasty cucumber, cilantro chutney is a great addition to dishes like biryani
 
 * Full-fat yogurt 
 
+* Serrano Chili: Using chillies is completely optional, but I prefer the heat. If you don't like a lot of spice I suggest using a jalapeno or leaving it out all together. 
+
 * Cilantro 
 
-* Cucumber 
+* Spices: I flavor the chutney with cumin and salt. 
+
+* Olive Oil 
+
+* Cucumber: I use Persian or baby cucumbers because they tend to be crispier, and we usually have them on hand. You can use regular cucumbers if you prefer. 
 
 #### What equipment do I need to make this recipe? 
 
@@ -55,8 +63,7 @@ This tasty cucumber, cilantro chutney is a great addition to dishes like biryani
 
 Store the leftover chutney in an air-tight container and it will keep the fridge for up to two weeks. 
 
-#### Other dips, dressings, and sauces from The Jamil Ghar:
+#### Pair this chutney with other recipes from The Jamil Ghar:
 
-* [Guacamole](https://www.jamilghar.com/recipe/guacamole/)
-* [Serrano Crema](https://www.jamilghar.com/recipe/serrano_crema/)
-* [Spicy Mayo Dressing](https://www.jamilghar.com/recipe/spicy_mayo_dressing/)
+* [Channa Masala](https://www.jamilghar.com/recipe/chana_masala/)
+* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
