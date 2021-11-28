@@ -59,7 +59,7 @@ For the Topping:
 9. Remove the crust from the oven and cover the surface with buffalo sauce using a spoon or spatula. Top with mozzarella cheese and bake for another 8 minutes. 
 10. Remove the crust from the oven and add the scallions and arugala to serve.  
 
-{{< end_recipe >} 
+{{< end_recipe >}} 
 
 ### ABOUT THE MEAL
 
