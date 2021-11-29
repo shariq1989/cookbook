@@ -1,7 +1,7 @@
 +++
 title = "Mississippi Roast"
 date = "2020-01-31"
-description = ""
+description = "It's midweek, and you need a quick and easy meal; reach for this Mississippi Roast. It has both sweet and savory notes the whole family will enjoy."
 tags = [
     "entree",
     "instant pot",
@@ -21,15 +21,17 @@ Cuisine: American
 
 {{< start_recipe >}}
 
+### How to Make Mississippi Roast 
+
 #### INGREDIENTS 
 
 For the Roast: 
 
-* 3 lb Chuck Roast 
+* ¼ cup Flour, All Purpose
 * 2 tsp Kosher Salt 
 * 1½ tsp Black Pepper, coarse ground  
-* ¼ cup Flour
-* 1 1/2 tbsp Canola Oil 
+* 1 1/2 tbsp Vegetable Oil 
+* 3 lb Chuck Roast 
 * 4 tbsp Unsalted Butter 
 * 12-14 Pepperoncinis 
 * 1 cup Baby Carrots
@@ -45,14 +47,14 @@ For the Ranch Dressing:
 
 #### INSTANT POT INSTRUCTIONS 
 
-1. In a small bowl, mix the flour, salt, and pepper. Coat the roast with the seasoning.
-2. Add oil to an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. Then, add the roast and brown the meat on all sides, 4-5 minutes per side, creating a crust. 
-3. Add the butter and pepperoncini and place the lid on the pot- do not seal. Let it simmer for 5 minutes.
+1. In a [mixing bowl](https://amzn.to/3E4oeB5), combine the flour, salt, and pepper. Cover the roast with the mixture.
+2. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. Then, add the roast and brown the meat on all sides, 4-5 minutes per side, creating a crust. 
+3. Add the butter and pepperoncinis, and the place the lid on the pot- do not seal. Let it simmer this way for 5 minutes.
 4. Meanwhile, prepare the ranch dressing. Combine the mayonnaise, vinegar, dill, and paprika in a small bowl and whisk to emulsify. 
 5. Remove the lid and add the ranch dressing, carrots, and onion. 
-6. Secure the lid, and set the Instant Pot to manual high pressure. Allow the meat to cook for 70 minutes with a quick release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation, though it needs to cook long enough to be able to shred easily. Let it rest, about 5 minutes.
-7. Remove the roast and shred it, then add it to a serving dish with some of the liquid from inside the Instant Pot.
-8. Garnish the meat with parsley and serve it as a roast, or throw it on a hoagie with provolone cheese and a side of au jus. 
+6. Secure the lid, and set the [Instant Pot](https://amzn.to/3qfNYCZ) to manual high pressure. Allow the meat to cook for 70 minutes with quick release. Once cooked, let it rest, about 5 minutes.
+7. Remove the roast and shred it, then add it to a serving dish with some of the liquid from inside the [Instant Pot](https://amzn.to/3qfNYCZ). 
+8. Garnish the meat with parsley and serve it as a shredded roast, or throw it on a hoagie with provolone cheese and a side of au jus. 
 
 {{< end_recipe >}}
 
@@ -60,17 +62,31 @@ For the Ranch Dressing:
 
 It's midweek, and you need a quick and easy meal; reach for this Mississippi Roast. It has both sweet and savory notes the whole family will enjoy. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
-* Chuck Roast: Chuck roast is the main ingredient of a Mississippi. I like chuck roast because it is inexpensive and holds up well during the cooking process. It takes a while to cook to make it easy enough to pull, but it will also feed a crowd. 
+* Flour, All-Purpose 
 
-* Ranch Dressing: Ranch dressing is key to a good Mississippi roast. I love mayo, dill, and vinegar together; this ranch is a solid combination of fat and acid, and the addition of the paprika makes it more savory. 
+* Kosher Salt 
+
+* Black Pepper
+
+* Chuck Roast: Chuck roast is the main ingredient of a Mississippi. Chuck is inexpensive and holds up well during the cooking process. It takes a while to cook to make it easy to pull apart, but it will feed a crowd. 
+
+* Unsalted Butter 
 
 * Pepperoncinis: I suggest adding 10-14 peppers to the dish, but if my family gave me the go-ahead, I would add even more. The pepperoncini's are the star of the roast for me, especially after they've marinated in the liquid from the meat and ranch dressing. 
 
+* Baby Carrots
+
+* Onion
+
+* Fresh Parsley
+
+* Ranch Dressing: Ranch dressing is key to a good Mississippi roast. I love the mayo, dill, and vinegar together; this ranch is a solid combination of fat and acid, and the addition of the paprika makes it even more savory. 
+
 #### What equipment do I need to make this recipe?
 
-* 2 small bowls
+* A [mixing bowl](https://amzn.to/3E4oeB5)
 * An [Instant Pot](https://amzn.to/3rOOdWW) or dutch oven 
 
 #### Is Mississippi roast keto? Is it low-carb?
@@ -83,4 +99,4 @@ Yes, it is. However, I suggest leaving out the flour and the carrots. The roast 
 
 #### Can I freeze the roast? 
 
-Yes, first allow the meat to cool completely and then add it to a freezer-safe bag or container. The Mississippi roast will freeze for up to 6 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove, and prepare your sides. 
+You sure can. First, allow the meat to cool completely and then add it to a freezer-safe bag or container. The Mississippi roast will freeze for up to 6 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove, and prepare your sides. 
