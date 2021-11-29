@@ -1,7 +1,7 @@
 +++
 title = "Homemade Guacamole"
 date = "2020-01-29"
-description = ""
+description = "For a super easy guacamole on the go, all you really need is a few ripe avocados and a little salt; everything else is extra, but oh so tasty. Enjoy this fresh guacamole recipe our whole family loves."
 tags = [
     "side dish",
     "keto",
@@ -29,7 +29,7 @@ Cuisine: Mexican
 * 3-4 tbsp Cilantro, finely chopped
 * 1/2 Jalapeno, seeds and stems removed, finely diced
 * 2 Garlic Cloves, minced
-* 1 Lime, juiced
+* 1 Lime, juice
 * 1/2 tsp Kosher Salt 
 * 1/4 tsp Cumin 
 
@@ -38,7 +38,7 @@ Cuisine: Mexican
 1. Slice the avocados in half, remove the pit, and scoop them into a small bowl. 
 2. Mash the avocados with a fork or use a [food processor](https://amzn.to/3lamLSe). 
 3. Add the remaining ingredients and mix well by hand for a chunky guacamole or in a [food processor](https://amzn.to/3lamLSe) to whip it smooth, whichever you prefer.  
-4. Taste the guacamole and adjust the spices according to your preference. 
+4. Taste the guacamole and adjust the spice according to your preference. 
 
 {{< end_recipe >}}
 
@@ -46,17 +46,25 @@ Cuisine: Mexican
 
 For a super easy guacamole on the go, all you really need is a few ripe avocados and a little salt; everything else is extra, but oh so tasty. Enjoy this fresh guacamole recipe our whole family loves. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * Avocado: You will want to use large avocados for this recipe- the riper, the better. If you cannot find large avocados, use 4-5 smaller ones. Check for ripeness by gently pressing the outside of the avocado. If there is no give, the avocado is not ripe. If there is just a little give, the avocado is ripe. If there is too much give, the avocado may be past ripe. 
 
 * Red Onion: I prefer the strong flavor of red onion in my guacamole. If red onions are too strong for you, rinse the chopped onion under water and pat them dry before mixing them into the guacamole. 
 
-* Lime Juice 
+* Cilantro 
 
 * Jalapenos: I use finely diced jalapenos most of the time. If I crave spicier guacamole, I will use a serrano pepper instead. 
 
+* Garlic Cloves 
+
+* Lime Juice 
+
 * Tomatoes: Tomatoes are usually a key ingredient in guacamole. However, Shariq hates raw tomatoes, so we skip them. If you enjoy tomatoes, I suggest finely dicing one Roma tomato and folding it into the guacamole at the end. 
+
+* Kosher Salt 
+
+* Cumin 
 
 #### What equipment do I need to make this recipe?
 
@@ -93,14 +101,13 @@ This guacamole keeps well in the fridge if stored properly. To do so, add the gu
 
 {{< figure src="/images/guac3.jpg" class="instructionFigure">}}
 
-4. Taste the guacamole and adjust the spices according to your preference. 
+4. Taste the guacamole and adjust the spice according to your preference. 
 
 ----
 
 I hope you enjoy this authentic guacamole recipe. If you try it, be sure to let us know what you think!
 
 Pair this guacamole with other recipes from The Jamil Ghar:
-
 * [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
 * [Ground Beef Taco](https://www.jamilghar.com/recipe/ground_beef_taco/)
 * [Corn Tortilla Chips](https://www.jamilghar.com/recipe/homemade_corn_tortilla_chips/)
