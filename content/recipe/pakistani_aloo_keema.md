@@ -1,12 +1,12 @@
 +++
 title = " Pakistani Aloo Keema- Minced Beef and Potato"
-date = "2021-03-10"
-description = "I hope you enjoy this aloo keema our family loves."
+date = "2021-11-29"
+description = "Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chillies, and onions. I hope you enjoy this aloo keema our family loves."
 tags = [
     "entree",
  ]
    
-thumbnail= "images/alooqeema.jpeg"
+thumbnail= "images/alookeema.jpeg"
 +++
 
 Servings: 6 <!--more-->
@@ -50,7 +50,7 @@ Cuisine: Pakistani, Indian
 
 ### ABOUT THE MEAL  
 
-Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chillies, and onions. 
+Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chillies, and onions. I hope you enjoy this aloo keema our family loves
 
 #### What ingredients do I need for this meal? 
 
@@ -95,6 +95,35 @@ While this recipe isn't vegetarian or vegan, you can follow the same instruction
 #### Can I freeze ground keema?
 
 You sure can. First, allow the qeema to cool completely, and then add it to a freezer-safe container or bag. To prevent freezer burn, layer plastic wrap over the container before securing the lid. Keema will freeze for up to 2 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove and prepare your sides.
+
+---- 
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+1. Warm ghee over medium heat in a [heavy-bottomed pan](https://amzn.to/3EXs3ZG).  
+2. Add diced potatoes. Cook until they become golden brown, about 15 minutes. Set aside.
+
+{{< figure src="/images/ak1.jpeg" class="instructionFigure">}}
+
+3. In the same pan, fry the onions, garlic, ginger, and chilies until the onions become translucent and soften, about 5 minutes. 
+
+{{< figure src="/images/ak2.jpeg" class="instructionFigure">}}
+
+4. Add the [keema Masala](https://amzn.to/3b4Y4B0), stir to coat, and continue cooking for another minute.
+5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned, about 8 minutes. 
+6. Add the tomato puree to the pan and increase the heat until it comes to a boil. Reduce the heat and simmer for another 10 minutes, adjust the heat accordingly. 
+
+{{< figure src="/images/ak4.jpeg" class="instructionFigure">}}
+
+7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
+
+{{< figure src="/images/ak3.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/ak5.jpeg" class="instructionFigure">}}
+
+8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha](https://www.jamilghar.com/recipe/paratha/), or naan. 
+
+{{< figure src="/images/ak6.jpeg" class="instructionFigure">}}
 
 ----
 
