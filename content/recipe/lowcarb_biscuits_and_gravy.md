@@ -20,6 +20,8 @@ Cuisine: American
 
 {{< start_recipe >}}
 
+### How to Make Low Carb Biscuits and Gravy: 
+
 #### INGREDIENTS 
 
 For the Biscuits: 
@@ -41,6 +43,7 @@ For the Gravy:
 * 1/2 tsp Kosher Salt
 * 1 tsp Garlic Powder
 * 1 tsp Corn Starch
+* Black Pepper, coarse ground
 
 #### INSTRUCTIONS
 
@@ -58,12 +61,37 @@ For the Gravy:
 1. While the biscuits are baking, brown the sausage in a [saute pan](https://amzn.to/2ZzNJLG) over medium heat for 4-5 minutes. Remove the sausage from the pan using a slotted spoon and set it aside. 
 2. Return the pan to medium heat and add the heavy cream, water, pepper, salt, and garlic powder. Then, gently whisk in the corn starch. 
 3. Bring the mixture to a gentle bubble, stirring occasionally to thicken the gravy. Reduce heat to low and then return the meat to the pan. Stir to combine, cover, and simmer for another 5 minutes. 
+4. Taste and season with black pepper to serve. 
 
 {{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 
 My mama was a server in a mom-and-pop diner in Arizona for as long as I can remember. One thing the diner did well is biscuits and gravy. I often crave biscuits and gravy, maybe more for the memory than the meal itself, but I always struggle with the carb load of regular biscuits and gravy. This dilemma became the starting point for this delicious breakfast recipe you see today. My biscuit and gravy recipe is easy to make and low carb, if that's your thing. The biscuits are buttery and flaky and served with creamy sausage gravy, just like those you would eat in your favorite diner or grandma's house. Make them to serve or double the recipe to have some to freeze for later. I hope you enjoy this biscuit and gravy recipe our family loves. 
+
+#### What ingredients do I need for this meal?
+
+* [Almond Flour](https://amzn.to/2POPsYC)
+
+* Baking Powder
+
+* Kosher Salt
+
+* Eggs
+
+* Butter 
+
+* Sour Cream
+ 
+* Ground Breakfast Sausage 
+
+* Heavy cream
+
+* Garlic Powder
+
+* Corn Starch
+
+* Black Pepper, coarse ground
 
 #### What equipment do I need to make this recipe?
 
