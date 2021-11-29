@@ -40,7 +40,7 @@ Cuisine: Pakistani, Indian
 1. Warm ghee over medium heat in a [heavy-bottomed pan](https://amzn.to/3EXs3ZG).  
 2. Add diced potatoes. Cook until they become golden brown, about 15 minutes. Set them aside.
 3. In the same pan, fry the onions, garlic, ginger, and chilies until the onions become translucent and soften, about 5 minutes. 
-4. Add the [keema Masala](https://amzn.to/3b4Y4B0), stir to coat, and continue cooking for another minute.
+4. Add the [keema masala](https://amzn.to/3b4Y4B0), stir to coat, and continue cooking for another minute.
 5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned, about 8 minutes. 
 6. Add the tomato puree to the pan and increase the heat until it comes to a boil. Reduce the heat and simmer for another 10 minutes, adjust the heat accordingly. 
 7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
