@@ -18,7 +18,7 @@ Cooking Time: 30 minutes
 
 Cuisine: American
 
-Original Recipe: "Keto Made Easy", Megha Barot and Matt Gaedke
+Original Recipe: "[Keto Made Easy](https://amzn.to/3xNq0o1)", Megha Barot and Matt Gaedke
 
 {{< start_recipe >}}
 
