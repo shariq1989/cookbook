@@ -1,5 +1,5 @@
 +++
-title = " Instant Pot Carnitas - Pork Braised Tacos"
+title = "Instant Pot Carnitas - Pork Braised Tacos"
 date = "2021-03-20"
 description = "Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder that is later pulled apart and then crisped up. This carnitas recipe makes for the perfect street taco- the juicy, shredded pork, and the crispy, flavorful edges, all made in the comfort of your own home."
 tags = [
