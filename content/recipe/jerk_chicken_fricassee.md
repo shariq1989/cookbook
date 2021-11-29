@@ -17,12 +17,14 @@ Cooking Time: 50 minutes
 Cuisine: Caribbean
 
 Adapted From: [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
-
+ 
 {{< start_recipe >}}
+
+### how to Make Jerk Chicken Fricasse 
 
 #### INGREDIENTS 
 
-For the Jerk Seasoning:
+For the Jamaican Jerk Seasoning:
 
 * 1 tbsp Onion Powder
 * 1 tbsp Garlic Powder
@@ -51,14 +53,13 @@ For the Fricassee:
 
 #### INSTRUCTIONS 
 
-1. In a small bowl, combine the ingredients for the jerk seasoning and coat the chicken with 2 tbsp. 
-2. In a large [saute pan](https://amzn.to/3hIzyKw) over medium-high heat, heat the oil until shimmering. Add half of the chicken, top side down, and cook until golden brown, 5-8 minutes.
-3. Transfer the chicken to a plate. Repeat until all the chicken has had a chance to brown. 
-4. When the meat is done cooking and reserved, lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
-5. Stir in soy sauce, lime juice, and 1 1/2 cup of water, bring to a simmer, scraping up any brown bits.
-6. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
-7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the gravy thickens, 7-10 minutes.
-8. To serve, pour the mixture over the chicken and garnish with scallion greens. 
+1. In a [mixing bowl](https://amzn.to/3E4wi4O), combine the ingredients for the jerk seasoning and coat the chicken with 2 tbsp. 
+2. In a [saute pan](https://amzn.to/3hIzyKw) over medium-high heat heat the oil, and then add half of the chicken, top side down, and cook until golden brown, 5-8 minutes. Transfer the chicken to a plate. Repeat until all the chicken has had a chance to brown. 
+3. When the meat is done cooking and reserved, lower the heat and add the onion, scallion whites, [gochujang](https://amzn.to/3al2a8Y), and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and brown.
+4. Stir in soy sauce, lime juice, and 1 1/2 cup of water, bring to a simmer, scraping up any brown bits.
+5. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
+6. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the gravy thickens, 7-10 minutes.
+7. To serve, pour the mixture over the chicken and garnish with scallion greens. 
 
 {{< end_recipe >}}
 
@@ -66,50 +67,60 @@ For the Fricassee:
 
 #### What main ingredients do I need for this meal?
 
-* Jerk Seasoning: I use this homemade combination of spices for my jerk chicken, but you could also go the store-bought route. If you decide to make the seasoning homemade, it will last for 2 months in a sealed mason jar. 
+* Jerk Seasoning: I use a homemade combination of spices, but you could also go the store-bought route with [Coleman's](https://amzn.to/3G0yuuP). If you decide to make the seasoning homemade, it will last for 2 months in a sealed mason jar. 
 
 * Chicken Thighs: I use boneless and skinless chicken thighs, but fricassee is traditionally made with a broken-down, whole chicken, or thighs and legs that are bone-in and skin-on. Whatever cut of chicken you end up with, be sure to adjust the cooking time accordingly. The safe temperature for chicken is 160 degrees. 
 
+* Avocado Oil 
+
+* Onion 
+
+* Green Bell Pepper
+
+* Scallions 
+
 * [Gochujang](https://amzn.to/3al2a8Y): Gochujang isn't a common ingredient in a Caribbean fricassee, but I use it instead of ketchup, and it is phenomenal. 
+
+* Soy Sauce 
+
+* Lime 
 
 #### What equipment do I need to make this recipe?
 
-* A small bowl
-* A large [saute pan](https://amzn.to/3hIzyKw) with a lid 
+* A [mixing bowl](https://amzn.to/3E4wi4O)
+* A [saute pan](https://amzn.to/3hIzyKw) with a lid 
 
 ### INSTRUCTIONS: STEP-BY-STEP
 
-1. In a small bowl, combine the ingredients for the jerk seasoning and coat the chicken with 2 tbsp. 
+1. In a [mixing bowl](https://amzn.to/3E4wi4O), combine the ingredients for the jerk rub and coat the chicken with 2 tbsp. 
 
 {{< figure src="/images/jcf1.jpeg" class="instructionFigure">}}
 
 {{< figure src="/images/jcf2.jpeg" class="instructionFigure">}}
 
-2. In a large [saute pan](https://amzn.to/3hIzyKw) over medium-high heat, heat the oil until shimmering. Add half of the chicken, top side down, and cook until golden brown, 5-8 minutes.
+2. In a [saute pan](https://amzn.to/3hIzyKw) over medium-high heat heat the oil, and then add half of the chicken, top side down, and cook until golden brown, 5-8 minutes. Transfer the chicken to a plate. Repeat until all the chicken has had a chance to brown. 
 
 {{< figure src="/images/jcf3.jpeg" class="instructionFigure">}}
 
-3. Transfer the chicken to a plate. Repeat until all the chicken has had a chance to brown. 
-
 {{< figure src="/images/jcf4.jpeg" class="instructionFigure">}}
 
-4. When the meat is done cooking and reserved, lower the heat and add the onion, scallion whites, Gochujang sauce, and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and turn lightly brown.
+3. When the meat is done cooking and reserved, lower the heat and add the onion, scallion whites, [gochujang](https://amzn.to/3al2a8Y), and the remaining 2 tbsp of jerk seasoning to the pan. Cook over medium heat until onions soften and brown.
 
 {{< figure src="/images/jcf5.jpeg" class="instructionFigure">}}
 
-5. Stir in soy sauce, lime juice, and 1 1/2 cup of water, bring to a simmer, scraping up any brown bits.
+4. Stir in soy sauce, lime juice, and 1 1/2 cup of water, bring to a simmer, scraping up any brown bits.
 
 {{< figure src="/images/jcf6.jpeg" class="instructionFigure">}}
 
-6. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
+5. Return the chicken to the skillet, cover, and reduce heat to medium-low. Simmer for about 12 minutes.
 
 {{< figure src="/images/jcf7.jpeg" class="instructionFigure">}}
 
-7. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the gravy thickens, 7-10 minutes.
+6. Transfer the chicken to a serving platter and then cook the liquid over medium-high heat, stirring regularly until the gravy thickens, 7-10 minutes.
 
 {{< figure src="/images/jcf8.jpeg" class="instructionFigure">}}
 
-8. To serve, pour the mixture over the chicken and garnish with scallion greens. 
+7. To serve, pour the mixture over the chicken and garnish with scallion greens. 
 
 {{< figure src="/images/jcf.jpeg" class="instructionFigure">}}
 
