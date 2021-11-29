@@ -1,6 +1,6 @@
 
 +++
-title = "Easy Tofu and Kimchi Jjigae - Tofu and Kimchi Stew"
+title = "Easy Tofu Kimchi Jjigae - Tofu Kimchi Stew"
 date = "2021-03-20"
 description = "Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup (whichever name you choose to call it), is quickly becoming a favorite in our home. This is due to its flexible ingredients and how easy it is to make. This kimchi tofu soup is rich and flavorful and can be made on the stove-top or in an Instant Pot."
 tags = [
@@ -33,6 +33,7 @@ For the Broth:
 * 1 tbsp [Beef](https://amzn.to/3oM8L3W) or [Vegetable](https://amzn.to/3Atsuay) Better than Bouillon 
 * 1/2 tsp Soy Sauce 
 * 1 tsp [Gochochang](https://amzn.to/2NHrNZ3)
+* 1 cup [Shitake Mushrooms](https://amzn.to/3I0K0YN), dried, optional 
 
 For the Jjigae: 
 
@@ -48,21 +49,21 @@ For the Jjigae:
 
 #### STOVE-TOP INSTRUCTIONS 
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillon](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste using the Gochugaru, 2 tsp sesame oil, and ground black pepper. Set aside. 
 3. In a [dutch oven](https://amzn.to/3lC91Pi) or [earthenware pot](https://amzn.to/3soWXDL), saute the kimchi until it becomes soft. Set it aside. 
-4. In the same pot, add 1 tbsp sesame oil over medium heat. Then add the onion, garlic, and scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
-5. Add the reserved stock to the pot. Cover cook for 5-7 minutes over medium heat. Then, open and stir in the reserved Kimchi.
+4. In the same [pot]((https://amzn.to/3lC91Pi)), add 1 tbsp sesame oil over medium heat. Then add the onion, garlic, and the scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
+5. Add the reserved stock. Cover cook for 5-7 minutes over medium heat. Then, open and stir in the reserved Kimchi.
 6. Next, add the tofu and let the mixture simmer for a few minutes before gently stirring in the spice mixture- careful not to break up the tofu. 
 7. Garnish with extra Gochugaru if you prefer spicy kimchi jjigae, and serve with a side of sticky rice. 
 
 #### INSTANT POT INSTRUCTIONS 
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillon](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste using the Gochugaru, 2 tsp sesame oil, and ground black pepper. Set aside. 
 3. In an [Instant Pot](https://amzn.to/3DpZGSo), cook the Kimchi on saute mode until it becomes soft. Set it aside. 
-4. Back in the [Instant Pot](https://amzn.to/3DpZGSo), add 1 tbsp sesame oil over medium heat. Then add the onion, garlic, and scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
-5. Add the reserved stock to the pot. Secure the lid on the [Instant Pot](https://amzn.to/3DpZGSo), and cook on manual high pressure for 5 minutes. Do a quick release, and stir in the reserved Kimchi.
+4. Back in the [Instant Pot](https://amzn.to/3DpZGSo), add 1 tbsp sesame oil over medium heat. Then add the onion, garlic, and the scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
+5. Add the reserved stock. Secure the lid on the [Instant Pot](https://amzn.to/3DpZGSo), and cook on manual high pressure for 5 minutes. Do a quick release, and stir in the reserved Kimchi.
 6. Next, add the tofu and set the[ Instant Pot](https://amzn.to/3DpZGSo) to saute mode for a few minutes before gently stirring in the spice mixture- careful not to break up the tofu. 
 7. Garnish with extra Gochugaru if you prefer spicy kimchi jjigae, and serve with a side of sticky rice. 
 
@@ -70,17 +71,41 @@ For the Jjigae:
 
 ### ABOUT THE MEAL
 
-Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup (whichever name you choose to call it) is quickly becoming a favorite in our home. This is mainly due to its flexible ingredients and how easy it is to make. This kimchi tofu soup is rich and flavorful and can be made on the stove-top or in an Instant Pot [Instant Pot](https://amzn.to/3DpZGSo).
+Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup (whichever name you choose to call it) is quickly becoming a favorite in our home. This is mainly due to its flexible ingredients and how easy it is to make. This kimchi tofu soup is rich and flavorful and can be made on the stove-top or in an [Instant Pot](https://amzn.to/3DpZGSo).
 
 #### What are the main kimchi jjigae ingredients?
 
-* Broth: A more [traditional Korean broth](https://www.maangchi.com/recipe/kimchi-jjigae) includes dried anchovy, kelp, and daikon radish, all of which create a delicious base for kimchi stew. Since these ingredients can be hard to come by, I use staples from my pantry. Note: If you prefer more of the Kimchi flavor in your jjigae, consider adding 1-2 tbsp of the kimchi brine to flavor your broth. 
+* [Fish Sauce](https://amzn.to/3uYz9IW)
 
-* Tofu: I use large, rectangular slices in my soup, and while traditional kimchi jjigae usually includes meat, we stick with tofu as the main protein. Occasionally, I will add shiitake mushrooms, fresh or dried, to change things up a bit. 
+* [Beef](https://amzn.to/3oM8L3W) or [Vegetable](https://amzn.to/3Atsuay) Better than Bouillon 
+
+* Soy Sauce 
+
+* [Gochochang](https://amzn.to/2NHrNZ3)
+
+* [Shitake Mushrooms](https://amzn.to/3I0K0YN), dried, optional 
+
+* Onion
+
+* Garlic
+
+* Scallions
+
+* [Sesame Oil]
 
 * Kimchi: Guess what? Kimchi is not just a side dish in Korean cuisine; it is often the main ingredient for many recipes. 
 
-* Spices: [Gochugaru](https://amzn.to/2P1lLmx) and [Gochochang](https://amzn.to/2NHrNZ3) flavor the stew with traditional Korean spice. 
+* Package Extra-Firm Tofu: I use large, rectangular slices in my soup, and while traditional kimchi jjigae usually includes meat, we stick with tofu as the main protein. Occasionally, I will add shiitake mushrooms, fresh or dried, to change things up a bit. 
+
+* Kosher Salt
+
+* [Gochugaru](https://amzn.to/2P1lLmx)
+
+* Black Pepper
+
+#### How do you make the broth for kimchi jjigae? 
+
+A more [traditional Korean broth](https://www.maangchi.com/recipe/kimchi-jjigae) includes dried anchovy, kelp, and daikon radish, all of which create a delicious base for kimchi stew. Since these ingredients can be difficult to come by, I use staples from my pantry instead. Note: If you prefer more of the Kimchi flavor in your jjigae, consider adding 1-2 tbsp of the kimchi brine to flavor your broth as well. 
 
 #### What equipment do I need to make this recipe?
 
@@ -98,7 +123,7 @@ You sure can, but before freezing, remove the tofu from the dish. It doesn't reh
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and [Better than Bouillon](https://amzn.to/3oM8L3W). If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 
 {{< figure src="/images/korean1.jpg" class="instructionFigure">}}
 
@@ -106,16 +131,16 @@ You sure can, but before freezing, remove the tofu from the dish. It doesn't reh
 
 {{< figure src="/images/korean3.jpg" class="instructionFigure">}}
 
-3. In a [dutch oven](https://amzn.to/3lC91Pi) or [earthenware pot](https://amzn.to/3soWXDL), saute the Kimchi until it becomes soft. Set it aside. 
-4. In the same pot, add 1 tbsp sesame oil over medium heat. Then add the onion, garlic, and scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
+3. In a [dutch oven](https://amzn.to/3lC91Pi) or [earthenware pot](https://amzn.to/3soWXDL), saute the kimchi until it becomes soft. Set it aside. 
+4. In the same [pot]((https://amzn.to/3lC91Pi)), add 1 tbsp sesame oil over medium heat. Then add the onion, garlic, and the scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
 
 {{< figure src="/images/sdj1.jpg" class="instructionFigure">}}
 
-5. Add the reserved stock to the pot. Cover cook for 5-7 minutes over medium heat. Then, open and stir in the reserved Kimchi.
+5. Add the reserved stock. Cover cook for 5-7 minutes over medium heat. Then, open and stir in the reserved Kimchi.
 
 {{< figure src="/images/sdj4.jpg" class="instructionFigure">}}
 
-6. Next, add the tofu and let the mixture simmer for a few minutes before gently stirring in the reserved spice mixture- careful not to break up the tofu. 
+6. Next, add the tofu and set the[ Instant Pot](https://amzn.to/3DpZGSo) to saute mode for a few minutes before gently stirring in the spice mixture- careful not to break up the tofu. 
 
 {{< figure src="/images/sdj7.jpg" class="instructionFigure">}}
 
@@ -128,4 +153,5 @@ You sure can, but before freezing, remove the tofu from the dish. It doesn't reh
 I hope you enjoy this Kimchi jjigae recipe. If you try it, be sure to let us know what you think!
 
 Other Korean recipes from The Jamil Ghar:
+
 * [Tteokbokki](https://www.jamilghar.com/recipe/tteokbokki/)
