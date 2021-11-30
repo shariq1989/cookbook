@@ -1,5 +1,5 @@
 +++
-title = "Cold Brew Coffee - The Toddy Brewing Process"
+title = "How to Brew Cold Brew Coffee - The Toddy Brewing Process"
 date = "2020-01-18"
 description = "About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a new Cold Brew Toddy. My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a Toddy of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home."
 tags = [
@@ -55,7 +55,6 @@ For Classic Cold Brew:
 ### ABOUT COLD BREW 
 
 About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a new Cold Brew [Toddy](https://amzn.to/3CMQ03P). My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a [Toddy](https://amzn.to/3CMQ03P) of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home.
-
 
 #### What is Cold Brew Coffee? What's the difference between Cold Brew and Iced Coffee? 
 
