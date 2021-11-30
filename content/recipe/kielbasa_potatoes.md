@@ -65,5 +65,5 @@ Cuisine: Polish
 
 #### What equipment do I need to make this recipe?
 
-* A [rimmed baking sheet](https://amzn.to/3I126tD) or [skillet](https://amzn.to/3lfBGLa) over medium-high heat.
+* A [rimmed baking sheet](https://amzn.to/3I126tD) or [skillet](https://amzn.to/3lfBGLa)
 
