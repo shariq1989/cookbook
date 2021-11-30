@@ -2,7 +2,7 @@
 +++
 title = "Pakistani Garam Masala"
 date = "2021-03-12"
-description = "While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani homes, you will find a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserved them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Indian recipes and easily alters the taste of what you're making. Finding the right combination is crucial; here is one of the authentic garam masala recipes we use in our home often."
+description = "Garam Masala, in English, means "hot spice." It is the main ingredient in many Indian dishes. Garam Masala doesn't carry the name "hot spice" because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani homes, you will find a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserved them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Indian recipes and easily alters the taste of what you're making. Finding the right combination is crucial; here is one of the authentic garam masala recipes we use in our home most often."
 tags = [
     "spices",
 ]
@@ -19,6 +19,8 @@ Cuisine: Pakistani
 
 {{< start_recipe >}}
 
+### How to Make Garam Masala 
+
 #### INGREDIENTS 
 
 * 1 tbsp Green Cardamom Pods
@@ -31,60 +33,74 @@ Cuisine: Pakistani
 * 1 tsp Mace
 * 2 Bay Leaves, broken down
  
-### HOW TO MAKE GARAM MASALA AT HOME 
-
 #### INSTRUCTIONS 
 
-1. Break down the cinnamon stick and bay leaves and combine them with the other ingredients in a non-stick skillet. Dry roast the spices for 2- 3 minutes over medium heat to warm and draw out the flavor and aroma of the whole spices.  
-2. Allow the ingredients to cool and then add them to a spice grinder in batches, blend until fine. You can also use a mortar and pestle if you don't mind the extra work. 
+1. Break down the cinnamon stick and bay leaves and combine them with the other ingredients in a [skillet](https://amzn.to/3cZmRrq). Dry roast the spices for 2- 3 minutes over medium heat to warm and draw out the flavor and aroma of the whole spices.  
+2. Allow the ingredients to cool and then add them to a [spice grinder](https://amzn.to/3paY5dE) in batches, blend until fine. You can also use a [mortar and pestle](https://amzn.to/3E5NtDa) if you don't mind the extra work. 
 3. Add the garam masala to an air-tight glass jar, like a mason jar, and it is ready for use. 
 
 {{< end_recipe >}}
 
 ### ABOUT GARAM MASALA
-Garam Masala, in English, means "hot spice." It is the main ingredient in many Indian dishes. Garam Masala doesn't carry the name "hot spice" because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. 
+
+Garam Masala, in English, means "hot spice." It is the main ingredient in many Indian dishes. Garam Masala doesn't carry the name 'hot spice' because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. 
 
 While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani homes, you will find a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserved them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Indian recipes and easily alters the taste of what you're making. Finding the right combination is crucial; here is one of the authentic garam masala recipes we use in our home most often.
 
-#### Garam Masala list of ingredients:
+#### Garam Masala List of Ingredients:
 
-* For this recipe, I use green cardamom pods, black cardamom pods, a cinnamon stick, cloves, cumin seeds, coriander seeds, nutmeg, mace, and bay leaves. 
+* Green Cardamom Pods
 
-* Other spices used in Garam Masala spice blends: peppercorns, star anise, dried ginger, asafoetida powder, caraway seeds, fenugreek, among other spices based on personal preferences. 
+* Black Cardamom Pods
 
-* If you choose to buy garam masala powder at the store, I recommend buying Rani Garam Masala. 
+* Cinnamon Stick
+
+* Black Cloves
+
+* Cumin Seeds
+
+* Coriander Seeds
+
+* Nutmeg 
+
+* Mace
+
+* Bay Leaves
+
+* Other spices used to make garam masala spice blends: peppercorns, star anise, dried ginger, asafoetida powder, caraway seeds, and fenugreek.
 
 #### What equipment do I need to make this recipe?
 
-* A [non-stick skillet](https://amzn.to/3zJD6C3)
+* A [skillet](https://amzn.to/3cZmRrq)
 * A [spice grinder](https://amzn.to/3u3oYAU) or [mortar and pestle](https://amzn.to/3dc5ALn). 
 
 #### How do I store garam masala? 
 
-* Once ground, store the garam masala in an air-tight glass jar, like a mason jar. Store it in a cool, dry place, and it will last for about 4-6 weeks. 
+Once ground, store the garam masala in an air-tight glass jar, like a mason jar. Store it in a cool, dry place, and it will last for about 4-6 weeks. If you prefer, you can also store the whole garam masala spices in an air-tight glass jar, like a mason jar. You should still store it in a cool, dry place, and then grind the mixture as needed. The whole garam masala spices will keep for 4-6 weeks. 
 
-* If you prefer, you can also store the whole garam masala spices in an air-tight glass jar, like a mason jar. You should still store it in a cool, dry place, and then grind the mixture as needed. The whole garam masala spices will keep for 4-6 weeks. 
+---- 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. Break down the cinnamon stick and bay leaves and combine them with the other ingredients in a non-stick skillet. 
+1. Break down the cinnamon stick and bay leaves and combine them with the other ingredients in a [skillet](https://amzn.to/3cZmRrq). Dry roast the spices for 2- 3 minutes over medium heat to warm and draw out the flavor and aroma of the whole spices.  
 
 {{< figure src="/images/pgm1.jpeg" class="instructionFigure">}}
 
-2. Dry roast the spices for 2- 3 minutes over medium heat to warm and draw out the flavor and aroma of the whole spices.  
+2. Allow the ingredients to cool and then add them to a [spice grinder](https://amzn.to/3paY5dE) in batches, blend until fine. You can also use a [mortar and pestle](https://amzn.to/3E5NtDa) if you don't mind the extra work. 
 
 {{< figure src="/images/pgm2.jpeg" class="instructionFigure">}}
 
 {{< figure src="/images/pgm3.jpeg" class="instructionFigure">}}
 
-3. Allow the ingredients to cool and then add them to a spice grinder in batches, blend until fine. You can also use a mortar and pestle if you don't mind the extra work. 
+3. Add the garam masala to an air-tight glass jar, like a mason jar, and it is ready for use. 
 
 {{< figure src="/images/pgm4.jpeg" class="instructionFigure">}}
 
+---- 
 
-#### How to make Pakistani Garam Masala in Urdu 
+I hope you enjoy this homemade garam masala spice blend. If you try it, be sure to let us know what you think!
 
-#### Other recipes that use garam masala: 
+#### Recipes that use garam masala: 
 
 * [Biryani](https://www.jamilghar.com/recipe/chicken_biryani/)
 * [Butter Chicken](https://www.jamilghar.com/recipe/butter_chicken/)
@@ -95,5 +111,3 @@ While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani
 * [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
 * Tikka Masala 
 * North Indian Garam Masala 
-
-I hope you enjoy this homemade garam masala spice blend. If you try it, be sure to let us know what you think!
