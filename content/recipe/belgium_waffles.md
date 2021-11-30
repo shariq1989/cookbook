@@ -25,16 +25,16 @@ Cooking Time: 10 minutes
 * ½ tsp Baking Powder 
 * ½ tsp Salt 
 * 1 cup Milk 
-* ½ cup Vegetable Oil 
 * 1 Egg 
+* ½ cup Vegetable Oil 
 * 1½ tsp Sugar 
 * ¾ tsp [Vanilla Extract](https://amzn.to/312UohR)
 
 #### INSTRUCTIONS
 
-1. Mix the ingredients, one at a time, in a large bowl, then mix well. Let the mixture stand at room temperature for 30 minutes. 
+1. Combine the ingredients, one at a time, in the [mixing bowl](https://amzn.to/3paNZcK). Mix well, and then let the mixture stand at room temperature for 30 minutes. 
 2. Preheat the [waffle iron](https://amzn.to/3kII2kI) by plugging it in and leaving it for a moment or two. 
-3. Add 1/4 cup to 1/2 cup mix to the waffle iron, depending on the size of your iron. 
+3. Add 1/4 cup to 1/2 cup mix to the waffle iron, depending on the size of your iron. Cook according to the instructions on your waffle maker. 
 4. Top with butter, maple syrup, and toppings of your choice. 
 
 {{< start_recipe >}}
@@ -63,7 +63,7 @@ An alternate title for this recipe could be 'Birthday Waffles' since birthdays a
 
 #### What equipment do I need to make this recipe?
 
-* A [mixing bowl](https://amzn.to/3p7BAGi) 
+* A [mixing bowl](https://amzn.to/3paNZcK) 
 * A [hand-mixer](https://amzn.to/3we64ZZ)
 * A [waffle-maker](https://amzn.to/31sqYXc)
 
