@@ -2,7 +2,7 @@
 +++
 title = "Saffron Rice"
 date = "2021-02-28"
-description = "Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. I hope you enjoy this rice dish our family loves."
+description = "Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. I hope you enjoy this saffron rice dish our family loves."
 tags = [
     "side dish",
     "vegan",
@@ -72,7 +72,7 @@ Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and M
 
 * [Green Cardamom](https://amzn.to/3rVRDr7)
 
-* Saffron Stems: While expensive, a little goes a long way. As a rule of thumb, I use ½ teaspoon of saffron for every 1 cup of rice. Be sure to bloom the saffron before using it in this recipe. This process draws out the richness and fragrance of the saffron. Bloom by gently mixing the stems with a hot liquid, like water or milk. 
+* Saffron Stems: While saffron can be expensive, a little goes a long way. As a rule of thumb, I use ½ teaspoon of saffron for every 1 cup of rice. Be sure to bloom the saffron before using it in this recipe. This process draws out the richness and fragrance of the saffron. Bloom by gently mixing the stems with a hot liquid, like water or milk. 
 
 * Butter: I prefer to use high-quality butter, like Kerrygold, since butter is central to the dish. 
 
