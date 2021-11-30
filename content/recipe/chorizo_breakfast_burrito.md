@@ -102,6 +102,4 @@ You sure can. I like to make a couple of batches so I can freeze breakfast burri
 6. Warm flour tortillas in another [pan](https://amzn.to/3I3MkOO), about 30 seconds on both sides. 
 7. Divide the chorizo mixture into each tortilla, and serve.
 
-{{< figure src="/images/chorizoburrito.jpg" class="instructionFigure">}}
-
 {{< end_recipe >}}
