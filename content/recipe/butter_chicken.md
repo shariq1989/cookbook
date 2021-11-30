@@ -21,6 +21,8 @@ Cuisine: Indian
 
 {{< start_recipe >}}
 
+### How to Make Butter Chicken 
+
 #### INGREDIENTS 
 
 For the Chicken: 
@@ -94,15 +96,41 @@ Butter chicken originated in Dehli, and it quickly grew in popularity throughout
 
 #### What main ingredients do I need for this meal?
 
-* Chicken: I use boneless chicken thighs, but you can use chicken breasts if you prefer. 
+* [Ginger Paste](https://amzn.to/3p7fsMn)
+
+* [Garlic Paste](https://amzn.to/3poOHDt)
+
+* Kosher Salt
+
+* [Kashmiri Chili Powder](https://amzn.to/3vopon1)
+ 
+* [Ghee](https://amzn.to/3cyQ0ZN)
+
+* Chicken Thighs: I use boneless chicken thighs, but you can use chicken breasts if you prefer. 
 
 * Butter: I recommend splurging for high-quality butter, like Kerrygold, for this recipe since butter is central to the dish.
 
-* Cream: I use heavy cream because it blends well with the other ingredients without being temperamental. 
+* Cinnamon Stick
+
+* [Green Cardamom]
+
+* Onion
+
+* Garlic 
+
+* Thai Green Chillis
 
 * Garam Masala: India is a vast country with varying sub-cultures. As a result, Indian food differs from region to region. The same is true of spices as well. Garam masala is a necessary ingredient for butter chicken;  but, each garam masala blend differs based on origin and the family making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mixture and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) our family uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
 
-* Tomatoes: I use fresh ingredients whenever possible, but you can also use canned, diced tomatoes instead. 
+* [Cumin](https://amzn.to/3HZHYrL)
+
+* [Turmeric](https://amzn.to/3vyvAZK)
+
+* Roma Tomato: I use fresh ingredients whenever possible, but you can also use canned, diced tomatoes instead.
+
+* Heavy Cream: I use heavy cream because it blends well with the other ingredients without being temperamental. 
+
+* Cilantro
 
 #### What equipment do I need to make this recipe?
 
@@ -133,7 +161,9 @@ To finish your low-carb meal, I recommend serving butter chicken with a side of 
 
 #### Can I freeze butter chicken?
 
-Yes, first allow the dish to cool completely and add it to a freezer-safe container. The butter chicken will freeze for up to 3 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stove-top and prepare your sides.
+You sure can. First, allow the dish to cool completely and add it to a freezer-safe container or bag. The butter chicken will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove-top and prepare your sides.
+
+---- 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -178,3 +208,5 @@ For the Curry:
 6. Garnish the butter chicken with cilantro and green chillies and serve with basmati rice or naan.
 
 {{< figure src="/images/bc9.jpeg" class="instructionFigure">}}
+
+---- 
