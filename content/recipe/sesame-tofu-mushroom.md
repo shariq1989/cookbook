@@ -1,5 +1,5 @@
 +++
-title = "Sesame Tofu and Mushroom Stir-Fry"
+title = "Sesame Tofu and Shiitake Mushroom Stir-Fry"
 date = "2021-03-15"
 description = "This savory tofu and mushroom stir-fry comes together in about 30 minutes and serves as a perfect vegetarian or vegan main dish. The crispy tofu absorbs the earthy mushroom and sesame flavor for a hearty and filling meal. I hope you enjoy this recipe that is on regular rotation in our home."
 tags = [
@@ -8,7 +8,6 @@ tags = [
     "keto",
     "vegetarian",
     "vegan"
-
 ]
 thumbnail= "images/mushroomtofustirfry.jpeg"
 +++
@@ -23,15 +22,15 @@ Cuisine: Chinese, American
 
 {{< start_recipe >}}
 
-#### How to make sesame mushroom and tofu stir-fry 
+#### How to Make Sesame Tofu and Mushroom Stir-Fry 
 
 #### INGREDIENTS 
 
 * 1/2 package Extra-Firm Tofu, cut into small pieces (see the picture below) 
 * 1 package Shiitake Mushrooms, sliced 
-* 8 Scallions, whites and greens separated- whites, cut in 1-inch pieces- greend, thinly sliced 
+* 8 Scallions, whites and greens separated- whites, cut in 1-inch pieces- green, thinly sliced 
 * 3 Garlic Cloves, minced
-* 2-5 [Arbol Chilis](https://amzn.to/3c4M7M9), dried
+* 2-5 [Arbol Chillis](https://amzn.to/3c4M7M9), dried, diced and seeds removed
 * 4 tbsp [Sesame Oil](https://amzn.to/3vBPljh)
 * 3 tbsp [Soy Sauce](https://amzn.to/3cSjF0U) 
 * 1 tbsp [Rice Wine Vinegar](https://amzn.to/2OEvTRY)
@@ -44,21 +43,23 @@ Cuisine: Chinese, American
 
 #### INSTRUCTIONS 
 
-1. Pre-heat the oven to 350 degrees and lightly oil a [rimmed baking sheet](https://amzn.to/3BmRIbW). 
+1. Pre-heat the oven to 350 degrees.
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes and lightly season with salt and pepper. 
 3. Spread out the tofu onto the [rimmed baking sheet](https://amzn.to/3BmRIbW) and cook for 15 minutes, turning the tofu pieces midway.
-4. In a [large skillet](https://amzn.to/3nUk88P) or [wok](https://amzn.to/2YC4Mfx), warm sesame oil over medium-high heat and add the already baked tofu to the hot pan. Fry until the pieces become golden brown. Set aside. 
+4. In a [skillet](https://amzn.to/3nUk88P) or [wok](https://amzn.to/2YC4Mfx), warm sesame oil over medium-high heat and add the already baked tofu to the hot pan. Fry until the pieces become golden brown. Set aside. 
 5. Using the same oil (add more if needed), add the chillies, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
-6. In a small bowl, stir the soy sauce, rice wine vinegar, fish sauce, honey, and water until honey completely dissolves. 
-7. Off heat, add the ingredients in the bowl to the pan, and season with black pepper. 
-8. Return the pan to medium-high heat, and bring the mixture to a boil. Then, whisk in the flour. Use the whisk to scrape up any bits of fried tofu left behind. 
+6. In a small bowl, combine the soy sauce, rice wine vinegar, fish sauce, honey, and water. Stir until the honey completely dissolves. 
+7. Off heat, add the ingredients from the bowl to the [pan](https://amzn.to/2YC4Mfx), and season with black pepper. 
+8. Return the [pan](https://amzn.to/2YC4Mfx) to medium-high heat, and bring the mixture to a boil. Then, whisk in the flour. 
 9. Add the mushrooms, stir to combine, and then lower the heat. Simmer until sauce reduces halfway, about 5 minutes. 
 10. Return the tofu to the pan and stir to combine.
-11. Garnish with toasted sesame seeds and scallion greens, and then serve with jasmine rice. 
+11. Garnish with toasted sesame seeds and scallion greens, and serve with jasmine rice. 
 
 {{< end_recipe >}}
 
 ### ABOUT THE MEAL 
+
+This savory tofu and mushroom stir-fry comes together in about 30 minutes and serves as a perfect vegetarian or vegan main dish. The crispy tofu absorbs the earthy mushroom and sesame flavor for a hearty and filling meal. I hope you enjoy this recipe that is on regular rotation in our home.
 
 #### What main ingredients do I need for this meal?
 
