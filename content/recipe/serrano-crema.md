@@ -26,7 +26,7 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 * 3-4 Serrano Chilis, roughly chopped 
 * 1 cup Cilantro, chopped 
 * 3 Garlic Cloves, chopped 
-* 1/2 cup Yogurt, Full-Fat 
+* 1/2 cup Yogurt, full-fat 
 * 1/3 cup Sour Cream 
 * 1 Lime, juiced 
 * 1/4 cup Olive Oil 
@@ -45,7 +45,7 @@ I made this serrano chili crema as a side for our  [Peruvian Chicken](https://ww
 
 #### Serrano Crema Ingredients: 
 
-* Serrano Chili: I prefer the flavor and heat from serrano chillies, but the use of this chili creates a spicy serrano crema that may be too hot for some. If you're looking for a milder sauce, use jalapenos instead. 
+* Serrano Chili: I prefer the flavor and heat from serrano chillies, but the use of this chili creates a spicy serrano crema that may be too hot for some. If you're looking for a milder sauce, use the more traditional jalapeno chili instead. 
 
 * Yogurt
 
@@ -56,23 +56,25 @@ I made this serrano chili crema as a side for our  [Peruvian Chicken](https://ww
 * Olive Oil
 
 #### What other ingredients could I add to the crema? 
-Avocado would make for a creamy addition to the crema; you could even call it avocado serrano crema. 
+
+For a creamier sauce, add avocados to make it an avocado serrano crema.  
 
 #### What equipment do I need to make this recipe?
 
 * A [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM) 
 
 #### Is serrano crema spicy? 
-The use of serrano chillies may be too hot for some. If you're looking for a milder sauce, use jalapeno chillies instead. 
+
+Yes, and it is so incredibly tasty if spicy is your thing. I realize serrano chillies may be too hot for some. If you're looking for a milder sauce, use jalapeno chillies instead and be sure to remove the stem and all of the seeds. 
   
 ----
 
 I hope you enjoy this recipe for spicy serrano crema. If you try it, be sure to let us know what you think!
 
-Other sauce recipes from The Jamil Ghar:
-* [Guacamole](https://www.jamilghar.com/recipe/guacamole/)
-* [Mango Salsa](https://www.jamilghar.com/recipe/mango_salsa/)
-* [Spicy Mayo Dressing](https://www.jamilghar.com/recipe/spicy_mayo_dressing/)
-* [Cilantro Cucumber Chutney](https://www.jamilghar.com/recipe/cilantro_cucumber_chutney/)
+Pair our serrano crema with other recipes from The Jamil Ghar. 
+
+* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/)
+* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
+* [Channa Masala](https://www.jamilghar.com/recipe/chana_masala/)
 
 Find the original recipe at [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-style-grilled-chicken-sandwiches-recipe.html)
