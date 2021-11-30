@@ -27,10 +27,6 @@ Cuisine: American
 
 For the Pumpkin Bar: 
 
-* 1 cup Butter, unsalted, cut into tbsp pieces
-* 4 Eggs 
-* 2 cup [Pumpkin Puree](https://amzn.to/38hGCJ1), canned
-* 2 cup White Sugar, granulated 
 * 2 cup Flour, all-purpose 
 * 2 tsp Baking Powder 
 * 1 tsp Baking Soda 
@@ -38,18 +34,22 @@ For the Pumpkin Bar:
 * 1/4 tsp Ginger, ground 
 * ¼ tsp Cloves, ground 
 * 2 tsp Cinnamon, ground, plus more to garnish 
+* 1 cup Butter, unsalted, cut into tbsp pieces
+* 4 Eggs 
+* 2 cup [Pumpkin Puree](https://amzn.to/38hGCJ1), canned
+* 2 cup White Sugar, granulated 
 
 For the Cream Cheese Frosting: 
 
 * 8 oz Cream Cheese, at room temperature
 * ¼ cup Butter, softened
 * 3 cups Powered Sugar 
-* 1 tsp Vanilla Extract 
+* 1 tsp [Vanilla Extract](https://amzn.to/3E9Dj4d) 
 
 #### INSTRUCTIONS 
 
 1. Pre-heat oven to 350 degrees. 
-2. Mix the dry ingredients for the bars in a large [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
+2. Combine the dry ingredients aside from the sugar in a [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
 3. In a microwave-safe [bowl](https://amzn.to/3wMkYre), melt butter, and then allow it to cool slightly. 
 4. Combine the wet ingredients and white sugar to another [mixing bowl](https://amzn.to/3DjHZUY), and blend using a [hand mixer](https://amzn.to/3rZWFmo). 
 5. Using a [spatula](https://amzn.to/3FliYJq), fold the dry and wet ingredients together. Don't over mix. 
@@ -57,7 +57,7 @@ For the Cream Cheese Frosting:
 7. Bake for 25 minutes. 
 8. While the bars bake, mix the ingredients for the frosting in a small bowl using a [hand mixer](https://amzn.to/3rZWFmo). Begin on low speed and increase speed until the frosting becomes light and fluffy. Set aside at room temperature. 
 9. Remove the bars from the oven and let them cool for 15-20 minutes. 
-10. Once the bars have cooled completely, cover them with frosting and garnish with cinnamon to serve.
+10. Once the bars have cooled completely, cover them with frosting and garnish with cinnamon using a [sieve](https://amzn.to/3Ib5SRa) to serve.
 
 {{< end_recipe >}}
 
@@ -65,18 +65,52 @@ For the Cream Cheese Frosting:
 
 Let it be known- I am not a fan of anything pumpkin, including dessert. However, a few Christmases ago, our sweet neighbor delivered the best pumpkin bars for our family to enjoy. To my surprise and that of my husband, I gave them a try. I am so glad that I did. She lured me in with the cream cheese frosting, but the whole bar was absolutely delicious. This easy pumpkin bar recipe is an ode to my sweet neighbor, Marilyn. I hope you enjoy this to-die-for pumpkin bar recipe as much as I did.
 
+#### What ingredients do I need for this dessert? 
+
+* All-Purpose Flour
+
+* Baking Powder 
+
+* Baking Soda
+ 
+* Salt 
+
+* Ground Ginger 
+
+* Ground Cloves
+
+* Cinnamon
+
+* Butter
+
+* Eggs 
+
+* [Pumpkin Puree](https://amzn.to/38hGCJ1)
+
+* White Sugar
+
+* Cream Cheese
+
+* Powered Sugar 
+
+* [Vanilla Extract](https://amzn.to/3E9Dj4d) 
+
+
 #### What equipment do I need to make this recipe?
 
 * A microwave-safe [bowl](https://amzn.to/3wMkYre)
-* 2 large [mixing bowls](https://amzn.to/3DjHZUY) and 1 small bowl
+* 2 [mixing bowls](https://amzn.to/3DjHZUY)
+* 1 small bowl
 * A [handmixer](https://amzn.to/3rZWFmo)
-*  A [spatula](https://amzn.to/3FliYJq)
+* A [spatula](https://amzn.to/3FliYJq)
 * A [rimmed jelly sheet](https://amzn.to/3s7YJJj)
+* A [sieve](https://amzn.to/3Ib5SRa)
+---- 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Pre-heat oven to 350 degrees. 
-2. Mix the dry ingredients for the bars in a large [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
+2. Combine the dry ingredients aside from the sugar in a [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
 
 {{< figure src="/images/pum2.jpeg" class="instructionFigure">}}
 
