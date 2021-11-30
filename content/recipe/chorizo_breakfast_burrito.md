@@ -45,6 +45,7 @@ Cuisine: Mexican, American
 6. Warm flour tortillas in another [pan](https://amzn.to/3I3MkOO), about 30 seconds on both sides. 
 7. Divide the chorizo mixture into each tortilla, and serve. 
 
+{{< end_recipe >}}
 
 ### ABOUT THE MEAL
 
@@ -80,6 +81,8 @@ Ihis is the best chorizo breakfast burrito and it'S easy to make. The burrito is
 
 You sure can. I like to make a couple of batches so I can freeze breakfast burritos for easy reheat later on. All you have to do is wrap the burritos in plastic wrap, followed by foil. Wrap the burritos individually and store them in a freezer-safe bag. The chorizo burritos can freeze for up to 3 months. To serve, remove the plastic wrap and recover with the foil. Reheat the burritos as is in the oven at 325 degrees until the burritos are warmed through, about 30 minutes. 
 
+----
+
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Warm oil in a [skillet](https://amzn.to/3I3MkOO) over medium heat and add yellow onions and potatoes. Cover the pan with a lid and cook until tender.
@@ -103,3 +106,5 @@ You sure can. I like to make a couple of batches so I can freeze breakfast burri
 7. Divide the chorizo mixture into each tortilla, and serve.
 
 {{< end_recipe >}}
+
+----
