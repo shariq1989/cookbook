@@ -82,6 +82,8 @@ Ever eat chips in a restaurant and wonder why they are so much better than store
 
 Should you have leftovers, these chips store well in a paper bag or an airtight container on your countertop. They will last for up to one week, but I highly recommend eating them the same day for the best results. 
 
+----
+
 ### STOVETOP INSTRUCTIONS: STEP-BY-STEP 
 
 1. Gather the corn tortillas and cut them into six wedges. Set aside. 
@@ -108,3 +110,4 @@ Should you have leftovers, these chips store well in a paper bag or an airtight 
 
 {{< figure src="/images/chip7.jpg" class="instructionFigure">}}
 
+----
