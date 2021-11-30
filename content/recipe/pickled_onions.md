@@ -42,17 +42,19 @@ Cooling Time: 30 minutes
 
 Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red onions from pungent and crunchy to an irresistibly tangy topping with this recipe for quick pickled red onions.
 
-#### What main ingredients do I need for this side?
+#### What ingredients do I need for this side?
 
-* Red Onions: I like pickled red onion, but use whatever onion variety you prefer. Be sure to slice the onions thinly; this helps them maintain crispness. You want them to be no thicker than 1/4-inch. 
+* Red Onion: I like pickled red onion, but use whatever onion variety you prefer. Be sure to slice the onions thinly; this helps them maintain crispness. You want them to be no thicker than 1/4-inch. 
 
-* Vinegar: I use a combination of apple cider vinegar and distilled white vinegar. 
+* Vinegar: I use a combination of apple cider vinegar and distilled white vinegar to pickle the onions. 
 
-* Sweetener: I use honey to balance the vinegar, but you can substitute sugar or syrup. 
+* Himalayan Salt
+
+* Honey: I use honey to sweeten the onions and balance the vinegar; you can use sugar or syrup. 
 
 #### What equipment do I need to make this recipe?
 
-* A [glass jar](https://amzn.to/3ETyuvT)
+* A [glass jar](https://amzn.to/3ETyuvT) with a lid
 * A [saucepan](https://amzn.to/3mQuO8a) 
 
 #### Are pickled onions vegetarian? Are they vegan?
@@ -65,7 +67,9 @@ After the onions have cooled, seal the [glass jar](https://amzn.to/3ETyuvT) and 
 
 #### How can I use pickled red onions? 
 
-Use pickled onions to dress up all sorts of dishes, like tacos or burritos; they are great on our [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/). You can also add them to burgers, sandwiches, bean, lentils, soups, pitas, and salads, or use them as a side to go along with BBQ pulled meats like our [carnitas](https://www.jamilghar.com/recipe/carnitas/). 
+Use pickled onions to dress up all kinds of dishes, like tacos or burritos; they are great on our [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/). You can also add them to burgers, sandwiches, bean, lentils, soups, pitas, and salads, or use them as a side to go along with BBQ pulled meats like our [carnitas](https://www.jamilghar.com/recipe/carnitas/). 
+
+---- 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -93,7 +97,7 @@ Use pickled onions to dress up all sorts of dishes, like tacos or burritos; they
 
 I hope you enjoy this pickled onion recipe. If you try it, be sure to let us know what you think!
 
-Other recipes from The Jamil Ghar:
+Pair pickles onions with these recipes from The Jamil Ghar:
 
 * [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/)
 * [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi_roast/) 
