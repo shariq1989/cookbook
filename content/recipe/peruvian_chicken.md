@@ -1,7 +1,7 @@
 +++
 title = "Peruvian Roasted Chicken"
 date = "2021-05-03"
-description = "This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with a delicious serrano crema. This recipe can also be replicated using chicken thighs and legs as well."
+description = "This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with a delicious serrano crema. This recipe can also be replicated using chicken thighs and legs as well. I hope you enjoy this meal our family loves."
 tags = [
     "entree",
     "low carb",
@@ -24,6 +24,8 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
 {{< start_recipe >}}
 
+### How to Make Peruvian Roasted Chicken 
+
 #### INGREDIENTS 
 
 * 1 Whole Chicken, 3-4 lbs, butterflied
@@ -38,33 +40,39 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 #### INSTRUCTIONS 
 
 1. Adjust the oven rack to the upper-middle position and preheat the oven to 450 degrees. 
-2. Prepare a wire rack in a rimmed baking sheet lined with aluminum foil.  
+2. Prepare a [wire rack](https://amzn.to/3bE8h90) in a [rimmed baking sheet](https://amzn.to/339IQqI) lined with aluminum foil.  
 3. Dry the chicken thoroughly with a cloth. 
 4. Combine the cumin, paprika, salt, pepper, garlic, vinegar, and oil into a small bowl. Mix well. 
 5. Spread the mixture evenly over the whole chicken and under the skin.
-6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
+6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chillies. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
+8. To serve, garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chillies. 
 
 {{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 
-#### What main ingredients do I need for this meal?
+This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with a delicious serrano crema. This recipe can also be replicated using chicken thighs and legs as well. I hope you enjoy this meal our family loves.
 
-* Chicken: I used a whole, butterflied, or spatchcocked chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. Spatchcocking a chicken means cutting the backbone out of the chicken and flattening it; this allows the chicken to roast more evenly all over. You can also use the same rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry if cooked alone. Reminder, the safe cooking temperature for chicken is 170 degrees.
+#### What ingredients do I need for this meal?
+
+* Chicken: I used a whole, butterflied, or spatchcocked chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. Spatchcocking a chicken means cutting the backbone out of the chicken and flattening it; this allows the chicken to roast more evenly all over. You can also use the same rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry if cooked alone. Reminder, the safe cooking temperature for chicken is 165 degrees.
 
 * Spices: I use a tasty combination of cumin, paprika, salt, and black pepper. 
+ 
+* Garlic
+
+* Distilled White Vinegar 
+
+* Olive Oil 
 
 #### What equipment do I need to make this recipe?
 
-* 2 small bowls
-
-* A [food processor](https://amzn.to/3eVyrod) or [blender](https://amzn.to/2RBPcg8)
+* A [wire rack](https://amzn.to/3bE8h90)
 
 * A [rimmed baking sheet](https://amzn.to/339IQqI)
 
-* A [wire rack](https://amzn.to/3bE8h90)
+* A small bowl
 
 * A [food thermometer](https://amzn.to/2RnEB8c)
 
@@ -76,13 +84,15 @@ Yes, it is. I even calculated the macros to make it easy for you. The serving si
 * PROTEIN – 27g
 * FAT – 10g
 
-To finish your low-carb meal, I recommend serving this Peruvian chicken with coconut cauliflower rice and a side of [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/). 
+To finish your low-carb meal, I recommend serving this Peruvian chicken with cauliflower rice and a side of [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/). 
+
+---- 
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 1. Adjust the oven rack to the upper-middle position and preheat the oven to 450 degrees. 
-2. Prepare a wire rack in a rimmed baking sheet lined with aluminum foil.  
-3. Butterfly the chicken and pat it dry with a cloth. 
+2. Prepare a [wire rack](https://amzn.to/3bE8h90) in a [rimmed baking sheet](https://amzn.to/339IQqI) lined with aluminum foil.  
+3. Dry the chicken thoroughly with a cloth. 
 
 {{< figure src="/images/perc2.jpg" class="instructionFigure">}}
 
@@ -96,10 +106,12 @@ To finish your low-carb meal, I recommend serving this Peruvian chicken with coc
 
 {{< figure src="/images/perc4.jpg" class="instructionFigure">}}
 
-6. Place the chicken in the middle of the prepared wire rack and roast for 35 to 45 minutes.
+6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chillies. Serve with a [cucumber, avocado, and tomato salad](https://www.jamilghar.com/recipe/cuc_avo_tom_salad/) or cilantro-lime rice. 
+8. To serve, garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chillies. 
 
 {{< figure src="/images/perc5.jpg" class="instructionFigure">}}
+
+---- 
 
 The original recipe is found in the [Food Lab](https://amzn.to/3f41x4R), by Kenji Lopez-Alt
