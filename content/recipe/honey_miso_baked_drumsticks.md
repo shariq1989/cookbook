@@ -67,13 +67,14 @@ Who doesn't love a crispy chicken drumstick? The glaze is sweet, smoky, and savo
 
 * Chicken Drumsticks: I suggest using drumsticks, but this recipe is just as tasty with bone-in chicken thighs. If using chicken thighs, consider increasing the cooking time some. The safe internal temperature for chicken is 165 degrees. 
 
-
 #### What equipment do I need to make this recipe?
 
 * A marinating [bag](https://amzn.to/3ldgNQH)
 * A [rimmed baking sheet](https://amzn.to/3uIJ2sZ) 
 * A [wire rack](https://amzn.to/3w2Mkrm) 
 * A [food thermometer](https://amzn.to/3hzL5w7)
+
+----
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
@@ -99,3 +100,5 @@ Who doesn't love a crispy chicken drumstick? The glaze is sweet, smoky, and savo
 8. Allow the chicken to rest for 3-5 minutes. Serve these drumsticks with a fresh salad, vegetables, rice, or try another sheet pan side like our [Moroccan-spiced butternut squash]. 
 
 {{< figure src="/images/hbc5.jpg" class="instructionFigure">}}
+
+----
