@@ -24,25 +24,25 @@ Cuisine: Mexican, American
 #### INGREDIENTS 
 
 * 1 tbsp Avocado Oil 
+* ½ Yellow Onion, diced 
 * 1 Red Potatoes, cubed
 * 2-3 Yukon Potatoes, cubed 
-* ½ Yellow Onion, diced 
 * 4 Scallions, green parts, chopped 
 * 6 large Eggs 
-* 1/2 tsp [Chipotle Powder](https://amzn.to/3xtJopQ)  
 * 1/2 tsp Kosher Salt 
+* 1/2 tsp [Chipotle Powder](https://amzn.to/3xtJopQ)  
 * 1 lb Chorizo 
+* ½ cup Shredded Cheese
 * 5 large Flour Tortillas 
-* ½ cup Shredded Cheese, Mexican cheese blend 
 
 #### INSTRUCTIONS 
 
-1. Warm oil in a [skillet](https://amzn.to/3lhJf3Y) over medium heat and add white onions and potatoes. Cover the pan with a lid and cook until tender.
+1. Warm oil in a [skillet](https://amzn.to/3I3MkOO) over medium heat and add yellow onions and potatoes. Cover the pan with a lid and cook until tender.
 2. Remove the lid and cook until the potatoes turn golden brown. 
 3. Add the scallions and stir for 30 seconds. 
 4. In a small bowl, combine the eggs, salt, and chipotle powder. Set aside. 
-5. Add the chorizo to the pan and allow it to brown. When the meat is halfway cooked, add the egg mixture, and bring it to a soft scramble. When fully cooked, top the mixture with shredded cheese. Set the mixture aside, off heat. 
-6. Warm flour tortillas in another [pan](https://amzn.to/3lhJf3Y), about 30 seconds on both sides. 
+5. Add the chorizo to the [pan](https://amzn.to/3I3MkOO) and allow it to brown. When the meat is halfway cooked, add the egg mixture, and bring it to a soft scramble. When fully cooked, top the mixture with shredded cheese. Set the mixture aside, off heat. 
+6. Warm flour tortillas in another [pan](https://amzn.to/3I3MkOO), about 30 seconds on both sides. 
 7. Divide the chorizo mixture into each tortilla, and serve. 
 
 
@@ -52,7 +52,9 @@ Ihis is the best chorizo breakfast burrito and it'S easy to make. The burrito is
 
 #### What main ingredients do you need for this meal?
 
-* Potatoes: You can use red or Yukon potatoes. I often use a combination of the two. 
+* Avocado Oil 
+
+* Potatoes: You can use red or Yukon potatoes. I like to use a combination of the two. 
 
 * Onion 
 
@@ -60,17 +62,18 @@ Ihis is the best chorizo breakfast burrito and it'S easy to make. The burrito is
 
 * Eggs 
 
-* Seasoning: I used salt chipotle powder. 
+* Seasoning: I used salt and chipotle powder to flavor the burrito. 
 
 * Chorizo 
 
+* Shredded Cheese: I use Mexican cheese blend. 
+
 * Flour Tortillas: 
 
-* Shredded Cheese, Mexican cheese blend
 
 #### What equipment do I need to make this recipe?
 
-* 2 [skillets](https://amzn.to/3lhJf3Y), one with a lid
+* 2 [skillets](https://amzn.to/3I3MkOO), one with a lid
 * A small bowl 
 
 #### Can I freeze the chorizo burritos? 
@@ -79,7 +82,7 @@ You sure can. I like to make a couple of batches so I can freeze breakfast burri
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. Warm oil in a [skillet](https://amzn.to/3lhJf3Y) over medium heat and add white onions and potatoes. Cover the pan with a lid and cook until tender.
+1. Warm oil in a [skillet](https://amzn.to/3I3MkOO) over medium heat and add yellow onions and potatoes. Cover the pan with a lid and cook until tender.
 
 {{< figure src="/images/chor1.jpg" class="instructionFigure">}}
 
@@ -92,12 +95,12 @@ You sure can. I like to make a couple of batches so I can freeze breakfast burri
 
 {{< figure src="/images/chor3.jpg" class="instructionFigure">}}
 
-5. Add the chorizo to the pan and allow it to brown. When the meat is halfway cooked, add the egg mixture, and bring it to a soft scramble. When fully cooked, top the mixture with shredded cheese. Set the mixture aside, off heat. 
+5. Add the chorizo to the [pan](https://amzn.to/3I3MkOO) and allow it to brown. When the meat is halfway cooked, add the egg mixture, and bring it to a soft scramble. When fully cooked, top the mixture with shredded cheese. Set the mixture aside, off heat.
 
 {{< figure src="/images/chor4.jpg" class="instructionFigure">}}
 
-6. Warm flour tortillas in another [pan](https://amzn.to/3lhJf3Y), about 30 seconds on both sides. 
-7. Divide the chorizo mixture into each tortilla, and serve. 
+6. Warm flour tortillas in another [pan](https://amzn.to/3I3MkOO), about 30 seconds on both sides. 
+7. Divide the chorizo mixture into each tortilla, and serve.
 
 {{< figure src="/images/chorizoburrito.jpg" class="instructionFigure">}}
 
