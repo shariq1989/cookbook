@@ -23,7 +23,7 @@ Cuisine: Indian
 
 ### How to Make Butter Chicken 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 For the Chicken: 
 
@@ -53,7 +53,7 @@ For the Curry:
 * 1/4 cup Heavy Cream
 * Cilantro, finely chopped, to garnish
 
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions 
 
 For the Chicken: 
 
@@ -69,7 +69,7 @@ For the Curry:
 5. Return the mixture to the [pan](https://amzn.to/3FUiFpe) over low heat and stir in the butter and cream until well incorporated. Then, nestle the reserved chicken into the pan. Allow the dish to maintain a gentle bubble for 5-7 minutes. Adjust the temperature as necessary. 
 6. Garnish the butter chicken with cilantro and green chillies and serve with basmati rice or naan.
 
-#### INSTANT POT INSTRUCTIONS
+#### Instant Pot Instructions
 
 For the Chicken: 
 
@@ -94,7 +94,7 @@ For the Curry:
 
 Butter chicken originated in Dehli, and it quickly grew in popularity throughout the rest of the world. It makes sense; butter chicken introduces the flavor and spices of Indian cooking in one tasty dish. For that reason, I often make this meal for those who have never tasted Indian food before. My creamy, homemade butter chicken recipe can be made in the Instant Pot or the stove-top and tastes just like your favorite restaurant. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * [Ginger Paste](https://amzn.to/3p7fsMn)
 
@@ -165,7 +165,7 @@ You sure can. First, allow the dish to cool completely and add it to a freezer-s
 
 ---- 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 For the Chicken: 
 
