@@ -102,9 +102,6 @@ Yes, first allow the pancakes to cool completely, and then add them to a freezer
 
 I hope you enjoy this easy almond flour pancake recipe. If you try it, be sure to let us know what you think!
 
-Other breakfast recipes from The Jamil Ghar:
+Other recipes from The Jamil Ghar:
 
-* [Banana Bread](https://www.jamilghar.com/recipe/banana_bread/)
-* [Crispy Belgium Waffle](https://www.jamilghar.com/recipe/belgium_waffles/)
-* [Double Chocolate Low Carb Muffins](https://www.jamilghar.com/recipe/double_chocolate_lowcarb_muffins/)
-* [No Yeast-Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
+* [Double Chocolate Low Carb Muffins](https://www.jamilghar.com/recipe/chocolate-lowcarb-muffins/)
