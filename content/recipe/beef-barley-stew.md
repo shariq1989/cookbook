@@ -16,7 +16,9 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Beef and Barley Stew 
+
+#### Ingredients  
 
 * 2 lb Boneless Short Ribs, cut into 1-inch pieces  
 * 2 tbsp Olive Oil 
@@ -36,7 +38,7 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe
 * 1 cup Kale, chopped and stems removed 
 * Salt and Pepper, to taste
 
-#### STOVE TOP INSTRUCTIONS 
+#### Stove-Top Instructions  
 
 1. Season the short ribs with salt and pepper. 
 2. Heat oil in an [Dutch Oven](https://amzn.to/2XTgTEa) until smoking. 
@@ -47,7 +49,7 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe
 7. Cook over medium heat to maintain a simmer for 1-2 hours. 
 8. Stir in the kale to serve. 
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions 
 
 1. Season the short ribs with salt and pepper. 
 2. Heat oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until smoking. 
@@ -60,13 +62,14 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe
 
 {{< end_recipe >}}
 
-I hope you enjoy this recipe for a beef and barley stew. If you try it, be sure to let us know what you think!
+I hope you enjoy this recipe for beef and barley stew. If you try it, be sure to let us know what you think!
 
 Other soups and stews from The Jamil Ghar:
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chili_con_carne/)
+
+* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/)
+* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/)
 * [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Olive Garden Copycat Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa_toscana/)  
+* [Olive Garden Copycat Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa-toscana/)  
 
 
 Find the original recipe at [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe). 
