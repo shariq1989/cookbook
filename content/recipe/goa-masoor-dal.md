@@ -1,5 +1,5 @@
 +++
-title = "Goa Masoor Dal- Goa Red Lentil Soup "
+title = "Goa Red Lentil Soup - oa Masoor Dal"
 date = "2021-03-17"
 description = "Goa is a coastal city and happens to be the smallest state in India. The food they make is unique to their region. Goan cuisine is well known for its balance of sweet and spicy, and its inclusion of coconut and seafood in many of their dishes. I hope you enjoy this Goa masoor dal recipe our family loves."
 tags = [
@@ -25,7 +25,7 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 
 ### How to Make Goa Masoor Dal 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 tbsp Coconut Oil 
 * 1 Yellow Onion, diced 
@@ -44,8 +44,7 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 * 2 tsp Lime Juice 
 * Lime Wedges, to garnish
 
-#### STOVE-TOP INSTRUCTIONS 
-
+#### Stove-Top Instructions
 1. Gather 1 cup of masoor dal. Rinse it in a [colander](https://amzn.to/3pbS1kS) and set it aside. 
 2. In a [saute pan](https://amzn.to/3lcbe51), add the coconut oil and onion. Cook on low heat until the onions brown and caramelize. 
 3. Once the onions caramelize, add the garlic, ginger, chilies, and kosher salt. Allow the mixture to cook for about 1 minute. 
@@ -56,7 +55,7 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 8. Off heat, add the last 1 tbsp of ginger, lime juice, and kosher salt to taste. Stir well. 
 9. Garnish with lime wedges and serve with long-grain basmati rice.
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions
 
 1. Gather 1 cup of masoor dal. Rinse it in a [colander](https://amzn.to/3pbS1kS) and set it aside. 
 2. In an [Instant Pot](https://amzn.to/3qfNYCZ), add the coconut oil and the onion. Cook on saute mode until the onions brown and caramelize. 
@@ -74,7 +73,7 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 
 Goa is a coastal city and happens to be the smallest state in India. The food they make is unique to their region; Goan cuisine is well known for its balance of sweet and spicy, and its inclusion of coconut and seafood in many of their dishes. I hope you enjoy this Goa masoor dal recipe our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Coconut Oil: Coconut is a central ingredient in Goan cuisine; they use every part of the coconut in their cooking- the oil, milk, and meat are all featured. I use coconut oil and coconut milk to flavor the dal.  
 
@@ -105,11 +104,13 @@ Goa is a coastal city and happens to be the smallest state in India. The food th
 
 This dish is tasty and vegetarian and vegan-friendly. 
 
-#### Can I freeze the Goa red dal?
+#### Can I freeze Goa red dal?
 
 Yes, first allow the dal to cool and gather several freezer-safe bags. Scoop a small amount of dal into each bag, careful to leave a few inches of space so the dish can expand if needed. Squeeze out as much air as you can before sealing the bags. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove and prepare your side dishes.
 
-### INSTRUCTIONS: STEP-BY-STEP
+---- 
+
+### Instructions: Step-by-Step
 
 1. Gather 1 cup of masoor dal. Rinse it in a [colander](https://amzn.to/3pbS1kS) and set it aside. 
 2. In a [saute pan](https://amzn.to/3lcbe51), add the coconut oil and onion. Cook on low heat until the onions brown and caramelize. 
@@ -141,5 +142,7 @@ Yes, first allow the dal to cool and gather several freezer-safe bags. Scoop a s
 9. Garnish with lime wedges and serve with long-grain basmati rice.
 
 {{< figure src="/images/gd7.jpg" class="instructionFigure">}}
+
+---- 
 
 Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/red-lentil-soup-with-coconut-milk-and-spinach-durotherm)
