@@ -46,13 +46,13 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 5. Spread the mixture evenly over the whole chicken and under the skin.
 6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. To serve, garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chillies. 
+8. To serve, garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano-crema/) and thinly sliced serrano chillies. 
 
 {{< end_recipe >}}
 
 ### ABOUT THE MEAL 
 
-This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with a delicious serrano crema. This recipe can also be replicated using chicken thighs and legs as well. I hope you enjoy this meal our family loves.
+This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with our take on the delicious Peruvian green sauce you get in the restaruants. This recipe can also be replicated using chicken thighs and legs as well. I hope you enjoy this meal our family loves.
 
 #### What ingredients do I need for this meal?
 
@@ -84,7 +84,7 @@ Yes, it is. I even calculated the macros to make it easy for you. The serving si
 * PROTEIN – 27g
 * FAT – 10g
 
-To finish your low-carb meal, I recommend serving this Peruvian chicken with cauliflower rice and a side of [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/). 
+To finish your low-carb meal, I recommend serving this Peruvian chicken with cauliflower rice and a side of [serrano crema](https://www.jamilghar.com/recipe/serrano-crema/). 
 
 ---- 
 
@@ -108,7 +108,7 @@ To finish your low-carb meal, I recommend serving this Peruvian chicken with cau
 
 6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. To serve, garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano_crema/) and thinly sliced serrano chillies. 
+8. To serve, garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano-crema/) and thinly sliced serrano chillies. 
 
 {{< figure src="/images/perc5.jpg" class="instructionFigure">}}
 
