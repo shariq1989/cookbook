@@ -22,7 +22,7 @@ Cuisine: Indian, Pakistani
 
 ### How to Make Channa Masala 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 2 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
 * 1 tsp [Kolongi Seeds](https://amzn.to/3jMZUuh), plus more for garnish
@@ -33,7 +33,7 @@ Cuisine: Indian, Pakistani
 * 1-inch fresh Ginger, minced 
 * 1-2 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
 * 1 tsp [Turmeric Powder](https://amzn.to/3vyvAZK)
-* 1 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/)
+* 1 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/garam-masala/)
 * 1 tsp [Coriander](https://amzn.to/3lwbJ92), ground 
 * 1-2 large Tomatoes, chopped, use more if you prefer to have more gravy
 * 2- 15 oz can Chickpeas, drained and rinsed 
@@ -41,7 +41,7 @@ Cuisine: Indian, Pakistani
 * 1/2 cup Water 
 * Salt, to taste
 
-#### CHANNA MASALA STOVE-TOP INSTRUCTIONS 
+#### Channa Masala Stove-Top Instructions 
 
 1. Warm ghee in a [heavy-bottomed pan](https://amzn.to/3F0cvEn) over medium-high heat. Add 1 tsp of the kalonji seeds, the cumin seed, and the green chillies. Cook until ingredients begin to sputter.
 2. Lower the heat to medium-low, and then add the onion. Cook until they brown and caramelize. This step may take a while, and that’s okay. You are building flavor.
@@ -53,7 +53,7 @@ Cuisine: Indian, Pakistani
 8. Sprinkle the dish with kalonji seeds and cover the pan with the lid slightly ajar. Lower the heat even more and maintain a gentle bubble. Cook until the liquid reduces, about 12-15 minutes. 
 9. Season the channa Masala with salt, to taste, and garnish with cilantro to serve. 
 
-#### CHANA MASALA INSTANT POT INSTRUCTIONS 
+#### Channa Masala Instant Pot Instructions  
 
 1. Heat the ghee in an [Instant Pot](https://amzn.to/3ttlual) on saute mode. Add 1 tsp of the kalonji seeds, the cumin seed, and the green chillies. Cook until ingredients begin to sputter.
 2. Add the onion. Cook until they brown and caramelize. This step may take a while, and that’s okay. You are building flavor. 
@@ -71,7 +71,7 @@ Cuisine: Indian, Pakistani
 
 Like many popular dishes in Indian and Pakistan, recipes for chana masala or channa masala vary from region to region. This chana masala recipe is similar to those found in Northern India or Pakistan. I hope you enjoy this channa masala recipe our family loves.
 
-#### Chana Masala Main Ingredients:
+#### Chana Masala Ingredients:
 
 * [Ghee](https://amzn.to/2ZkJkrW) 
 
@@ -87,7 +87,7 @@ Like many popular dishes in Indian and Pakistan, recipes for chana masala or cha
 
 * Ginger
 
-* Spices: I used [kashmiri chili powder](https://amzn.to/3jP2lMC), [turmeric powder](https://amzn.to/3vyvAZK), homemade [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/), and [coriander powder](https://amzn.to/3lwbJ92) to flavor the channa. 
+* Spices: I used [kashmiri chili powder](https://amzn.to/3jP2lMC), [turmeric powder](https://amzn.to/3vyvAZK), homemade [garam masala](https://www.jamilghar.com/recipe/garam-masala/), and [coriander powder](https://amzn.to/3lwbJ92) to flavor the channa. 
 
 * Tomato
 
@@ -97,25 +97,23 @@ Like many popular dishes in Indian and Pakistan, recipes for chana masala or cha
 
 * Salt
 
-* Garam Masala: India is a large country with varying sub-cultures. As a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used and cater it specifically to your preferences. Here is one of the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) spice blends we use in our home. If you choose to buy garam masala, I suggest getting [Rani](https://amzn.to/3m1KWBX).
+* Garam Masala: India is a large country with varying sub-cultures. As a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used and cater it specifically to your preferences. Here is one of the [garam masala](https://www.jamilghar.com/recipe/garam-masala/) spice blends we use in our home. If you choose to buy garam masala, I suggest getting [Rani](https://amzn.to/3m1KWBX).
 
 #### What equipment do I need to make this recipe?
 
 * A [heavy-bottomed pan](https://amzn.to/3F0cvEn) with a lid or an [Instant Pot](https://amzn.to/3ttlual)
-
 * A small bowl
-
 * A [food processor](https://amzn.to/3o68l64), [blender](https://amzn.to/2SrI06u), or an [immersion blender](https://amzn.to/3pcRrDQ)
 
-#### Can I modify this recipe to make vegan chana masala?
+#### Can I modify this recipe to make vegan channa masala?
 
 All you have to do to make this recipe vegan is to use a different oil in place of the ghee. I suggest using [grapeseed oil](https://amzn.to/3cLwWYG).
 
-#### What can I serve with chana masala? 
+#### What can I serve with channa masala? 
 
 Roti, [paratha](https://www.jamilghar.com/recipe/paratha/), poori or puri, chapati, or basmati rice are the most popular. 
 
-#### Can I freeze chana masala? 
+#### Can I freeze channa masala? 
 
 You sure can. First, allow the dish to cool, and then add it to a freezer-safe container or bag. Channa masala will freeze for up to 2 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stovetop, and enjoy. 
 
