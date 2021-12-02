@@ -21,7 +21,7 @@ Cuisine: Mexican, American
 
 ### How to Make Chili Con Carne 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Chili: 
 
@@ -53,7 +53,7 @@ For the Garnish:
 * 1 Avocado, cubed 
 * 1 Serrano or Jalapeno Chili, thinly sliced
 
-#### DUTCH OVEN INSTRUCTIONS 
+#### Dutch Oven Instructions
 
 1. Add the dried chillies to a [dutch oven](https://amzn.to/2YHB09g) and cook over high heat until blistered, 1 minute.  
 2. Remove the chillies and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chillies and 2 tbsp of the sauce from the can. Blend thoroughly and set aside. You could also use an [immersion blender](https://amzn.to/3rhbcwE). 
@@ -65,7 +65,7 @@ For the Garnish:
 8. Bring the mixture to a boil over high heat, and then reduce to a simmer and cover, leaving the lid ajar. Cook, stirring occasionally for 2 1/2 to 3 hours.
 9. To serve, garnish with onion, cilantro, cheese, and avocado. Serve with warm corn tortillas. 
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions 
 
 1. Add the dried chillies to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
 2. Remove the chillies and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chillies and 2 tbsp of the sauce from the can. Blend thoroughly and set aside. You could also use an [immersion blender](https://amzn.to/3rhbcwE). 
@@ -77,7 +77,7 @@ For the Garnish:
 8. Secure the lid and cook on manual high pressure for 40 minutes with a 10-minute natural release. 
 9. To serve, garnish with onion, cilantro, cheese, and avocado. Serve with warm corn tortillas. 
 
-#### SLOW COOKER INSTRUCTIONS 
+#### Slow Cooker Intructions 
 
 1. Add the dried chillies to a [frying pan](https://amzn.to/3qv4Jhd) and cook on high heat until blistered, 1 minute.  
 2. Remove the chillies and add them to a [food processor](https://amzn.to/3bUKS2q) or [blender](https://amzn.to/3H5anfT), along with the chicken broth. Add 2 of the chipotle chillies and 2 tbsp of the sauce from the can. Blend thoroughly and set aside. You could also use an [immersion blender](https://amzn.to/3rhbcwE). 
@@ -155,8 +155,9 @@ Because chili con carne ingredients are so widely disputed, there is room to ser
 
 You sure can. First, allow the dish to cool completely. Next, add it to a freezer-safe container or bag. Chili con carne will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm the stew on the stove and prepare all of your toppings. 
 
+----
 
-### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 
+### Instant Pot Instructions: Step-by-Step
 
 1. Add the dried chillies to an [Instant Pot](https://amzn.to/3qfNYCZ) and cook on saute mode until blistered, 1 minute.  
 
@@ -195,6 +196,6 @@ I hope you enjoy this easy chili con carne recipe. If you try it, be sure to let
 Other recipes from The Jamil Ghar you may enjoy:
 
 * [Rindsgulasch](https://www.jamilghar.com/recipe/rindsgulasch/) 
-* [Pozole Rojo](https://www.jamilghar.com/recipe/pasole/)
+* [Pozole Rojo](https://www.jamilghar.com/recipe/pozole/)
 * [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
 
