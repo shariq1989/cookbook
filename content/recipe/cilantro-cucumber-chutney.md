@@ -18,7 +18,7 @@ Cuisine: Indian, Pakistani
 
 ### How to Make Cilantro Cucumber Chutney 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 2 cups [Full-Fat Yogurt](https://amzn.to/30348EW)
 * 1/2 Serrano Chili, coarsely chopped   
@@ -28,7 +28,7 @@ Cuisine: Indian, Pakistani
 * 1 tbsp Olive Oil
 * 1/4 Persian Cucumber, finely chopped
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Combine the yogurt with the other ingredients, except for the cucumber, in a [food processor](https://amzn.to/3uclbmi) or [blender](https://amzn.to/3zECHk1). Blend until smooth. 
 2. Stir in the cucumber. 
@@ -40,7 +40,7 @@ Cuisine: Indian, Pakistani
 
 This tasty cucumber, cilantro chutney is a great addition to dishes like biryani and kebabs.
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Full-fat yogurt 
 
@@ -63,7 +63,7 @@ This tasty cucumber, cilantro chutney is a great addition to dishes like biryani
 
 Store the leftover chutney in an air-tight container and it will keep the fridge for up to two weeks. 
 
-#### Pair this chutney with other recipes from The Jamil Ghar:
+#### Pair chutney with other recipes from The Jamil Ghar:
 
-* [Channa Masala](https://www.jamilghar.com/recipe/chana_masala/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
+* [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/)
+* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
