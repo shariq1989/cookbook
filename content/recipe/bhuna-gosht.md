@@ -20,7 +20,9 @@ Cuisine: Indian, Pakistani
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Bhuna Gosht 
+
+#### Ingredients  
 
 For the Gosht: 
 
@@ -47,7 +49,7 @@ For the Whole Spices:
 * 2 [Black Cardamom Pods](https://amzn.to/3vvGj77)
 * ½ tsp Nutmeg, ground
 
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions 
 
 1. Begin by rinsing the goat and then add it to a [heavy-bottomed pan](https://amzn.to/3nWv06r) along with 1 cup of water and 1 tsp of salt. Cover with the lid and cook for 1 hour over low-medium heat. Set aside. 
 2. Gather the whole spices and stir in the nutmeg.
@@ -62,7 +64,7 @@ For the Whole Spices:
 11. Continue cooking on high, stirring regularly. The goat mixture will begin to thicken and turn a rich brown color.
 12. Garnish with cilantro and fresh ginger slices. Serve with naan or long-grained basmati rice. 
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions  
 
 1. Begin by rinsing the goat and then add it to an [Instant Pot](https://amzn.to/3qfNYCZ) with 1 cup water and 1 tsp salt. Cook on manual high pressure for 40 minutes with quick release. Set the meat aside. 
 2. Gather the whole spices and stir in the nutmeg, set aside.
@@ -83,7 +85,7 @@ For the Whole Spices:
 
 Bhuna gosht is a popular dish in Pakistan and India. Bhuna Gosht often refers to a thick, dry curry made with either goat or lamb, slow-cooked in whole spices. The curry reduces during the cooking process, leaving behind a highly concentrated and flavorful masala.Our whole family loves this authentic Pakistani bhuna hua gosht recipe. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * Goat: In Hindi, gosht means meat, but more often than not, in Indian and Pakistani cuisine, gosht refers to goat or lamb; we prefer goat for this dish. 
 
@@ -113,7 +115,9 @@ Bhuna gosht is a popular dish in Pakistan and India. Bhuna Gosht often refers to
 
 Yes, allow the dish to cool completely, and then add it to a freezer-safe container. Bhuna gosht will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm it on the stovetop, and prepare your rice or naan. 
 
-### STOVE-TOP INSTRUCTIONS: STEP-BY-STEP
+---- 
+
+### Stove-Top Instructions: Step-by-Step 
 
 1. Begin by rinsing the goat and then add it to a [heavy-bottomed pan](https://amzn.to/3nWv06r) along with 1 cup of water and 1 tsp of salt. Cover and cook for 1 hour over medium heat. Set aside. 
 
@@ -157,6 +161,6 @@ I hope you enjoy this recipe for bhuna gosht. If you try it, be sure to let us k
 
 Other recipes from The Jamil Ghar:
 
-* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht_karahi/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
-* [Moong Dal](https://www.jamilghar.com/recipe/moong_dal/)
+* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht-karahi/)
+* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
+* [Moong Dal](https://www.jamilghar.com/recipe/moong-dal/)
