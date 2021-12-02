@@ -1,5 +1,5 @@
 +++
-title = "Chikhirtma - Georgian Lemon and Chicken Soup"
+title = "Georgian Lemon and Chicken Soup -Chikhirtma"
 date = "2021-09-25"
 description = "Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill create the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks."
 tags = [
@@ -22,7 +22,9 @@ Adapted from: [Milk Street](https://wskg.org/episodes/milk-street-suppers-ep-106
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Georgian Chicken Soup 
+
+#### Ingredients  
 
 For the Chicken Broth: 
 
@@ -52,7 +54,7 @@ For the Soup:
 * Red Chili Flakes, to taste
 * Coarse Black Pepper, to taste
 
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions 
 
 For the Chicken Broth: 
 
@@ -74,7 +76,7 @@ For the Soup:
 6. Taste, and then season with salt, pepper, and red chili flakes.
 7. To serve, garnish with fresh cilantro, dill, and more chili flakes.  
 
-#### INSTANT POT INSTRUCTIONS
+#### Instant Pot Instructions 
 
 For the Chicken Broth: 
 
@@ -102,7 +104,7 @@ For the Soup:
 
 Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill create the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Chicken: For this recipe, I prefer using bone-in chicken because it makes for a great-tasting broth. You can also use any combination of boneless legs, thighs, and breasts to make your soup.  If you choose to go this route, you can use store-bought chicken stock to flavor the soup. Since you're skipping the broth-making process, I would still take a moment to allow the chicken broth to cook with the cilantro and dill stems, garlic, onions, and whole spices, so you don't lose any of the flavors. 
 
@@ -140,10 +142,10 @@ Leftover soup will keep in the fridge for 3-4 days in a covered container. To ex
 
 ----
 
-Other recipes you may enjoy from The Jamil Ghar: 
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
-* [Goat Yakhni](https://www.jamilghar.com/recipe/goat_yakhni/)
+Other recipes from The Jamil Ghar: 
+* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/)
+* [Goat Yakhni](https://www.jamilghar.com/recipe/goat-yakhni/)
 * [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa_toscana/)
+* [Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa-toscana/)
 
 Find the original recipe at [Milk Street](https://www.177milkstreet.com/recipes/georgian-chicken-soup).
