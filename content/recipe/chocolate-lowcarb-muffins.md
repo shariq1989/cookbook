@@ -25,7 +25,7 @@ Cuisine: American
 
 ### How to Make Double Chocolate Low-Carb Muffins 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 2 cups [Almond Flour](https://amzn.to/3r1D3P6)
 * ¾ cup Unsweetened [Cocoa Powder](https://amzn.to/3ANnCyp)
@@ -38,7 +38,7 @@ Cuisine: American
 * 1 tsp [Vanilla Extract](https://amzn.to/3lgbOyw)
 * ¾ cup Sugar-Free [Chocolate Chips](https://amzn.to/3xBdbfi)
   
-#### INSTRUCTIONS
+#### Instructions
 
 1. Preheat the oven to 350 degrees.
 2. Line a [muffin tin](https://amzn.to/3p4IfkN) with [muffin liners](https://amzn.to/3D289uv).
@@ -54,7 +54,7 @@ Cuisine: American
 
 ### ABOUT THE MUFFINS
 
-#### What main ingredients do I need for these muffins?
+#### What ingredients are needed for these muffins?
 
 * [Almond Flour](https://amzn.to/3r1D3P6)
 
@@ -82,7 +82,9 @@ Cuisine: American
 * A set of [muffin liners](https://amzn.to/3D289uv)
 * A [mixing bowl](https://amzn.to/3HYetXr)
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step 
 
 1. Preheat the oven to 350 degrees.
 2. Line a [muffin tin](https://amzn.to/3p4IfkN) with [muffin liners](https://amzn.to/3D289uv).
@@ -107,3 +109,5 @@ Cuisine: American
 9. Allow the muffins to cool before serving. 
 
 {{< figure src="/images/dcm5.jpeg" class="instructionFigure">}}
+
+---- 

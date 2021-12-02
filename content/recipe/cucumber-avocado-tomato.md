@@ -23,7 +23,7 @@ Cuisine: American
 
 ### How to Make Cucumber Avocado Tomato Salad with Lime
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 6 Persian Cucumbers, sliced 
 * 1 package Petite Medley Tomatoes, halved 
@@ -35,7 +35,7 @@ Cuisine: American
 * 1/2 tsp Kosher Salt
 * 1 large Hass Avocado, cubed 
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. Cut the cucumbers, tomatoes, and cilantro and add them to a serving bowl. 
 2. Add olive oil, lime juice, garlic, salt, and pepper to the bowl and stir to mix well. 
@@ -47,7 +47,7 @@ Cuisine: American
 
 This salad is full of herbs, juicy tomato, crisp cucumber, and creamy avocado. The addition of olive oil and lime lends flavor to this perfect light salad or side dish for any meal. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Persian Cucumber: You can also use regular cucumbers, but I prefer these. To me, they are crisper than regular ones, and I love the crunch they add. 
 
@@ -84,9 +84,10 @@ Sure, fresh dill is a great substitute. If you go this route, I suggest using le
 * Basil
 * Make the salad a whole meal by adding canned salmon or tuna
 * A bed of greens like spinach and arugula 
+
 ----
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Cut the cucumbers, tomatoes, and cilantro and add them to a serving bowl. 
 2. Add olive oil, lime juice, garlic, salt, and pepper to the bowl and stir to mix well. 
@@ -103,15 +104,9 @@ Sure, fresh dill is a great substitute. If you go this route, I suggest using le
 
 {{< end_recipe >}}
 
-#### ABOUT THE SALAD 
-
-This salad is full of herbs, juicy tomato, crisp cucumber, and creamy avocado. The addition of olive oil and lime makes for a perfect light salad or side dish to any meal. 
-
 ---- 
 
 I hope you enjoy this easy cucumber, avocado, and tomato salad recipe. If you try it, be sure to let us know what you think!
 
-Other recipes from The Jamil Ghar:
+Pair this salad with other recipes from The Jamil Ghar:
 
-* [Mango Salsa](https://www.jamilghar.com/recipe/mango_salsa/) 
-* [Summer Salad Mix](https://www.jamilghar.com/recipe/summer_salad_mix/) 

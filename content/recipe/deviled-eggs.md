@@ -18,7 +18,9 @@ Cooking Time: 20 minutes
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Deviled Eggs 
+
+#### Ingredients  
 
 * 6 large Eggs 
 * 2 tbsp Dijon Mustard
@@ -26,7 +28,7 @@ Cooking Time: 20 minutes
 * ½ tsp [Smoked Paprika](https://amzn.to/2ZzYHAO), plus more to garnish
 * Salt, to taste  
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions
 
 1. Place eggs in a single layer on the [trivet](https://amzn.to/38G3NNi) in an [Instant Pot](https://amzn.to/3qfNYCZ) and add 1 cup of water. Secure the lid and set it to manual high pressure for 5 minutes. Allow for natural release for 5 minutes, followed by an ice bath for another 5 minutes.  
 2. Crack eggshells and carefully peel under cool running water. Gently dry with paper towels. 
@@ -39,7 +41,7 @@ Cooking Time: 20 minutes
 
 ### ABOUT THE MEAL
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Eggs 
 
@@ -56,7 +58,9 @@ Cooking Time: 20 minutes
 * A small bowl 
 * A serving platter 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step 
 
 1. Place eggs in a single layer on the [trivet](https://amzn.to/38G3NNi) in an [Instant Pot](https://amzn.to/3qfNYCZ) and add 1 cup of water. Secure the lid and set it to manual high pressure for 5 minutes. Allow for natural release for 5 minutes, followed by an ice bath for another 5 minutes.  
 
@@ -81,3 +85,5 @@ Cooking Time: 20 minutes
 {{< figure src="/images/de4.jpeg" class="instructionFigure">}}
 
 {{< figure src="/images/de5.jpeg" class="instructionFigure">}}
+
+---- 

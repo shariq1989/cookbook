@@ -26,7 +26,7 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/pressure-cooker-french-
 
 ### How to Make French Onion Soup 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 4 tbsp Unsalted Butter, plus more for the baguette slices
 * 3 lb Vadalia Onion, thinly sliced, about 5-6 large onions
@@ -43,7 +43,7 @@ Adapted from: [Serious Eats](https://www.seriouseats.com/pressure-cooker-french-
 * 1 medium Garlic Clove, punctured, for the toast
 * 1 lb [Gruyere Cheese](https://amzn.to/3aZfe2E), grated 
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions 
 
 For the Soup:  
 
@@ -68,7 +68,7 @@ To Serve:
 
 French onion soup is a timeless classic and happens to be on the list of my favorite comfort foods. It's the perfect meal for those chilly days and makes you want to curl up with a warm bowl of this soup. Our French onion soup recipe is easy to make and can be made in the [Instant Pot](https://amzn.to/3qfNYCZ) or stove-top. It stays true to traditional French onion soup and can be vegetarian with a few modifications. I hope you enjoy this tasty French onion soup our family loves.
 
-#### What main ingredients do I need for this meal? 
+#### What ingredients are needed for this meal? 
 
 * Butter: Butter is the tastiest and most French approach to caramelize the onions. Because this is the most critical step to develop the flavor of French onion soup, I encourage you to splurge for higher quality butter, like [Kerrygold](https://amzn.to/3c5Q433). 
 
