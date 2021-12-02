@@ -21,7 +21,7 @@ Cuisine: Pakistani
 
 ### How to Make Garam Masala 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 tbsp Green Cardamom 
 * 8 Black Cardamom 
@@ -33,7 +33,7 @@ Cuisine: Pakistani
 * 1 tsp Mace
 * 2 Bay Leaves, broken down
  
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Break down the cinnamon stick and bay leaves and combine them with the other ingredients in a [skillet](https://amzn.to/3cZmRrq). Dry roast the spices for 2- 3 minutes over medium heat to warm and draw out the flavor and aroma of the whole spices.  
 2. Allow the ingredients to cool and then add them to a [spice grinder](https://amzn.to/3paY5dE) in batches, blend until fine. You can also use a [mortar and pestle](https://amzn.to/3E5NtDa) if you don't mind the extra work. 
@@ -80,7 +80,7 @@ Once ground, store the garam masala in an air-tight glass jar, like a mason jar.
 
 ---- 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Break down the cinnamon stick and bay leaves and combine them with the other ingredients in a [skillet](https://amzn.to/3cZmRrq). Dry roast the spices for 2- 3 minutes over medium heat to warm and draw out the flavor and aroma of the whole spices.  
 
@@ -100,11 +100,11 @@ Once ground, store the garam masala in an air-tight glass jar, like a mason jar.
 
 I hope you enjoy this homemade garam masala spice blend. If you try it, be sure to let us know what you think!
 
-#### Recipes from The Jamil Ghar that require Garam Masala: 
+#### Recipes from The Jamil Ghar that use Garam Masala: 
 
-* [Biryani](https://www.jamilghar.com/recipe/chicken_biryani/)
-* [Butter Chicken](https://www.jamilghar.com/recipe/butter_chicken/)
-* [Channa Masala](https://www.jamilghar.com/recipe/channa_masala/)
-* [Moong Dal](https://www.jamilghar.com/recipe/moong_dal/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
+* [Biryani](https://www.jamilghar.com/recipe/chicken-biryani/)
+* [Butter Chicken](https://www.jamilghar.com/recipe/butter-chicken/)
+* [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/)
+* [Moong Dal](https://www.jamilghar.com/recipe/moong-dal/)
+* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
 
