@@ -23,7 +23,7 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 
 ### How to Make Chicken Salmoriglio 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 2 Lemons, divided, zested 
 * 2/3 cup Extra-Virgin Olive Oil
@@ -35,7 +35,7 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 * 2-3 tbsp Fresh Parsley, chopped  
 * 1/4 cup Sundried Tomatoes, just the tomatoes, no juice 
 
-#### BAKED CHICKEN SALMORIGLIO INSTRUCTIONS
+#### Baked Chicken Salmoriglio Instructions 
 
 1. Pre-heat the oven to 475 degrees. 
 2. Grate 2 tbsp of lemon zest into a small bowl. Set aside. 
@@ -49,7 +49,7 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 10. Remove the sundried tomatoes and set them aside. Then, turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 165 degrees internally and begun to brown. 
 11. To serve, return the sundried tomatoes to the dish and then squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken. Garnish with fresh parsley, and enjoy! 
 
-#### GRILLED CHICKEN SALMORIGLIO INSTRUCTIONS
+#### Grilled Chicken Salmoriglio Instructions 
 
 1. Pre-heat a gas grill. 
 2. Grate 2 tbsp of lemon zest into a small bowl. Set aside. 
@@ -66,7 +66,7 @@ Adapted: [Milkstreet Chicken Salmoriglio](https://www.177milkstreet.com/recipes/
 
 Salmoriglio refers to a dressing used in Southern Italy, specifically Sicily and Calabria, to marinate or flavor dishes. The key ingredients are lemon juice, olive oil, garlic, and oregano. We use salmoriglio in our home to flavor everything from salads, to fish, to chicken. Enjoy this recipe using authentic salmoriglio sauce to flavor baked chicken. You could grill chicken salmoriglio for a tasty, chargrilled outcome as well.
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Lemons 
 
@@ -92,11 +92,14 @@ Salmoriglio refers to a dressing used in Southern Italy, specifically Sicily and
 * A [lemon zester](https://amzn.to/3a83M4T)
 * A [baking dish](https://amzn.to/3mqJp8X)
 
-#### What can I serve with Chicken Salmoriglio? 
+#### What can I serve with chicken salmoriglio? 
 
 I love this baked chicken with green, crisp vegetables like asparagus, zucchini, or green beans. You could also serve it on a bed of arugula or watercress.
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step
+
 1. Pre-heat the oven to 475 degrees. 
 2. Grate 2 tbsp of lemon zest into a small bowl. Set aside. 
 3. Cut the ends of 2 lemons off, and then cut them in half. Set lemons aside. 
@@ -116,7 +119,6 @@ I love this baked chicken with green, crisp vegetables like asparagus, zucchini,
 
 {{< figure src="/images/cs4.jpeg" class="instructionFigure">}}
 
-
 9. Cook for 20 minutes at 475 degrees. 
 10. Remove the sundried tomatoes and set them aside. Then, turn the broiler to high and continue cooking the chicken for 5-10 minutes until the chicken has reached 165 degrees internally and begun to brown. 
 11. To serve, return the sundried tomatoes to the dish and then squeeze the juice from the cooked lemon into the reserved olive oil mixture and pour it over the chicken. Garnish with fresh parsley, and enjoy! 
@@ -128,11 +130,11 @@ I love this baked chicken with green, crisp vegetables like asparagus, zucchini,
 
 I hope you enjoy this recipe for chicken salmoriglio. If you try it, be sure to let us know what you think!
 
-#### Other chicken recipes you may enjoy from The Jamil Ghar:
+#### Other chicken recipes from The Jamil Ghar:
 
-* [BBQ Chicken Drumsticks](https://www.jamilghar.com/recipe/bbq_chicken_drumsticks/)
-* [Honey and Miso Baked Chicken](https://www.jamilghar.com/recipe/honey_baked_drumsticks/)
-* [Jerk Chicken Fricassee](https://www.jamilghar.com/recipe/jerk_chicken_fricassee/)
-* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/)
+* [BBQ Chicken Drumsticks](https://www.jamilghar.com/recipe/bbq-drumsticks/)
+* [Honey and Miso Baked Chicken](https://www.jamilghar.com/recipe/honey-drumsticks/)
+* [Jerk Chicken Fricassee](https://www.jamilghar.com/recipe/jerk-fricassee/)
+* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
 
 Find the original recipe at [Chicken Salmoriglio Milkstreet](https://www.177milkstreet.com/recipes/chicken-salmoriglio-tn-med).

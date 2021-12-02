@@ -25,7 +25,7 @@ Cuisine: American, Cajun
 
 ### How to Make Blackened Mahi Mahi 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Fish: 
 
@@ -45,7 +45,7 @@ For the Blackened Mahi Mahi Seasoning:
 * 1 tsp Cayenne Pepper
 
 
-#### INSTRUCTIONS
+#### Instructions 
 
 1. Defrost the mahi-mahi filet in the water a few minutes before you're ready to eat. 
 2. Salt the filets, allow them to sit for about 5 minutes, and then dry them with a towel to remove excess moisture. 
@@ -61,7 +61,7 @@ For the Blackened Mahi Mahi Seasoning:
 
 If you're looking for a healthy seafood meal that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet over high heat. I garnish my mahi-mahi with fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/). I hope you enjoy the best-blackened mahi-mahi recipe our family loves. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * Mahi-Mahi: I often use the frozen fish filets from Costco, but you can use fresh fish if you have access to it. Mahi-mahi is versatile and cooks well, but keep in mind; this is a lean fish. Be careful not to overcook it, or it will dry out. 
 
@@ -75,7 +75,7 @@ If you're looking for a healthy seafood meal that doesn't taste too fishy, mahi-
 
 * A [cast-iron skillet](https://amzn.to/3akLyxk) or [heavy-bottomed pan](https://amzn.to/3o6BkHn)
 
-#### How can I serve the mahi-mahi? 
+#### How can I serve mahi-mahi? 
 
 Oh, the options! Of course, you can serve it with our fresh [mango salsa](https://www.jamilghar.com/recipe/mango_salsa/), and that is our personal favorite. 
 
@@ -95,7 +95,9 @@ Oh, the options! Of course, you can serve it with our fresh [mango salsa](https:
 * Grilled vegetables such as corn or asparagus 
 * Red beans
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step
 
 1. Defrost the Mahi-Mahi filet in the water a few minutes before you're ready to eat. 
 2. Salt the filets, allow them to sit for about 5 minutes, and then dry them with a towel to remove excess moisture. 
@@ -127,6 +129,6 @@ Oh, the options! Of course, you can serve it with our fresh [mango salsa](https:
 I hope you enjoy this blackened mahi-mahi cast iron skillet recipe. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
-* [Peanut and Lime Shrimp](https://www.jamilghar.com/recipe/peanut_lime_shrimp/)
-* [Shrimp Etouffee](https://www.jamilghar.com/recipe/shrimp_etoufee/)
-* [Thai Panang Curry with Shrimp](https://www.jamilghar.com/recipe/shrimp_panang_curry/)
+* [Peanut and Lime Shrimp](https://www.jamilghar.com/recipe/peanutlime-shrimp/)
+* [Shrimp Etouffee](https://www.jamilghar.com/recipe/shrimp-ettouffee/)
+* [Thai Panang Curry with Shrimp](https://www.jamilghar.com/recipe/shrimp-panang-curry/)

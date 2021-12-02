@@ -24,7 +24,7 @@ Cuisine: American
 
 ### How to Make Cauliflower Mash 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 Cauliflower Head, cut into smaller florets
 * 1/4 cup Heavy Cream 
@@ -34,13 +34,13 @@ Cuisine: American
 * Black Pepper, coarse ground, to taste
 
   
-#### CAULIFLOWER MASH STOVE-TOP INSTRUCTIONS
+#### Cauliflower Mash Stove-Top Instructions 
 
 1. In a [large pot](https://amzn.to/3n4isbc), steam cauliflower over medium heat for about 5 minutes, or until the florets soften. 
 2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream, butter, and parmesan cheese. Mix well. 
 3. Add salt and pepper, to taste, and enjoy. 
 
-#### CAULIFLOWER MASH INSTANT POT INSTRUCTIONS
+#### Cauliflower Mash Instant Pot Instructions 
 
 1. In an [Instant Pot](https://amzn.to/3mYZOBH), steam cauliflower on manual high pressure for 2 minutes with a quick release. 
 2. Add the cooked cauliflower to a [blender](https://amzn.to/3FXvdwQ) or [food processor](https://amzn.to/3BPnFtT), blend until smooth, and then add cream, butter, and parmesan cheese. Mix well. 
@@ -52,7 +52,7 @@ Cuisine: American
 
 Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but it is a delicious side in its own right. This cauli mash recipe is easy to make and the perfect side dish for any main entree. Enjoy the best cauliflower mash recipe our family returns to again and again. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Cauliflower Head 
 
@@ -67,7 +67,9 @@ Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but i
 * A [large pot](https://amzn.to/3n4isbc) or [Instant Pot](https://amzn.to/3mYZOBH)
 * A [food processor](https://amzn.to/3BPnFtT) or [blender](https://amzn.to/3FXvdwQ) 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step
 
 1. In a [large pot](https://amzn.to/3n4isbc), steam cauliflower over medium heat, about 5 minutes, or until the florets soften. 
 
@@ -91,9 +93,8 @@ Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but i
 
 I hope you enjoy this creamy cauliflower mash recipe. If you try it, be sure to let us know what you think!
 
-#### Recipes from The Jamil Ghar to pair with our cauliflower mash:
+#### Pair cauliflower with these recipes from The Jamil Ghar: 
 
-* [Braised Short Ribs](https://www.jamilghar.com/recipe/braised_short_ribs/)
-* [Jerk Chicken Fricassee](https://www.jamilghar.com/recipe/rindsgulasch/)
-* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi_roast/)
+* [Braised Short Ribs](https://www.jamilghar.com/recipe/braised-shortribs/)
+* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi-roast/)
 * [Rindsgulasch](https://www.jamilghar.com/recipe/rindsgulasch/)

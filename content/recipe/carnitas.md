@@ -20,7 +20,9 @@ Cuisine: Mexican
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Instant Pot Carnitas 
+
+#### Ingredients 
 
 For the Carnitas: 
 
@@ -48,7 +50,7 @@ To Serve:
 * Red Onion, finely diced  
 * Limes, to garnish 
   
-#### INSTANT POT INSTRUCTIONS 
+#### Instructions
 
 1. In a small bowl, combine salt, cumin, chipotles en adobo sauce, black pepper, cinnamon, and oregano to create a rub. 
 2. Remove skins and bones from the pork and then cut the meat into 1-2 inch pieces. In a [mixing bowl](https://amzn.to/3nYw3CP), massage the rub into the pork. 
@@ -66,7 +68,7 @@ To Serve:
 
 Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder that is later pulled apart and then crisped up. This carnitas recipe makes for the perfect street taco- the juicy, shredded pork, and the crispy, flavorful edges, all made in the comfort of your own home. 
 
-#### What main ingredients are needed for this meal?
+#### What ingredients are needed for this meal?
 
 * Carnitas Rub: I use salt, cumin, chipotles en adobo, black pepper, cinnamon, Mexican oregano, and avocado oil. 
 

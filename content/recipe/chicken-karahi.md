@@ -21,7 +21,7 @@ Cuisine: Pakistani, Indian
 
 ### How to Make Chicken Karahi 
 
-#### CHICKEN KARAHI INGREDIENTS 
+#### Chicken Karahi Ingredients 
 
 * 2 tsp [Cumin Seeds](https://amzn.to/3E1bnj6)
 * 2 tbsp [Ghee](https://amzn.to/2ZkJkrW)
@@ -36,7 +36,7 @@ Cuisine: Pakistani, Indian
 * 1/2 cup Cilantro, chopped, for garnish 
 * 1/4 cup Fresh Ginger, cut into batons, for garnish
 
-#### INSTRUCTIONS 
+#### Instructions  
 
 1. In a [heavy-bottomed pan](https://amzn.to/3xwp9HO) or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
 2. Add the onion and cook until they brown and caramelized. This can take time, and that’s okay. You are building flavor for the dish. 
@@ -52,7 +52,7 @@ Cuisine: Pakistani, Indian
 
 Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chillies. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Chicken: I use bone-in chicken legs and thighs most often using this recipe. If you prefer boneless chicken karahi, use chicken thighs. Be sure to adjust the cooking time accordingly; the safe temperature for the chicken is 160 degrees.  
 
@@ -72,7 +72,7 @@ Karahi is a Pakistani dish that gets its name from the wok-like pan it is made i
 
 This recipe is for a mild chicken karahi. If you prefer a more spicy dish, use 3/4 of the Laziza Karahi Masala. If you feel this will be too spicy for you, I suggest using 1/4 of the package. 
 
-#### Can I freeze Chicken Karahi?
+#### Can I freeze chicken karahi?
 
 You sure can. First, allow the chicken karahi to cool completely, and then add it to a freezer-safe container or bag. Karahi will freeze for up to 2 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove and prepare your sides.
 
@@ -87,7 +87,9 @@ You sure can. First, allow the chicken karahi to cool completely, and then add i
 * Shashlik Karahi 
 * White Karahi 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step  
 
 1. In a [heavy-bottomed pan](https://amzn.to/3xwp9HO) or [karahi](https://amzn.to/3BuoEPL), warm ghee over medium-low heat. Add the cumin seeds and cook until they begin to sputter. 
 2. Add the onion and cook until they brown and caramelized. This can take time, and that’s okay. You are building flavor for the dish. 
@@ -118,9 +120,9 @@ You sure can. First, allow the chicken karahi to cool completely, and then add i
 
 I hope you enjoy the best chicken karahi recipe our family comes back to again and again. If you try it, be sure to let us know what you think!
 
-Similar recipes from The Jamil Ghar:
-* [Aloo Qeema](https://www.jamilghar.com/recipe/aloo_qeema/)
-* [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna_gosht/) 
-* [Channa Masala](https://www.jamilghar.com/recipe/chana_masala/) 
-* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht_karahi/)
-* [Moong Dal](https://www.jamilghar.com/recipe/moong_dal/)
+Other recipes from The Jamil Ghar:
+* [Aloo Qeema](https://www.jamilghar.com/recipe/aloo-qeema/)
+* [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna-gosht/) 
+* [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/) 
+* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht-karahi/)
+* [Moong Dal](https://www.jamilghar.com/recipe/moong-dal/)
