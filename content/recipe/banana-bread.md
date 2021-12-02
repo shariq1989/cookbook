@@ -101,5 +101,5 @@ I hope you enjoy this banana bread recipe. If you try it, be sure to let us know
 
 Other recipes from The Jamil Ghar:
 
-* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
-* [Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/nutella_cookies/) 
+* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon-rolls/)
+* [Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/nutella-cookies/) 
