@@ -1,7 +1,7 @@
 +++
 title = "Healthy Vegetarian Eggs Benedict"
 date = "2021-04-12"
-description = "Enjoy this veggie eggs benedict recipe our family loves."
+description = "Enjoy this vegetarian eggs benedict our family loves."
 tags = [
     "entree",
     "vegetarian",
@@ -17,7 +17,7 @@ Cuisine: American
 
 ### How to Make Vegetarian Eggs Benedict: 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Hollandaise Sauce: 
 
@@ -35,9 +35,9 @@ For the Poached Eggs:
 For the Greens: 
 
 * 1 tbsp Avocado Oil 
-* 1 cup Spinach 
-* 1 cup Arugula 
-* 1 tsp Mustard Seeds 
+* 1 Yellow Sweet Pepper, julienne 
+* 1 Red Sweet Pepper, julienne 
+* 3 cupe Kale, stems removed and chopped 
 * 1/2 tsp Salt 
 * 1/2 tsp Red Chili Flakes 
 * 1 Avocado, sliced
@@ -69,7 +69,7 @@ For the  Greens:
 
 To Serve: 
 
-1. Remove the eggs with a slotted spoon and set them onto the plated greens.
+1. Remove the eggs with a slotted spoon and set them onto the plated vegetables.
 2. Top with hollandaise sauce, and enjoy right away! 
 
 {{< end_recipe >}}
@@ -80,24 +80,30 @@ To Serve:
 
 * Eggs
 
-* Hollandaise Sauce: You can go the store-bought route, but hollandaise is made with butter, egg yolks, lemon juice, salt, and cayenne easily right from your own home.  
+* Distilled White Vinegar
+
+* Avocado Oil 
+
+* Yellow Sweet Pepper
+
+* Red Sweet Pepper
+
+* Kale
+
+* Red Chili Flakes 
 
 * Avocado
 
-* Greens: Use whatever greens you have on hand, but I love the combination of spinach and arugula. 
+* Hollandaise Sauce: You can go the store-bought route, but hollandaise is easily made with butter, egg yolks, lemon juice, salt, and cayenne right from your own home.  
 
-#### Vegetarian Eggs Benedict Idea: 
-
-* Asparagus 
-* Red and Green Bell Peppers 
-* Mushrooms 
-* Heirloom Tomatoes 
 
 #### What equipment do I need to make this recipe?
 
 * A [microwave-safe dish](https://amzn.to/3GGi0cg)
 * A small [sieve](https://amzn.to/31d0Q5K)
 * A [ramekin](https://amzn.to/3jTAxYH)
+* A [sauce pan](https://amzn.to/3nQrTLL)
+* A [trivet](https://amzn.to/3w7fneK)
 * A [skillet](https://amzn.to/3nQrTLL)
 
 ----
