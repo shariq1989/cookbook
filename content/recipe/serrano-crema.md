@@ -1,5 +1,5 @@
 +++
-title = "Serrano Crema"
+title = "Peruvian Green Sauce - Serrano Crema"
 date = "2021-03-12"
 description = "I made this serrano chili crema as a side for our Peruvian Chicken. However, I quickly realized it pairs well with other roasted chicken entrees as well. It makes for a spicy salad dressing and can even act as a nice serrano sauce for tacos or chickpea entrees."
 tags = [
