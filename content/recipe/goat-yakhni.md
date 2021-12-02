@@ -1,5 +1,5 @@
 +++
-title = "Goat Yakhni - Goat Bone Broth"
+title = "Goat Bone Broth - Goat Yakhni"
 date = "2021-03-13"
 description = "I wasn't keen on the idea of yakhni when my mother-in-law first offered to make it for me. I was pregnant with our daughter, and had been hospitalized twice due to sickness and dehydration. I couldn't keep down food and everything made me nauseous. I finally gave in and let her make it for me, and I am forever grateful. It ended up being a meal I ate daily throughout my pregnancy. My mother-in-law would make it in large batches and freeze it for me when she would come to visit. Even now, there are few things more comforting than a steaming bowl of yakhni topped with fresh ginger and cilantro. This recipe will break down how to make an Indian bone broth, also called yakhni. It is most commonly made with goat or beef, and is also the base for another recipe on our site called yakhni pulao." 
 tags = [
@@ -25,7 +25,7 @@ Cuisine: Indian, Pakistani
 
 ### How to Make Goat Yakhni 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 tbsp [Ghee](https://amzn.to/3vmpBaf)
 * 1 Yellow Onion, diced 
@@ -44,7 +44,7 @@ Cuisine: Indian, Pakistani
 * 1 [Star Anise](https://amzn.to/3I4ayZ6)
 * 2 Bay Leaves 
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. In the [Instant Pot](https://amzn.to/3qLtTEw), warm ghee on saute mode. Next, add the onions and cook until they become translucent and soften. 
 2. While the onions are cooking, add the spices, apart from salt, to the [spice infuser](https://amzn.to/38zcQ2w). Set aside. 
@@ -62,7 +62,7 @@ Cuisine: Indian, Pakistani
 
 I wasn't keen on the idea of yakhni when my mother-in-law first offered to make it for me. I was pregnant with our daughter, and had been hospitalized twice due to sickness and dehydration. I couldn't keep down food and everything made me nauseous. I finally gave in and let her make it for me, and I am forever grateful. It ended up being a meal I ate daily throughout my pregnancy. My mother-in-law would make it in large batches and freeze it for me when she would come to visit. Even now, there are few things more comforting than a steaming bowl of yakhni topped with fresh ginger and cilantro. This recipe will break down how to make an Indian bone broth, also called yakhni. It is most commonly made with goat or beef, and is also the base for another recipe on our site called yakhni pulao.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Goat Bones: The purpose of eating yakhni is for the nutrients that come from bones, so as long as you have bones, it will be tasty. I prefer goat meat and bones because we re-purpose the goat meat to make a separate dish, called yakhni pulao. Essentially, we get two meals out of one. 
 
@@ -92,3 +92,5 @@ Yakhni is highly nutritious and a meal all on its own. It has soothing qualities
 #### Can I freeze Yakhni?
 
 You sure can. As I mentioned, my mother-in-law often made multiple batches of yakhni soup and froze them for me before teaching me how to make it. First, allow the yakhni to cool completely and then add it to a freezer-safe container. I prefer to freeze it in individual bags to make defrosting it easier. Yakhni can freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove or in the microwave, and enjoy. 
+
+----
