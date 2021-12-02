@@ -22,16 +22,15 @@ Original Recipe: "[Keto Made Easy](https://amzn.to/3xNq0o1)", Megha Barot and Ma
 
 {{< start_recipe >}}
 
-
 ### How to Make Buffalo Chicken-Crust Pizza 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Buffalo Sauce: 
 
 * 1/4 cup [Franks Buffalo Sauce](https://amzn.to/3uW71Vq)
 * 1/2 stick Unsalted Butter 
-* 2 tsp [Apple Cider Vinegar](https://amzn.to/2QcOBRt) 
+* 2 tsp Apple Cider Vinegar
 
 For the Crust: 
 
@@ -46,7 +45,7 @@ For the Topping:
 * 2-3 Scallions, chopped, for topping
 * 1/4 cup Arugula, for topping  
   
-#### INSTRUCTIONS
+#### Instructions
 
 1. Pre-heat the oven to 350 degrees and line a [rimmed baking sheet](https://amzn.to/3yY84WM) with parchment paper. 
 2. In a small bowl, mix hot sauce, butter, and vinegar. Warm it in the microwave for 2 minutes. Be sure to cover the bowl to avoid sputtering. Once warmed, whisk the mixture together and set it aside. 
@@ -64,6 +63,28 @@ For the Topping:
 ### ABOUT THE MEAL
 
 This is an original recipe from the "Keto Made Easy" cookbook. Since trying their recipe, I have adapted it to add so many ingredients and variations of pizza.
+
+#### What ingredients do I need for this meal? 
+
+* [Franks Buffalo Sauce](https://amzn.to/3uW71Vq)
+
+* Unsalted Butter 
+
+* Apple Cider Vinegar
+
+* Canned Chicken Breast
+
+* Shredded Parmesan Cheese 
+
+* Garlic Powder
+
+* Egg 
+
+* Fresh Mozzarella
+
+* Scallions
+
+* Arugula
 
 #### What equipment do I need to make this recipe?
 
