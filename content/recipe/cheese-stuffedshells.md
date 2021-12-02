@@ -19,7 +19,7 @@ Cuisine: Sicilian
 
 ### How to Make Pesto, Spinach, and Cheese Stuffed Shells 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 10-15 [Jumbo Pasta Shells](https://amzn.to/3rUskFr), cooked al dente, according to the package
 * 1/2 cup Basil Pesto Sauce, plus more to garnish
@@ -33,7 +33,7 @@ Cuisine: Sicilian
 * 1 cup Fresh Basil
 * 2 tbsp [Pine Nuts](https://amzn.to/3amamWp), toasted 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Cook the pasta shells in a small [stock pot](https://amzn.to/3nZwMDE), al dente, according to the package. Strain and set them aside. 
 2. In a [skillet](https://amzn.to/3cXE6JA), saute the spinach with 1 tsp of olive oil until wilted. Set aside. 
@@ -53,7 +53,7 @@ Cuisine: Sicilian
 
 Where do stuffed shells originate? Stuffed shells find their origin in Sicily, but they remain popular worldwide. For this recipe, we chose to stray from the traditional stuffed shell made in marinara sauce in favor of shells stuffed to the brim with ricotta cheese and spinach and topped with basil pesto and pine nuts. I appreciate the classic stuffed shells, but this version is tasty if you wanted to try something new. I hope you enjoy these stuffed shells our family loves. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * Jumbo Pasta Shells: Be sure to cook the shells, al dente, according to the package. I suggest cooking them a little less to ensure they hold up during the stuffing and baking process.  
 
@@ -90,3 +90,4 @@ While the stuffed shells are vegetarian, this recipe does not cater to the vegan
 
 Yep! First, allow the shells to cool completely and then cover them in plstic wrap, followed by aluminum foil. Next, place them in a freezer-safe bag or container. Stuffed shells will freeze for up to 3 months. When you’re ready to eat, defrost the shells in the fridge overnight and bake the shells from frozen. Add 30 minutes to the original baking time to ensure the shells are heated through.  
  
+---- 
