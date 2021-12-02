@@ -1,5 +1,5 @@
 +++
-title = "Karahi Gosht - Goat Curry"
+title = "Goat Curry - Karahi Gosht"
 date = "2021-03-05"
 description = ""
 tags = [
@@ -21,7 +21,7 @@ Cuisine: Pakistani, Indian
 
 ### How to Make Karahi Gosht 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1/2 cup [Ghee](https://amzn.to/2ZkJkrW), divided
 * 1 1/2 lb Goat, bone-in, cut into 1-inch pieces
@@ -36,7 +36,7 @@ Cuisine: Pakistani, Indian
 * 1 cup Cilantro, chopped, divided, for garnish 
 * 1/4 cup Fresh Ginger, cut into batons, for garnish
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. In a [dutch oven](https://amzn.to/3o0Z68E) or [karahi](https://amzn.to/3BuoEPL), warm 1/4 cup ghee over medium-low heat.
 2. Add onions and cook until they become brown and caramelized. This step can take some time, that’s okay. You are building flavor for the dish. 
@@ -53,7 +53,7 @@ Cuisine: Pakistani, Indian
 
 Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chillies. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * [Ghee](https://amzn.to/2ZkJkrW) 
 
@@ -103,7 +103,9 @@ You sure can. First, allow the karahi to cool completely, and then add it to a f
 * Shashlik Karahi
 * White Karahi
 
-### INSTRUCTIONS: STEP-BY-STEP 
+--- 
+
+### Instructions: Step-by-Step
 
 1. In a [dutch oven](https://amzn.to/3o0Z68E) or [karahi](https://amzn.to/3BuoEPL), warm 1/4 cup ghee over medium-low heat.
 2. Add onions and cook until they become brown and caramelized. This step can take some time, that’s okay. You are building flavor for the dish.  

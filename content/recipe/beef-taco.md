@@ -1,5 +1,5 @@
 +++
-title = "Ground Beef Tacos " 
+title = "Ground Beef Tacos" 
 date = "2021-03-01"
 description = "My family didn’t have a lot of money growing up, and we rotated a few meals throughout the week. One dish I always looked forward to my mom making was ground beef tacos. I must have passed this joy onto my son because this is his most requested meal. He is the reason I decided to post this recipe because he very genuinely told me the other day, “mama, people need to know how to make this meal so they can feed it to their kids.” Well, we certainly hope you enough this easy weeknight ground beef taco meal as much as we do."
 tags = [
@@ -21,7 +21,7 @@ Cuisine: Mexican, American
 
 ### How to Make Ground Beef Tacos 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Tacos: 
 
@@ -42,7 +42,7 @@ For the Toppings:
 * [Guacamole](https://www.jamilghar.com/recipe/guacamole/)
 * [Tapatio](https://amzn.to/3HB21ww) 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 For the Corn Tortillas: 
 
@@ -57,7 +57,7 @@ For the Tacos:
 2. Add the onions to the [pan](https://amzn.to/3oE3WYv) and cook until they become translucent and soften. 
 3. Next, add the ground beef and break it up with a [meat chopper](https://amzn.to/3bQ2coS); cook until brown and heated through for about 10 minutes. 
 4. Stir in the garlic and cilantro, and season the meat with garlic powder, salt, and taco seasoning. Mix to combine. Cover and allow the meat to simmer for about 5 minutes. 
-5. To serve, spoon the beef onto warmed corn tortillas and top with sour cream, homemade [guacamole](https://www.jamilghar.com/recipe/guacamole/), cheese, and a few drops of [Tapatio](https://amzn.to/3HB21ww). These tacos pair well with our favorite [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/) recipe. 
+5. To serve, spoon the beef onto warmed corn tortillas and top with sour cream, homemade [guacamole](https://www.jamilghar.com/recipe/guacamole/), cheese, and a few drops of [Tapatio](https://amzn.to/3HB21ww). These tacos pair well with our favorite [Mexican rice](https://www.jamilghar.com/recipe/mexicanrice/) recipe. 
 
 {{< end_recipe >}}
 
@@ -67,7 +67,7 @@ My family didn’t have money growing up, and we rotated a few meals throughout 
 
 Well, we certainly hope you enjoy this easy ground beef taco meal as much as we do.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Corn Tortillas 
 
@@ -107,8 +107,8 @@ Yes, you can. First, allow the meat to cool completely, and then add it to a fre
 
 I hope you enjoy this recipe for ground beef tacos. If you try it, be sure to let us know what you think!
 
-Other recipes you may enjoy from The Jamil Ghar:
+Other recipes from The Jamil Ghar:
 
-* [Southwest Spaghetti Squash](https://www.jamilghar.com/recipe/southwest_spaghetti_squash/) 
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chili_con_carne/) 
+* [Southwest Spaghetti Squash](https://www.jamilghar.com/recipe/southwest-spaghetti-squash/) 
+* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/) 
 * [Carnitas](https://www.jamilghar.com/recipe/carnitas/) 

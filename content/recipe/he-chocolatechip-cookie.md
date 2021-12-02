@@ -19,7 +19,7 @@ Cooking Time: 10-14 minutes
 
 ### How to Make High Elevation Chocolate Chip Cookies 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 2 sticks Butter, softened at room temperature 
 * 1 cup White Sugar, granulated 
@@ -32,7 +32,7 @@ Cooking Time: 10-14 minutes
 * ½ tsp Salt 
 * 1 1/2 cup Unsweetened Chocolate Chips 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. In a [mixing bowl](https://amzn.to/3D2NC8M), combine the softened butter, sugar, and brown sugar and stir until fully combined. 
 2. Beat one egg at a time into the mixture, then stir in the vanilla extract. 
@@ -49,7 +49,7 @@ Cooking Time: 10-14 minutes
 
 I’ve always loved cooking and baking, but I haven’t always been great at it- especially baking. With the success of my [nutella cookies](https://www.jamilghar.com/recipe/nutella_cookies/), I was on a mission to bake the perfect chocolate chip cookie. Well, here it is, folks. I hope you enjoy these chocolate chip cookies our family loves, with specific instructions for high elevation.  
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 Butter: I use two sticks of butter in this recipe, and what I am about to tell you is the key for high-elevation cookies that do not cave in. Before you begin, allow the butter to reach room temperature. Do not, I repeat, do not melt the butter. 
 
