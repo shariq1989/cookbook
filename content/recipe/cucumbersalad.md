@@ -53,7 +53,7 @@ Cuisine: Japanese
 
 *  Soy Sauce 
 
-* Cucumbers: I like using Persian cucumbers or baby cucumbers for this recipe. 
+* Cucumbers: I prefer Persian cucumbers or baby cucumbers for this recipe. 
 
 * Toasted White Sesame Seeds
 
@@ -91,4 +91,3 @@ I hope you enjoy this recipe for sunomono. If you try it, be sure to let us know
 
 Other recipes from The Jamil Ghar:
 * [Cucumber, Avocado, and Tomato Salad](https://www.jamilghar.com/recipe/cucumber_avo_tom_salad/)
-* [Pickled Onions](https://www.jamilghar.com/recipe/pickled_onions/)
