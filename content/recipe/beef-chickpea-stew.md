@@ -21,7 +21,9 @@ Cuisine: Moroccan
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Beef and Chickpea Stew 
+
+#### Ingredients  
 
 * 1 tbsp [Sweet Paprika](https://amzn.to/30GYLeZ)
 * 1/2 tsp [Turmeric](https://amzn.to/3kXm5Qg)
@@ -44,7 +46,7 @@ Cuisine: Moroccan
 * 2 tbsp Lemon Juice, about 2 lemons 
 * Plain Yogurt, for garnish
   
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions 
 
 1. Mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
@@ -55,7 +57,7 @@ Cuisine: Moroccan
 7. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
 8. Add the lemon juice, season with salt and pepper, and garnish with yogurt. 
 
-#### INSTANT POT INSTRUCTIONS
+#### Instant Pot Instructions 
 
 1. Mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside.  2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
 2. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
@@ -72,7 +74,7 @@ Cuisine: Moroccan
 
 This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The development of this recipe came about by a happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use short rib instead. I also fine-tuned the dish with a few tasty additions along the way. We hope you enjoy this stew our family loves.
  
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * Warm Spices: I use sweet paprika, turmeric, cumin, green cardamom, and cinnamon to flavor the dish. 
 
@@ -109,11 +111,13 @@ One of the main ingredients of this stew is beef, so the answer to that question
 
 * Vegan: Use potatoes instead of beef or double the chickpeas. You can replace the butter with your favorite vegan butter and then use [Vegetable Better Than Bouillon](https://amzn.to/3nHa7vJ) as a substitute. 
 
-#### Can I freeze the beef and chickpea stew? 
+#### Can I freeze beef and chickpea stew? 
 
 You sure can. First, allow the dish to cool completely, and then add the stew to a freezer-safe container or bag. It will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm on the stovetop, and enjoy! 
 
-### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 
+----
+
+### Instant Pot Instructions: Step-by-Step 
 
 1. Mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside.
 
@@ -154,6 +158,6 @@ You sure can. First, allow the dish to cool completely, and then add the stew to
 I hope you enjoy this recipe for beef and chickpea stew. If you try it, be sure to let us know what you think!
 
 Other soups and stews from The Jamil Ghar:
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chili_con_carne/)
+* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/)
 * [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Olive Garden Copycat Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa_toscana/)  
+* [Olive Garden Copycat Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa-toscana/)  
