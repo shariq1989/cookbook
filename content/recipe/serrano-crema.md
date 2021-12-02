@@ -8,7 +8,7 @@ tags = [
     "keto",
     "low carb"
 ]
-#thumbnail= "images/serranocrema.jpg"
+thumbnail= "images/serranocrema.jpeg"
 +++
 
 Servings: 10 <!--more-->
@@ -77,7 +77,26 @@ For a creamier sauce, add avocados to make it an avocado serrano crema.
 #### Is serrano crema spicy? 
 
 It can be, and it's so tasty. I realize serrano chillies may be too hot for some. If you're looking for a milder sauce, use jalapeno chillies instead, and be sure to remove the stem and all of the seeds. 
-  
+
+----
+
+### INSTRUCTIONS: STEP-BY-STEP 
+
+1. Add serrano chillies, cilantro, garlic, yogurt, sour cream, and lime juice to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
+2. Then, stir in the olive oil and season to taste with salt and pepper. Mix well. 
+
+{{< figure src="/images/serc1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/serc2.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/serc3.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/serc4.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/serc5.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/serc6.jpeg" class="instructionFigure">}}
+
 ----
 
 I hope you enjoy this recipe for spicy serrano crema. If you try it, be sure to let us know what you think!
