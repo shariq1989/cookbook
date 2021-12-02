@@ -1,5 +1,5 @@
 +++
-title = "Japanese Cucumber Salad -Sunomono"
+title = "Japanese Cucumber Salad - Sunomono"
 date = "2021-02-07"
 description = ""
 tags = [
@@ -22,7 +22,7 @@ Cuisine: Japanese
 
 ### How to Make Sunomono 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 tsp Kosher Salt, divided 
 * 4 tbsp [Rice Wine Vinegar](https://amzn.to/3feHUZc)
@@ -31,7 +31,7 @@ Cuisine: Japanese
 * 6 Persian Cucumber, thinly sliced into rounds
 * 1/2 tbsp Toasted White Sesame Seeds
 
-#### INSTRUCTIONS 
+#### Instructions  
 
 1. In a small bowl, combine rice wine vinegar, sesame oil, and soy sauce. Whisk together and set aside.  
 2. Thinly slice the cucumbers into rounds. 
@@ -41,9 +41,9 @@ Cuisine: Japanese
 
 {{< end_recipe >}}
 
-### ABOUT THE SIDE 
+### ABOUT THE SALAD 
 
-#### What main ingredients do you need for this meal?
+#### What ingredients are needed for this meal?
 
 * Kosher Salt 
 
@@ -61,7 +61,9 @@ Cuisine: Japanese
 
 * A small bowl 
 
-### INSTRUCTIONS: STEP-BY-STEP
+---- 
+
+### Instructions: Step-by-Step
 
 1. In a small bowl, combine rice wine vinegar, sesame oil, and soy sauce. Whisk together and set aside.  
 
@@ -90,4 +92,4 @@ Cuisine: Japanese
 I hope you enjoy this recipe for sunomono. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
-* [Cucumber, Avocado, and Tomato Salad](https://www.jamilghar.com/recipe/cucumber_avo_tom_salad/)
+* [Cucumber, Avocado, and Tomato Salad](https://www.jamilghar.com/recipe/cucumber-avocado-tomato/)
