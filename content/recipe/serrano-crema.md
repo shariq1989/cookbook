@@ -1,7 +1,7 @@
 +++
 title = "Peruvian Green Sauce - Serrano Crema"
 date = "2021-03-12"
-description = "I made this serrano chili crema as a side for our Peruvian Chicken. However, I quickly realized it pairs well with other roasted chicken entrees as well. It makes for a spicy salad dressing and can even act as a nice serrano sauce for tacos or chickpea entrees."
+description = ""
 tags = [
     "vegan",
     "vegetarian",
@@ -23,7 +23,7 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 
 ### How to Make Serrano Crema 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 3-4 Serrano Chilis, roughly chopped 
 * 1 cup Cilantro, chopped 
@@ -35,7 +35,7 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 * Kosher Salt, to taste 
 * Black Pepper, coarse ground, to taste
   
-#### INSTRUCTIONS
+#### Instructions
 
 1. Add serrano chillies, cilantro, garlic, yogurt, sour cream, and lime juice to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
 2. Then, stir in the olive oil and season to taste with salt and pepper. Mix well. 
@@ -44,11 +44,11 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 
 ### ABOUT THE MEAL
 
-I made this serrano chili crema as a side for our [Peruvian Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/). However, I quickly realized it pairs well with other roasted chicken recipes as well. It makes for a delicious spicy salad dressing and can even act as a nice serrano sauce for tacos and chickpea entrees like [Channa Masala](https://www.jamilghar.com/recipe/chana_masala/).
+This serrano crema recipe is my take on authentic, spicy Peruvian green sauce; you know what I am talking about, the kind you get in restaurants. 
 
 #### Serrano Crema Ingredients: 
 
-* Serrano Chili: I love the taste of serrano chillies, but the use of this chili creates a spicy serrano crema that may be too hot for some. If you're looking for a milder sauce, use jalapeno for more traditional crema instead. 
+* Serrano Chili: I personally love serrano chillies, but it creates a spicy serrano crema that may be too hot for some. If you want a more mild sauce, I suggest using jalapenos instead.
 
 * Cilantro 
 
@@ -66,9 +66,9 @@ I made this serrano chili crema as a side for our [Peruvian Chicken](https://www
 
 * Black Pepper 
 
-#### What other ingredients could I add to the crema? 
+#### What changes could I make to the crema? 
 
-For a creamier sauce, add avocados to make it an avocado serrano crema.  
+* For a creamier sauce, add avocados to make it avocado serrano crema.
 
 #### What equipment do I need to make this recipe?
 
