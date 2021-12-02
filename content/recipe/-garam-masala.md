@@ -2,7 +2,7 @@
 +++
 title = "Pakistani Garam Masala"
 date = "2021-03-12"
-description = "Garam Masala, in English, means "hot spice." It is the main ingredient in many Indian dishes. Garam Masala doesn't carry the name "hot spice" because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani homes, you will find a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserved them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Indian recipes and easily alters the taste of what you're making. Finding the right combination is crucial; here is one of the authentic garam masala recipes we use in our home most often."
+description = "Garam Masala, in English, means 'hot spice.' It is the main ingredient in many Indian dishes. Garam Masala doesn't carry the name "hot spice" because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani homes, you will find a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserved them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Indian recipes and easily alters the taste of what you're making. Finding the right combination is crucial; here is one of the authentic garam masala recipes we use in our home most often."
 tags = [
     "spices",
 ]
@@ -23,8 +23,8 @@ Cuisine: Pakistani
 
 #### INGREDIENTS 
 
-* 1 tbsp Green Cardamom Pods
-* 8 Black Cardamom Pods
+* 1 tbsp Green Cardamom 
+* 8 Black Cardamom 
 * 1 Cinnamon Stick, 4-inch stick, broken down 
 * 1 tbsp Black Cloves
 * 1 tbsp Cumin Seeds
@@ -49,9 +49,9 @@ While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani
 
 #### Garam Masala List of Ingredients:
 
-* Green Cardamom Pods
+* Green Cardamom 
 
-* Black Cardamom Pods
+* Black Cardamom 
 
 * Cinnamon Stick
 
@@ -100,14 +100,11 @@ Once ground, store the garam masala in an air-tight glass jar, like a mason jar.
 
 I hope you enjoy this homemade garam masala spice blend. If you try it, be sure to let us know what you think!
 
-#### Recipes that use garam masala: 
+#### Recipes from The Jamil Ghar that require Garam Masala: 
 
 * [Biryani](https://www.jamilghar.com/recipe/chicken_biryani/)
 * [Butter Chicken](https://www.jamilghar.com/recipe/butter_chicken/)
 * [Channa Masala](https://www.jamilghar.com/recipe/channa_masala/)
-* Chicken Curry 
 * [Moong Dal](https://www.jamilghar.com/recipe/moong_dal/)
-* Samosas 
 * [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
-* Tikka Masala 
-* North Indian Garam Masala 
+
