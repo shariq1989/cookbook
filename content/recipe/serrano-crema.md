@@ -68,7 +68,7 @@ Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji
 
 #### What do I serve serrano crema with?
 
-* [Peruvian Roasted Chicken] 
+* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/) 
 * [Tandoori Chicken] 
 * Burgers 
 * Tacos 
