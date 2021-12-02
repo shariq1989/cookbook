@@ -18,9 +18,11 @@ Cooking Time: 10 minutes
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Belgium Waffles 
 
-* ¾ cup All-Purpose Flour 
+#### Ingredients  
+
+* ¾ cup Flour, all-purpose  
 * ¼ cup Cornstarch 
 * ½ tsp Baking Powder 
 * ½ tsp Salt 
@@ -30,7 +32,7 @@ Cooking Time: 10 minutes
 * 1½ tsp Sugar 
 * ¾ tsp [Vanilla Extract](https://amzn.to/312UohR)
 
-#### INSTRUCTIONS
+#### Instructions 
 
 1. Combine the ingredients, one at a time, in the [mixing bowl](https://amzn.to/3paNZcK). Mix well, and then let the mixture stand at room temperature for 30 minutes. 
 2. Preheat the [waffle iron](https://amzn.to/3kII2kI) by plugging it in and leaving it for a moment or two. 
@@ -43,7 +45,7 @@ Cooking Time: 10 minutes
 
 An alternate title for this recipe could be 'Birthday Waffles' since birthdays are really the only time we bust out this recipe. Either way, these waffles are delicious! They have a light, fluffy inside to compliment the crispy outside. The best part about these waffles, in my opinion, is how easy they are to make, and they are ready in just a few minutes with ingredients found in your pantry.
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * All-Purpose Flour 
 
@@ -77,5 +79,5 @@ I hope you enjoy this recipe for Belgium waffles. If you try it, be sure to let 
 
 Other breakfast recipes from The Jamil Ghar:
 
-* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
-* [Banana Bread](https://www.jamilghar.com/recipe/banana_bread/)
+* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon-rolls/)
+* [Banana Bread](https://www.jamilghar.com/recipe/banana-bread/)

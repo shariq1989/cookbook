@@ -17,7 +17,9 @@ Cuisine: American
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make BBQ Chicken Drumsticks 
+
+#### Ingredients  
 
 For the Rub: 
 
@@ -34,7 +36,7 @@ For the Chicken:
 * 8 Chicken Drumsticks, skin on, and bone-in
 * BBQ Sauce of your choice, we like [Sweet Baby Rays](https://amzn.to/2NsxauJ) or the [sugar-free](https://amzn.to/2MYvhWR) version
 
-#### OVEN INSTRUCTIONS
+#### Oven Instructions
 
 * Cooking Time: 40 minutes 
 
@@ -45,7 +47,7 @@ For the Chicken:
 5. Brush the other side with bbq sauce, and cook for another 2 minutes.  
 6. Remove the chicken from heat and let them rest for about 5 minutes before serving.
 
-#### GRILL INSTRUCTION 
+#### Grill Instructions  
 
 * Cooking Time: 1 hour, 10 minutes
 
@@ -66,7 +68,7 @@ For the Chicken:
 
 We love get-togethers with family and friends; these BBQ chicken drumsticks are a perfect addition to any cookout, picnic, or backyard gathering. 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * BBQ Rub: You can use your favorite rub, but I prefer the homemade rub in this recipe. I will often double or triple the batch and put the rub into an airtight container, like a mason jar, to have some on hand. The rub will keep for up to 3 months. If you go the store-bought route, I recommend [Montreal's](https://amzn.to/2QOX1P8) mixed with brown sugar, about 2 tbsp.
 
@@ -97,7 +99,7 @@ For the BBQ Sauce- 2 tbsp:
 
 * CARBS– 1 Net Carb 
 
-#### Can I freeze the chicken drumsticks?
+#### Can I freeze chicken drumsticks?
 
 You sure can. First, allow the drumsticks to cool completely, wrap them in foil, and add them to a freezer-safe container or bag. The BBQ drumsticks will freeze for up to 3 months. When you’re ready to eat, let them defrost in the fridge overnight. To serve, warm them in the oven. 
 
@@ -107,7 +109,7 @@ I hope you enjoy this recipe for BBQ Chicken Drumsticks. If you try it, be sure 
 
 #### Other chicken recipes from The Jamil Ghar:
 
-* [Tandoori Chicken Drumsticks](https://www.jamilghar.com/recipe/tandoori_chicken/)
-* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/)
-* [Chicken Salmoriglio](https://www.jamilghar.com/recipe/chicken_salmoriglio/)
+* [Tandoori Chicken Drumsticks](https://www.jamilghar.com/recipe/tandoori-chicken/)
+* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
+* [Chicken Salmoriglio](https://www.jamilghar.com/recipe/chicken-salmoriglio/)
 
