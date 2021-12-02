@@ -20,7 +20,9 @@ Adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-t
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Crispy Sesame Tofu 
+
+#### Ingredients  
 
 For the Coconut - Chili Dressing:
 
@@ -42,9 +44,7 @@ For the Tofu:
 * 2 tbsp [Tapioca Flour](https://amzn.to/3hKs9tS)
 * ¼ cup Vegetable Oil for pan-frying
 
-### How to Make Vegan Crispy Sesame Tofu with Coconut Chili Dressing
-
-#### INSTRUCTIONS 
+#### Instructions  
 
 For the Dressing: 
 
@@ -72,7 +72,7 @@ For the Frying:
 
 If you like tofu, enjoy this nutty and sweet tofu created by Nik Sharma. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. I cook the tofu in a frying pan, but it could also be baked in an oven or air fryer if you prefer.
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Unsweetened Coconut Milk 
 
@@ -108,11 +108,11 @@ If you like tofu, enjoy this nutty and sweet tofu created by Nik Sharma. This ve
 
 #### Can I bake the tofu instead? 
 
-I prefer pan-frying the tofu, but it can be easy and more time-efficient to bake it instead. When baking, line the tofu on a prepared baking sheet. Preheat the oven at 400 degrees and bake for 25-30 minutes until they've reached desired crispness. 
+I prefer pan-frying the tofu for this recipe, but it can be easy and more time-efficient to bake it instead. When baking, line the tofu on a [rimmed baking sheet](https://amzn.to/3hI9bV5). Preheat the oven at 400 degrees and bake for 25-30 minutes until they've reached desired crispness. 
 
-#### Can I make it in the air-fryer? 
+#### Can I make it crispy tofu the air-fryer? 
 
-You will need to work in batches. Arrange the tofu in a single layer in the air fryer basket, and cook at 400 degrees for about 5 minutes. Flip the tofu pieces, and then cook for another 5 minutes. Repeat this process until all the tofu has had an opportunity to be cooked.
+You will need to work in batches. Arrange the tofu in a single layer in the [air fryer](https://amzn.to/3IbYKEn) basket, and cook at 400 degrees for about 5 minutes. Flip the tofu pieces, and then cook for another 5 minutes. Repeat this process until all the tofu has had an opportunity to be cooked.
 
 #### Is sesame tofu vegetarian? Is it vegan?
 
@@ -122,7 +122,9 @@ This recipe is both vegetarian and vegan-friendly.
 
 I don't recommend freezing the tofu after being cooked, but you can easily store the leftovers in a covered container in your fridge. The tofu will keep for 3-4 days. When you're ready to eat, re-warm them in the microwave for 1-2 minutes. 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step
 
 For the Dressing: 
 
@@ -174,8 +176,8 @@ For the Frying:
 
 I hope you enjoy this recipe for vegan sesame tofu. If you try it, be sure to let us know what you think!
 
-Other tofu recipes from The Jamil Ghar: 
-* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
-* [Sesame Mushroom and Tofu Stir-Fry](https://www.jamilghar.com/recipe/sesame_tofu_stirfry/)
+Other recipes from The Jamil Ghar: 
+* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi-jjigae/)
+* [Sesame Mushroom and Tofu Stir-Fry](https://www.jamilghar.com/recipe/sesame-tofu-mushroom/)
 
 Find the original recipe at [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach). 
