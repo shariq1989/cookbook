@@ -20,9 +20,9 @@ Cuisine: American
 
 {{< start_recipe >}}
 
-### How to make no yeast - cinnamon rolls
+### How to Make No Yeast Cinnamon Rolls 
 
-#### INGREDIENTS
+#### Ingredients
 
 For the Filling:
 
@@ -49,7 +49,7 @@ For the Frosting:
 * 1 tsp Vanilla
 * 1 tbsp Milk 
 
-#### INSTRUCTIONS FOR QUICK AND EASY NO YEAST CINNAMON ROLLS 
+#### Instructions for Quick and Easy No Yeast Cinnamon Rolls 
 
 1. Pre-heat the oven to 425 degrees
 2. Combine the ingredients for the filling in a small bowl. Mix well and set aside. 
@@ -67,7 +67,7 @@ For the Frosting:
 
 Nothing beats a warm batch of gooey cinnamon rolls. During the first Covid lockdown, we found ourselves craving a little bit of comfort. There was only one problem; we couldn't find yeast anywhere, so we had to make cinnamon rolls with no yeast. These easy peasy cinnamon rolls deliver all the yummy goodness of cinnamon rolls, but without the prepping and proofing that comes from using yeast to make your dough. By omitting yeast from the recipe and replacing it with baking powder, the preparation time is cut in half, meaning you get the cinnamon rolls to the table even quicker. We hope you enjoy these no yeast cinnamon rolls with buttermilk our family loves
 
-#### What main ingredients do I need to make these cinnamon rolls?
+#### What ingredients are needed to make cinnamon rolls?
 
 * Brown Sugar 
 
@@ -113,9 +113,9 @@ I do not recommend freezing already baked rolls unless you bake them and leave t
 
 I hope you enjoy this recipe for homemade cinnamon rolls with no yeast. If you try it, be sure to let us know what you think!
 
-Other recipes you may enjoy from The Jamil Ghar:
-* [Banana Bread](https://www.jamilghar.com/recipe/banana_bread/)
-* [Double Chocolate Low Carb Muffin](https://www.jamilghar.com/recipe/double_chocolate_lowcarb_muffins/)
-* [High Elevation Chocolate Chip Cookies](https://www.jamilghar.com/recipe/high_elevation_chochip_cookie/)
-* [High Elevation Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/nutella_cookies/)
+Other recipes from The Jamil Ghar:
+* [Banana Bread](https://www.jamilghar.com/recipe/banana-bread/)
+* [Double Chocolate Low Carb Muffin](https://www.jamilghar.com/recipe/chocolate-lowcarb-muffins/)
+* [High Elevation Chocolate Chip Cookies](https://www.jamilghar.com/recipe/he-chocolatechip-cookie/)
+* [High Elevation Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/he-nutella-cookies/)
 
