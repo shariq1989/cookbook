@@ -14,7 +14,7 @@ Servings: About 12 <!--more-->
 
 ### How to Make Cold Brew Coffee Using the Toddy 
 
-#### INGREDIENTS
+#### Ingredients 
 
 For the Brewing Process: 
 
@@ -29,7 +29,7 @@ For Classic Cold Brew:
 * 1-2 tbsp Heavy Cream or Half-in Half
 * 1 tsp Sweetener 
 
-#### INSTRUCTIONS FOR MAKING COLD BREW COFFEE
+#### Instructions for Making Cold Brew
 
 For the Brewing Process: 
 
@@ -62,7 +62,7 @@ Cold-brew coffee refers to coffee made through steeping grounds at room temperat
 
 The difference between the two comes down to methodology. Cold Brew steeps in cold or room temperature water rather than hot water like regular iced coffee. At a cooler temperature, the beans maintain their integrity; the coffee ends up less watered-down. Along the same line, cold-brewing coffee relies on time to extract the coffee's oils rather than a burst of hot water. Because of the extended brewing time, the result is a smooth, tasty coffee with a low level of acidity. If you're like me and regular coffee tends to be hard on your stomach, cold brew might be the thing for you. 
 
-#### What main ingredients do I need to brew cold brew?
+#### What ingredients are needed to brew cold brew?
 
 * Coarse-Ground Coffee: Coarse ground makes for the best cold brew coffee. You can grind your coffee at home with a [coffee grinder](https://amzn.to/2XU1KSU) or use a commercial one inside of stores like Costco. That's what we do. 
 
@@ -88,7 +88,7 @@ First off, you want to be sure you're purchasing whole beans and grinding them o
 
 I hope you enjoy this recipe for a homemade cold brew. If you try it, be sure to let us know what you think!
 
-#### Other cold brew drink recipes:
+#### Possible cold brew drink recipes:
 * Pumpkin Cold Brew 
 * Vanilla Sweet Cream Cold Brew
 * Pumpkin Spice Cold Brew 
