@@ -21,7 +21,7 @@ Cuisine: Mexican, American
 
 ### How to Make Chorizo Breakfast Burritos 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 1 tbsp Avocado Oil 
 * ½ Yellow Onion, diced 
@@ -35,7 +35,7 @@ Cuisine: Mexican, American
 * ½ cup Shredded Cheese
 * 5 large Flour Tortillas 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Warm oil in a [skillet](https://amzn.to/3I3MkOO) over medium heat and add yellow onions and potatoes. Cover the pan with a lid and cook until tender.
 2. Remove the lid and cook until the potatoes turn golden brown. 
@@ -51,7 +51,7 @@ Cuisine: Mexican, American
 
 Ihis is the best chorizo breakfast burrito and it'S easy to make. The burrito is made up of chorizo, eggs, and potato. I hope you enjoy this chorizo breakfast burrito as much as my family does. 
 
-#### What main ingredients do you need for this meal?
+#### What ingredients are needed for this meal?
 
 * Avocado Oil 
 
@@ -71,19 +71,18 @@ Ihis is the best chorizo breakfast burrito and it'S easy to make. The burrito is
 
 * Flour Tortillas: 
 
-
 #### What equipment do I need to make this recipe?
 
 * 2 [skillets](https://amzn.to/3I3MkOO), one with a lid
 * A small bowl 
 
-#### Can I freeze the chorizo burritos? 
+#### Can I freeze burritos? 
 
 You sure can. I like to make a couple of batches so I can freeze breakfast burritos for easy reheat later on. All you have to do is wrap the burritos in plastic wrap, followed by foil. Wrap the burritos individually and store them in a freezer-safe bag. The chorizo burritos can freeze for up to 3 months. To serve, remove the plastic wrap and recover with the foil. Reheat the burritos as is in the oven at 325 degrees until the burritos are warmed through, about 30 minutes. 
 
 ----
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step 
 
 1. Warm oil in a [skillet](https://amzn.to/3I3MkOO) over medium heat and add yellow onions and potatoes. Cover the pan with a lid and cook until tender.
 
