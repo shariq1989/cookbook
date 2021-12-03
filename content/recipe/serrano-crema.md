@@ -2,7 +2,7 @@
 +++
 title = "Peruvian Green Sauce - Serrano Crema"
 date = "2021-03-12"
-description = "Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible. "
+description = "Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible. This serrano crema recipe is made using fresh serrano chilis, cilantro, garlic, full-fat yogurt, sour cream, lime juice, and olive oil. It can easily be made in a food processor or blender. Serrano crema pairs well with Peruvian Roasted Chicken and Tandoori Chicken, and it is a tasty topping for burgers, tacos, salad, channa masala, and chaat masala. Is serrano crema spicy? It can be, and it's so tasty. I realize serrano chilies may be too hot for some. If you're looking for a milder sauce, use jalapeno chilies instead, and be sure to remove the stem and all of the seeds. I hope you enjoy this delicious sauce our family loves."
 tags = [
     "vegan",
     "vegetarian",
