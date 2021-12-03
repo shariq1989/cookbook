@@ -76,8 +76,8 @@ Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji
 * Serrano crema perfectly pairs with our [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/). 
 * Though it's unlike traditional raita, serrano crema goes well with[Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/). 
 * Build a burger with cheese, avocado, thinly sliced serrano chilies, bacon, and then top it with serrano crema.  
-* Pour serrano crema on street tacos, fish tacos, shrimp tacos in place of salsa. 
-* Top a salad or chickpea dishes like [channa masala](https://www.jamilghar.com/recipe/chana-masala/) or chaat masala with serrano crema.  
+* Pour serrano crema on street tacos, fish tacos, [Beef Taco](https://www.jamilghar.com/recipe/beef-taco/), shrimp tacos in place of salsa. 
+* Top a salad or chickpea dishes like [Channa Masala](https://www.jamilghar.com/recipe/chana-masala/) or chaat masala with serrano crema.  
 
 #### Is serrano crema spicy? 
 
@@ -111,5 +111,6 @@ Pair serrano crema with other recipes from The Jamil Ghar.
 * [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
 * [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
 * [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/)
+* [Summer Salad Mix](https://www.jamilghar.com/recipe/summer-salad-mix/)
 
 Find the original recipe at [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-style-grilled-chicken-sandwiches-recipe.html)
