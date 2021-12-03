@@ -21,9 +21,9 @@ Cuisine: American
 
 {{< start_recipe >}}
 
-### How to Make Honey and Miso Baked Chicken Drumsticks
+### How to Make Honey and Miso Baked Drumsticks
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 2 tbsp Water 
 * 3 tbsp White Miso Paste
@@ -36,7 +36,7 @@ Cuisine: American
 * 1 tbsp Kosher Salt 
 * 10 Chicken Drumsticks, bone-in, skin on
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. Warm 2 tbsp of water in a small bowl and then stir in the miso paste and olive oil until the miso dissolves completely.
 2. Add the miso mixture to a [bag](https://amzn.to/3ldgNQH), along with the honey, vinegar, paprika, garlic powder, cayenne pepper, and salt. Seal the bag and combine the ingredients. 
@@ -53,7 +53,7 @@ Cuisine: American
 
 Who doesn't love a crispy chicken drumstick? The glaze is sweet, smoky, and savory, and you will love the umami created by the miso. This recipe is oven-baked, and all you need is one sheet pan and less than an hour to make it. I hope you enjoy this honey and miso baked chicken drumstick recipe our family loves. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * White Miso Paste: I love the flavor created by the white miso paste. 
 
@@ -76,7 +76,7 @@ Who doesn't love a crispy chicken drumstick? The glaze is sweet, smoky, and savo
 
 ----
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Warm 2 tbsp of water in a small bowl and then stir in the miso paste and olive oil until the miso dissolves completely.
 
