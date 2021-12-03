@@ -19,7 +19,9 @@ Cuisine: American
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make Morrocan-Spiced Butternut Squash
+
+#### Ingredients  
 
 * 1 large Butternut Squash, peeled and seeded, cut into 1-inch pieces
 * 1 cup Brussel Sprouts, halved
@@ -31,7 +33,7 @@ Cuisine: American
 * 1 Green Apple, small diced  
 * Fresh Parsely, finely chopped, to garnish 
   
-#### INSTRUCTIONS
+#### Instructions 
 
 1. Preheat the oven to 400 degrees and prepare a [rimmed baking sheet](https://amzn.to/3uG5Mdg). 
 2. Line the [baking sheet](https://amzn.to/3uG5Mdg) with the squash, brussel sprouts, and onions to the pan. 
@@ -44,7 +46,7 @@ Cuisine: American
 
 ### ABOUT THE MEAL
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Butternut Squash: I use fresh butternut squash here, but you can also use frozen for convenience sake. Using frozen does change the texture some.   
 
