@@ -22,7 +22,7 @@ Cuisine: Indian, Pakistani
 
 ### How to Make Paratha 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 3 cups All-Purpose Flour 
 * 1 tsp Salt 
@@ -30,7 +30,7 @@ Cuisine: Indian, Pakistani
 * 3 tbsp Ghee, plus more for rolling and frying 
 * 1 cup Water, added little by little 
 
-#### DIRECTIONS 
+#### Directions 
 
 For the Dough: 
 
@@ -59,7 +59,7 @@ Cooking the Parathas:
 
 Parathas are a staple in Indian homes, and for good reason. They are tasty! Parathas are unleavened bread made by layering and rolling dough that is cooked until it becomes golden brown. Parathas are eaten with breakfast, lunch, or dinner. In our home, they are a regular part of our breakfast rotation; we enjoy them with eggs and achar (or pickled mangos). 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * All- Purpose Flour 
 
@@ -81,7 +81,9 @@ Parathas are a staple in Indian homes, and for good reason. They are tasty! Para
 The dough can be refrigerated in an air-tight container for up to 3 days. When using refrigerated dough, allow the dough to come to room temperature before rolling.
 Cooked Parathas can be refrigerated for 3 to 4 days or frozen for longer shelf life. Reheat the parathas on a stove-top griddle with a sprinkle of oil or ghee.
 
-### DIRECTIONS: STEP-BY-STEP 
+---- 
+
+### Directions: Step-by-Step 
 
 For the Dough: 
 
