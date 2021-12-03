@@ -20,15 +20,15 @@ Cuisine: Mexican
 
 {{< start_recipe >}}
 
-### How to Make Corn Tortilla Chips at Home 
+### How to Make Corn Tortilla Chips 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 2 cups Coconut Oil 
 * 12 Corn Tortillas, cut into six wedges 
 * Kosher Salt, to taste
   
-#### STOVE-TOP INSTRUCTIONS
+#### Stove-Top Instructions
 
 1. Gather the corn tortillas and cut them into six wedges. Set aside. 
 2. Set a [wire rack](https://amzn.to/3bc4gbc) into a [rimmed baking sheet](https://amzn.to/2QTLqyJ). I cover the baking sheet with a cloth or parchment paper for easy cleanup. 
@@ -37,7 +37,7 @@ Cuisine: Mexican
 5. With a pair of tongs, remove the tortilla chips and place them onto the [wire rack](https://amzn.to/3bc4gbc) to drain. Sprinkle evenly with Kosher salt while they are still hot. When the chips have had an opportunity to drain, add them to a [serving bowl](https://amzn.to/3euX5Ng) to make room for the other chips on the wire rack.
 6. Repeat with the remaining tortilla chips until all have had a chance to fry.
 
-#### OVEN INSTRUCTIONS
+#### Oven Instructions
 
 1. Preheat the oven to 350 degrees. 
 2. Prepare two [rimmed baking sheet](https://amzn.to/2QTLqyJ).
@@ -48,11 +48,11 @@ Cuisine: Mexican
 
 {{< end_recipe >}}
 
-### ABOUT THE SIDE
+### ABOUT THE CHIPS 
 
 Ever eat chips in a restaurant and wonder why they are so much better than store-bought chips? We have got you covered; these made-from-scratch corn tortillas taste just like what you would get in a restaurant. Seriously, if forced to eat one food for the rest of my life, I would likely choose chips and salsa, specifically with these chips. They are a favorite in our home, and it's not just me, our children love them also. Enjoy these chips with our homemade [salsa](https://www.jamilghar.com/recipe/homemade_chunky_salsa/), [guacamole](https://www.jamilghar.com/recipe/guacamole/), or go another direction and make dessert nachos with fruit and whipped cream. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Corn Tortillas: Our family loves corn tortilla chips; you could also use blue corn or flour tortillas instead. 
 
@@ -63,11 +63,8 @@ Ever eat chips in a restaurant and wonder why they are so much better than store
 #### What equipment do I need to make this recipe?
 
 * 1-2 [rimmed baking sheet](https://amzn.to/2QTLqyJ)
-
 * A [wire rack](https://amzn.to/3bc4gbc)
-
 * A [skillet](https://amzn.to/3xyYslO)
-
 * A [serving bowl](https://amzn.to/3euX5Ng)
 
 #### What are some other ways to flavor the chips? 
@@ -84,7 +81,7 @@ Should you have leftovers, these chips store well in a paper bag or an airtight 
 
 ----
 
-### STOVETOP INSTRUCTIONS: STEP-BY-STEP 
+### Stove-Top Instructions: Step-by-Step
 
 1. Gather the corn tortillas and cut them into six wedges. Set aside. 
 
