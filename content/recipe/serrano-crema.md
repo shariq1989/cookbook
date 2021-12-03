@@ -1,12 +1,13 @@
+
 +++
 title = "Peruvian Green Sauce - Serrano Crema"
 date = "2021-03-12"
-description = ""
+description = "Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible. "
 tags = [
     "vegan",
     "vegetarian",
     "keto",
-    "low carb"
+    "low carb",
 ]
 thumbnail= "images/serranocrema.jpeg"
 +++
@@ -37,28 +38,28 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
   
 #### Instructions
 
-1. Add serrano chillies, cilantro, garlic, yogurt, sour cream, and lime juice to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
-2. Then, stir in the olive oil and season to taste with salt and pepper. Mix well. 
+1. Add all of the serrano crema ingredients to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
+2. Taste and season with salt and pepper to serve. 
 
 {{< end_recipe >}}
 
 ### ABOUT THE MEAL
 
-Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji Verde; you know what I am talking about, the bright green sauce served alongside roasted chicken in Peruvian restaurants. 
+Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible.
 
-#### Serrano Crema Ingredients: 
+#### #### What ingredients are needed for this meal? 
 
-* Serrano Chili: I love serrano chillies, but it creates a spicy serrano crema that may be too hot for some. If you want a more mild sauce, I suggest using jalapenos instead.
+* Serrano Chili: I love serrano chilies, though they create a spicy serrano crema that may be too hot for some. If you want a more mild sauce, I suggest using jalapenos instead. Remove the membrane and seeds before dicing; this lowers the spice level as well.  
 
 * Cilantro 
 
-* Garlic 
+* Garlic
 
 * Yogurt
 
 * Sour Cream 
 
-* Lime Juice 
+* Lime Juice: I use fresh lime juice, about one whole lime. 
 
 * Olive Oil
 
@@ -66,32 +67,28 @@ Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji
 
 * Black Pepper 
 
-#### What do I serve serrano crema with?
-
-* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/) 
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
-* Burgers 
-* Tacos 
-* A topping for salad or chickpea dishes like [channa masala](https://www.jamilghar.com/recipe/chana-masala/)
-
-#### What changes could I make to the crema? 
-
-* For a creamier sauce, add avocados to make it avocado serrano crema.
-
 #### What equipment do I need to make this recipe?
 
 * A [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM) 
 
+#### What goes well with serrano crema?
+
+* Serrano crema perfectly pairs with our [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/). 
+* Though it's unlike traditional raita, serrano crema goes well with[Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/). 
+* Build a burger with cheese, avocado, thinly sliced serrano chilies, bacon, and then top it with serrano crema.  
+* Pour serrano crema on street tacos, fish tacos, shrimp tacos in place of salsa. 
+* Top a salad or chickpea dishes like [channa masala](https://www.jamilghar.com/recipe/chana-masala/) or chaat masala with serrano crema.  
+
 #### Is serrano crema spicy? 
 
-It can be, and it's so tasty. I realize serrano chillies may be too hot for some. If you're looking for a milder sauce, use jalapeno chillies instead, and be sure to remove the stem and all of the seeds. 
+It can be, and it's so tasty. I realize serrano chilies may be too hot for some. If you're looking for a milder sauce, use jalapeno chilies instead, and be sure to remove the stem and all of the seeds. 
 
 ----
 
 ### INSTRUCTIONS: STEP-BY-STEP 
 
-1. Add serrano chillies, cilantro, garlic, yogurt, sour cream, and lime juice to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
-2. Then, stir in the olive oil and season to taste with salt and pepper. Mix well. 
+1. Add all of the serrano crema ingredients to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
+2. Taste and season with salt and pepper to serve. 
 
 {{< figure src="/images/serc1.jpeg" class="instructionFigure">}}
 
@@ -107,12 +104,12 @@ It can be, and it's so tasty. I realize serrano chillies may be too hot for some
 
 ----
 
-I hope you enjoy this recipe for spicy serrano crema. If you try it, be sure to let us know what you think!
+I hope you enjoy this recipe for spicy serrano pepper crema. If you try it, be sure to let us know what you think!
 
 Pair serrano crema with other recipes from The Jamil Ghar. 
 
 * [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
 * [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
-* [Channa Masala](https://www.jamilghar.com/recipe/chana-masala/)
+* [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/)
 
 Find the original recipe at [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-style-grilled-chicken-sandwiches-recipe.html)
