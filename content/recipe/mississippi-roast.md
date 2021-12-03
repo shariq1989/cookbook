@@ -23,7 +23,7 @@ Cuisine: American
 
 ### How to Make Mississippi Roast 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Roast: 
 
@@ -45,7 +45,7 @@ For the Ranch Dressing:
 * ½ tsp Fresh Dill, finely chopped
 * ¼ tsp Paprika 
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions 
 
 1. In a [mixing bowl](https://amzn.to/3E4oeB5), combine the flour, salt, and pepper. Cover the roast with the mixture.
 2. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. Then, add the roast and brown the meat on all sides, 4-5 minutes per side, creating a crust. 
@@ -62,7 +62,7 @@ For the Ranch Dressing:
 
 It's midweek, and you need a quick and easy meal; reach for this Mississippi Roast. It has both sweet and savory notes the whole family will enjoy. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Flour, All-Purpose 
 
@@ -100,3 +100,5 @@ Yes, it is. However, I suggest leaving out the flour and the carrots. The roast 
 #### Can I freeze the roast? 
 
 You sure can. First, allow the meat to cool completely and then add it to a freezer-safe bag or container. The Mississippi roast will freeze for up to 6 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove, and prepare your sides. 
+
+----
