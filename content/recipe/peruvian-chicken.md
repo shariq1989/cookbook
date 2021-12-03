@@ -6,9 +6,8 @@ tags = [
     "entree",
     "low carb",
     "keto"
-   
 ]
-thumbnail= "images/peruvianchicken.jpg"
+thumbnail= "peruvianroastedchicken.jpeg"
 nutrition="https://www.verywellfit.com/thmb/zxrUNIG3Q_MhZ_Vb2ik0PrrA19Q=/1000x0/Nutrition-Label-Embed-1807164603-9c8de5652e7740f4914243e6cfd94a25.png"
 +++
 
@@ -91,12 +90,15 @@ To finish your low-carb meal, I recommend serving keto, Peruvian chicken with ca
 2. Prepare a [wire rack](https://amzn.to/3bE8h90) in a [rimmed baking sheet](https://amzn.to/339IQqI) lined with aluminum foil.  
 3. Dry the chicken thoroughly with a cloth. 
 
+{{< figure src="/images/perurc1.jpeg" class="instructionFigure">}}
 
 4. Combine cumin, paprika, salt, pepper, garlic, vinegar, and oil into a small bowl. Mix well. 
 
+{{< figure src="/images/perurc2.jpeg" class="instructionFigure">}}
 
 5. Spread the mixture evenly over the whole chicken and under the skin.
 
+{{< figure src="/images/perurc3.jpeg" class="instructionFigure">}}
 
 6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
