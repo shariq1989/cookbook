@@ -21,7 +21,7 @@ Cuisine: American
 
 ### How to Make Peanut and Lime Shrimp 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1-2 lb Colossal Shrimp, peeled and deveined, tails removed and set aside
 * ½ tsp Kosher Salt
@@ -38,7 +38,7 @@ Cuisine: American
 * 3 tbsp Peanuts, coarsely chopped
 * Serrano Chili, thinly sliced, to garnish
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Peel and devein the shrimp. Set the tails aside. 
 2. Toss the shrimp and some of the salt into a [mixing bowl](https://amzn.to/3lpBSaJ). Set aside for 15 minutes.
@@ -57,7 +57,7 @@ Cuisine: American
 
 We love this healthy and fresh peanut and lime shrim, made up of pan-seared shrimp with peanuts, black pepper, and lime. The crunch from the peanuts, the warmth of the spices, and the zest of the lime will leave you craving more. I hope you enjoy this meal our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Shrimp: Use any size shrimp, but be sure to adjust the cooking time accordingly. I recommend using extra-large or even colossal shrimp. 
 
@@ -100,7 +100,7 @@ I don't recommend freezing the shrimp. However, leftovers will keep in the fridg
 
 ---- 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step 
 
 {{< figure src="/images/pls1.jpg" class="instructionFigure">}}
 
@@ -136,7 +136,7 @@ I don't recommend freezing the shrimp. However, leftovers will keep in the fridg
 
 I hope you enjoy this recipe for peanut lime shrimp. If you try it, be sure to let us know what you think!
 
-Other recipes from The Jamil Ghar you may enjoy:
+Other recipes from The Jamil Ghar:
 
-* [Shrimp Etouffee](https://www.jamilghar.com/recipe/shrimp_etoufee/)
-* [Thai Panang Curry with Shrimp](https://www.jamilghar.com/recipe/shrimp_panang_curry/)
+* [Shrimp Etouffee](https://www.jamilghar.com/recipe/shrimp-ettouffee/)
+* [Thai Panang Curry with Shrimp](https://www.jamilghar.com/recipe/shrimp-panang-curry/)

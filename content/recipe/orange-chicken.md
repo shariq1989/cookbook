@@ -21,7 +21,7 @@ Cuisine: Chinese, American
 
 ### How to Make Orange Chicken 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Marinade:
 
@@ -55,7 +55,7 @@ For the Sauce:
 * 1 tbsp Corn Starch
 * 1 tsp Toasted Sesame Seeds 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 For the Chicken: 
 
@@ -75,7 +75,7 @@ For the Sauce:
 
 To Serve: 
 
-1. Garnish with toasted sesame seeds and serve the orange chicken with jasmine rice. 
+Garnish with toasted sesame seeds and serve the orange chicken with jasmine rice. 
 
 {{< end_recipe >}}
 
@@ -87,7 +87,7 @@ On the occasion that I go out of town without my family, my husband and children
 
 Orange chicken is famous in the United States, thanks in large part to Panda Express. Orange chicken includes flavors inspired by cooking in the Hunan Province in China, but the orange chicken we know in the U.S. is Chinese-American.  
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Chicken: I use chicken thighs since dark meat is more flavorful than white meat. You can use chicken breast if you prefer.
 
@@ -110,6 +110,8 @@ Orange chicken is famous in the United States, thanks in large part to Panda Exp
 
 Yes, replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2) or add more cornstarch. Also, substitute [tamari sauce](https://amzn.to/30F0uBo) in place of soy sauce.
 
-#### Can I freeze the orange chicken?
+#### Can I freeze orange chicken?
 
 Yes, if you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate. Freeze the sauce and chicken separately in a freezer-safe bag or containers. When you’re ready to eat, let it defrost in the fridge overnight. To serve, reheat the chicken in the oven and warm the sauce in a pan. Toss the chicken in the sauce, and enjoy. 
+
+----

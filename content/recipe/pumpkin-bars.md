@@ -23,7 +23,7 @@ Cuisine: American
 
 ### How to Make Pumpkin Bars 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Pumpkin Bar: 
 
@@ -46,7 +46,7 @@ For the Cream Cheese Frosting:
 * 3 cups Powered Sugar 
 * 1 tsp [Vanilla Extract](https://amzn.to/3E9Dj4d) 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Pre-heat oven to 350 degrees. 
 2. Combine the dry ingredients aside from the sugar in a [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
@@ -65,7 +65,7 @@ For the Cream Cheese Frosting:
 
 Let it be known- I am not a fan of anything pumpkin, including dessert. However, a few Christmases ago, our sweet neighbor delivered the best pumpkin bars for our family to enjoy. To my surprise and that of my husband, I gave them a try. I am so glad that I did. She lured me in with the cream cheese frosting, but the whole bar was absolutely delicious. This easy pumpkin bar recipe is an ode to my sweet neighbor, Marilyn. I hope you enjoy this to-die-for pumpkin bar recipe as much as I did.
 
-#### What ingredients do I need for this dessert? 
+#### What ingredients are needed for this dessert? 
 
 * All-Purpose Flour
 
@@ -105,9 +105,10 @@ Let it be known- I am not a fan of anything pumpkin, including dessert. However,
 * A [spatula](https://amzn.to/3FliYJq)
 * A [rimmed jelly sheet](https://amzn.to/3s7YJJj)
 * A [sieve](https://amzn.to/3Ib5SRa)
+
 ---- 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Pre-heat oven to 350 degrees. 
 2. Combine the dry ingredients aside from the sugar in a [mixing bowl](https://amzn.to/3DjHZUY). Set aside. 
@@ -146,9 +147,10 @@ Let it be known- I am not a fan of anything pumpkin, including dessert. However,
 
 I hope you enjoy this recipe for homemade pumpkin bars with cream cheese frosting. If you try it, be sure to let us know what you think!
 
-Other dessert recipes from The Jamil Ghar:
-* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
-* [Banana Bread](https://www.jamilghar.com/recipe/banana_bread/)
-* [Double Chocolate Low Carb Muffins](https://www.jamilghar.com/recipe/double_chocolate_lowcarb_muffins/)
-* [High Elevation Chocolate Chip Cookies](https://www.jamilghar.com/recipe/high_elevation_chochip_cookie/)
-* [High Elevation Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/nutella_cookies/)
+Other recipes from The Jamil Ghar:
+
+* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon-rolls/)
+* [Banana Bread](https://www.jamilghar.com/recipe/banana-bread/)
+* [Double Chocolate Low Carb Muffins](https://www.jamilghar.com/recipe/chocolate-lowcarb-muffins/)
+* [High Elevation Chocolate Chip Cookies](https://www.jamilghar.com/he-chocolatechip-cookie/)
+* [High Elevation Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/he-nutella-cookies/)

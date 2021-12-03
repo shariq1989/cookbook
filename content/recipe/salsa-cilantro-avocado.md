@@ -20,7 +20,7 @@ Cuisine: Mexican
 
 ### How to Make Salsa with Cilantro and Avocado 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 8 Roma Tomatoes, diced  
 * 2 Limes, juiced
@@ -34,7 +34,7 @@ Cuisine: Mexican
 * 2 tsp Garlic Powder 
 * 3-4 Avocados, cubed 
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. Dice the tomatoes and add them to a large [mixing bowl](https://amzn.to/3cSUCe6). 
 2. Slice the jalapenos in half and remove the seeds by holding the stem and scooping them out with a spoon. Then, cut off the stem and finely dice the peppers. Add them to the tomatoes. 
@@ -49,7 +49,7 @@ Cuisine: Mexican
 
 Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family (including our littles) loves.
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Roma Tomatoes: Romas work well for making salsa; they hold up well and have fewer seeds than other types of tomatoes; this makes the salsa less watery, which is what we're going for with this salsa. 
 
@@ -68,6 +68,7 @@ Skip going to the store and make your own chunky salsa at home. This homemade sa
 * A [mixing bowl](https://amzn.to/3cSUCe6) 
 
 #### How can I adjust the spice level of the salsa? 
+
 Full disclosure, I think this salsa is pretty mild. I make it for my toddlers, and they devour it with ease, but I recognize everyone handles spice differently. Here are some suggestions: 
 
 * Too Spicy: If you haven't already, I suggest using only half of the jalapeno. You still get some of the flavors, but not all of the heat. So you have used the whole jalapeno and realized the salsa is too spicy?  I suggest adding a teaspoon or two of granulated white sugar. 
@@ -78,7 +79,9 @@ Full disclosure, I think this salsa is pretty mild. I make it for my toddlers, a
 
 On the off chance that you have leftover salsa, store it in a sealed container in the fridge for 2-4 days. 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step
 
 1. Dice the tomatoes and add them to a large [mixing bowl](https://amzn.to/3cSUCe6). 
 
@@ -99,10 +102,11 @@ On the off chance that you have leftover salsa, store it in a sealed container i
 6. Next, slice the avocado in half and remove the pit. Cut the avocado into cubes, and then add them to the salsa by carefully folding them into the mixture. 
 
 ----
-I hope you enjoy this easy salsa recipe full of fresh ingredients. If you try it, be sure to let us know what you think!
 
-Pair this avocado and cilantro salsa with other recipes from The Jamil Ghar:
+I hope you enjoy this easy salsa recipe. If you try it, be sure to let us know what you think!
+
+Pair our avocado and cilantro salsa with other recipes from The Jamil Ghar:
 
 * [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
-* [Ground Beef Tacos](https://www.jamilghar.com/recipe/ground_beef_taco/)
-* [Corn Tortilla Chips](https://www.jamilghar.com/recipe/homemade_corn_tortilla_chips/)
+* [Ground Beef Tacos](https://www.jamilghar.com/recipe/beef-taco/)
+* [Corn Tortilla Chips](https://www.jamilghar.com/recipe/corn-tortilla-chips/)

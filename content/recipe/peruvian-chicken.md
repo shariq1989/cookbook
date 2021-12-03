@@ -26,7 +26,7 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
 ### How to Make Peruvian Roasted Chicken 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 Whole Chicken, 3-4 lbs, butterflied
 * 1 tbsp [Cumin](https://amzn.to/3eebpcJ), ground 
@@ -37,7 +37,7 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 * 1 tbsp Distilled White Vinegar 
 * 1 tbsp Olive Oil 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Adjust the oven rack to the upper-middle position and preheat the oven to 450 degrees. 
 2. Prepare a [wire rack](https://amzn.to/3bE8h90) in a [rimmed baking sheet](https://amzn.to/339IQqI) lined with aluminum foil.  
@@ -54,7 +54,7 @@ Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 
 This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with our take on the delicious Peruvian green sauce you get in the restaruants. This recipe can also be replicated using chicken thighs and legs as well. I hope you enjoy this meal our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Chicken: I used a whole, butterflied, or spatchcocked chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. Spatchcocking a chicken means cutting the backbone out of the chicken and flattening it; this allows the chicken to roast more evenly all over. You can also use the same rub and recipe to make chicken thighs, legs, or a combination of the two. I wouldn't recommend using chicken breast because they are more likely to come out dry if cooked alone. Reminder, the safe cooking temperature for chicken is 165 degrees.
 
@@ -88,7 +88,7 @@ To finish your low-carb meal, I recommend serving this Peruvian chicken with cau
 
 ---- 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Adjust the oven rack to the upper-middle position and preheat the oven to 450 degrees. 
 2. Prepare a [wire rack](https://amzn.to/3bE8h90) in a [rimmed baking sheet](https://amzn.to/339IQqI) lined with aluminum foil.  
