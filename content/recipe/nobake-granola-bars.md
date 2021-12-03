@@ -20,7 +20,7 @@ Chilling Time: 1 hour
 
 ### How to Make No-Bake Paleo Granola Bars 
 
-#### INGREDIENTS 
+#### Ingredients  
 
  * 1 cup Cashews 
  * 1 cup Almonds 
@@ -34,7 +34,7 @@ Chilling Time: 1 hour
  * 1/4 cup [Almond Butter](https://amzn.to/3ljxdqJ) 
  * 1 tsp [Vanilla Extract](https://amzn.to/3xPaWpX) 
 
-#### INSTRUCTION
+#### Instructions
 
 1. Place the cashews and almonds in a [food processor](https://amzn.to/32jLA7Q) and pulse a few times to break them up. You don't want to over-mix and create a flour-like texture.
 2. Fill a small bowl with warm water and add the craisins. Let them sit for about 5 minutes until they soften and rehydrate. 
@@ -51,7 +51,7 @@ Chilling Time: 1 hour
 
 ### ABOUT THE SNACK
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Cashews and Almonds: We use almonds and cashews because that is what we usually have on hand. Walnuts or pecans would be a great addition to these bars, but I avoid them since I am allergic.  
 
@@ -75,7 +75,7 @@ Chilling Time: 1 hour
 
 * A [food processor](https://amzn.to/32jLA7Q) 
 * A small bowl
-* [mixing bowl](https://amzn.to/3CFijkm)
+* A [mixing bowl](https://amzn.to/3CFijkm)
 * A [saute pan](https://amzn.to/3nC6gjK)
 * A [silicone spatula](https://amzn.to/3ctiG77)
 * A [baking pan](https://amzn.to/3FA9RVk)
@@ -87,7 +87,7 @@ Because coconut oil is a main ingredient, the bars will melt if left at room tem
 
 ----
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step 
 
 1. Place the cashews and almonds in a [food processor](https://amzn.to/32jLA7Q) and pulse a few times to break them up. You don't want to over-mix and create a flour-like texture.
 
