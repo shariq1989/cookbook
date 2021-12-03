@@ -22,7 +22,7 @@ Cuisine: American, Chinese
 
 ### How to Make P.F. Chang's Lettuce Wrap Copycat 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Wrap: 
 
@@ -30,7 +30,9 @@ For the Wrap:
 * 1 lb Ground Beef,lean 
 * 2 Garlic Cloves, minced 
 * 2 tsp Ginger, minced 
-* 4 Scallions, sliced and whites and greens, separated 
+* 1 Carrot, small diced 
+* 1/2 Yellow Onion, small diced
+* 4 Scallions, sliced, whites and greens separated 
 * 1 tbsp Soy Sauce 
 * 1 tbsp [Rice Wine Vinegar](https://amzn.to/3feHUZc) 
 * 3 tsp Sriracha 
@@ -48,7 +50,7 @@ For the Homemade Hoisin Sauce:
 * 1 1/2 tbsp [Monk Fruit Sweetener](https://amzn.to/38Bp8aG) or Honey 
 * 1 tbsp Natural [Almond Butter Powder](https://amzn.to/3laVGgE)
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Before cooking, whisk the ingredients for the homemade hoisin sauce in a small bowl. Set aside. 
 2. In a [skillet](https://amzn.to/3xyWEtj), warm sesame oil over medium heat, and then add the ground beef. Break up the meat with a [meat chopper](https://amzn.to/38BSlBY) until finely minced. Cook until beef is cooked through about 8-10 minutes.  
@@ -64,7 +66,7 @@ For the Homemade Hoisin Sauce:
 
 There are many versions of this copycat on the internet; this is the Jamil Family take on the popular dish. These lettuce wraps are healthy, but more importantly, they're easy to make! There are very few recipes that make it to the regular rotation in our home, but this is one of them. Best of all, they are both adult and kid-approved. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * [Sesame Oil](https://amzn.to/3b72o2v)
 
@@ -110,7 +112,7 @@ Macros for the Hoisin Sauce:
 * PROTEIN– 2g
 * FAT– 6g 
 * 
-#### Can I freeze the beef?
+#### Can I freeze ground beef?
 
 Yes, first allow the meat to cool completely and then add it to a freezer-safe container or bag. To prevent freezer burn, you can also layer plastic wrap over the dish before securing the lid. The beef mixture will freeze for up to 2 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove and prepare your lettuce and hoisin sauce.
 
