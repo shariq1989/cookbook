@@ -25,7 +25,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 
 ### How to make Rindsgulasch 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 6 tbsp [Sweet Paprika](https://amzn.to/3jJjOGx), divided
 * 2 tsp Kosher Salt 
@@ -45,7 +45,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 * 1 Package Egg Noodles
 * Sour Cream, to garnish 
 
-#### AUSTRIAN BEEF STEW STOVE-TOP INSTRUCTIONS 
+#### Austrian Beef Stew: Stove-Top Instructions 
 
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, and set it aside. 
 2. In an [Dutch oven](https://amzn.to/3wIA1Bu), melt the butter on low-medium heat. Add the onion and cook until onions become translucent and soften. 
@@ -56,7 +56,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 7. Add the fresh dill and stir in the apple cider vinegar. 
 8. Taste and season with salt and pepper. Garnish with sour cream and serve with egg noodles.
 
-#### AUSTRIAN BEEF STEW INSTANT POT INSTRUCTIONS 
+#### Austrian Beef Stew: Instant Pot Instructions 
 
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, and set it aside. 
 2. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter in saute mode. Add the onion and cook until onions become translucent and soften. 
@@ -73,7 +73,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 
 Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew, also called rindsgulasch. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is soft and tender. The result of this recipe is a dark, smooth, and flavorful gravy you expect from rindsgulasch.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Paprika: Okay, you can probably use whatever paprika you have in the cabinet. But trust me, you will love the flavor from the [Sweet](https://amzn.to/3jJjOGx) and [Hot Paprika](https://amzn.to/2ZeqanW). If you only want to purchase one of them, reach for the sweet paprika, and add a teaspoon of cayenne to give it a little kick. 
 
@@ -124,7 +124,7 @@ Note: Freeze the goulash separately and then prepare fresh noodles when you're r
 
 ---- 
 
-### INSTANT POT INSTRUCTIONS: STEP-BY-STEP 
+### Instant Pot Instructions: Step-by-Step
 
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, stir to coat, and set it aside. 
 
@@ -156,12 +156,13 @@ Note: Freeze the goulash separately and then prepare fresh noodles when you're r
 
 ---- 
 
-I hope you enjoy this Austrian beef stew with paprika and caraway. If you try it, be sure to let us know what you think!
+I hope you enjoy this Austrian beef stew with paprika and caraway recipe. If you try it, be sure to let us know what you think!
 
-Other stew recipes from The Jamil Ghar you may enjoy:
-* [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef_and_barley_stew/)
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
+Other stew recipes from The Jamil Ghar:
+
+* [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef-barley-stew/)
+* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/)
 * [Chicken Kedjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Georgian Chicken Soup](https://www.jamilghar.com/recipe/georgian_soup/)
+* [Georgian Chicken Soup](https://www.jamilghar.com/recipe/georgian-soup/)
 
 This original recipe can be found at [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash)
