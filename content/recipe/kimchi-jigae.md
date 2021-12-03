@@ -24,7 +24,7 @@ Cuisine: Korean
 
 ### How to make Korean Kimchi Jjigae
 
-#### INGREDIENTS 
+#### Ingredients  
 
 For the Broth: 
 
@@ -47,7 +47,7 @@ For the Jjigae:
 * 2 tablespoons [Gochugaru](https://amzn.to/2P1lLmx)
 * ¼ tsp Ground Black Pepper
 
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions
 
 1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste using the Gochugaru, 2 tsp sesame oil, and ground black pepper. Set aside. 
@@ -57,7 +57,7 @@ For the Jjigae:
 6. Next, add the tofu and let the mixture simmer for a few minutes before gently stirring in the spice mixture- careful not to break up the tofu. 
 7. Garnish with extra Gochugaru if you prefer spicy kimchi jjigae, and serve with a side of sticky rice. 
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions
 
 1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste using the Gochugaru, 2 tsp sesame oil, and ground black pepper. Set aside. 
@@ -103,7 +103,7 @@ Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup (whichever name you ch
 
 * Black Pepper
 
-#### How do you make the broth for kimchi jjigae? 
+#### How do you create the broth for kimchi jjigae? 
 
 A more [traditional Korean broth](https://www.maangchi.com/recipe/kimchi-jjigae) includes dried anchovy, kelp, and daikon radish, all of which create a delicious base for kimchi stew. Since these ingredients can be difficult to come by, I use staples from my pantry instead. Note: If you prefer more of the Kimchi flavor in your jjigae, consider adding 1-2 tbsp of the kimchi brine to flavor your broth as well. 
 
@@ -117,11 +117,11 @@ A more [traditional Korean broth](https://www.maangchi.com/recipe/kimchi-jjigae)
 
 To make this kimchi stew recipe vegetarian and vegan-friendly, omit the fish sauce, and be sure to use [Vegetable Better than Bouillon](https://amzn.to/3f8LK6e). 
 
-#### Can I freeze this Korean kimchi soup? 
+#### Can I freeze kimchi soup? 
 
 You sure can, but before freezing, remove the tofu from the dish. It doesn't reheat well once frozen. Then, add the rest of the stew to a freezer-safe container or bag. The kimchi stew will freeze for up to 3 months.
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step to re-hydrate them. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 

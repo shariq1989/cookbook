@@ -23,7 +23,7 @@ Cuisine: Persian
 
 ### How to Make Joojeh Kebabs 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Marinade: 
 
@@ -43,7 +43,7 @@ For the Kebab:
 * 2-3 Serrano Peppers, whole 
 * Salt and Pepper, to taste 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 For the Marinade: 
 
@@ -67,7 +67,7 @@ For the Kebab:
 
 After eating at a Persian restaurant for our daughter's first birthday in 2019, we attempted to make a joojeh kebab recipe that would do their dish justice. While we will never reach their level of expertise and precision, our version of the popular dish is absolutely delicious. I hope you enjoy this joojeh kebab recipe our family enjoys again and again. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Milk 
 
@@ -97,3 +97,5 @@ After eating at a Persian restaurant for our daughter's first birthday in 2019, 
 * A [mixing bowl](https://amzn.to/3p2YLle)
 * [Narrow skewers](https://amzn.to/3cZj1yz)\
 * [Wide skewers](https://amzn.to/3E8BxAs
+
+---- 

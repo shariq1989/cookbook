@@ -22,9 +22,9 @@ Cuisine: Ivorian, African
 
 {{< start_recipe >}}
 
-### How to make Chicken Kedjenou 
+### How to Make Chicken Kedjenou 
 
-#### KEDJENOU INGREDIENTS 
+#### Kedjenou Ingredients  
 
 For the Stew: 
 
@@ -54,7 +54,7 @@ For the Kedjenou Spice:
 * Salt, to taste
 * Pepper, to taste
 
-#### OVEN INSTRUCTIONS 
+#### Oven Instructions 
 
 1. Pre-heat the oven to 350 degrees. 
 2. In a small bowl, mix the ingredients for the kedjenou spice. Use 3 tbsp to cover the chicken. Set aside for 30 minutes. 
@@ -63,7 +63,7 @@ For the Kedjenou Spice:
 5. Next, add the water, [Better Than Bouillon](https://amzn.to/3rR71VA), bay leaves, and thyme. Cover the pot with aluminum foil followed by the lid. Place it in the oven to cook for 1 hour, removing the [dutch oven](https://amzn.to/3sgQtGK) to shake back and forth 2-3 times during the cooking process, as is custom.   
 6. Remove from the oven, place in a serving dish, and allow the chicekn to cool some before serving. Eat it as a stew, over a bed of rice, or with traditional attiéké.
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions
 
 1. In a small bowl, mix the ingredients for the kedjenou spice. Use 3 tbsp to cover the chicken. Set aside for 30 minutes. 
 2. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the chicken and saute skin-side down for 3-4 minutes.
@@ -78,7 +78,7 @@ For the Kedjenou Spice:
 
 Kedjenou, pronounced (KED-gen-ooh), is popular in the Ivory Coast, known for its savory, slow-cooked stews. This dish traditionally cooks in a clay pot, called a Canary or Canari, over an open flame. Cooking in a sealed Canary allows the chicken to slow cook in the juices, spices, vegetables, and rich aromatics. Little to no liquid is added resulting in a highly flavorful and concentrated dish. The word kedjenou means to move or shake, and refers to the practice of shaking the Canary side to side several times throughout the cooking process to prevent sticking or burning inside the sealed clay pot. I do not have access to a Canary, but I achieve a similar result using a [dutch oven](https://amzn.to/3sgQtGK) or [Instant Pot](https://amzn.to/3qfNYCZ). Enjoy this kedjenou recipe our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Chicken: Use bone-in and skin-on thighs, legs, or a combination of the two. You could also break down a whole chicken and use that for the stew. 
 
@@ -124,7 +124,9 @@ Some popular variations of kedjenou include:
 
 You sure can. First, allow the dish to cool completely. Then, add it to a freezer-safe container or bag. Kedjenou can freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm on the stovetop, and enjoy!
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step
 
 1. Pre-heat the oven to 350 degrees. 
 2. In a small bowl, mix the ingredients for the kedjenou spice. Use 3 tbsp to cover the chicken. Set aside for 30 minutes. 
@@ -152,7 +154,8 @@ You sure can. First, allow the dish to cool completely. Then, add it to a freeze
 
 I hope you enjoy this recipe for kedjenou poulet. If you try it, be sure to let us know what you think!
 
-Other stew recipes from The Jamil Ghar:
-* [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef_and_barley_stew/)
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
-* [Georgian Chicken Soup](https://www.jamilghar.com/recipe/georgian_soup/)
+Other recipes from The Jamil Ghar:
+
+* [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef-barley-stew/)
+* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/)
+* [Georgian Chicken Soup](https://www.jamilghar.com/recipe/georgian-soup/)

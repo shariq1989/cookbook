@@ -22,7 +22,7 @@ Cuisine: American
 
 ### How to Make Low Carb Biscuits and Gravy: 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Biscuits: 
 
@@ -45,7 +45,7 @@ For the Gravy:
 * 1 tsp Corn Starch
 * Black Pepper, coarse ground
 
-#### INSTRUCTIONS
+#### Instructions
 
 For the Biscuits: 
 
@@ -69,7 +69,7 @@ For the Gravy:
 
 My mama was a server in a mom-and-pop diner in Arizona for as long as I can remember. One thing the diner did well is biscuits and gravy. I often crave biscuits and gravy, maybe more for the memory than the meal itself, but I always struggle with the carb load of regular biscuits and gravy. This dilemma became the starting point for this delicious breakfast recipe you see today. My biscuit and gravy recipe is easy to make and low carb, if that's your thing. The biscuits are buttery and flaky and served with creamy sausage gravy, just like those you would eat in your favorite diner or grandma's house. Make them to serve or double the recipe to have some to freeze for later. I hope you enjoy this biscuit and gravy recipe our family loves. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * [Almond Flour](https://amzn.to/2POPsYC)
 
@@ -117,11 +117,13 @@ For the Gravy:
 * PROTEIN: 8g 
 * FAT:21 g
 
-#### Can I freeze the biscuits and gravy?
+#### Can I freeze biscuits and gravy?
 
 Yes, but do so separately. This is one of my favorite things about making this recipe. I often double the recipe for the biscuits to freeze them, so we have quick and easy breakfast, or dinner rolls the next time around. Allow the biscuits to cool completely, and add them to a freezer-safe bag. Do the same with any leftover gravy. The biscuits and the gravy will freeze for up to 3 months. When you’re ready to eat, warm the biscuits in the oven or microwave, and then warm the gravy on the stovetop. Enjoy! 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+---- 
+
+### Instructions: Step-by-Step
 
 For the Biscuits: 
 
@@ -152,3 +154,5 @@ For the Gravy:
 3. Bring the mixture to a gentle bubble, stirring occasionally to thicken the gravy. Reduce heat to low and then return the meat to the pan. Stir to combine, cover, and simmer for another 5 minutes. 
 
 {{< figure src="/images/bandg6.jpg" class="instructionFigure">}}
+
+---- 

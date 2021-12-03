@@ -22,7 +22,7 @@ Cuisine: American
 
 ### How to make Nutella and Peanut Butter Cookies
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 cup White Sugar
 * 1 cup Brown Sugar
@@ -36,7 +36,7 @@ Cuisine: American
 * 1/2 tsp Baking Powder
 * 1/2 cup [Nutella](https://amzn.to/3vgU75p)
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. In a [mixing bowl](https://amzn.to/3D2NC8M), combine the white and brown sugar. Then, use a [hand mixer](https://amzn.to/3bB2G3c) to blend the butter and peanut butter into the sugar until creamy.  
 2. Stir in the vanilla extract and beat one egg at a time into the mixture. Set aside. 
@@ -52,7 +52,7 @@ Cuisine: American
 
 I have always loved cooking and baking, but I haven't always been great at it- especially baking. Back in the day, I wanted so badly to bake something people wanted to eat, but my attempts always ended with barely edible creations. Then something incredible happened, the invention of Pinterest. While searching one day, I stumbled upon a Nutella cookie recipe; I was determined to master it. My poor mom and sisters ate cookies for a week straight as I experimented with their recipe to transform it into something tasty. Finally, with a few adjustments for higher elevation (I didn't realize this was the issue for far too long) and the addition of peanut butter, this recipe was born. I hope you enjoy these Nutella and Peanute Butter cookies our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * White Sugar 
 
@@ -74,22 +74,21 @@ I have always loved cooking and baking, but I haven't always been great at it- e
 
 * [Nutella](https://amzn.to/3vgU75p)
 
-
 #### What equipment do I need to make this recipe?
 
 * 2 [mixing bowl](https://amzn.to/3D2NC8M)
 * A [hand-mixer](https://amzn.to/3bB2G3c)
 * A [rimmed baking sheet](https://amzn.to/3vhinF4) or pizza stone - I use the one from Pampered Chef.
 
-#### Can I freeze the cookie dough? 
+#### Can I freeze cookie dough? 
 
 You sure can. Roll the dough into one large ball and place it into a freezer-safe bag. Clear any air out of the bag before securing it. The cookie dough will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, follow the baking instructions in the recipe.  
 
 ----
 
-I hope you enjoy this recipe for Nutella and Peanut Butter Cookies. If you try it, be sure to let us know what you think!
+I hope you enjoy this recipe for Nutella and peanut butter cookies. If you try it, be sure to let us know what you think!
 
 Other dessert recipes from The Jamil Ghar:
-* [No Yeast- Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
-* [Pumpkin Bars](https://www.jamilghar.com/recipe/pumpkin_bars/)
-* [Chocolate Chip Cookies](https://www.jamilghar.com/recipe/high_elevation_chochip_cookie/)
+* [No Yeast- Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon-rolls/)
+* [Pumpkin Bars](https://www.jamilghar.com/recipe/pumpkin-bars/)
+* [Chocolate Chip Cookies](https://www.jamilghar.com/recipe/he-chocolatechip-cookie/)
