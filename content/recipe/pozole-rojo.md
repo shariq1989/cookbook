@@ -22,7 +22,7 @@ Cuisine: Mexican
 
 ### How to Make Pozole Rojo 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Pozole: 
 
@@ -50,7 +50,7 @@ For the Garnish:
 * Chili Flakes 
 * Mexican Oregano 
   
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions
 
 1. Warm oil in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode until it begins to smoke. 
 2. Add the
@@ -65,7 +65,7 @@ For the Garnish:
 
 Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chillies that flavor the broth. I hope you enjoy this pozole recipe our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Avocado Oil 
 
@@ -101,7 +101,7 @@ I make pozole for most of our holiday meals, and I often prepare this pozole rec
 
 * In place of meat, double the hominy, using 2 - 29 oz cans instead.   
 
-#### Can I freeze Pozole? 
+#### Can I freeze pozole? 
 
 You sure can. First, allow the stew to cool completely, and then add it to a freezer-safe bag or container. Pozole can freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm the stew on the stovetop, prepare your toppings, and enjoy! 
 
@@ -109,7 +109,8 @@ You sure can. First, allow the stew to cool completely, and then add it to a fre
 
 I hope you enjoy this recipe for homemade pozole. If you try it, be sure to let us know what you think!
 
-Other recipes from The Jamil Ghar you may enjoy:
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chili_con_carne/)
+Other recipes from The Jamil Ghar:
+
+* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/)
 * [Guacamole](https://www.jamilghar.com/recipe/guacamole/)
-* [Mexican Rice](https://www.jamilghar.com/recipe/mexican_rice/)
+* [Mexican Rice](https://www.jamilghar.com/recipe/mexican-rice/)
