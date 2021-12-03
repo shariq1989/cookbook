@@ -24,7 +24,7 @@ Cuisine: Persian
 
 ### How to Make Saffron Rice 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 2 cups Long-Grained Basmati Rice
 * 2 cups Water 
@@ -34,7 +34,7 @@ Cuisine: Persian
 * 2 tbsp Boiling Water or Milk
 * 3 tbsp Butter, cut into tabs
 
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions
 
 1. Rinse the rice until the water runs clear, then soak in water for at least 20 minutes. 
 2. While waiting on the rice, add the saffron stems to a [mortar and pestle](https://amzn.to/3EdGnfY) or a small bowl and the back of a spoon. Gently break down the stems into smaller pieces. Next, add the stems to small bowl with the boiling water or milk. Stir and let it stand for 5 minutes.  
@@ -45,7 +45,7 @@ Cuisine: Persian
 7. Remove the rice from heat and layer the tabs of butter overtop the rice. Cover with the lid and set it aside steam for 5 minutes before serving. 
 8. Using a fork, lightly fluff the rice and serve.
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions
 
 1. Rinse the rice until the water runs clear, then soak in water for at least 20 minutes. 
 2. While waiting on the rice, add the saffron stems to a [mortar and pestle](https://amzn.to/3EdGnfY) or a small bowl and the back of a spoon. Gently break down the stems into smaller pieces. Next, add the stems to small bowl with the boiling water or milk. Stir and let it stand for 5 minutes.   
@@ -62,7 +62,7 @@ Cuisine: Persian
 
 Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. I hope you enjoy this rice dish our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Long Grained Basmati Rice: You can use other long-grained rice, but I recommend using basmati. The key to a quality rice dish is taking the time to soak it; the longer, the better. By taking this step, your rice will have the length and luxury of a good saffron rice. 
 
@@ -86,7 +86,7 @@ Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and M
 
 Saffron rice is easy to make and naturally vegetarian. To make this particular recipe vegan-friendly, mix the saffron with water and use vegan butter as a substitute. 
 
-#### Can I freeze the saffron rice?
+#### Can I freeze saffron rice?
 
 Yes, allow the dish to cool completely, and then add it to a gallon Ziploc bag. The saffron rice will freeze for up to 2 months. When you’re ready to eat, let it defrost in the refrigerator overnight. To serve, warm up a single serving in the microwave or add it all to a pan for a quick and easy side the whole family will enjoy.
  
