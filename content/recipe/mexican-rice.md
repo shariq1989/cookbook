@@ -24,7 +24,7 @@ Cuisine: Mexican
 
 ### How to Make Restaurant-Style Mexican Rice 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 3 Roma Tomatoes, quartered
 * 1/2 Red Onion, finely chopped
@@ -39,7 +39,7 @@ Cuisine: Mexican
 * 1/3 cup Cilantro, finely chopped
 * Juice from 1 Lime, plus wedges to garnish 
   
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions 
 
 1. Add the tomatoes and onion to a [blender](https://amzn.to/31lVrcU) or [food processor](https://amzn.to/3xLS1ft), blend until smooth. 
 2. Pour the mixture into a [saucepan](https://amzn.to/3EaKWYi). Stir in the water, Better Than Bouillion, salt, and cumin. Bring to a boil over medium heat.
@@ -50,7 +50,7 @@ Cuisine: Mexican
 7. Remove the rice from heat and fluff it with a fork. Cover with the lid and set it aside steam for 5 minutes before serving. 
 8. To serve, add the cilantro and lime juice and fluff again. Garnish with lime wedges and enjoy.  
 
-#### INSTANT POT INSTRUCTIONS
+#### Instant Pot Instructions 
 
 1. Add the tomatoes and diced onion to a [blender](https://amzn.to/31lVrcU) or [food processor](https://amzn.to/3xLS1ft). Blend until smooth. 
 2. Pour the mixture into a [saucepan](https://amzn.to/3EaKWYi). Stir in the water, Better Than Bouillion, salt, and cumin and bring to a boil over medium heat.
@@ -90,7 +90,6 @@ Cuisine: Mexican
 * Cilantro
 
 * Lime Juice 
-
 
 #### What equipment do I need to make this recipe?
 

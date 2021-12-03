@@ -23,7 +23,7 @@ Cuisine: Indian, Pakistani
 
 ### How to Make Moong Dal 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 For the Tadka: 
 
@@ -48,8 +48,7 @@ For the Dal:
 * 1 tsp Kosher Salt, to taste
 * Cilantro, chopped, to garnish 
 
-
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions 
 
 1. Set an [Instant Pot](https://amzn.to/3qfNYCZ) to saute mode and warm the ghee. 
 2. Add the boriya chili, cumin seed, mustard seed, and curry leaves. Cook until the ingredients begin to sputter. 
@@ -66,7 +65,7 @@ For the Dal:
 
 Moong dal is one of many Indian comfort foods. Growing up, my husband, Shariq ate this meal regularly throughout the week, and in his own words- he hated it. Funny how things change when we become adults because this is now one of the meals Shariq asks me to make for him regularly. I hope you enjoy this Instant Pot moong dal recipe our family loves. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * [Ghee](https://amzn.to/2ZkJkrW) 
 
@@ -108,6 +107,8 @@ Moong dal is one of many Indian comfort foods. Growing up, my husband, Shariq at
 
 With one substitution, yes it is. Fry the onions in vegetable oil instead of ghee. 
 
-#### Can I freeze this dal? 
+#### Can I freeze dal? 
 
 Yes it is. Allow the Moong Dal to cool and prepare several freezer-safe bags or containers. Scoop a small amount of dal into each one, making sure to leave a few inches of space so the dal can expand if needed. Moong Dal will freeze for up to 2 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove and prepare your sides.
+
+---- 

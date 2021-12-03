@@ -23,7 +23,8 @@ Adapted from: [New York Times](https://cooking.nytimes.com/recipes/1020486-vineg
 {{< start_recipe >}}
 
 ### How to Make Baked Chicken with Olive Dressing
-#### INGREDIENTS 
+
+#### Ingredients 
 
 * 3 lbs Chicken Thighs, bone-in and skin-on
 * 1 1/2 tsp [Turmeric](https://amzn.to/3xsEoS7)
@@ -35,7 +36,7 @@ Adapted from: [New York Times](https://cooking.nytimes.com/recipes/1020486-vineg
 * 2-4 Garlic Cloves, minced 
 * 1 tbsp Fresh Parsley, chopped 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Pre-heat the oven to 450 degrees. 
 2. Place the chicken into a bag with olive oil and turmeric. Mix well. 
@@ -51,7 +52,7 @@ Adapted from: [New York Times](https://cooking.nytimes.com/recipes/1020486-vineg
 
 This recipe is inspired by Alison Roman’s "Vinegar Chicken with Crushed Olive Dressing;" this is an easy weeknight meal and roasts in under 1 hour.
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Chicken: I use whole chicken pieces or chicken thighs when I make this recipe, but feel free to use whatever you prefer. Bone-in and skin-on will give you the best flavor. Feeding a crowd, why not use a whole chicken? Just be sure you adjust the cooking time depending on your selection. The safe cooking temperature for chicken is 165 degrees.
 
@@ -77,8 +78,8 @@ This recipe is inspired by Alison Roman’s "Vinegar Chicken with Crushed Olive 
 
 I hope you enjoy this baked chicken with olive dressing. If you try it, be sure to let us know what you think!
 
-Other chicken recipes from The Jamil Ghar:
-* [BBQ Chicken Drumsick](https://www.jamilghar.com/recipe/bbq_chicken_drumsticks/)
-* [Chicken Salmoriglio](https://www.jamilghar.com/recipe/chicken_salmoriglio/)
-* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian_chicken/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
+Other recipes from The Jamil Ghar:
+* [BBQ Chicken Drumsick](https://www.jamilghar.com/recipe/bbq-drumsticks/)
+* [Chicken Salmoriglio](https://www.jamilghar.com/recipe/chicken-salmoriglio/)
+* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
+* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)

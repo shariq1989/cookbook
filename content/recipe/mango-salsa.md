@@ -19,7 +19,7 @@ Cuisine: American
 
 ### How to Make Mango Salsa 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 1/2 Red Onion, finely diced 
 * 1 Jalapeno, stem and seeds removed, finely diced
@@ -32,7 +32,7 @@ Cuisine: American
 * Kosher Salt, to taste 
 * Black Pepper, coarse ground, to taste 
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. In a serving bowl, add the onion, jalapeno, lime juice, lime zest, olive oil, salt, and pepper. Mix well. 
 2. Next, gently fold in the tomato and mango until combined, careful not to over stir.  
@@ -41,7 +41,7 @@ Cuisine: American
 
 ### ABOUT THE SALSA
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Red Onion
 
