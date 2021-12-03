@@ -22,7 +22,7 @@ Cuisine: Polish
 
 ### How to Make Roasted Kielbasa and Potatoes 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 5-6 small Red or Yukon God Potatoes, quartered
 * 1 lb Kielbasa, cut into rounds 
@@ -31,7 +31,7 @@ Cuisine: Polish
 * 1 tsp Kosher Salt
 * 1 tsp Parsely, dried 
 
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions
 
 1. Preheat a [skillet](https://amzn.to/3lfBGLa) over medium-high heat.
 2. Add the kielbasa to the heated pan. Stir regularly to prevent burning or sticking.
@@ -39,7 +39,7 @@ Cuisine: Polish
 4. In the same [skillet](https://amzn.to/3lfBGLa), add the potatoes, season with salt and parsely, and then cook on medium heat for about 10-15 minutes. 
 5. Next, add the peppers and reduce to low heat. Cook for another 10 minutes, and then return the kielbasa to the pan. 
 
-#### OVEN INSTRUCTIONS 
+#### Oven Instructions 
 
 1. Preheat the oven to 400 degrees and prepare a [rimmed baking sheet](https://amzn.to/3I126tD). 
 2. Slice the potatoes, keilbasa, and peppers. Spread the potatoes and keilbasa onto the [baking sheet](https://amzn.to/3I126tD). Season the potatoes with salt and parsely and set the peppers aside. 
@@ -49,7 +49,7 @@ Cuisine: Polish
 
 ### ABOUT THE MEAL 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * Red or Yukon God Potatoes: Use red or yukon gold potatoes, or a combination of the two. You can easily substitute whatever potatoes you have on hand. Just be sure to cut the potatoes into about one-inch pieces so they roast at the same pace as the other ingredients. 
 
@@ -67,3 +67,4 @@ Cuisine: Polish
 
 * A [rimmed baking sheet](https://amzn.to/3I126tD) or [skillet](https://amzn.to/3lfBGLa)
 
+---- 
