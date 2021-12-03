@@ -21,7 +21,7 @@ Cuisine: Pakistani, Indian
 
 ### How to Make Aloo Keema 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 * 1/2 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
 * 1 lb Ground Beef, finely minced 
@@ -35,7 +35,7 @@ Cuisine: Pakistani, Indian
 * 1 Serrano Chili, finely sliced, to garnish
 * Salt, to taste 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Warm ghee over medium heat in a [heavy-bottomed pan](https://amzn.to/3EXs3ZG).  
 2. Add diced potatoes. Cook until they become golden brown, about 15 minutes. Set them aside.
@@ -52,7 +52,7 @@ Cuisine: Pakistani, Indian
 
 Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chillies, and onions. I hope you enjoy this aloo keema our family loves.
 
-#### What ingredients do I need for this meal? 
+#### What ingredients are needed for this meal? 
 
 * [Ghee](https://amzn.to/2ZkJkrW) 
 
@@ -74,7 +74,6 @@ Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garli
 
 * Serrano Chillies 
 
-
 #### What equipment do I need to make this recipe?
 
 * A [heavy-bottomed pan](https://amzn.to/3EXs3ZG)
@@ -84,7 +83,7 @@ Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garli
 
 While this recipe isn't vegetarian or vegan, you can follow the same instructions and use a protein source like, Ultimate Beefless Ground from Gardein. Use beefless ground in place of the meat in this recipe. You can also use a mixture of vegetables like cauliflower and broccoli. To make the recipe vegan, you will also need to also replace the ghee. I suggest using [grapeseed oil](https://amzn.to/3p7Bz5n).
 
-#### What other types of keema are there?
+#### Are there other variations of keema?
 
 * Beef Keema 
 * Aloo Keema 
@@ -98,7 +97,7 @@ You sure can. First, allow the qeema to cool completely, and then add it to a fr
 
 ---- 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Warm ghee over medium heat in a [heavy-bottomed pan](https://amzn.to/3EXs3ZG).  
 2. Add diced potatoes. Cook until they become golden brown, about 15 minutes. Set aside.
@@ -129,9 +128,9 @@ You sure can. First, allow the qeema to cool completely, and then add it to a fr
 
 I hope you enjoy this quick and easy aloo keema recipe. If you try it, be sure to let us know what you think!
 
-Other popular Indian recipes from The Jamil Ghar:
+Other recipes from The Jamil Ghar:
 
-* [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna_gosht/)
-* [Chana Masala](https://www.jamilghar.com/recipe/chana_masala/)
-* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht_karahi/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori_chicken/)
+* [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna-gosht/)
+* [Chana Masala](https://www.jamilghar.com/recipe/channa-masala/)
+* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht-karahi/)
+* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
