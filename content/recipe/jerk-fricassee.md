@@ -20,9 +20,9 @@ Adapted From: [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicke
  
 {{< start_recipe >}}
 
-### how to Make Jerk Chicken Fricasse 
+### How to Make Jerk Chicken Fricasse 
 
-#### INGREDIENTS 
+#### Ingredients  
 
 For the Jamaican Jerk Seasoning:
 
@@ -51,7 +51,7 @@ For the Fricassee:
 * 1 tbsp Soy Sauce 
 * 1 tbsp Lime Juice 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. In a [mixing bowl](https://amzn.to/3E4wi4O), combine the ingredients for the jerk seasoning and coat the chicken with 2 tbsp. 
 2. In a [saute pan](https://amzn.to/3hIzyKw) over medium-high heat heat the oil, and then add half of the chicken, top side down, and cook until golden brown, 5-8 minutes. Transfer the chicken to a plate. Repeat until all the chicken has had a chance to brown. 
@@ -65,7 +65,7 @@ For the Fricassee:
 
 ### ABOUT THIS MEAL 
 
-#### What main ingredients do I need for this meal?
+#### What ingredients do I need for this meal?
 
 * Jerk Seasoning: I use a homemade combination of spices, but you could also go the store-bought route with [Coleman's](https://amzn.to/3G0yuuP). If you decide to make the seasoning homemade, it will last for 2 months in a sealed mason jar. 
 
@@ -90,7 +90,9 @@ For the Fricassee:
 * A [mixing bowl](https://amzn.to/3E4wi4O)
 * A [saute pan](https://amzn.to/3hIzyKw) with a lid 
 
-### INSTRUCTIONS: STEP-BY-STEP
+---- 
+
+### Instructions: Step-by-Step 
 
 1. In a [mixing bowl](https://amzn.to/3E4wi4O), combine the ingredients for the jerk rub and coat the chicken with 2 tbsp. 
 
@@ -124,5 +126,6 @@ For the Fricassee:
 
 {{< figure src="/images/jcf.jpeg" class="instructionFigure">}}
 
+---- 
 
 Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
