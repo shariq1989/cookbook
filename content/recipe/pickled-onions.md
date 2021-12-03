@@ -19,7 +19,7 @@ Cooling Time: 30 minutes
 
 ### How to Make Quick Pickled Onions 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 large Red Onion, thinly sliced, 1/4-inch
 * 1/2 cup Water 
@@ -28,7 +28,7 @@ Cooling Time: 30 minutes
 * 1 tsp Himalayan Salt 
 * 1 tbsp Honey
   
-#### INSTRUCTIONS
+#### Instructions
 
  1. Slice the onions thinly and pack them into the bottom of a [glass jar](https://amzn.to/3ETyuvT). Set aside. 
  2. In a [saucepan](https://amzn.to/3mQuO8a), add the water, distilled vinegar, apple cider vinegar, salt, and honey. Whisk the ingredients together and bring them to a simmer over medium heat. 
@@ -42,7 +42,7 @@ Cooling Time: 30 minutes
 
 Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red onions from pungent and crunchy to an irresistibly tangy topping with this recipe for quick pickled red onions.
 
-#### What ingredients do I need for this side?
+#### What ingredients are needed for this side?
 
 * Red Onion: I like pickled red onion, but use whatever onion variety you prefer. Be sure to slice the onions thinly; this helps them maintain crispness. You want them to be no thicker than 1/4-inch. 
 
@@ -71,7 +71,7 @@ Use pickled onions to dress up all kinds of dishes, like tacos or burritos; they
 
 ---- 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### InstructionsL Step-by-Step
 
  1. Slice the onions thinly and pack them into the bottom of a [glass jar](https://amzn.to/3ETyuvT). Set aside. 
  
@@ -97,9 +97,9 @@ Use pickled onions to dress up all kinds of dishes, like tacos or burritos; they
 
 I hope you enjoy this pickled onion recipe. If you try it, be sure to let us know what you think!
 
-Pair pickles onions with these recipes from The Jamil Ghar:
+Pair these pickled onions with other recipes from The Jamil Ghar:
 
-* [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/)
-* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi_roast/) 
-* [Summer Salad Miz](https://www.jamilghar.com/recipe/summer_salad_mix/) 
+* [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo-breakfast-burrito/)
+* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi-roast/) 
+* [Summer Salad Miz](https://www.jamilghar.com/recipe/summer-salad-mix/) 
 * [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
