@@ -1,6 +1,6 @@
 
 +++
-title = "Peruvian Green Sauce - Serrano Crema"
+title = "Serrano Crema - Peruvian Green Sauce"
 date = "2021-03-12"
 description = "Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible. This serrano crema recipe is made using fresh serrano chilis, cilantro, garlic, full-fat yogurt, sour cream, lime juice, and olive oil. It can easily be made in a food processor or blender. Serrano crema pairs well with Peruvian Roasted Chicken and Tandoori Chicken, and it is a tasty topping for burgers, tacos, salad, channa masala, and chaat masala. Is serrano crema spicy? It can be, and it's so tasty. I realize serrano chilies may be too hot for some. If you're looking for a milder sauce, use jalapeno chilies instead, and be sure to remove the stem and all of the seeds. I hope you enjoy this delicious sauce our family loves."
 tags = [
@@ -45,11 +45,11 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 
 ### ABOUT THE MEAL
 
-Serrano crema is my take on the authentic, spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible.
+Serrano crema is my take on the authentic and spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible. I hope you enjoy this delicious sauce our family loves. 
 
 #### #### What ingredients are needed for this meal? 
 
-* Serrano Chili: I love serrano chilies, though they create a spicy serrano crema that may be too hot for some. If you want a more mild sauce, I suggest using jalapenos instead. Remove the membrane and seeds before dicing; this lowers the spice level as well.  
+* Serrano Chili: I love serrano chilies, though they create a spicy serrano crema that may be too hot for some. If you want a more mild sauce, I suggest using jalapenos instead. Remove the membrane and seeds before dicing; this lowers the spice level as well. 
 
 * Cilantro 
 
