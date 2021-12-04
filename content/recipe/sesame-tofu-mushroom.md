@@ -71,8 +71,7 @@ This savory tofu and mushroom stir-fry comes together in about 30 minutes and se
 
 #### What equipment do I need to make this recipe?
 
-* A [rimmed baking sheet] <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=jamilghar-20&marketplace=amazon&amp;region=US&placement=B0049C2S32&asins=B0049C2S32&linkId=0cb6f10175ba06a40ebc3efbfd08b3d9&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
-
+* A [rimmed baking sheet](https://amzn.to/3EAPI1e)
 * A [large skillet](https://amzn.to/3nUk88P) or [wok](https://amzn.to/2YC4Mfx)
 * A small bowl
 
