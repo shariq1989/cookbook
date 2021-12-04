@@ -79,5 +79,5 @@ I hope you enjoy this recipe for Belgium waffles. If you try it, be sure to let 
 
 Other breakfast recipes from The Jamil Ghar:
 
-* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon-rolls/)
-* [Banana Bread](https://www.jamilghar.com/recipe/banana-bread/)
+* [Cinnamon Rolls]({{< ref "cinnamon-rolls" >}})
+* [Banana Bread]({{< ref "banana-bread" >}})

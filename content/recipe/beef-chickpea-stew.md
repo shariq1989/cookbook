@@ -158,6 +158,6 @@ You sure can. First, allow the dish to cool completely, and then add the stew to
 I hope you enjoy this recipe for beef and chickpea stew. If you try it, be sure to let us know what you think!
 
 Other soups and stews from The Jamil Ghar:
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/)
-* [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Olive Garden Copycat Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa-toscana/)  
+* [Chili Con Carne]({{< ref "chiliconcarne" >}})
+* [Kenjenou]({{< ref "kedjenou" >}})
+* [Olive Garden Copycat Zuppa Toscana]({{< ref "zuppa_toscana" >}})  

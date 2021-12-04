@@ -114,8 +114,8 @@ I do not recommend freezing already baked rolls unless you bake them and leave t
 I hope you enjoy this recipe for homemade cinnamon rolls with no yeast. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
-* [Banana Bread](https://www.jamilghar.com/recipe/banana-bread/)
-* [Double Chocolate Low Carb Muffin](https://www.jamilghar.com/recipe/chocolate-lowcarb-muffins/)
-* [High Elevation Chocolate Chip Cookies](https://www.jamilghar.com/recipe/he-chocolatechip-cookie/)
-* [High Elevation Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/he-nutella-cookies/)
+* [Banana Bread]({{< ref "banana-bread" >}})
+* [Double Chocolate Low Carb Muffin]({{< ref "chocolate-lowcarb-muffins" >}})
+* [High Elevation Chocolate Chip Cookies]({{< ref "he-chocolatechip-cookie" >}})
+* [High Elevation Nutella and Peanut Butter Cookies]({{< ref "he-nutella-cookies" >}})
 

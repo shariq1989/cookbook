@@ -73,11 +73,11 @@ Serrano crema is my take on the authentic and spicy Peruvian green sauce called 
 
 #### What goes well with serrano crema?
 
-* Serrano crema perfectly pairs with our [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/). 
-* Though it's unlike traditional raita, serrano crema goes well with[Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/). 
+* Serrano crema perfectly pairs with our [Peruvian Roasted Chicken]({{< ref "peruvian-chicken" >}}). 
+* Though it's unlike traditional raita, serrano crema goes well with[Tandoori Chicken]({{< ref "tandoori-chicken" >}}). 
 * Build a burger with cheese, avocado, thinly sliced serrano chilies, bacon, and then top it with serrano crema.  
-* Pour serrano crema on street tacos, fish tacos, [Beef Taco](https://www.jamilghar.com/recipe/beef-taco/), shrimp tacos in place of salsa. 
-* Top a salad or chickpea dishes like [Channa Masala](https://www.jamilghar.com/recipe/chana-masala/) or chaat masala with serrano crema.  
+* Pour serrano crema on street tacos, fish tacos, [Beef Taco]({{< ref "beef-taco" >}}/), shrimp tacos in place of salsa. 
+* Top a salad or chickpea dishes like [Channa Masala](https://www.{{< ref "mango-salsa" >}}/chana-masala/) or chaat masala with serrano crema.  
 
 #### Is serrano crema spicy? 
 
@@ -108,9 +108,9 @@ I hope you enjoy this recipe for spicy serrano pepper crema. If you try it, be s
 
 Pair serrano crema with other recipes from The Jamil Ghar. 
 
-* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
-* [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/)
-* [Summer Salad Mix](https://www.jamilghar.com/recipe/summer-salad-mix/)
+* [Peruvian Roasted Chicken]({{< ref "peruvian-chicken" >}})
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})
+* [Channa Masala]({{< ref "channa-masala" >}})
+* [Summer Salad Mix]({{< ref "summer-salad-mix" >}})
 
 Find the original recipe at [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-style-grilled-chicken-sandwiches-recipe.html)

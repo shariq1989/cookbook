@@ -66,10 +66,10 @@ I hope you enjoy this recipe for beef and barley stew. If you try it, be sure to
 
 Other soups and stews from The Jamil Ghar:
 
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/)
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/)
-* [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Olive Garden Copycat Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa-toscana/)  
+* [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}})
+* [Chili Con Carne]({{< ref "chiliconcarne" >}})
+* [Kenjenou]({{< ref "kedjenou" >}})
+* [Olive Garden Copycat Zuppa Toscana]({{< ref "zuppa_toscana" >}})  
 
 
 Find the original recipe at [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe). 

@@ -67,7 +67,7 @@ After the onions have cooled, seal the [glass jar](https://amzn.to/3ETyuvT) and 
 
 #### How can I use pickled red onions? 
 
-Use pickled onions to dress up all kinds of dishes, like tacos or burritos; they are great on our [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo_breakfast_burrito/). You can also add them to burgers, sandwiches, bean, lentils, soups, pitas, and salads, or use them as a side to go along with BBQ pulled meats like our [carnitas](https://www.jamilghar.com/recipe/carnitas/). 
+Use pickled onions to dress up all kinds of dishes, like tacos or burritos; they are great on our [Chorizo Breakfast Burrito]({{< ref "chorizo-burrito" >}}). You can also add them to burgers, sandwiches, bean, lentils, soups, pitas, and salads, or use them as a side to go along with BBQ pulled meats like our [carnitas]({{< ref "carnitas" >}}). 
 
 ---- 
 
@@ -99,7 +99,7 @@ I hope you enjoy this pickled onion recipe. If you try it, be sure to let us kno
 
 Pair these pickled onions with other recipes from The Jamil Ghar:
 
-* [Chorizo Breakfast Burrito](https://www.jamilghar.com/recipe/chorizo-breakfast-burrito/)
-* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi-roast/) 
-* [Summer Salad Miz](https://www.jamilghar.com/recipe/summer-salad-mix/) 
-* [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
+* [Chorizo Breakfast Burrito]({{< ref "chorizo-burrito" >}})
+* [Mississippi Roast]({{< ref "mississippi-roast" >}}) 
+* [Summer Salad Miz]({{< ref "summer-salad-mix" >}}) 
+* [Carnitas]({{< ref "carnitas" >}})

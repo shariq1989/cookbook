@@ -41,7 +41,7 @@ For the Dal:
 * 3 Garlic Cloves, minced 
 * 1 1/2 tbsp [Turmeric](https://amzn.to/3rWz3iD), ground 
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1/2 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or [Garam Masala](https://amzn.to/3u0tvEX)
+* 1/2 tsp Homemade [Garam Masala]({{< ref "garam-masala" >}}/) or [Garam Masala](https://amzn.to/3u0tvEX)
 * 2 Roma Tomatoes, pureed 
 * 1 cup [Moong Dal](https://amzn.to/3rCtNAB), rinsed   
 * 1 1/2 cup water 
@@ -53,7 +53,7 @@ For the Dal:
 1. Set an [Instant Pot](https://amzn.to/3qfNYCZ) to saute mode and warm the ghee. 
 2. Add the boriya chili, cumin seed, mustard seed, and curry leaves. Cook until the ingredients begin to sputter. 
 3. Next, add onion and green chillies. Fry until the onions brown and caramelize. Reserve half of the onion mixture and set aside at room temperature. 
-4. Add the ginger, garlic, turmeric, chili powder, and [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) to the [Instant Pot](https://amzn.to/3qfNYCZ), give it a quick stir, and then add the tomatoes. Let the mixture simmer for about 2 minutes. 
+4. Add the ginger, garlic, turmeric, chili powder, and [Garam Masala]({{< ref "garam-masala" >}}/) to the [Instant Pot](https://amzn.to/3qfNYCZ), give it a quick stir, and then add the tomatoes. Let the mixture simmer for about 2 minutes. 
 5. Next, add the rinsed moong dal, salt, and water to the other ingredients in the [Instant Pot](https://amzn.to/3qfNYCZ). Stir well. 
 6. Secure the lid, set the [Instant Pot](https://amzn.to/3qfNYCZ) to manual high pressure, and cook for 20 minutes. Allow the Instant Pot to release naturally for 5 minutes, and then do a quick release. 
 7. Stir the dal to check the consistency. If it is thicker than desired, add 1/2 cup HOT water before serving. 
@@ -89,7 +89,7 @@ Moong dal is one of many Indian comfort foods. Growing up, my husband, Shariq at
  
 * [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
 
-* [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or [Garam Masala](https://amzn.to/3u0tvEX)
+* [Garam Masala]({{< ref "garam-masala" >}}/) or [Garam Masala](https://amzn.to/3u0tvEX)
 
 * Roma Tomatoes
 

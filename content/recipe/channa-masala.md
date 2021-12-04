@@ -33,7 +33,7 @@ Cuisine: Indian, Pakistani
 * 1-inch fresh Ginger, minced 
 * 1-2 tsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
 * 1 tsp [Turmeric Powder](https://amzn.to/3vyvAZK)
-* 1 tsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/garam-masala/)
+* 1 tsp Homemade [Garam Masala]({{< ref "garam-masala" >}})
 * 1 tsp [Coriander](https://amzn.to/3lwbJ92), ground 
 * 1-2 large Tomatoes, chopped, use more if you prefer to have more gravy
 * 2- 15 oz can Chickpeas, drained and rinsed 
@@ -87,7 +87,7 @@ Like many popular dishes in Indian and Pakistan, recipes for chana masala or cha
 
 * Ginger
 
-* Spices: I used [kashmiri chili powder](https://amzn.to/3jP2lMC), [turmeric powder](https://amzn.to/3vyvAZK), homemade [garam masala](https://www.jamilghar.com/recipe/garam-masala/), and [coriander powder](https://amzn.to/3lwbJ92) to flavor the channa. 
+* Spices: I used [kashmiri chili powder](https://amzn.to/3jP2lMC), [turmeric powder](https://amzn.to/3vyvAZK), homemade [garam masala]({{< ref "garam-masala" >}}), and [coriander powder](https://amzn.to/3lwbJ92) to flavor the channa. 
 
 * Tomato
 
@@ -97,7 +97,7 @@ Like many popular dishes in Indian and Pakistan, recipes for chana masala or cha
 
 * Salt
 
-* Garam Masala: India is a large country with varying sub-cultures. As a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used and cater it specifically to your preferences. Here is one of the [garam masala](https://www.jamilghar.com/recipe/garam-masala/) spice blends we use in our home. If you choose to buy garam masala, I suggest getting [Rani](https://amzn.to/3m1KWBX).
+* Garam Masala: India is a large country with varying sub-cultures. As a result, Indian food differs from region to region. The same thing applies to specific spices used as well. For this reason, I suggest making garam masala at home, so you can control the amount of each spice used and cater it specifically to your preferences. Here is one of the [garam masala]({{< ref "garam-masala" >}}) spice blends we use in our home. If you choose to buy garam masala, I suggest getting [Rani](https://amzn.to/3m1KWBX).
 
 #### What equipment do I need to make this recipe?
 
@@ -111,7 +111,7 @@ All you have to do to make this recipe vegan is to use a different oil in place 
 
 #### What can I serve with channa masala? 
 
-Roti, [paratha](https://www.jamilghar.com/recipe/paratha/), poori or puri, chapati, or basmati rice are the most popular. 
+Roti, [paratha]({{< ref "paratha" >}}), poori or puri, chapati, or basmati rice are the most popular. 
 
 #### Can I freeze channa masala? 
 

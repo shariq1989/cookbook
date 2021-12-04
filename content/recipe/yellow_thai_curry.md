@@ -75,5 +75,5 @@ I hope you enjoy this Yellow Thai Curry recipe. If you try it, be sure to let us
 
 Other Thai recipes from The Jamil Ghar:
 
-* [Panang Curry with Shrimp](https://www.jamilghar.com/recipe/shrimp_panang_curry/)
-* [Thai Red Curry with Chicken](https://www.jamilghar.com/recipe/thai_red_curry/)
+* [Panang Curry with Shrimp]({{< ref "shrimp-panang-curry" >}})
+* [Thai Red Curry with Chicken]({{< ref "thai-red-curry" >}})

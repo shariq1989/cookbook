@@ -156,6 +156,6 @@ I hope you enjoy this recipe for kedjenou poulet. If you try it, be sure to let 
 
 Other recipes from The Jamil Ghar:
 
-* [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef-barley-stew/)
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/)
-* [Georgian Chicken Soup](https://www.jamilghar.com/recipe/georgian-soup/)
+* [Beef and Barley Stew]({{< ref "beef-barley-stew" >}})
+* [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}})
+* [Georgian Chicken Soup]({{< ref "georgian-soup" >}})

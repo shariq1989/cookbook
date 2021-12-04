@@ -44,7 +44,7 @@ For the Curry:
 * 1 tbsp Ginger, minced
 * 2 Green Chilis, slit lengthwise, plus more for garnish
 * 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC) 
-* 1 1/2 tbsp [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or store-bought [Garam Masala](https://amzn.to/2QepzBi)
+* 1 1/2 tbsp [Garam Masala]({{< ref "garam-masala" >}}/) or store-bought [Garam Masala](https://amzn.to/2QepzBi)
 * 1 tsp [Cumin](https://amzn.to/3HZHYrL), ground
 * 1 tsp Kosher Salt
 * 1 tsp [Turmeric](https://amzn.to/3vyvAZK)
@@ -120,7 +120,7 @@ Butter chicken originated in Dehli, and it quickly grew in popularity throughout
 
 * Thai Green Chillis
 
-* Garam Masala: India is a vast country with varying sub-cultures. As a result, Indian food differs from region to region. The same is true of spices as well. Garam masala is a necessary ingredient for butter chicken;  but, each garam masala blend differs based on origin and the family making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mixture and cater it specifically to your preferences. Here is the [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) our family uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
+* Garam Masala: India is a vast country with varying sub-cultures. As a result, Indian food differs from region to region. The same is true of spices as well. Garam masala is a necessary ingredient for butter chicken;  but, each garam masala blend differs based on origin and the family making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mixture and cater it specifically to your preferences. Here is the [garam masala]({{< ref "garam-masala" >}}/) our family uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
 
 * [Cumin](https://amzn.to/3HZHYrL)
 

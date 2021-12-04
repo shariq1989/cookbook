@@ -109,7 +109,7 @@ I hope you enjoy this recipe for BBQ Chicken Drumsticks. If you try it, be sure 
 
 #### Other chicken recipes from The Jamil Ghar:
 
-* [Tandoori Chicken Drumsticks](https://www.jamilghar.com/recipe/tandoori-chicken/)
-* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
-* [Chicken Salmoriglio](https://www.jamilghar.com/recipe/chicken-salmoriglio/)
+* [Tandoori Chicken Drumsticks]({{< ref "tandoori-chicken" >}})
+* [Peruvian Roasted Chicken]({{< ref "peruvian-chicken" >}})
+* [Chicken Salmoriglio]({{< ref "chicken-salmoriglio" >}})
 

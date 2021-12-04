@@ -154,4 +154,4 @@ I hope you enjoy this Kimchi jjigae recipe. If you try it, be sure to let us kno
 
 Other Korean recipes from The Jamil Ghar:
 
-* [Tteokbokki](https://www.jamilghar.com/recipe/tteokbokki/)
+* [Tteokbokki]({{< ref "tteokbokki" >}})

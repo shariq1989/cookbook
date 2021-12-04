@@ -95,6 +95,6 @@ I hope you enjoy this creamy cauliflower mash recipe. If you try it, be sure to 
 
 #### Pair cauliflower with these recipes from The Jamil Ghar: 
 
-* [Braised Short Ribs](https://www.jamilghar.com/recipe/braised-shortribs/)
-* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi-roast/)
-* [Rindsgulasch](https://www.jamilghar.com/recipe/rindsgulasch/)
+* [Braised Short Ribs]({{< ref "braised-short-ribs" >}})
+* [Mississippi Roast]({{< ref "mississippi-roast" >}})
+* [Rindsgulasch]({{< ref "rindsgulasch" >}})

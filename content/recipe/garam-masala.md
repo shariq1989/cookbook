@@ -102,9 +102,8 @@ I hope you enjoy this homemade garam masala spice blend. If you try it, be sure 
 
 #### Recipes from The Jamil Ghar that use Garam Masala: 
 
-* [Biryani](https://www.jamilghar.com/recipe/chicken-biryani/)
-* [Butter Chicken](https://www.jamilghar.com/recipe/butter-chicken/)
-* [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/)
-* [Moong Dal](https://www.jamilghar.com/recipe/moong-dal/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
+* [Butter Chicken]({{< ref "butter-chicken" >}})
+* [Channa Masala]({{< ref "channa-masala" >}})
+* [Moong Dal]({{< ref "moong-dal" >}})
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})
 

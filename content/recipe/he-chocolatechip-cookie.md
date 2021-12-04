@@ -47,7 +47,7 @@ Cooking Time: 10-14 minutes
 
 ### ABOUT THE COOKIES 
 
-I’ve always loved cooking and baking, but I haven’t always been great at it- especially baking. With the success of my [nutella cookies](https://www.jamilghar.com/recipe/nutella_cookies/), I was on a mission to bake the perfect chocolate chip cookie. Well, here it is, folks. I hope you enjoy these chocolate chip cookies our family loves, with specific instructions for high elevation.  
+I’ve always loved cooking and baking, but I haven’t always been great at it- especially baking. With the success of my [nutella cookies]({{< ref "he-nutella-cookies" >}}), I was on a mission to bake the perfect chocolate chip cookie. Well, here it is, folks. I hope you enjoy these chocolate chip cookies our family loves, with specific instructions for high elevation.  
 
 #### What ingredients are needed for this meal?
 

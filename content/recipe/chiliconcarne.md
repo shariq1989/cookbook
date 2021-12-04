@@ -149,7 +149,7 @@ Served as a stew without beans and paired with a low-carb [tortilla](https://amz
 
 Like the dish itself, this too is highly debated. We enjoy our chili con carne as a stew topped with onion, shredded cheese, cilantro, avocado, and thinly sliced chillies. Our meal is made complete with warm corn tortillas. 
 
-Because chili con carne ingredients are so widely disputed, there is room to serve it however you'd like. As a stew, you can pair the chili with corn tortillas like we do or with [tortilla chips](https://www.jamilghar.com/recipe/homemade_corn_tortilla_chips/), corn chips, flour tortillas, or cornbread. Hey, this is the Texas state dish after all. I have even seen chili con carne served over rice or macaroni noodles. You could also pair it with a side of [Mexican Rice](https://www.jamilghar.com/recipe/mexican_rice/). The moral of the story is- get creative and adjust the meal to your family's preference. Either way, we know it is a meal that you and those around you will enjoy.  
+Because chili con carne ingredients are so widely disputed, there is room to serve it however you'd like. As a stew, you can pair the chili with corn tortillas like we do or with [tortilla chips]({{< ref "corn-tortilla-chips" >}}), corn chips, flour tortillas, or cornbread. Hey, this is the Texas state dish after all. I have even seen chili con carne served over rice or macaroni noodles. You could also pair it with a side of [Mexican Rice]({{< ref "mexican-rice" >}}). The moral of the story is- get creative and adjust the meal to your family's preference. Either way, we know it is a meal that you and those around you will enjoy.  
 
 #### Can I freeze chili con carne?
 
@@ -195,7 +195,7 @@ I hope you enjoy this easy chili con carne recipe. If you try it, be sure to let
 
 Other recipes from The Jamil Ghar you may enjoy:
 
-* [Rindsgulasch](https://www.jamilghar.com/recipe/rindsgulasch/) 
-* [Pozole Rojo](https://www.jamilghar.com/recipe/pozole/)
-* [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
+* [Rindsgulasch]({{< ref "rindsgulasch" >}}) 
+* [Pozole Rojo]({{< ref "pozole-rojo" >}})
+* [Carnitas]({{< ref "carnitas" >}})
 

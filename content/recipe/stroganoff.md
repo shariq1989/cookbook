@@ -46,13 +46,13 @@ Cuisine: American
 4. Next, add the onion, garlic, and mushrooms. Sweat them over medium heat until they begin to soften. 
 5. Stir in the two cans of cream of mushroom and the onion soup mix, then return the meat to the [dutch oven](https://amzn.to/3qf0Yfz) and mix well.  
 6. Cover and cook for about 15-20 minutes; stir occasionally to prevent burning. 
-7. To serve, garnish with sour cream and serve with egg noodles, mashed potatoes, or [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). 
+7. To serve, garnish with sour cream and serve with egg noodles, mashed potatoes, or [cauliflower mash]({{< ref "cauliflower-mash" >}}). 
 
 #### CROCKPOT BEEF STROGANOFF INSTRUCTIONS 
 
 1. Add the beef and the rest of the ingredients to the [cockpot](https://amzn.to/3qetMos). 
 2. Cook on low for 6 hours or high for 4 hours, depending on your preference.
-3. To serve, garnish with sour cream and serve with egg noodles, mashed potatoes, or [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). 
+3. To serve, garnish with sour cream and serve with egg noodles, mashed potatoes, or [cauliflower mash]({{< ref "cauliflower-mash" >}}). 
 
 {{< end_recipe >}}
 
@@ -104,7 +104,7 @@ You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a fu
 {{< figure src="/images/bstro5.jpeg" class="instructionFigure">}}
 
 6. Cover and cook for about 15-20 minutes; stir occasionally to prevent burning. 
-7. To serve, garnish with sour cream and serve with egg noodles, mashed potatoes, or [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). 
+7. To serve, garnish with sour cream and serve with egg noodles, mashed potatoes, or [cauliflower mash]({{< ref "cauliflower-mash" >}}). 
 
 {{< figure src="/images/bstro6.jpeg" class="instructionFigure">}}
 
@@ -114,7 +114,7 @@ I hope you enjoy this easy beef stroganoff recipe. If you try it, be sure to let
 
 Other recipes from The Jamil Ghar:
 
-* [Cauliflower Mash](https://www.jamilghar.com/recipe/cauliflower_mash/) 
-* [Braised Short Ribs](https://www.jamilghar.com/recipe/braised_short_ribs/)
-* [Mississippi Roast](https://www.jamilghar.com/recipe/mississippi_roast/)
-* [Rindsgulasch](https://www.jamilghar.com/recipe/rindsgulasch/)
+* [Cauliflower Mash]({{< ref "cauliflower-mash" >}}) 
+* [Braised Short Ribs]({{< ref "braised-short-ribs" >}})
+* [Mississippi Roast]({{< ref "mississippi-roast" >}})
+* [Rindsgulasch]({{< ref "rindsgulasch" >}})

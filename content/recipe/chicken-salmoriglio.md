@@ -132,9 +132,9 @@ I hope you enjoy this recipe for chicken salmoriglio. If you try it, be sure to 
 
 #### Other chicken recipes from The Jamil Ghar:
 
-* [BBQ Chicken Drumsticks](https://www.jamilghar.com/recipe/bbq-drumsticks/)
-* [Honey and Miso Baked Chicken](https://www.jamilghar.com/recipe/honey-drumsticks/)
-* [Jerk Chicken Fricassee](https://www.jamilghar.com/recipe/jerk-fricassee/)
-* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
+* [BBQ Chicken Drumsticks]({{< ref "bbq-drumsticks" >}})
+* [Honey and Miso Baked Chicken]({{< ref "honey-miso-drumsticks" >}})
+* [Jerk Chicken Fricassee]({{< ref "jerk-fricassee" >}})
+* [Peruvian Roasted Chicken]({{< ref "peruvian-chicken" >}})
 
 Find the original recipe at [Chicken Salmoriglio Milkstreet](https://www.177milkstreet.com/recipes/chicken-salmoriglio-tn-med).

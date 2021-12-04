@@ -159,5 +159,5 @@ I hope you enjoy this recipe for shrimp etouffee. If you try it, be sure to let 
 
 Other recipes you may be interested in from The Jamil Ghar:
 
-* [Peanut Lime Shrimp](https://www.jamilghar.com/recipe/peanut_lime_shrimp/)
-* [Singapore Noodles](https://www.jamilghar.com/recipe/singapore_noodles/)
+* [Peanut Lime Shrimp]({{< ref "peanutlime-shrimp" >}})
+* [Singapore Noodles]({{< ref "singapore-noodles" >}})

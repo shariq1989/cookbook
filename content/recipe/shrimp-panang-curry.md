@@ -120,5 +120,5 @@ I hope you enjoy this recipe for a Thai panang curry with shrimp. If you try it,
 
 Other Thai recipes from The Jamil Ghar:
 
-* [Thai Red Curry with Chicken](https://www.jamilghar.com/recipe/thai_red_curry/)
-* [Thai Yellow Curry with Chicken](https://www.jamilghar.com/recipe/yellow_thai_curry/)
+* [Thai Red Curry with Chicken]({{< ref "thai-red-curry" >}})
+* [Thai Yellow Curry with Chicken]({{< ref "yellow_thai_curry" >}})

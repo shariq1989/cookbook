@@ -50,7 +50,7 @@ Cuisine: American
 6. Add water, cooking wine, and stir to combine. Bring the mixture to a boil and then turn off the heat.
 7. Nestle the reserved short ribs into the pan, along with thyme and butter. 
 8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours. 
-9. Serve with mashed potatoes or a [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). You will want something to soak up the vegetables and gravy the meat cooks in.  
+9. Serve with mashed potatoes or a [cauliflower mash]({{< ref "cauliflower-mash" >}}). You will want something to soak up the vegetables and gravy the meat cooks in.  
 
 {{< end_recipe >}}
 
@@ -105,7 +105,7 @@ Cuisine: American
 {{< figure src="/images/bsr7.jpg" class="instructionFigure">}}
 
 8. Cover with the lid and cook in the oven for 2 1/2 to 3 hours. 
-9. Serve with mashed potatoes or a [cauliflower mash](https://www.jamilghar.com/recipe/cauliflower_mash/). You will want something to soak up the vegetables and gravy the meat cooks in.    
+9. Serve with mashed potatoes or a [cauliflower mash]({{< ref "cauliflower-mash" >}}). You will want something to soak up the vegetables and gravy the meat cooks in.    
 
 {{< figure src="/images/bshr8.jpg" class="instructionFigure">}}
 

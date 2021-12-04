@@ -48,13 +48,13 @@ For the Peruvian Chicken Rub:
 5. Spread the mixture evenly over the whole chicken.
 6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano-crema/) or Peruvian green sauce and thinly sliced serrano chilies to serve.
+8. Garnish with [serrano crema](({{< ref "serrano-crema" >}}) or Peruvian green sauce and thinly sliced serrano chilies to serve.
 
 {{< end_recipe >}}
 
 ### About the Meal 
 
-This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with our take on the delicious Peruvian green sauce or serrano crema. I hope you enjoy this meal our family loves.
+This Peruvian chicken recipe is butterflied and roasted whole in the oven in about 45 minutes. We serve the roasted chicken with our take on Peruvian green sauce or serrano crema they serve in restaurants. I hope you enjoy this tasty meal our family loves.
 
 #### What ingredients are needed for this meal?
 
@@ -77,7 +77,7 @@ Yes, it is. I even calculated the macros to make it easy for you. The serving si
 * PROTEIN – 27g
 * FAT – 10g
 
-To finish your low-carb meal, I recommend serving keto, Peruvian chicken with cauliflower rice and a side of [serrano crema](https://www.jamilghar.com/recipe/serrano-crema/). 
+To finish your low-carb meal, I recommend serving keto, Peruvian chicken with cauliflower rice and a side of [serrano crema]({{< ref "serrano-crema" >}}). 
 
 ---- 
 
@@ -99,7 +99,7 @@ To finish your low-carb meal, I recommend serving keto, Peruvian chicken with ca
 
 6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano-crema/)(Peruvian green sauce) and thinly sliced serrano chilies to serve.
+8. Garnish with [serrano crema](({{< ref "serrano-crema" >}})(Peruvian green sauce) and thinly sliced serrano chilies to serve.
 
 ---- 
 
@@ -107,8 +107,8 @@ I hope you enjoy this Peruvian roasted chicken recipe. If you try it, be sure to
 
 Other recipes from The Jamil Ghar:
 
-* [BBQ Drumsticks](https://www.jamilghar.com/recipe/bbq-drumsticks/)
-* [Baked Chicken with Olive Dressing](https://www.jamilghar.com/recipe/olive-chicken/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
+* [BBQ Drumsticks]({{< ref "bbq-drumsticks" >}})
+* [Baked Chicken with Olive Dressing]({{< ref "olive-chicken" >}})
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})
 
 The original recipe is found in the [Food Lab](https://amzn.to/3f41x4R), by Kenji Lopez-Alt

@@ -161,6 +161,6 @@ I hope you enjoy this recipe for bhuna gosht. If you try it, be sure to let us k
 
 Other recipes from The Jamil Ghar:
 
-* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht-karahi/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
-* [Moong Dal](https://www.jamilghar.com/recipe/moong-dal/)
+* [Karahi Gosht]({{< ref "gosht-karahi" >}})
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})
+* [Moong Dal]({{< ref "moong-dal" >}})

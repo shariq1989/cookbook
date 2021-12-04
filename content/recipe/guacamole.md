@@ -111,6 +111,6 @@ I hope you enjoy this authentic guacamole recipe. If you try it, be sure to let 
 
 Pair guacamole with these recipes from The Jamil Ghar:
 
-* [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
-* [Ground Beef Taco](https://www.jamilghar.com/recipe/beef-taco/)
-* [Corn Tortilla Chips](https://www.jamilghar.com/recipe/corn-tortilla-chips/)
+* [Carnitas]({{< ref "carnitas" >}})
+* [Ground Beef Taco]({{< ref "beef-taco" >}})
+* [Corn Tortilla Chips]({{< ref "corn-tortilla-chips" >}})

@@ -138,5 +138,5 @@ I hope you enjoy this recipe for peanut lime shrimp. If you try it, be sure to l
 
 Other recipes from The Jamil Ghar:
 
-* [Shrimp Etouffee](https://www.jamilghar.com/recipe/shrimp-ettouffee/)
-* [Thai Panang Curry with Shrimp](https://www.jamilghar.com/recipe/shrimp-panang-curry/)
+* [Shrimp Etouffee]({{< ref "shrimp-etoufee" >}})
+* [Thai Panang Curry with Shrimp]({{< ref "shrimp-panang-curry" >}})

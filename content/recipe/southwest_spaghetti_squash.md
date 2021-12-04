@@ -117,12 +117,12 @@ For the Southwest Filling:
 5. When the spaghetti squash is done baking and cooled, use a fork to fluff and separate the strands from the squash. Then add the strands to a large mixing bowl. 
 6. Combine the reserved meat mixture with the squash in the bowl, and return the mixture to the squash casing or another baking dish. 
 7. Cover the mixture with cheese and bake for another 10 minutes. 
-8. Garnish with cilantro, cabbage, onion, chillies, or sour cream; serve with a side salad, cilantro lime rice, or [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/). 
+8. Garnish with cilantro, cabbage, onion, chillies, or sour cream; serve with a side salad, cilantro lime rice, or [Mexican rice]({{< ref "mexican-rice" >}}). 
 ----
 
 I hope you enjoy this recipe for Southwest Spaghetti Squash. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
-* [Pazole Rojo](https://www.jamilghar.com/recipe/pozole/) 
-* [Ground Beef Taco](https://www.jamilghar.com/recipe/ground_beef_taco/)
-* [P.F. Changs Lettuce Wrap Copycat](https://www.jamilghar.com/recipe/lettuce_wrap/)
+* [Pazole Rojo]({{< ref "pozole-rojo" >}}) 
+* [Ground Beef Taco]({{< ref "beef-taco" >}})
+* [P.F. Changs Lettuce Wrap Copycat]({{< ref "pfchangs-lettuce-wrap" >}})

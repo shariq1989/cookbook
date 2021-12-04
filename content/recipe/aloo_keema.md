@@ -44,7 +44,7 @@ Cuisine: Pakistani, Indian
 5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned, about 8 minutes. 
 6. Add the tomato puree to the pan and increase the heat until it comes to a boil. Reduce the heat and simmer for another 10 minutes, adjust the heat accordingly. 
 7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
-8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha](https://www.jamilghar.com/recipe/paratha/), or naan. 
+8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha]({{< ref "paratha" >}}), or naan. 
 
 {{< end_recipe >}}
 
@@ -120,7 +120,7 @@ You sure can. First, allow the qeema to cool completely, and then add it to a fr
 
 {{< figure src="/images/ak5.jpeg" class="instructionFigure">}}
 
-8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha](https://www.jamilghar.com/recipe/paratha/), or naan. 
+8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha]({{< ref "paratha" >}}), or naan. 
 
 {{< figure src="/images/ak6.jpeg" class="instructionFigure">}}
 
@@ -130,7 +130,7 @@ I hope you enjoy this quick and easy aloo keema recipe. If you try it, be sure t
 
 Other recipes from The Jamil Ghar:
 
-* [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna-gosht/)
-* [Chana Masala](https://www.jamilghar.com/recipe/channa-masala/)
-* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht-karahi/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
+* [Bhuna Gosht]({{< ref "bhuna-gosht" >}})
+* [Chana Masala]({{< ref "channa-masala" >}})
+* [Karahi Gosht]({{< ref "gosht-karahi" >}})
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})

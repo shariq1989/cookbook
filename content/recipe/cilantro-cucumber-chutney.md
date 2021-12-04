@@ -65,5 +65,5 @@ Store the leftover chutney in an air-tight container and it will keep the fridge
 
 #### Pair chutney with other recipes from The Jamil Ghar:
 
-* [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
+* [Channa Masala]({{< ref "channa-masala" >}})
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})
