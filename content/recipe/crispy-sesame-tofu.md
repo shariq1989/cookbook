@@ -177,7 +177,7 @@ For the Frying:
 I hope you enjoy this recipe for vegan sesame tofu. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar: 
-* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi-jjigae/)
-* [Sesame Mushroom and Tofu Stir-Fry](https://www.jamilghar.com/recipe/sesame-tofu-mushroom/)
+* [Kimchi Jjigae]({{< ref "kimchi-jigae" >}})
+* [Sesame Mushroom and Tofu Stir-Fry]({{< ref "sesame-tofu-mushroom" >}})
 
 Find the original recipe at [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach). 

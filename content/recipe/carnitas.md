@@ -60,7 +60,7 @@ To Serve:
 6. Remove the pork from the [Instant Pot] using a slotted spoon, leaving the juices behind. Allow the meat to cool some before shredding it, and then spread it onto a [rimmed baking sheet](https://amzn.to/3kNBH9a). 
 7. Pre-heat oven to 400 degrees.
 8. Cover the meat with liquid smoke (to taste) and cook for 4 minutes, until you begin to see crispy bits, and depending on your oven. The more crispy bits, the better. You may even want to move the meat around and repeat this process a few times based on personal preference. 
-9. Serve on warm corn tortillas and garnish with onions and cilantro. This meal pairs well with our [Mexican rice](https://www.jamilghar.com/recipe/mexican_rice/).
+9. Serve on warm corn tortillas and garnish with onions and cilantro. This meal pairs well with our [Mexican rice]({{< ref "mexican-rice" >}}).
 
 {{< end_recipe >}}
 

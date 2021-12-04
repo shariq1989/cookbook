@@ -107,6 +107,6 @@ I hope you enjoy this easy salsa recipe. If you try it, be sure to let us know w
 
 Pair our avocado and cilantro salsa with other recipes from The Jamil Ghar:
 
-* [Carnitas](https://www.jamilghar.com/recipe/carnitas/)
-* [Ground Beef Tacos](https://www.jamilghar.com/recipe/beef-taco/)
-* [Corn Tortilla Chips](https://www.jamilghar.com/recipe/corn-tortilla-chips/)
+* [Carnitas]({{< ref "carnitas" >}})
+* [Ground Beef Tacos]({{< ref "beef-taco" >}}/)
+* [Corn Tortilla Chips]({{< ref "corn-tortilla-chips" >}})

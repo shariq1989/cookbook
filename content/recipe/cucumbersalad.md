@@ -92,4 +92,4 @@ Cuisine: Japanese
 I hope you enjoy this recipe for sunomono. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
-* [Cucumber, Avocado, and Tomato Salad](https://www.jamilghar.com/recipe/cucumber-avocado-tomato/)
+* [Cucumber, Avocado, and Tomato Salad]({{< ref "cucumber-avocado-tomato" >}})

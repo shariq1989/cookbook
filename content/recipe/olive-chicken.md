@@ -79,7 +79,7 @@ This recipe is inspired by Alison Roman’s "Vinegar Chicken with Crushed Olive 
 I hope you enjoy this baked chicken with olive dressing. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
-* [BBQ Chicken Drumsick](https://www.jamilghar.com/recipe/bbq-drumsticks/)
-* [Chicken Salmoriglio](https://www.jamilghar.com/recipe/chicken-salmoriglio/)
-* [Peruvian Roasted Chicken](https://www.jamilghar.com/recipe/peruvian-chicken/)
-* [Tandoori Chicken](https://www.jamilghar.com/recipe/tandoori-chicken/)
+* [BBQ Chicken Drumsick]({{< ref "bbq-drumsticks" >}})
+* [Chicken Salmoriglio]({{< ref "chicken-salmoriglio" >}})
+* [Peruvian Roasted Chicken]({{< ref "peruvian-chicken" >}})
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})

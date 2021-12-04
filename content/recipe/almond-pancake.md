@@ -104,4 +104,4 @@ I hope you enjoy this easy almond flour pancake recipe. If you try it, be sure t
 
 Other recipes from The Jamil Ghar:
 
-* [Double Chocolate Low Carb Muffins](https://www.jamilghar.com/recipe/chocolate-lowcarb-muffins/)
+* [Double Chocolate Low Carb Muffins]({{< ref "chocolate-lowcarb-muffins" >}})

@@ -112,5 +112,5 @@ I hope you enjoy this vegetarian eggs benedict recipe. If you try it, be sure to
 
 Other breakfast recipes from The Jamil Ghar:
 
-* [Low Carb Biscuits and Gravy](https://www.jamilghar.com/recipe/biscuits_and_gravylc/)
-* [No Yeast Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon_rolls/)
+* [Low Carb Biscuits and Gravy]({{< ref "lc-biscuits-gravy" >}})
+* [No Yeast Cinnamon Rolls]({{< ref "cinnamon-rolls" >}})

@@ -143,6 +143,6 @@ I hope you enjoy this easy hamburger vegetable soup recipe. If you try it, be su
 
 Other soup and stew recipes from The Jamil Ghar:
 
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/)
-* [Kedjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/) 
+* [Chili Con Carne]({{< ref "chiliconcarne" >}})
+* [Kedjenou]({{< ref "kedjenou" >}})
+* [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}}) 

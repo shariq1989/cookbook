@@ -98,5 +98,5 @@ I hope you enjoy this recipe for Thai red curry with Chicken. If you try it, be 
 
 Other Thai recipes from The Jamil Ghar:
 
-* [Thai Panang Curry with Shrimp](https://www.jamilghar.com/recipe/shrimp_panang_curry/) 
-* [Thai Yellow Curry with Chicken](https://www.jamilghar.com/recipe/yellow_thai_curry/)
+* [Thai Panang Curry with Shrimp]({{< ref "shrimp-panang-curry" >}}) 
+* [Thai Yellow Curry with Chicken]({{< ref "yellow_thai_curry" >}})

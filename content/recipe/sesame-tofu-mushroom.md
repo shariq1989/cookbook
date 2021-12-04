@@ -100,5 +100,5 @@ This dish caters to both a vegetarian and vegan way of eating. Easily replace th
 I hope you enjoy this recipe for sesame tofu and shiitake mushroom stir-fry. If you try it, be sure to let us know what you think!
 
 Other tofu recipes from The Jamil Ghar:
-* [Vegan Crispy Sesame Tofu with Coconut Chili Dressing](https://www.jamilghar.com/recipe/crispy_sesame_tofu/)
-* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
+* [Vegan Crispy Sesame Tofu with Coconut Chili Dressing]({{< ref "sesame-tofu-mushroom" >}})
+* [Kimchi Jjigae]({{< ref "kimchi-jigae" >}})

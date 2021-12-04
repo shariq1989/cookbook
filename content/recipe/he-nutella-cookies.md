@@ -89,6 +89,6 @@ You sure can. Roll the dough into one large ball and place it into a freezer-saf
 I hope you enjoy this recipe for Nutella and peanut butter cookies. If you try it, be sure to let us know what you think!
 
 Other dessert recipes from The Jamil Ghar:
-* [No Yeast- Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon-rolls/)
-* [Pumpkin Bars](https://www.jamilghar.com/recipe/pumpkin-bars/)
-* [Chocolate Chip Cookies](https://www.jamilghar.com/recipe/he-chocolatechip-cookie/)
+* [No Yeast- Cinnamon Rolls]({{< ref "cinnamon-rolls" >}})
+* [Pumpkin Bars]({{< ref "pumpkin-bars" >}})
+* [Chocolate Chip Cookies]({{< ref "he-chocolatechip-cookie" >}})

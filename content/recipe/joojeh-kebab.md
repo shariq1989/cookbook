@@ -59,7 +59,7 @@ For the Kebab:
 3. Next, skewer the chicken using [wide skewers](https://amzn.to/3E8BxAs). 
 4. Rest the skewers on the grill, about 4-5 inches from the flame or coals. If the grill is too small, be sure to grill the vegetables first. Keep them warm with aluminum foil while you grill the chicken. 
 5. Place the chicken skewers on the grill. As soon as one side begins changing color, grill the other side to seal the juiciness of the chicken. Keep turning the skewers until they are golden brown on all sides. Check a piece by cutting into it with a knife. 
-6. Remove the chicken and serve immediately with slices of lemon along with the vegetables and a nice side of our favorite [saffron rice](https://www.jamilghar.com/recipe/saffron_rice/). 
+6. Remove the chicken and serve immediately with slices of lemon along with the vegetables and a nice side of our favorite [saffron rice]({{< ref "saffron-rice" >}}). 
 
 {{< end_recipe >}}
 

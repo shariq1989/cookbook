@@ -149,8 +149,8 @@ I hope you enjoy this recipe for homemade pumpkin bars with cream cheese frostin
 
 Other recipes from The Jamil Ghar:
 
-* [Cinnamon Rolls](https://www.jamilghar.com/recipe/cinnamon-rolls/)
-* [Banana Bread](https://www.jamilghar.com/recipe/banana-bread/)
-* [Double Chocolate Low Carb Muffins](https://www.jamilghar.com/recipe/chocolate-lowcarb-muffins/)
-* [High Elevation Chocolate Chip Cookies](https://www.jamilghar.com/he-chocolatechip-cookie/)
-* [High Elevation Nutella and Peanut Butter Cookies](https://www.jamilghar.com/recipe/he-nutella-cookies/)
+* [Cinnamon Rolls]({{< ref "cinnamon-rolls" >}})
+* [Banana Bread]({{< ref "banana-bread" >}})
+* [Double Chocolate Low Carb Muffins]({{< ref "chocolate-lowcarb-muffins" >}})
+* [High Elevation Chocolate Chip Cookies]({{< ref "he-chocolatechip-cookie" >}})
+* [High Elevation Nutella and Peanut Butter Cookies]({{< ref "he-nutella-cookies" >}})

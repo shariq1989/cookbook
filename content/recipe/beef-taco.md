@@ -39,7 +39,7 @@ For the Toppings:
 
 * Shredded Cheddar Cheese
 * Sour Cream
-* [Guacamole](https://www.jamilghar.com/recipe/guacamole/)
+* [Guacamole]({{< ref "guacamole" >}})
 * [Tapatio](https://amzn.to/3HB21ww) 
 
 #### Instructions 
@@ -57,7 +57,7 @@ For the Tacos:
 2. Add the onions to the [pan](https://amzn.to/3oE3WYv) and cook until they become translucent and soften. 
 3. Next, add the ground beef and break it up with a [meat chopper](https://amzn.to/3bQ2coS); cook until brown and heated through for about 10 minutes. 
 4. Stir in the garlic and cilantro, and season the meat with garlic powder, salt, and taco seasoning. Mix to combine. Cover and allow the meat to simmer for about 5 minutes. 
-5. To serve, spoon the beef onto warmed corn tortillas and top with sour cream, homemade [guacamole](https://www.jamilghar.com/recipe/guacamole/), cheese, and a few drops of [Tapatio](https://amzn.to/3HB21ww). These tacos pair well with our favorite [Mexican rice](https://www.jamilghar.com/recipe/mexicanrice/) recipe. 
+5. To serve, spoon the beef onto warmed corn tortillas and top with sour cream, homemade [guacamole]({{< ref "guacamole" >}}), cheese, and a few drops of [Tapatio](https://amzn.to/3HB21ww). These tacos pair well with our favorite [Mexican rice]({{< ref "mexican-rice" >}}) recipe. 
 
 {{< end_recipe >}}
 
@@ -109,6 +109,6 @@ I hope you enjoy this recipe for ground beef tacos. If you try it, be sure to le
 
 Other recipes from The Jamil Ghar:
 
-* [Southwest Spaghetti Squash](https://www.jamilghar.com/recipe/southwest-spaghetti-squash/) 
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/) 
-* [Carnitas](https://www.jamilghar.com/recipe/carnitas/) 
+* [Southwest Spaghetti Squash]({{< ref "southwest_spaghetti_squash" >}}) 
+* [Chili Con Carne]({{< ref "chiliconcarne" >}}) 
+* [Carnitas]({{< ref "carnitas" >}}) 

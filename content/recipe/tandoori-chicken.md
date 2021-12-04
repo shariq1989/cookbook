@@ -36,7 +36,7 @@ Cuisine: Pakistani, Indian
 * 1 tsp [Turmeric](https://amzn.to/3cx3iao)
 * 1 tsp Cayenne Pepper
 * 1 tsp Paprika
-* 1 tbsp Homemade [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) or [Garam Masala](https://amzn.to/3u0tvEX) 
+* 1 tbsp Homemade [Garam Masala]({{< ref "garam-masala" >}}/) or [Garam Masala](https://amzn.to/3u0tvEX) 
 * 1/2 tsp [Red Food Powder](https://amzn.to/3b6L8vF), optional
 * 1 cup Plain Yogurt, full fat 
 * 2 tbsp Lemon Juice, plus lemon wedges to garnish
@@ -47,16 +47,16 @@ Cuisine: Pakistani, Indian
 
 #### TANDOORI CHICKEN IN THE OVEN 
 
-1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/), red food powder, yogurt, lemon juice, garlic, and ginger paste until smooth. 
+1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala]({{< ref "garam-masala" >}}/), red food powder, yogurt, lemon juice, garlic, and ginger paste until smooth. 
 2. Make 1-2 small slits in each chicken piece, and then toss them in the tandoori chicken marinade, along with the chopped onion, until coated. Cover and marinate in the fridge for at least 6 hours, but preferably 24 hours. 
 3. Pre-heat the oven to 400 degrees, and then set a [wire rack](https://amzn.to/3mp5wxK) into a [rimmed bakings sheets](https://amzn.to/3mmhAjd); line the chicken onto it, leaving the excess marinade behind. 
 4. Cook for 25-35 minutes, flipping the chicken halfway through. Check to make sure the temperature has reached 175 degrees. 
 5. Let the chicken rest for about 5 minutes before serving. 
-6. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney](https://www.jamilghar.com/recipe/raita/). 
+6. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney]({{< ref "cilantro-cucumber-chutney" >}}). 
 
 #### TANDOORI CHICKEN ON THE GRILL 
 
-1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
+1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala]({{< ref "garam-masala" >}}/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
 2. Make 1-2 small slits in each chicken piece, and then toss them in the tandoori chicken marinade, along with the chopped onion, until coated. Cover and marinate in the fridge for at least 6 hours, but preferably 24 hours.
 3. Pre-heat the grill by setting all burners to high, for about 10 minutes. 
 4. Turn off the rightmost burner, but maintain an overall grill temperature of 350 degrees.
@@ -65,7 +65,7 @@ Cuisine: Pakistani, Indian
 7. Move the chicken to the cool side of the grill, the rightmost burner you turned off, and cook them for 25 minutes.
 8. Flip the chicken; continue cooking until the chicken has reached over 175 degrees, about 20-30 minutes. 
 9. Let the chicken rest for 10 minutes before serving. 
-10. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney](https://www.jamilghar.com/recipe/raita/). 
+10. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney]({{< ref "cilantro-cucumber-chutney" >}}). 
 
 {{< end_recipe >}}
 
@@ -108,7 +108,7 @@ Yes. Allow the chicken to cool completely, and then add it to a freezer-safe con
 
 ### GRILL INSTRUCTIONS: STEP-BY-STEP 
 
-1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala]((https://www.jamilghar.com/recipe/pakistani_garam_masala/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
+1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala](({{< ref "garam-masala" >}}/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
 
 {{< figure src="/images/tc1.jpeg" class="instructionFigure">}}
 
@@ -127,7 +127,7 @@ Yes. Allow the chicken to cool completely, and then add it to a freezer-safe con
 {{< figure src="/images/tc3.jpeg" class="instructionFigure">}}
 
 9. Let the chicken rest for 10 minutes before serving. 
-10. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney](https://www.jamilghar.com/recipe/raita/). 
+10. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney]({{< ref "cilantro-cucumber-chutney" >}}). 
 
 {{< figure src="/images/tc5.jpeg" class="instructionFigure">}}
 
@@ -137,8 +137,8 @@ I hope you enjoy this homemade tandoori chicken recipe. If you try it, be sure t
 
 Other recipes from The Jamil Ghar:
 
-* [Keema](https://www.jamilghar.com/recipe/aloo_qeema/) 
-* [Chana Masala](https://www.jamilghar.com/recipe/chana_masala/)
-* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht_karahi/) 
-* [Moong Dal](https://www.jamilghar.com/recipe/moong_dal/)
+* [Keema]({{< ref "aloo_keema" >}}) 
+* [Chana Masala]({{< ref "channa-masala" >}})
+* [Karahi Gosht]({{< ref "gosht-karahi" >}}) 
+* [Moong Dal]({{< ref "moong-dal" >}})
 

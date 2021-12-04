@@ -121,8 +121,8 @@ You sure can. First, allow the chicken karahi to cool completely, and then add i
 I hope you enjoy the best chicken karahi recipe our family comes back to again and again. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
-* [Aloo Qeema](https://www.jamilghar.com/recipe/aloo-qeema/)
-* [Bhuna Gosht](https://www.jamilghar.com/recipe/bhuna-gosht/) 
-* [Channa Masala](https://www.jamilghar.com/recipe/channa-masala/) 
-* [Karahi Gosht](https://www.jamilghar.com/recipe/gosht-karahi/)
-* [Moong Dal](https://www.jamilghar.com/recipe/moong-dal/)
+* [Aloo Qeema]({{< ref "aloo_keema" >}})
+* [Bhuna Gosht]({{< ref "bhuna-gosht" >}}) 
+* [Channa Masala]({{< ref "channa-masala" >}}) 
+* [Karahi Gosht]({{< ref "gosht-karahi" >}})
+* [Moong Dal]({{< ref "moong-dal" >}})

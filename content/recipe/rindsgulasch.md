@@ -160,9 +160,9 @@ I hope you enjoy this Austrian beef stew with paprika and caraway recipe. If you
 
 Other stew recipes from The Jamil Ghar:
 
-* [Beef and Barley Stew](https://www.jamilghar.com/recipe/beef-barley-stew/)
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/)
-* [Chicken Kedjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Georgian Chicken Soup](https://www.jamilghar.com/recipe/georgian-soup/)
+* [Beef and Barley Stew]({{< ref "beef-barley-stew" >}})
+* [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}})
+* [Chicken Kedjenou]({{< ref "kedjenou" >}})
+* [Georgian Chicken Soup]({{< ref "georgian-soup" >}})
 
 This original recipe can be found at [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash)

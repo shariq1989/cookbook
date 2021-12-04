@@ -145,6 +145,6 @@ I hope you enjoy this Olive Garden Zuppa Toscana copycat. If you try it, be sure
 
 Other soup and stew recipes from The Jamil Ghar:
 
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef_chickpea_stew/)
-* [Chikmirtka](https://www.jamilghar.com/recipe/georgian_soup/)
-* [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
+* [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}})
+* [Chikmirtka]({{< ref "georgian-soup" >}})
+* [Kenjenou]({{< ref "kedjenou" >}})

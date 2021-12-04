@@ -111,6 +111,6 @@ I hope you enjoy this recipe for homemade pozole. If you try it, be sure to let 
 
 Other recipes from The Jamil Ghar:
 
-* [Chili Con Carne](https://www.jamilghar.com/recipe/chiliconcarne/)
-* [Guacamole](https://www.jamilghar.com/recipe/guacamole/)
-* [Mexican Rice](https://www.jamilghar.com/recipe/mexican-rice/)
+* [Chili Con Carne]({{< ref "chiliconcarne" >}})
+* [Guacamole]({{< ref "guacamole" >}})
+* [Mexican Rice]({{< ref "mexican-rice" >}})

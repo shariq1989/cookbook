@@ -103,4 +103,4 @@ There are so many ways to dress up Tteokbokki. Many people enjoy adding fish cak
 I hope you enjoy this recipe for Tteokbokki. If you try it, be sure to let us know what you think!
 
 Other Korean recipes from The Jamil Ghar:
-* [Kimchi Jiigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
+* [Kimchi Jiigae]({{< ref "kimchi-jigae" >}})

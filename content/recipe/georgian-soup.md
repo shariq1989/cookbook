@@ -143,9 +143,9 @@ Leftover soup will keep in the fridge for 3-4 days in a covered container. To ex
 ----
 
 Other recipes from The Jamil Ghar: 
-* [Beef and Chickpea Stew](https://www.jamilghar.com/recipe/beef-chickpea-stew/)
-* [Goat Yakhni](https://www.jamilghar.com/recipe/goat-yakhni/)
-* [Kenjenou](https://www.jamilghar.com/recipe/kedjenou/)
-* [Zuppa Toscana](https://www.jamilghar.com/recipe/zuppa-toscana/)
+* [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}})
+* [Goat Yakhni]({{< ref "goat-yakhni" >}})
+* [Kenjenou]({{< ref "kedjenou" >}})
+* [Zuppa Toscana]({{< ref "zuppa_toscana" >}})
 
 Find the original recipe at [Milk Street](https://www.177milkstreet.com/recipes/georgian-chicken-soup).

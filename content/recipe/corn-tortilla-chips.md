@@ -50,7 +50,7 @@ Cuisine: Mexican
 
 ### ABOUT THE CHIPS 
 
-Ever eat chips in a restaurant and wonder why they are so much better than store-bought chips? We have got you covered; these made-from-scratch corn tortillas taste just like what you would get in a restaurant. Seriously, if forced to eat one food for the rest of my life, I would likely choose chips and salsa, specifically with these chips. They are a favorite in our home, and it's not just me, our children love them also. Enjoy these chips with our homemade [salsa](https://www.jamilghar.com/recipe/homemade_chunky_salsa/), [guacamole](https://www.jamilghar.com/recipe/guacamole/), or go another direction and make dessert nachos with fruit and whipped cream. 
+Ever eat chips in a restaurant and wonder why they are so much better than store-bought chips? We have got you covered; these made-from-scratch corn tortillas taste just like what you would get in a restaurant. Seriously, if forced to eat one food for the rest of my life, I would likely choose chips and salsa, specifically with these chips. They are a favorite in our home, and it's not just me, our children love them also. Enjoy these chips with our homemade [salsa]({{< ref "salsa-cilantro-avocado" >}}), [guacamole]({{< ref "guacamole" >}}), or go another direction and make dessert nachos with fruit and whipped cream. 
 
 #### What ingredients are needed for this meal?
 
