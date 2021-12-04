@@ -8,7 +8,7 @@ tags = [
     "keto"
 ]
 
-thumbnail= "peruvianroastedchicken.jpeg"
+#thumbnail= "peruvianroastedchicken.jpeg"
 nutrition="https://www.verywellfit.com/thmb/zxrUNIG3Q_MhZ_Vb2ik0PrrA19Q=/1000x0/Nutrition-Label-Embed-1807164603-9c8de5652e7740f4914243e6cfd94a25.png"
 +++
 
