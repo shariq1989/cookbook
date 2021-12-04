@@ -8,8 +8,7 @@ tags = [
     "keto"
 ]
 
-thumbnail= "peruvianroastedchicken.jpeg"
-nutrition="https://www.verywellfit.com/thmb/zxrUNIG3Q_MhZ_Vb2ik0PrrA19Q=/1000x0/Nutrition-Label-Embed-1807164603-9c8de5652e7740f4914243e6cfd94a25.png"
+thumbnail= "images/peruvianroastedchicken.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -66,11 +65,8 @@ Peruvian Chicken Marinade: I used a combination of [cumin](https://amzn.to/3eebp
 #### What equipment do I need to make this recipe?
 
 * A [wire rack](https://amzn.to/3bE8h90)
-
 * A [rimmed baking sheet](https://amzn.to/339IQqI)
-
 * A small bowl
-
 * A [food thermometer](https://amzn.to/2RnEB8c)
 
 #### Is Peruvian chicken keto? Is it low-carb?

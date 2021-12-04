@@ -9,7 +9,7 @@ tags = [
     "vegetarian",
     "vegan"
 ]
-thumbnail= "images/mushroomtofustirfry.jpeg"
+thumbnail= "images/sesamemushroomtofu.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -59,7 +59,7 @@ Cuisine: Chinese, American
 
 ### ABOUT THE MEAL 
 
-This savory tofu and mushroom stir-fry comes together in about 30 minutes and serves as a perfect vegetarian or vegan main dish. The crispy tofu absorbs the earthy mushroom and sesame flavor for a hearty and filling meal. I hope you enjoy this recipe that is always on regular rotation in our home.
+This savory tofu and mushroom stir-fry comes together in about 30 minutes and serves as a perfect vegetarian or vegan main dish. The crispy tofu absorbs the earthy mushroom and sesame flavor for a hearty and filling meal. I hope you enjoy this recipe our family loves. 
 
 #### What main ingredients do I need for this meal?
 
@@ -71,7 +71,7 @@ This savory tofu and mushroom stir-fry comes together in about 30 minutes and se
 
 #### What equipment do I need to make this recipe?
 
-* A [rimmed baking sheet](https://amzn.to/3BmRIbW)
+* A [rimmed baking sheet](https://amzn.to/3EAPI1e)
 * A [large skillet](https://amzn.to/3nUk88P) or [wok](https://amzn.to/2YC4Mfx)
 * A small bowl
 
@@ -86,14 +86,38 @@ This dish caters to both a vegetarian and vegan way of eating. Easily replace th
 1. Pre-heat the oven to 350 degrees.
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes and lightly season with salt and pepper. 
 3. Spread out the tofu onto the [rimmed baking sheet](https://amzn.to/3BmRIbW) and cook for 15 minutes, turning the tofu pieces midway.
+
+{{< figure src="/images/stms1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/stms2.jpeg" class="instructionFigure">}}
+
 4. In a [skillet](https://amzn.to/3nUk88P) or [wok](https://amzn.to/2YC4Mfx), warm sesame oil over medium-high heat and add the already baked tofu to the hot pan. Fry until the pieces become golden brown. Set aside. 
+
+{{< figure src="/images/stms3.jpeg" class="instructionFigure">}}
+
 5. Using the same oil (add more if needed), add the chillies, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
+
+{{< figure src="/images/stms4.jpeg" class="instructionFigure">}}
+
 6. In a small bowl, combine the soy sauce, rice wine vinegar, fish sauce, honey, and water. Stir until the honey completely dissolves. 
+
+{{< figure src="/images/stms5.jpeg" class="instructionFigure">}}
+
 7. Off heat, add the ingredients from the bowl to the [pan](https://amzn.to/2YC4Mfx), and season with black pepper. 
 8. Return the [pan](https://amzn.to/2YC4Mfx) to medium-high heat, and bring the mixture to a boil. Then, whisk in the flour. 
+
+{{< figure src="/images/stms6.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/stms7.jpeg" class="instructionFigure">}}
+
 9. Add the mushrooms, stir to combine, and then lower the heat. Simmer until sauce reduces halfway, about 5 minutes. 
+
+{{< figure src="/images/stms8.jpeg" class="instructionFigure">}}
+
 10. Return the tofu to the pan and stir to combine.
 11. Garnish with toasted sesame seeds and scallion greens, and serve with jasmine rice. 
+
+{{< figure src="/images/stms9.jpeg" class="instructionFigure">}}
 
 ----
 
