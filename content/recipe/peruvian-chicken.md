@@ -54,7 +54,7 @@ For the Peruvian Chicken Rub:
 
 ### About the Meal 
 
-This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve our chicken with our take on the delicious Peruvian green sauce or serrano crema. I hope you enjoy this meal our family loves.
+This Peruvian chicken recipe is butterflied and roasted whole in the oven in about 45 minutes. We serve the roasted chicken with our take on Peruvian green sauce or serrano crema they serve in restaurants. I hope you enjoy this tasty meal our family loves.
 
 #### What ingredients are needed for this meal?
 
