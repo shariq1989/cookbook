@@ -9,7 +9,6 @@ tags = [
 ]
 
 #thumbnail= "images/peruvianroastedchicken.jpeg"
-nutrition="https://www.verywellfit.com/thmb/zxrUNIG3Q_MhZ_Vb2ik0PrrA19Q=/1000x0/Nutrition-Label-Embed-1807164603-9c8de5652e7740f4914243e6cfd94a25.png"
 +++
 
 Servings: 4-6 <!--more-->
@@ -49,7 +48,7 @@ For the Peruvian Chicken Rub:
 5. Spread the mixture evenly over the whole chicken.
 6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with [serrano crema]((https://www.jamilghar.com/recipe/serrano-crema/) or Peruvian green sauce and thinly sliced serrano chilies to serve.
+8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano-crema/) or Peruvian green sauce and thinly sliced serrano chilies to serve.
 
 {{< end_recipe >}}
 
@@ -66,11 +65,8 @@ Peruvian Chicken Marinade: I used a combination of [cumin](https://amzn.to/3eebp
 #### What equipment do I need to make this recipe?
 
 * A [wire rack](https://amzn.to/3bE8h90)
-
 * A [rimmed baking sheet](https://amzn.to/339IQqI)
-
 * A small bowl
-
 * A [food thermometer](https://amzn.to/2RnEB8c)
 
 #### Is Peruvian chicken keto? Is it low-carb?
@@ -103,7 +99,7 @@ To finish your low-carb meal, I recommend serving keto, Peruvian chicken with ca
 
 6. Place the chicken in the middle of the prepared [wire rack](https://amzn.to/3bE8h90) and roast for 35 to 45 minutes.
 7. Transfer the chicken to a cutting board and tent loosely with foil for 10 minutes. 
-8. Garnish with [serrano crema]((https://www.jamilghar.com/recipe/serrano-crema/)(Peruvian green sauce) and thinly sliced serrano chilies to serve.
+8. Garnish with [serrano crema](https://www.jamilghar.com/recipe/serrano-crema/)(Peruvian green sauce) and thinly sliced serrano chilies to serve.
 
 ---- 
 
