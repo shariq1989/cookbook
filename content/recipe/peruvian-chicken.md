@@ -8,7 +8,7 @@ tags = [
     "keto"
 ]
 
-#thumbnail= "images/peruvianroastedchicken.jpeg"
+thumbnail= "images/peruvianroastedchicken.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
