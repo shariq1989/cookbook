@@ -9,7 +9,7 @@ tags = [
     "vegetarian",
     "vegan"
 ]
-thumbnail= "images/mushroomtofustirfry.jpeg"
+thumbnail= "images/sesamemushroomtofu.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -90,28 +90,42 @@ This dish caters to both a vegetarian and vegan way of eating. Easily replace th
 2. Prepare the tofu by patting it dry with a cloth to remove as much moisture as possible. Cut the tofu into bite-size cubes and lightly season with salt and pepper. 
 3. Spread out the tofu onto the [rimmed baking sheet](https://amzn.to/3BmRIbW) and cook for 15 minutes, turning the tofu pieces midway.
 
+{{< figure src="/images/stms1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/stms2.jpeg" class="instructionFigure">}}
 
 4. In a [skillet](https://amzn.to/3nUk88P) or [wok](https://amzn.to/2YC4Mfx), warm sesame oil over medium-high heat and add the already baked tofu to the hot pan. Fry until the pieces become golden brown. Set aside. 
 
+{{< figure src="/images/stms3.jpeg" class="instructionFigure">}}
 
 5. Using the same oil (add more if needed), add the chillies, scallion whites, and garlic. Cook until fragrant, about 1 minute. 
 
+{{< figure src="/images/stms4.jpeg" class="instructionFigure">}}
 
 6. In a small bowl, combine the soy sauce, rice wine vinegar, fish sauce, honey, and water. Stir until the honey completely dissolves. 
 
+{{< figure src="/images/stms5.jpeg" class="instructionFigure">}}
 
 7. Off heat, add the ingredients from the bowl to the [pan](https://amzn.to/2YC4Mfx), and season with black pepper. 
 8. Return the [pan](https://amzn.to/2YC4Mfx) to medium-high heat, and bring the mixture to a boil. Then, whisk in the flour. 
 
+{{< figure src="/images/stms6.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/stms7.jpeg" class="instructionFigure">}}
 
 9. Add the mushrooms, stir to combine, and then lower the heat. Simmer until sauce reduces halfway, about 5 minutes. 
+
+{{< figure src="/images/stms8.jpeg" class="instructionFigure">}}
+
 10. Return the tofu to the pan and stir to combine.
 11. Garnish with toasted sesame seeds and scallion greens, and serve with jasmine rice. 
+
+{{< figure src="/images/stms9.jpeg" class="instructionFigure">}}
 
 ----
 
 I hope you enjoy this recipe for sesame tofu and shiitake mushroom stir-fry. If you try it, be sure to let us know what you think!
 
 Similar recipes from The Jamil Ghar:
-* [Vegan Crispy Sesame Tofu with Coconut Chili Dressing](https://www.jamilghar.com/recipe/crispy_sesame_tofu/)
-* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi_jigae/)
+* [Vegan Crispy Sesame Tofu with Coconut Chili Dressing](https://www.jamilghar.com/recipe/crispy-sesame-tofu/)
+* [Kimchi Jjigae](https://www.jamilghar.com/recipe/kimchi-jigae/)
