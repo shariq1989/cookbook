@@ -8,6 +8,9 @@ tags = [
   
 ]
 thumbnail= "images/chickenbiryani.jpeg"
+aliases = [
+    "ip_chicken_biryani"
+]
 +++
 
 Servings: 10 <!--more-->

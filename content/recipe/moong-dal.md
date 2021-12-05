@@ -9,6 +9,9 @@ tags = [
     
 ]
 #thumbnail= "images/MoongDal.jpg"
+aliases = [
+"moong_dal"
+]
 +++
 
 Servings: 8 <!--more-->

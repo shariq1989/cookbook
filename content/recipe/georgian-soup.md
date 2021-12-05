@@ -8,6 +8,9 @@ tags = [
     "instant pot",
 ]
 thumbnail= "images/georgianchickensoup.jpeg"
+aliases = [
+"georgian_soup"
+]
 +++
 
 Servings: 6-8 <!--more-->

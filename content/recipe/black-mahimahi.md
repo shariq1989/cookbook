@@ -11,6 +11,9 @@ tags = [
     
 ]
 thumbnail= "images/blackenedmahimango.jpeg"
+aliases = [
+"blackened_mahimahi"
+]
 +++
 
 Servings: 4-5 <!--more-->

@@ -7,6 +7,9 @@ tags = [
   
 ]
 thumbnail= "images/chicken_karahi.jpeg"
+aliases = [
+"chicken_karahi"
+]
 +++
 
 Servings: 3-4 <!--more-->
