@@ -1,10 +1,11 @@
 +++
-title = "Bachelor Beef Stroganoff"
+title = "Easy Beef Stroganoff"
 date = "2021-11-07"
-description = "What's in a name? You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a funny story with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, thew two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made traditional beef stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves."
+description = "You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a funny story with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, the two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made traditional beef stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves."
 tags = [
-    "entree",
-    "slow cooker", 
+    "dinner",
+    "slow cooker meal",
+
 ]
 thumbnail= "images/bachelorstroganoff.jpeg"
 +++
@@ -22,9 +23,9 @@ Cuisine: American
 
 {{< start_recipe >}}
 
-### How to Make Bachelor Beef Stroganoff 
+### How to Make Beef Stroganoff 
 
-#### INGREDIENTS 
+#### Ingredients  
  
 * 2 tbsp Butter
 * 2 lb Beef Short Ribs, boneless, cut into strips against the grain 
@@ -38,17 +39,17 @@ Cuisine: American
 * Kosher Salt, to taste 
 * Black Pepper, coarse ground, to taste
 
-#### DUTCH OVEN BEEF STROGANOFF INSTRUCTIONS 
+#### Dutch Oven Beef Stroganoff Instructions  
 
 1. Generously season beef with salt and pepper, and set it aside. 
 2. Warm butter in a [dutch oven](https://amzn.to/3qf0Yfz) over medium heat. 
 3. Add a single layer of the reserved beef to the bottom of the [dutch oven](https://amzn.to/3qf0Yfz). Cook until it browns, and then set it aside. Repeat until all the meat is seared.  
 4. Next, add the onion, garlic, and mushrooms. Sweat them over medium heat until they begin to soften. 
 5. Stir in the two cans of cream of mushroom and the onion soup mix, then return the meat to the [dutch oven](https://amzn.to/3qf0Yfz) and mix well.  
-6. Cover and cook for about 15-20 minutes; stir occasionally to prevent burning. 
+6. Cover and cook for about 15-20 minutes. Stir the dish occasionally to prevent burning. 
 7. To serve, garnish with sour cream and serve with egg noodles, mashed potatoes, or [cauliflower mash]({{< ref "cauliflower-mash" >}}). 
 
-#### CROCKPOT BEEF STROGANOFF INSTRUCTIONS 
+#### Crockpot Beef Stroganoff Instructions 
 
 1. Add the beef and the rest of the ingredients to the [cockpot](https://amzn.to/3qetMos). 
 2. Cook on low for 6 hours or high for 4 hours, depending on your preference.
@@ -56,15 +57,14 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
+This is our easy beef stroganoff recipe, or as we affectionately called it, "bachelor beef stroganoff." You may be wondering why we call it that; it's a funny story with an endearing memory for our family. Long before our kiddos, when my husband and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, the two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made beef stroganoff. I adjusted a few of the ingredients, as the original was more simple than this, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves.
 
-You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a funny story with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, the two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made traditional beef stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves.
-
-#### Beef Stroganoff Ingredients for this Recipe: 
+#### Beef Stroganoff Ingredients:
 
 * Butter 
 
-* Beef Short Ribs: I prefer the tenderness of the beef short ribs, but regular stew meat will work just fine for this meal; that's what Shariq used to use for his batch meals. Most stores will even have the stew meat cut for you. Be sure to adjust the cooking time accordingly, as stew meat can take longer to become tender. 
+* Beef Short Ribs: I prefer the tenderness of the beef short ribs, but regular stew meat will work just fine for this meal; that's what Shariq used for his batch meals. Most stores will have the stew meat cut for you. Be sure to adjust the cooking time accordingly, as stew meat takes longer to become tender. 
 
 * Onion 
 
@@ -82,7 +82,9 @@ You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a fu
 
 * A [dutch oven](https://amzn.to/3qf0Yfz) or [crockpot](https://amzn.to/3qetMos)
 
-### DUTCH OVEN INSTRUCTIONS: STEP-BY-STEP 
+----
+
+### Dutch Oven Instructions: Step-by-Step 
 
 1. Generously season the beef with salt and pepper, and set it aside. 
 
@@ -103,7 +105,7 @@ You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a fu
 
 {{< figure src="/images/bstro5.jpeg" class="instructionFigure">}}
 
-6. Cover and cook for about 15-20 minutes; stir occasionally to prevent burning. 
+6. Cover and cook for about 15-20 minutes. Stir the dish occasionally to prevent burning. 
 7. To serve, garnish with sour cream and serve with egg noodles, mashed potatoes, or [cauliflower mash]({{< ref "cauliflower-mash" >}}). 
 
 {{< figure src="/images/bstro6.jpeg" class="instructionFigure">}}
