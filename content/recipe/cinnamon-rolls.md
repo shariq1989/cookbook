@@ -1,8 +1,7 @@
 +++
 title = " Easy No Yeast Cinnamon Rolls"
 date = "2020-01-18"
-description = "Nothing beats a warm batch of gooey cinnamon rolls. During the first Covid lockdown, we found ourselves craving a little bit of comfort. There was one problem; we couldn't find yeast anywhere. We had to find a way to make cinnamon rolls with no yeast, and they had to be yummy. These easy peasy cinnamon rolls deliver all the goodness of traditional cinnamon rolls without prepping and proofing a yeast dough. By omitting yeast from the recipe and replacing it with baking powder, the preparation time is cut in half, meaning you get cinnamon rolls to the table even faster.
-By including baking powder, we created a nice buttermilk cinnamon roll we spread with frosting with no cream cheese. We hope you enjoy these no yeast cinnamon rolls our family loves."
+description = "Nothing beats a warm batch of gooey cinnamon rolls. During the first Covid lockdown, we found ourselves craving a little bit of comfort. There was one problem; we couldn't find yeast anywhere. We had to find a way to make cinnamon rolls with no yeast, and they had to be yummy. These easy peasy cinnamon rolls deliver all the goodness of traditional cinnamon rolls without prepping and proofing a yeast dough. By omitting yeast from the recipe and replacing it with baking powder, the preparation time is cut in half, meaning you get cinnamon rolls to the table even faster. By including baking powder, we created a nice buttermilk cinnamon roll we spread with frosting with no cream cheese. We hope you enjoy these no yeast cinnamon rolls our family loves."
 tags = [
     "dessert",
     "vegetarian",

@@ -10,6 +10,9 @@ tags = [
     "vegan"
 ]
 thumbnail= "images/kimchijjigae1.jpeg"
+aliases = [
+"kimchi_jigae"
+]
 +++
 
 Servings: 2 <!--more-->

@@ -11,6 +11,9 @@ tags = [
     
 ]
 thumbnail= "images/Yahkni.jpg"
+aliases = [
+"goat_yakhni"
+]
 +++
 
 Servings: 5 <!--more-->

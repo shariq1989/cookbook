@@ -8,6 +8,9 @@ tags = [
 ]
 
 #thumbnail= "images/panangcurry.jpeg"
+aliases = [
+"shrimp_panang_curry"
+]
 +++
 
 Servings: 3-4 <!--more-->

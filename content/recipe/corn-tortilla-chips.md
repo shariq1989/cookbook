@@ -116,4 +116,4 @@ Pair these chips with other recipes from The Jamil Ghar:
 
 * [Ground Beef Tacos]({{< ref "beef-taco" >}})
 * [Homemade Salsa with Cilantro and Avocado]({{< ref "salsa-cilantro-avocado" >}})
-* [Chorizo Breakfast Burrito]({{< ref "chorizo-burritoo" >}})
+* [Chorizo Breakfast Burrito]({{< ref "chorizo-burrito" >}})
