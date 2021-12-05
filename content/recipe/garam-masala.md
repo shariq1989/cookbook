@@ -1,10 +1,9 @@
-
 +++
 title = "Pakistani Garam Masala"
 date = "2021-03-12"
-description = "Garam Masala, in English, means hot spice. It is the main ingredient in many Indian dishes. Garam Masala doesn't carry the name hot spice because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani homes, you will find a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserved them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Indian recipes and easily alters the taste of what you're making. Finding the right combination is crucial; here is one of the authentic garam masala recipes we use in our home most often."
+description = "Garam Masala, in English, means "hot spice." It is the main ingredient in many Pakistani and Indian dishes. Garam Masala doesn't carry the name 'hot spice' because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. While you can buy garam masala in stores, most Bengali, Indian, and Pakistani homes have a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserve them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Pakistani and Indian recipes; it can easily alter the flavor of what you're making. Finding the right combination of spices is crucial. In this garam masala recipe, I use green cardamom, black cardamom, a broken down cinnamon stick, black cloves, cumin seeds, coriander seeds, nutmeg, mace, and bay leaves. Other spices used to make garam masala include: peppercorns, star anise, dried ginger, asafoetida powder, caraway seeds, and fenugreek. The only equipment you need to make garam masala at home is a skillet and a spice grinder or a mortar and pestle. Once ground, store the garam masala in an air-tight glass jar, like a mason jar. It will last for about 4-6 weeks. I hope you enjoy this authentic garam masala recipe we use in our home often."
 tags = [
-    "spices",
+    "spice blends",
 ]
 thumbnail= "images/pakistanigarammasala.jpeg"
 +++
@@ -19,7 +18,7 @@ Cuisine: Pakistani
 
 {{< start_recipe >}}
 
-### How to Make Garam Masala 
+### How to Make Garam Masala Powder
 
 #### Ingredients 
 
@@ -41,11 +40,11 @@ Cuisine: Pakistani
 
 {{< end_recipe >}}
 
-### ABOUT GARAM MASALA
+### About the Spice 
 
-Garam Masala, in English, means "hot spice." It is the main ingredient in many Indian dishes. Garam Masala doesn't carry the name 'hot spice' because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. 
+Garam Masala, in English, means "hot spice." It is the main ingredient in many Pakistani and Indian dishes. Garam Masala doesn't carry the name 'hot spice' because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. 
 
-While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani homes, you will find a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserved them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Indian recipes and easily alters the taste of what you're making. Finding the right combination is crucial; here is one of the authentic garam masala recipes we use in our home most often.
+While you can buy garam masala in stores, most Bengali, Indian, and Pakistani homes have a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserve them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Pakistani and Indian recipes; it can easily alter the flavor of what you're making. Finding the right combination of spices is crucial. I hope you enjoy this authentic garam masala recipe we use in our home often.
 
 #### Garam Masala List of Ingredients:
 
@@ -76,7 +75,7 @@ While you can buy garam masala in stores, in most Bengali, Indian, and Pakistani
 
 #### How do I store garam masala? 
 
-Once ground, store the garam masala in an air-tight glass jar, like a mason jar. Store it in a cool, dry place, and it will last for about 4-6 weeks. If you prefer, you can also store the whole garam masala spices in an air-tight glass jar, like a mason jar. You should still store it in a cool, dry place, and then grind the mixture as needed. The whole garam masala spices will keep for 4-6 weeks. 
+Once ground, store the garam masala in an air-tight glass jar, like a mason jar. Store it in a cool, dry place, and it will last for about 4-6 weeks. If you prefer, you can also store the whole garam masala spices in an air-tight glass jar, like a mason jar. Be sure to store it in a cool, dry place, and then grind the mixture as needed. The whole garam masala spices will also keep for 4-6 weeks. 
 
 ---- 
 
@@ -100,7 +99,7 @@ Once ground, store the garam masala in an air-tight glass jar, like a mason jar.
 
 I hope you enjoy this homemade garam masala spice blend. If you try it, be sure to let us know what you think!
 
-#### Recipes from The Jamil Ghar that use Garam Masala: 
+#### Recipes from The Jamil Ghar that use Garam Masala Seasoning: 
 
 * [Butter Chicken]({{< ref "butter-chicken" >}})
 * [Channa Masala]({{< ref "channa-masala" >}})
