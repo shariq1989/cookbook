@@ -1,7 +1,7 @@
 +++
 title = "Vietnamese-Style Caramel Chicken"
 date = "2021-05-14"
-description = "You will love this one pan, Vietnamese-inspired chicken. It's cooked in a sticky-sweet base of coconut and caramelized shallots, and packs the heat with the use of fresh chilies. While cooking, it will look like plain chicken up until the last few minutes, when it will caramelize right before your eyes. I top ours with fresh cilantro, thinly sliced serrano chilies, and a bit of lime zest. I hope you enjoy this Vietnamese caramel chicken recipe our family loves."
+description = "You will love this one pan, Vietnamese-inspired chicken. It's cooked in a sticky-sweet base of coconut water and caramelized shallots and ginger; it packs the heat with the use of fresh chilies. While cooking, it will look like plain chicken up until the last few minutes, when it will caramelize right before your eyes. I top ours with fresh cilantro, thinly sliced serrano chilies, and a bit of lime zest. I hope you enjoy this Vietnamese caramel chicken recipe our family loves."
 tags = [
     "dinner",
     "quick meals"
@@ -36,7 +36,7 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 * Black Pepper, coarse ground, to taste
 * Kosher Salt, to taste
 * ¼ cup Cilantro, chopped, to garnish 
-* 1 Serrano or Thai Chili, thinly sliced, to garnish 
+* 1 Serrano, thinly sliced, to garnish 
 
 #### Instructions 
 
@@ -48,13 +48,13 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 6. Adjust the temperature to maintain a simmer over medium-low heat for about 5 minutes. 
 7. Season the chicken with salt and pepper and nestle the thighs into the [pan](https://amzn.to/3yMZYQH). Let it continue to simmer for another 10 minutes. 
 8. Turn the chicken and maintain a simmer until the mixture is thoroughly caramelized. 
-9. Garnish the thighs with cilantro and your choice of thinly sliced chili. To serve, pair the caramel chicken with rice, coconut rice, or a Vietnamese tossed salad. 
+9. Garnish the thighs with cilantro and your choice of thinly sliced chili. Serve the caramel chicken with rice, coconut rice, or a Vietnamese-tossed salad. 
 
 {{< end_recipe >}}
 
 ### About the Meal 
 
-You will love this one pan, Vietnamese-inspired chicken. It's cooked in a sticky-sweet base of coconut and caramelized shallots, and packs the heat with the use of fresh chilies. While cooking, it will look like plain chicken up until the last few minutes, when it will caramelize right before your eyes. I top ours with fresh cilantro, thinly sliced serrano chilies, and a bit of lime zest. I hope you enjoy this Vietnamese caramel chicken recipe our family loves.
+You will love this one pan, Vietnamese-inspired chicken. It's cooked in a sticky-sweet base of coconut water and caramelized shallots and ginger; it packs the heat with the use of fresh chilies. While cooking, it will look like plain chicken up until the last few minutes, when it will caramelize right before your eyes. I top ours with fresh cilantro, thinly sliced serrano chilies, and a bit of lime zest. I hope you enjoy this Vietnamese caramel chicken recipe our family loves.
 
 #### What ingredients are needed for this meal?
 
@@ -113,7 +113,7 @@ You will love this one pan, Vietnamese-inspired chicken. It's cooked in a sticky
 
 {{< figure src="/images/vnc5.jpg" class="instructionFigure">}}
 
-9. Garnish the thighs with cilantro and your choice of thinly sliced chili. To serve, pair the caramel chicken with rice, coconut rice, or a Vietnamese tossed salad. 
+9. Garnish the thighs with cilantro and your choice of thinly sliced chili. Serve the caramel chicken with rice, coconut rice, or a Vietnamese-tossed salad. 
 
 {{< figure src="/images/vnc6.jpeg" class="instructionFigure">}}
 
