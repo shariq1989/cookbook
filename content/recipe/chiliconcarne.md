@@ -5,7 +5,7 @@ description = "Chili Con Carne means chili with meat and is made of tender beef,
 tags = [
     "dinner",
     "instant pot",
-    "slow cooker"
+    "slow cooker",
     "low carb",
    
 ]
