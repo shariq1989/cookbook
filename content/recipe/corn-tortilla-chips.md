@@ -1,16 +1,17 @@
 +++
 title = "Homemade Corn Tortilla Chips"
 date = "2021-05-05"
-description = ""
+description = "Have you ever eaten chips in a restaurant and wondered why they are so much better than store-bought chips? We've got you covered; these made-from-scratch corn tortillas taste just like what you would get in a restaurant. Seriously, if forced to eat one food for the rest of my life, chips and salsa would be it, specifically with these chips. They are a favorite in our home, and it's not just of mine; our children love them also. Enjoy these tortilla chips from corn tortillas with our homemade salsa with cilantro and avocado or guacamole. You could also make dessert nachos dusted with sugar and cinnamon and topped with fruit and whipped cream. Other topping variations include Tajin and lime zest. Should you have leftovers, tortilla chips store well in a paper bag or an airtight container on your countertop. They will last for up to one week, but I highly recommend eating them the same day for the best results."
 tags = [
-    "side",
+    "side dish",
     "vegan",
     "vegetarian",
+    "snack"
 ]
 thumbnail= "images/homemadecornchips.jpg"
 +++
 
-Servings: About 70 Chips <!--more-->
+Servings: About 5 Dozen Chips <!--more-->
 
 Preparation Time: 5 minutes
 
@@ -28,7 +29,7 @@ Cuisine: Mexican
 * 12 Corn Tortillas, cut into six wedges 
 * Kosher Salt, to taste
   
-#### Stove-Top Instructions
+#### Stove-Top Instructions: Fried Corn Tortilla Chips
 
 1. Gather the corn tortillas and cut them into six wedges. Set aside. 
 2. Set a [wire rack](https://amzn.to/3bc4gbc) into a [rimmed baking sheet](https://amzn.to/2QTLqyJ). I cover the baking sheet with a cloth or parchment paper for easy cleanup. 
@@ -37,7 +38,7 @@ Cuisine: Mexican
 5. With a pair of tongs, remove the tortilla chips and place them onto the [wire rack](https://amzn.to/3bc4gbc) to drain. Sprinkle evenly with Kosher salt while they are still hot. When the chips have had an opportunity to drain, add them to a [serving bowl](https://amzn.to/3euX5Ng) to make room for the other chips on the wire rack.
 6. Repeat with the remaining tortilla chips until all have had a chance to fry.
 
-#### Oven Instructions
+#### Oven Instructions: Baked Corn Tortilla Chips 
 
 1. Preheat the oven to 350 degrees. 
 2. Prepare two [rimmed baking sheet](https://amzn.to/2QTLqyJ).
@@ -48,17 +49,17 @@ Cuisine: Mexican
 
 {{< end_recipe >}}
 
-### ABOUT THE CHIPS 
+### About the Chips 
 
-Ever eat chips in a restaurant and wonder why they are so much better than store-bought chips? We have got you covered; these made-from-scratch corn tortillas taste just like what you would get in a restaurant. Seriously, if forced to eat one food for the rest of my life, I would likely choose chips and salsa, specifically with these chips. They are a favorite in our home, and it's not just me, our children love them also. Enjoy these chips with our homemade [salsa]({{< ref "salsa-cilantro-avocado" >}}), [guacamole]({{< ref "guacamole" >}}), or go another direction and make dessert nachos with fruit and whipped cream. 
+Have you ever eaten chips in a restaurant and wondered why they are so much better than store-bought chips? We've got you covered; these made-from-scratch corn tortillas taste just like what you would get in a restaurant. Seriously, if forced to eat one food for the rest of my life, chips and salsa would be it, specifically with these chips. They are a favorite in our home, and it's not just of mine; our children love them also. Enjoy these tortilla chips from corn tortillas with our [homemade salsa with cilantro and avocado]({{< ref "salsa-cilantro-avocado" >}}), or [guacamole]({{< ref "guacamole" >}}). You could also make dessert nachos dusted with sugar and cinnamon and topped with fruit and whipped cream. 
 
 #### What ingredients are needed for this meal?
 
-* Corn Tortillas: Our family loves corn tortilla chips; you could also use blue corn or flour tortillas instead. 
+* Corn Tortillas: Our family loves corn tortilla chips; you could use blue corn or flour tortillas instead. 
 
-* Coconut Oil: I love the added flavor of the coconut oil, but you can use your preferred oil. However,  choose an oil with a high smoke point since you are frying the tortillas. I suggest using avocado oil or vegetable oil. You can also use canola oil, grapeseed oil, or sunflower oil.
+* Coconut Oil: I love the added flavor of coconut oil, but use your preferred oil. However,  choose an oil with a high smoke point since you are frying the tortillas. I suggest using avocado oil or vegetable oil. You can also use canola oil, grapeseed oil, or sunflower oil.
 
-* Salt: I use Kosher salt because that is something I always have in my pantry, but you could use sea salt. Both will give you the restaurant-quality salt experience we know and love. 
+* Salt: I use Kosher salt because that is something I always have in my pantry; sea salt is a great alternative. Both will give you the restaurant-quality salt experience we know and love. 
 
 #### What equipment do I need to make this recipe?
 
@@ -73,7 +74,7 @@ Ever eat chips in a restaurant and wonder why they are so much better than store
 
 * Lime: Add the zest and juice of a lime over the chips and toss for a citrus tang.
 
-* Sweetener: Want to try something a little adventurous? Try out dessert nachos using the same tortilla chips found in this recipe. 
+* Sweets: Want something a little adventurous? Try dessert nachos using the same tortilla chips found in this recipe. Juts add, cinnamon and sugar in place of salt, and then top the chips with fruit and whipped cream. 
 
 #### What is the best way to store leftover chips? 
 
@@ -108,3 +109,11 @@ Should you have leftovers, these chips store well in a paper bag or an airtight 
 {{< figure src="/images/chip7.jpg" class="instructionFigure">}}
 
 ----
+
+I hope you enjoy this recipe for homemade tortilla chips. If you try it, be sure to let us know what you think!
+
+Pair these chips with other recipes from The Jamil Ghar:
+
+* [Ground Beef Tacos]({{< ref "beef-taco" >}})
+* [Homemade Salsa with Cilantro and Avocado]({{< ref "salsa-cilantro-avocado" >}})
+* [Chorizo Breakfast Burrito]({{< ref "chorizo-burritoo" >}})
