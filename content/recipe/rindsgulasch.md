@@ -69,7 +69,7 @@ Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew, also called rindsgulasch. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is soft and tender. The result of this recipe is a dark, smooth, and flavorful gravy you expect from rindsgulasch.
 
@@ -114,7 +114,7 @@ Gulasch or goulash originated in Hungary. Today, it has evolved into unique dish
 
 #### What can I serve alongside rindsgulasch? 
 
-I typically serve rindsgulasch with egg noodles; you could also pair it with roasted potatoes, mashed potatoes, or a traditional spätzle. 
+I serve rindsgulasch with egg noodles most of the time; you could also pair it with roasted potatoes, mashed potatoes, cauliflower rice or a traditional spätzle. 
 
 #### Can I freeze rindsgulasch?
 
@@ -156,7 +156,7 @@ Note: Freeze the goulash separately and then prepare fresh noodles when you're r
 
 ---- 
 
-I hope you enjoy this Austrian beef stew with paprika and caraway recipe. If you try it, be sure to let us know what you think!
+I hope you enjoy our Austrian beef stew with paprika and caraway recipe. If you try it, be sure to let us know what you think!
 
 Other stew recipes from The Jamil Ghar:
 
