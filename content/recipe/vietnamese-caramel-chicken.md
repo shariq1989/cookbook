@@ -1,10 +1,9 @@
-
 +++
 title = "Vietnamese-Style Caramel Chicken"
 date = "2021-05-14"
-description = "You will love this one pan, Vietnamese-inspired chicken. It is sticky sweet and packs a bit of heat with the additions of fresh chillies. While cooking, it will look like plain ol' chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours with fresh cilantro, thinly sliced chillies, and a bit of lime zest. I hope you enjoy this Vietnamese-style chicken our family loves. "
+description = "You will love this one pan, Vietnamese-inspired chicken. It's cooked in a sticky-sweet base of coconut and caramelized shallots, and packs the heat with the use of fresh chilies. While cooking, it will look like plain chicken up until the last few minutes, when it will caramelize right before your eyes. I top ours with fresh cilantro, thinly sliced serrano chilies, and a bit of lime zest. I hope you enjoy this Vietnamese caramel chicken recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
     "quick meals"
 ]
 
@@ -27,7 +26,7 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 
 #### Ingredients  
 
-* 3 tbsp White Sugar 
+* 3 tbsp White Sugar, granulated  
 * 2/3 cup Coconut Water, divided
 * 5 tbsp [Fish Sauce](https://amzn.to/33GYOJj)
 * 6 large Shallots, thinly sliced
@@ -53,11 +52,11 @@ Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-cara
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
-You will love this one pan, Vietnamese-inspired chicken. It is sticky sweet and packs a bit of heat with the additions of fresh chillies. While cooking, it will look like plain ol' chicken right up until the last few minutes of cooking when it caramelizes right before your eyes, turning a perfect golden brown. I top ours with fresh cilantro, thinly sliced chillies, and a bit of lime zest. I hope you enjoy this Vietnamese-style chicken our family loves. 
+You will love this one pan, Vietnamese-inspired chicken. It's cooked in a sticky-sweet base of coconut and caramelized shallots, and packs the heat with the use of fresh chilies. While cooking, it will look like plain chicken up until the last few minutes, when it will caramelize right before your eyes. I top ours with fresh cilantro, thinly sliced serrano chilies, and a bit of lime zest. I hope you enjoy this Vietnamese caramel chicken recipe our family loves.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * White Sugar 
 
@@ -86,6 +85,8 @@ You will love this one pan, Vietnamese-inspired chicken. It is sticky sweet and 
 #### What equipment do I need to make this recipe?
 
 * A [saute pan](https://amzn.to/3yMZYQH) or [dutch oven](https://amzn.to/2VthKua)
+
+---- 
 
 ### Instructions: Step-By-Step 
 
@@ -118,4 +119,12 @@ You will love this one pan, Vietnamese-inspired chicken. It is sticky sweet and 
 
 ---- 
 
-Find the original recipe at [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-caramel-chicken)
+I hope you enjoy this caramel chicken recipe. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Baked Chicken with Olive Dressing]({{< ref "olive-chicken" >}})
+* [Chicken Salmoriglio]({{< ref "chicken-salmoriglio" >}})
+* [Jerk Chicken Fricassee]({{< ref "jerk-fricassee" >}})
+
+Find the original recipe at [Milkstreet: Vietnamese Caramel Chicken](https://www.177milkstreet.com/recipes/vietnamese-caramel-chicken)
