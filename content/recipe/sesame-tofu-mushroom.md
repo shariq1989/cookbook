@@ -11,6 +11,9 @@ tags = [
     "quick meal"
 ]
 thumbnail= "images/sesamemushroomtofu.jpeg"
+aliases = [
+"sesame_tofu_stirfry"
+]
 +++
 
 Servings: 4 <!--more-->
