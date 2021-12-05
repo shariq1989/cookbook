@@ -1,5 +1,5 @@
 +++
-title = "Chongqing Laziji - Sichuan Fried Chicken"
+title = "Sichuan Fried Chicken - Chongqing Laziji"
 date = "2020-12-08"
 description = "Chongqing laziji or Chongqing chicken is a famous Sichuan dish made of marinated and deep-fried chicken with fragrant Arbol chilies and mouth-numbing Sichuan peppercorns. Chongqing chicken is characterized by a heaping pile of dried red chilis alongside small pieces of crispy, tender chicken, which are traditionally plucked out using chopsticks, leaving most of the chilies behind. This dish looks intimidating at first glance, especially with all of those chilis, but don't be. The main ingredients for mala chicken include dark, bone-in chicken thighs, garlic, ginger, dried red chilis, and Sichuan peppercorns. This recipe can be modified to fit a gluten-free diet by using chickpea flour instead of all-purpose flour and Tamari sauce instead of dark soy sauce. The result is an irresistible moist chicken dish our family loves."
 tags = [
