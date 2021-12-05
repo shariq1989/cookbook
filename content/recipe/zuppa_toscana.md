@@ -2,14 +2,12 @@
 +++
 title = "Olive Garden Zuppa Toscana Copycat"
 date = "2021-03-28"
-description = "There are way too many versions of this Olive Garden soup recipe floating around the internet, and honestly, it makes sense! Zuppa Toscana is delicious. Before learning to make it at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks. This Olive Garden Zuppa Toscana soup is the ultimate comfort food. It's creamy and loaded with sausage, potatoes, and bright, crisp kale. This recipe is so delicious and filling; the whole family will enjoy it. You can make it in a dutch oven, the Instant Pot, or a Crockpot or slow cooker. Here is our take on Olive Garden Zuppa Toscana."
+description = "There are way too many versions of this Olive Garden favorite floating around the internet, and honestly, it makes sense! Zuppa Toscana is delicious. Before making the soup at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks. This Olive Garden Zuppa Toscana is the ultimate comfort food. It is creamy and loaded with sausage, potatoes, and bright, crisp kale; it so tasty and filling. Zuppa Toscana is simple to make and cooks well in a Dutch oven, Instant Pot, or a Crockpot or slow cooker. This soup is easy to modify as well. With a few modifications, you can have a vegetarian Zuppa Toscana, vegan Zuppa Toscana, Keto Zuppa Toscana, or Low-Carb Zuppa Toscana. I hope you enjoy our family's take on this better than Olive Garden Zuppa Toscana."
 tags = [
     "entree",
     "low carb",
 ]
 thumbnail= "images/zuppatoscana.jpeg"
-nutrition="https://www.verywellfit.com/thmb/zxrUNIG3Q_MhZ_Vb2ik0PrrA19Q=/1000x0/Nutrition-Label-Embed-1807164603-9c8de5652e7740f4914243e6cfd94a25.png"
-+++
 
 Servings: 4-6 <!--more-->
 
@@ -21,7 +19,9 @@ Cuisine: American, Italian
 
 {{< start_recipe >}}
 
-#### INGREDIENTS 
+### How to Make a Zuppa Toscana Copycat
+
+#### Ingredients  
 
 * 1 lb Mild Italian Sausage, ground 
 * 1 medium Yellow Onion, finely diced 
@@ -37,42 +37,40 @@ Cuisine: American, Italian
 * 5 Kale Leaves, stems removed and roughly chopped 
 * Fresh Parmesan Cheese, to garnish 
 
-### HOW TO Make Olive Garden Zuppa Toscana At Home 
+#### Zuppa Toscana Dutch Oven Instructions
 
-#### ZUPPA TOSCANA DUTCH OVEN INSTRUCTIONS 
-
-1. In a [dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. 
+1. In a [Dutch oven](https://amzn.to/3sFYTY1), cook the sausage over medium heat until brown. 
 2. Add the onions and garlic to the sausage. Cook until the onions become translucent and soften. 
 3. Add 4 cups of water and 1 tbsp Better Than Bouillon. 
 4. Next, add the potatoes, and season the mixture with oregano, garlic powder, salt, and pepper. 
 5. Cook over medium heat for 1 hour, stirring occasionally.  
 6. Off heat, stir in the kale and heavy cream to serve.
 
-#### ZUPPA TOSCANA INSTANT POT INSTRUCTIONS 
+#### Zuppa Toscana Instant Pot Instructions 
 
 1. In an [Instant Pot](https://amzn.to/3w5GDtJ), cook the sausage on saute mode until brown. 
 2. Add the onions and garlic to the sausage. Cook until the onions become translucent and soften. 
 3. Add 4 cups of water and 1 tbsp Better Than Bouillon. 
-4. Next, add the potatoes, and season with oregano, garlic powder, salt, and pepper. 
+4. Next, add the potatoes and season with oregano, garlic powder, salt, and pepper. 
 5. Secure the lid and set the [Instant Pot](https://amzn.to/3w5GDtJ) to manual high pressure for 10 minutes with quick release.  
 6. Unplug the [Instant Pot](https://amzn.to/3w5GDtJ)and allow the soup to cool, then stir in the kale and heavy cream to serve. 
 
-#### ZUPPA TOSCANA CROCKPOT INSTRUCTIONS 
+#### Zuppa Toscana Slow Cooker Instructions 
 
 1. In a [skillet](https://amzn.to/3xyWEtj), cook the sausage over medium heat until brown. 
 2. Add the onions and garlic to the sausage. Cook until onions become translucent and soften. 
 3. Add the mixture to your [Crockpot](https://amzn.to/3zIa7hR) or slow cooker, then add 4 cups of water and 1 tbsp of Better Than Bouillon. 
-4. Next, add the potatoes, and season with oregano, garlic powder, salt, and pepper. 
+4. Next, add the potatoes and season with oregano, garlic powder, salt, and pepper. 
 5. Gently stir ingredients, cover [crock pot](https://amzn.to/3zIa7hR), and cook on LOW for 5-6 hours or on HIGH for 3-4 hours.  
 6. Unplug the [Crockpot](https://amzn.to/3zIa7hR) and allow the soup to cool some, then stir in the kale and heavy cream to serve. 
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
-There are way too many versions of this Olive Garden soup recipe floating around the internet, and honestly, it makes sense! Zuppa Toscana is delicious. Before learning to make it at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks. This Olive Garden Zuppa Toscana soup is the ultimate comfort food. It's creamy and loaded with sausage, potatoes, and bright, crisp kale. This recipe is so delicious and filling; the whole family will enjoy it. You can make it in a dutch oven, the Instant Pot, or a Crockpot or slow cooker. Here is our take on Olive Garden Zuppa Toscana.
+There are way too many versions of this favorite Olive Garden soup floating around the internet, and honestly, it makes sense! Zuppa Toscana is delicious. Before making the soup at home, it was the only reason I went to Olive Garden. Well, that and the breadsticks. This Olive Garden Zuppa Toscana is the ultimate comfort food. It is creamy and loaded with sausage, potatoes, and bright, crisp kale; it is tasty and filling. I hope you enjoy our family's take on Olive Garden Zuppa Toscana.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Ground Italian Sausage: Control the heat by using mild or spicy Italian sausage. I prefer to switch it up depending on who we serve, though I am partial to a bit of spice.
 
@@ -102,24 +100,24 @@ There are way too many versions of this Olive Garden soup recipe floating around
 
 #### What equipment do I need to make this recipe? 
 
-* A [dutch oven](https://amzn.to/3sFYTY1), [Instant Pot](https://amzn.to/3w5GDtJ), or [Crockpot](https://amzn.to/3zIa7hR) 
+* A [Dutch oven](https://amzn.to/3sFYTY1), [Instant Pot](https://amzn.to/3w5GDtJ), or [Crockpot](https://amzn.to/3zIa7hR) 
 * A [skillet](https://amzn.to/3xyWEtj)
 
-#### Can I make vegatarian zuppa toscana? 
+#### Can I make vegatarian Zuppa Toscana? 
 
-Yes. You have a few options to replace the meat in this zuppa toscana copycat recipe and still maintain the original flavor and consistency; I suggest doubling the vegetables by adding more potatoes and kale. You could even include carrots or cauliflower. As another option, you could use an alternative like Beyond Sausage. It comes in sweet Italian and hot Italian to fit your preferences. Instead of the Chicken Better than Bouillon, use their [vegetable](https://amzn.to/3kK88Fi) option instead. 
+Yes, I suggest doubling the vegetables by adding more potatoes and kale. You could include carrots or cauliflower. As another option, you could use an alternative like Beyond Sausage. It comes in sweet Italian and hot Italian to fit your preferences. Instead of the Chicken Better than Bouillon, use their [vegetable](https://amzn.to/3kK88Fi) option. 
 
-#### Can I make Zuppa toscana vegan? 
+#### Can I make Zuppa Toscana vegan? 
 
-Like the vegetarian options above, replace the meat with more vegetables by doubling the potatoes and kale. You could even include carrots or cauliflower. Additionally, you can use an alternative like Beyond Sausage. It comes in sweet Italian and hot Italian to fit your preferences. Instead of the Chicken Better than Bouillon, use their [vegetable](https://amzn.to/3kK88Fi) option instead. Replace the heavy cream with full-fat [coconut cream](https://amzn.to/3ufLoA8), and skip the parmesan cheese. With these modifications, you will have a tasty, vegan Zuppa Toscana soup. 
+Like the vegetarian options above, replace the meat with more vegetables by doubling the potatoes and kale. You could include carrots or cauliflower. Additionally, you can use an alternative like Beyond Sausage. It comes in sweet Italian and hot Italian to fit your preferences. Instead of the Chicken Better than Bouillon, use their [vegetable](https://amzn.to/3kK88Fi) option. Replace the heavy cream with full-fat [coconut cream](https://amzn.to/3ufLoA8), and skip the parmesan cheese. With these modifications, you will have a tasty, vegan Zuppa Toscana. 
 
-#### Can I freeze zuppa toscana? 
+#### Can I freeze Zuppa Toscana? 
 
 You sure can. First, allow the soup to cool completely, and then add it to a freezer-safe container or bag. Zuppa Toscana will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm the soup on a stove or in the microwave, and enjoy!
 
 ---- 
 
-### ZUPPA TOSCANA INSTANT POT INSTRUCTIONS: STEP-BY-STEP  
+### Instant Pot Instructions: Step-by-Step 
 
 1. In an [Instant Pot](https://amzn.to/3w5GDtJ), cook the sausage on saute mode until brown. 
 
@@ -141,9 +139,9 @@ You sure can. First, allow the soup to cool completely, and then add it to a fre
 
 ---- 
 
-I hope you enjoy this Olive Garden Zuppa Toscana copycat. If you try it, be sure to let us know what you think! 
+I hope you enjoy our Olive Garden Zuppa Toscana copycat. If you try it, be sure to let us know what you think! 
 
-Other soup and stew recipes from The Jamil Ghar:
+Similar recipes from The Jamil Ghar:
 
 * [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}})
 * [Chikmirtka]({{< ref "georgian-soup" >}})
