@@ -1,4 +1,3 @@
-
 +++
 title = "Olive Garden Zuppa Toscana Copycat"
 date = "2021-03-28"
@@ -8,7 +7,7 @@ tags = [
     "low carb",
 ]
 thumbnail= "images/zuppatoscana.jpeg"
-
++++
 Servings: 4-6 <!--more-->
 
 Preparation Time: 10 minutes 

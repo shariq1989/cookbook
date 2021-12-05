@@ -10,6 +10,9 @@ tags = [
     "low carb",
 ]
 thumbnail= "images/serranocrema.jpeg"
+aliases = [
+    "serrano_crema"
+]
 +++
 
 Servings: 10 <!--more-->
