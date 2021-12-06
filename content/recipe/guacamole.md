@@ -3,13 +3,13 @@ title = "Homemade Guacamole"
 date = "2020-01-29"
 description = "For a super easy guacamole on the go, all you really need is a few ripe avocados and a little salt; everything else is extra, but oh so tasty. Enjoy this fresh guacamole recipe our whole family loves."
 tags = [
-    "side dish",
     "keto",
     "low carb",
     "vegetarian",
     "vegan",
+    "dip"
 ]
-thumbnail= "images/Guacamole.jpg"
+thumbnail= "images/guacamole.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -42,7 +42,7 @@ Cuisine: Mexican
 
 {{< end_recipe >}}
 
-### ABOUT THE SIDE 
+### About the Side
 
 For a super easy guacamole on the go, all you really need is a few ripe avocados and a little salt; everything else is extra, but oh so tasty. Enjoy this fresh guacamole recipe our whole family loves. 
 
@@ -86,24 +86,6 @@ Yes, it is, and we even calculated the macros to make it easier for you.
 #### How should I store guacamole?
 
 This guacamole keeps well in the fridge if stored properly. To do so, add the guacamole to an airtight container. I leave the pit in the guacamole and place plastic wrap on top; next, I press down so that the plastic covers any exposed guacamole. Cover the dish with the lid; it will keep up to 3-5 days.
-
----- 
-
- ### Instructions: Step-by-Step
-
-1. Slice the avocados in half, remove the pit, and scoop them into a small bowl. 
-
-{{< figure src="/images/guac1.jpg" class="instructionFigure">}}
-
-2. Mash the avocados with a fork or use a [food processor](https://amzn.to/3lamLSe). 
-
-{{< figure src="/images/guac2.jpg" class="instructionFigure">}}
-
-3. Add the remaining ingredients and mix well by hand for a chucky guacamole or in a [food processor](https://amzn.to/3lamLSe) to whip it smooth, whichever you prefer.  
-
-{{< figure src="/images/guac3.jpg" class="instructionFigure">}}
-
-4. Taste the guacamole and adjust the spice according to your preference. 
 
 ----
 
