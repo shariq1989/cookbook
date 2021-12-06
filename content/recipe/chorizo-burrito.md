@@ -111,6 +111,6 @@ I hope you enjoy this chorizo burrito recipe. If you try it, be sure to let us k
 
 Other recipes from The Jamil Ghar:
 
-* [Homemade Salsa with Cilantro and Avocado]({{< ref "salsa-cilantro-avocados" >}})
+* [Homemade Salsa with Cilantro and Avocado]({{< ref "salsa-cilantro-avocado" >}})
 * [Chili Con Carne]({{< ref "chiliconcarne" >}})
 * [Pozole Rojo]({{< ref "pozole-rojo" >}})
