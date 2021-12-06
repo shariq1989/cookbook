@@ -1,11 +1,10 @@
 +++
-title = "Murgh Makhani-Butter Chicken"
+title = "Butter Chicken - Murgh Makhani"
 date = "2021-03-22"
-description = "Butter chicken originated in Dehli, and it quickly grew in popularity throughout the rest of the world. It makes sense; butter chicken introduces the flavor and spices of Indian cooking in one tasty dish. For that reason, I often make this meal for those who have never tasted Indian food before. My creamy, homemade butter chicken recipe can be made in the Instant Pot or the stove-top and tastes just like your favorite restaurant."
+description = "Butter chicken originated in Dehli, and it quickly grew in popularity throughout the rest of the world. It makes sense; butter chicken introduces all the flavor and spices of Indian cooking in one dish. For that reason, I often make this meal for guests who have never tasted Indian food before. My creamy, homemade butter chicken recipe can be made in the Instant Pot or the stove-top and tastes just like your favorite restaurant. I hope you enjoy this butter chicken dish our family loves."
 tags = [
-    "entree",
+    "dinner",
     "low carb",
-    "keto",
     "instant pot"
 ]
 thumbnail= "images/butterchicken.jpeg"
@@ -13,7 +12,7 @@ thumbnail= "images/butterchicken.jpeg"
 
 Servings: 2-4 <!--more-->
 
-Preparation Time: 30 minutes 
+Prep Time: 30 minutes 
 
 Cook Time: 40 minutes 
 
@@ -90,11 +89,11 @@ For the Curry:
 
 {{< end_recipe >}}
 
-#### ABOUT THE MEAL
+#### About the Meal 
 
-Butter chicken originated in Dehli, and it quickly grew in popularity throughout the rest of the world. It makes sense; butter chicken introduces the flavor and spices of Indian cooking in one tasty dish. For that reason, I often make this meal for those who have never tasted Indian food before. My creamy, homemade butter chicken recipe can be made in the Instant Pot or the stove-top and tastes just like your favorite restaurant. 
+Butter chicken originated in Dehli, and it quickly grew in popularity throughout the rest of the world. It makes sense; butter chicken introduces all the flavor and spices of Indian cooking in one dish. For that reason, I often make this meal for guests who have never tasted Indian food before. My creamy, homemade butter chicken recipe can be made in the Instant Pot or the stove-top and tastes just like your favorite restaurant. I hope you enjoy this butter chicken dish our family loves. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * [Ginger Paste](https://amzn.to/3p7fsMn)
 
@@ -106,13 +105,13 @@ Butter chicken originated in Dehli, and it quickly grew in popularity throughout
  
 * [Ghee](https://amzn.to/3cyQ0ZN)
 
-* Chicken Thighs: I use boneless chicken thighs, but you can use chicken breasts if you prefer. 
+* Chicken Thighs: Boneless chicken thighs are my preference, but chicken breast is a solid substitution. 
 
-* Butter: I recommend splurging for high-quality butter, like Kerrygold, for this recipe since butter is central to the dish.
+* Butter: I splurg for high-quality butter, like Kerrygold, since butter is central to the dish.
 
 * Cinnamon Stick
 
-* [Green Cardamom]
+* [Green Cardamom](https://amzn.to/3cHo6Lq)
 
 * Onion
 
@@ -210,3 +209,11 @@ For the Curry:
 {{< figure src="/images/bc9.jpeg" class="instructionFigure">}}
 
 ---- 
+
+I hope you enjoy my butter chicken recipe. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})
+* [Saffron Rice]({{< ref "saffron-rice" >}}) 
+* [Moong Dal]({{< ref "moong-dal" >}})
