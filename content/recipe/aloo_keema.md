@@ -1,9 +1,11 @@
 +++
 title = " Pakistani Aloo Keema- Minced Beef and Potato"
 date = "2021-11-29"
-description = "Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chillies, and onions. I hope you enjoy this aloo keema our family loves."
+description = "Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, cashew, methi leaves, ginger, garlic, chilies, and onions.  Our keema recipe combines ground beef, potatoes, onion, ginger, Thai green chilies, Roma tomatoes, cilantro, and serrano chilis; it is seasoned with Laziza Keema Masala. While keema may not appeal the way other Indian or Pakistani dishes, it is a familiar comfort food our family loves."
 tags = [
-    "entree",
+    "dinner",
+    "low carb",
+    "global"
  ]
    
 thumbnail= "images/alookeema.jpeg"
@@ -44,13 +46,13 @@ Cuisine: Pakistani, Indian
 5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned, about 8 minutes. 
 6. Add the tomato puree to the pan and increase the heat until it comes to a boil. Reduce the heat and simmer for another 10 minutes, adjust the heat accordingly. 
 7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
-8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha]({{< ref "paratha" >}}), or naan. 
+8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha]({{< ref "paratha" >}}), besan ki roti, chapati, or naan. 
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL  
+### About the Meal 
 
-Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, ginger, garlic, chillies, and onions. I hope you enjoy this aloo keema our family loves.
+Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, cashew, methi leaves, ginger, garlic, chillies, and onions. While keema doesn't have the appeal of other Indian or Pakistani dishes, it is a familiar comfort food our family loves.
 
 #### What ingredients are needed for this meal? 
 
