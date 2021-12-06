@@ -61,7 +61,7 @@ For the Garnish:
 
 {{< end_recipe >}}
 
-#### ABOUT THE MEAL 
+#### About the Meal 
 
 Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chillies that flavor the broth. I hope you enjoy this pozole recipe our family loves.
 
@@ -83,7 +83,7 @@ Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a
 
 * Garlic Head 
 
-* [Chicken Better Than Bouillon]
+* [Chicken Better Than Bouillon](https://amzn.to/3ErBboE)
 
 * Hominy: I use canned hominy, but if you want to use dried hominy, you need to set aside extra time to prepare it.
 
@@ -107,7 +107,7 @@ You sure can. First, allow the stew to cool completely, and then add it to a fre
 
 ----
 
-I hope you enjoy this recipe for homemade pozole. If you try it, be sure to let us know what you think!
+I hope you enjoy this recipe for homemade pozole rojo. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
 
