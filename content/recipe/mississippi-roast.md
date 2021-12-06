@@ -8,7 +8,7 @@ tags = [
     "keto",
     "low carb"
 ]
-thumbnail= "images/mississippiroast.jpg"
+thumbnail= "images/MississippiRoast.jpg"
 +++
 
 Servings: 6-8 <!--more-->
