@@ -1,10 +1,9 @@
 +++
-title = "Deviled Eggs"
+title = "Easy Deviled Egg Recipe"
 date = "2020-01-18"
-description = "I hope you enjoy this deviled eggs recipe our family loves."
+description = "Deviled eggs are a classic gathering appetizer, whether it's for a birthday, barbeque, Easter picnic, Thanksgiving, or another holiday get-together, your likely to find this dish somewhere on the table. All you need to make my best deviled eggs recipe is mayo, mustard, paprika, and just a spill of pickle juice. I hope you enjoy these deviled eggs our family loves."
 tags = [
     "appetizer",
-    "keto", 
     "low carb",
     "vegetarian",
     "instant pot"
@@ -25,6 +24,7 @@ Cooking Time: 20 minutes
 * 6 large Eggs 
 * 2 tbsp Dijon Mustard
 * 2½ tbsp Mayonnaise
+* 1 tsp Pickle Brine 
 * ½ tsp [Smoked Paprika](https://amzn.to/2ZzYHAO), plus more to garnish
 * Salt, to taste  
 
@@ -45,9 +45,11 @@ Cooking Time: 20 minutes
 
 * Eggs 
 
-* Dijon Mustard 
+* Dijon Mustard: Dijon is a little spicy and a little tangy so it flavors the eggs well.  
 
 * Mayonnaise
+
+* Pickle Brine: Pickles are serious business in our home, and so is the brine it comes in. You typically won't go wrong using pickles found in the deli section of the grocery store, but if you want that good, good, then use the brine from Grillos Pickles if you can find them near you. 
 
 * [Smoked Paprika](https://amzn.to/2ZzYHAO)
 
@@ -57,6 +59,18 @@ Cooking Time: 20 minutes
 
 * A small bowl 
 * A serving platter 
+
+#### How can I dress up my deviled eggs? 
+
+* [Picked Onions]({{< ref "pickled-onions" >}})
+* Bacon 
+* Srirachs
+* Pickles
+* Jalapenos or Serranos 
+* Shallots
+* Cajun Seasoning 
+* Chives 
+* Avocado 
 
 ---- 
 
