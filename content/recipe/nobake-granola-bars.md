@@ -1,20 +1,21 @@
 +++
 title = "No-Bake Paleo Granola Bars"
 date = "2021-04-30"
-description = "Our paleo granola bars are chewy, crunchy, sweet, and salty. They are no-bake and super easy to make or prep for the rest of the week. They are the perfect addition to any paleo, grain-free, or gluten-free diet. These granola bars are a favorite in our home and kid-approved."
+description = "Our no-bake paleo granola bars are chewy, crunchy, sweet, and salty. They are easy to make, and you can make extra to prep for the rest of the week. They are the perfect addition to any paleo, grain-free, or gluten-free way of eating. These granola bars are a favorite in our home, and kid-approved."
 tags = [
     "snack",
     "vegetarian",
-    "paleo",
+    "vegan",
+    "low carb"
 ]
 thumbnail= "images/paleogranolabar.jpg"
 +++
 
 Servings: 8-10 Granola Bars  <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Chilling Time: 1 hour 
+Chill Time: 1 hour 
 
 {{< start_recipe >}}
 
@@ -24,9 +25,9 @@ Chilling Time: 1 hour
 
  * 1 cup Cashews 
  * 1 cup Almonds 
- * 2 tbsp Chia Seeds 
- * 2 tbsp Flax Seeds 
- * 1 cup Coconut Flakes 
+ * 2 tbsp [Chia Seeds](https://amzn.to/3lF0axu) 
+ * 2 tbsp [Flax Seeds](https://amzn.to/3oqW0uY)
+ * 1 cup [Coconut Flakes](https://amzn.to/3IneYdP) 
  * 1 cup Craisins
  * 1 tsp Cinnamon 
  * 1/4 cup Coconut Oil 
@@ -49,15 +50,17 @@ Chilling Time: 1 hour
 
 {{< end_recipe >}}
 
-### ABOUT THE SNACK
+### About the Granola Bars 
 
-#### What ingredients are needed for this meal?
+Our no-bake paleo granola bars are chewy, crunchy, sweet, and salty. They are easy to make, and you can make extra to prep for the rest of the week. They are the perfect addition to any paleo, grain-free, or gluten-free way of eating. These granola bars are a favorite in our home, and kid-approved.
 
-* Cashews and Almonds: We use almonds and cashews because that is what we usually have on hand. Walnuts or pecans would be a great addition to these bars, but I avoid them since I am allergic.  
+#### What ingredients are needed?
 
-* Chia Seeds and Flax Seeds: I love the addition of chia seeds and flaxseeds for extra texture, but also because of the healthy fat they lend to the bar. 
+* Cashews and Almonds: We always have almonds and cashews in our pantry. If I weren't allergic, walnuts or pecans would be a tasty addition to these bars.   
 
-* Coconut Flakes 
+* [Chia Seeds](https://amzn.to/3lF0axu) and [Flax Seeds](https://amzn.to/3oqW0uY): Chia and flaxseeds add texture and healthy fat to the granola bars. 
+
+* [Coconut Flakes](https://amzn.to/3IneYdP): I prefer unsweetened coconut flakes. 
 
 * Craisins
 
@@ -83,7 +86,11 @@ Chilling Time: 1 hour
 
 #### How should I store the granola bars?
 
-Because coconut oil is a main ingredient, the bars will melt if left at room temperature. To store, keep them chilled in the refrigerator for up to two weeks.
+Since coconut oil is a main ingredient, the bars will melt if left at room temperature. To store, keep them chilled in the refrigerator for up to two weeks.
+
+#### How can I make these bars vegan? 
+
+Use maple syrup to flavor the bars in place of honey. 
 
 ----
 
@@ -117,3 +124,10 @@ Because coconut oil is a main ingredient, the bars will melt if left at room tem
 {{< figure src="/images/gb.jpg" class="instructionFigure">}}
 
 ---- 
+
+I hope you enjoy this no-bake granola bar recipe. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Double Chocolate Low Carb Muffins]({{< ref "chocolate-lowcarb-muffinss" >}})
+* [Almond Flour Pancakes]({{< ref "almond-pancake" >}})
