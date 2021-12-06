@@ -1,8 +1,11 @@
 +++
-title = "Cilantro Cucumber Chutney - Cilantro Cucumber Sauce"
+title = "Cilantro Cucumber Chutney"
 date = "2020-01-18"
 description = "This tasty cucumber, cilantro chutney is a great addition to dishes like biryani and kebabs."
 tags = [
+    "dip",
+    "low carb",
+    "keto"
   
 ]
 #thumbnail= "images/Raita.jpg "
@@ -36,7 +39,7 @@ Cuisine: Indian, Pakistani
 
 {{< end_recipe >}}
 
-### ABOUT THE SAUCE 
+### About the Sauce 
 
 This tasty cucumber, cilantro chutney is a great addition to dishes like biryani and kebabs.
 
