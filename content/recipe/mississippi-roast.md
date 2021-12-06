@@ -3,7 +3,7 @@ title = "Mississippi Roast"
 date = "2020-01-31"
 description = "It's midweek, and you need a quick and easy meal; reach for this Mississippi Roast. It has both sweet and savory notes the whole family will enjoy."
 tags = [
-    "entree",
+    "dinner",
     "instant pot",
     "keto",
     "low carb"
@@ -58,7 +58,7 @@ For the Ranch Dressing:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal
 
 It's midweek, and you need a quick and easy meal; reach for this Mississippi Roast. It has both sweet and savory notes the whole family will enjoy. 
 
@@ -84,14 +84,14 @@ It's midweek, and you need a quick and easy meal; reach for this Mississippi Roa
 
 * Ranch Dressing: Ranch dressing is key to a good Mississippi roast. I love the mayo, dill, and vinegar together; this ranch is a solid combination of fat and acid, and the addition of the paprika makes it even more savory. 
 
-#### What equipment do I need to make this recipe?
+#### What equipment are needed to make this recipe?
 
 * A [mixing bowl](https://amzn.to/3E4oeB5)
 * An [Instant Pot](https://amzn.to/3rOOdWW) or dutch oven 
 
 #### Is Mississippi roast keto? Is it low-carb?
 
-Yes, it is. However, I suggest leaving out the flour and the carrots. The roast will still sear without the flour. I calculated the macros for the Mississippi roast to make it easy for you.  
+It sure is. However, I suggest leaving out the flour and the carrots. The roast will sear without the flour. I calculated the macros for the Mississippi roast to make it easy for you.  
 
 * CARBS – 3 Net Carbs
 * PROTEIN – 35g 
@@ -102,3 +102,11 @@ Yes, it is. However, I suggest leaving out the flour and the carrots. The roast 
 You sure can. First, allow the meat to cool completely and then add it to a freezer-safe bag or container. The Mississippi roast will freeze for up to 6 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove, and prepare your sides. 
 
 ----
+
+I hope you enjoy this Mississippi roast recipe. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Beef and Barley Stew]({{< ref "beef-barley-stew" >}})
+* [Georgian Chicken Soup]({{< ref "georgian-soup" >}})
+* [Braised Short Ribs]({{< ref "braised-short-ribs" >}})

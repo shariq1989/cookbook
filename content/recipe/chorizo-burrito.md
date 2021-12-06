@@ -3,7 +3,6 @@ title = "Chorizo Breakfast Burrito"
 date = "2020-01-19"
 description = ""  
 tags = [
-    "mexican",
     "breakfast",
 ]
 thumbnail= "images/ChorizoBurrito.jpeg"
@@ -47,7 +46,7 @@ Cuisine: Mexican, American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 Ihis is the best chorizo breakfast burrito and it'S easy to make. The burrito is made up of chorizo, eggs, and potato. I hope you enjoy this chorizo breakfast burrito as much as my family does. 
 
@@ -107,3 +106,11 @@ You sure can. I like to make a couple of batches so I can freeze breakfast burri
 {{< end_recipe >}}
 
 ----
+
+I hope you enjoy this chorizo burrito recipe. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Homemade Salsa with Cilantro and Avocado]({{< ref "salsa-cilantro-avocados" >}})
+* [Chili Con Carne]({{< ref "chiliconcarne" >}})
+* [Pozole Rojo]({{< ref "pozole-rojo" >}})

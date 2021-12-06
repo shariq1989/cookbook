@@ -1,9 +1,9 @@
 +++
 title = "Deviled Eggs"
 date = "2020-01-18"
-description = "I hope you enjoy this deviled egg recipe our family loves."
+description = "I hope you enjoy this deviled eggs recipe our family loves."
 tags = [
-    "side dish",
+    "appetizer",
     "keto", 
     "low carb",
     "vegetarian",
@@ -39,7 +39,7 @@ Cooking Time: 20 minutes
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Appetizer 
 
 #### What ingredients are needed for this meal?
 
@@ -87,3 +87,10 @@ Cooking Time: 20 minutes
 {{< figure src="/images/de5.jpeg" class="instructionFigure">}}
 
 ---- 
+
+I hope you enjoy this deviled eggs recipe. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Low Carb Biscuits and Gravy]({{< ref "lc-biscuits-gravy" >}})
+* [Cucumber, Avocado, Tomato Salad with Lime]({{< ref "cucumber-avocado-tomato" >}})
