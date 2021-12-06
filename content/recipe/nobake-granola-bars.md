@@ -5,6 +5,7 @@ description = "Our no-bake paleo granola bars are chewy, crunchy, sweet, and sal
 tags = [
     "snack",
     "vegetarian",
+    "vegan",
     "low carb"
 ]
 thumbnail= "images/paleogranolabar.jpg"
@@ -86,6 +87,10 @@ Our no-bake paleo granola bars are chewy, crunchy, sweet, and salty. They are ea
 #### How should I store the granola bars?
 
 Since coconut oil is a main ingredient, the bars will melt if left at room temperature. To store, keep them chilled in the refrigerator for up to two weeks.
+
+#### How can I make these bars vegan? 
+
+Use maple syrup to flavor the bars in place of honey. 
 
 ----
 
