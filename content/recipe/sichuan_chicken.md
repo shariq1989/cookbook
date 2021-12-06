@@ -6,7 +6,7 @@ tags = [
     "dinner",
     
 ]
-#thumbnail= "images/SichuanChilli.jpg "
+thumbnail= "images/sichuanfriedchicken.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -113,6 +113,46 @@ Chongqing laziji or Chongqing chicken is a famous Sichuan dish made of marinated
  #### Is Chongqing Laziji spicy? 
  
 For most people, it's going to be pretty. But to be honest,  it's not as spicy as it may look at first glance. Sichuan fried chicken is traditionally eaten with chopsticks, and they are used to pick the chicken out of the dish, leaving most of the chilies behind.  
+
+----
+
+#### Instructions: Step-by-Step
+
+1. In a [mixing bowl](https://amzn.to/3EC3u3G), combine the ingredients for the marinade: soy sauce, vinegar, sugar, and egg whites. Stir until the sugar dissolves. Add the chicken to the [bowl](https://amzn.to/3EC3u3G). Cover, and let it marinate for 30 minutes.  
+
+{{< figure src="/images/sfc1.jpeg" class="instructionFigure">}} 
+
+{{< figure src="/images/sfc2.jpeg" class="instructionFigure">}} 
+
+{{< figure src="/images/sfc3.jpeg" class="instructionFigure">}} 
+
+2. Meanwhile, set the [wire racks](https://amzn.to/3GeXFK9) into the [rimmed baking sheets](https://amzn.to/3rJGAUq). 
+3. In another [mixing bowl](https://amzn.to/3EC3u3G), combine cornstarch and salt. 
+4. Retrieve the marinated chicken and leave it to drain in a [colander](https://amzn.to/3rCmvzl), 1-2 minutes. 
+5. Add 1/2 of the chicken to the cornstarch. Stir to coat until the cornstarch is no longer visible on the chicken pieces. Set the chicken aside on the [wire rack](https://amzn.to/3GeXFK9), and then repeat with the remaining chicken. 
+
+{{< figure src="/images/perurc4.jpeg" class="instructionFigure">}} 
+
+6. In a [Dutch oven](https://amzn.to/3Epj4Qc), over medium heat, warm oil to 350 degrees. Add half of the coated chicken in a single layer and cook until both sides brown, about 3-5 minutes. Using a slotted spoon, transfer the chicken to the unused [wire rack](https://amzn.to/3GeXFK9). 
+
+{{< figure src="/images/sfc5.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/sfc6.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/sfc7.jpeg" class="instructionFigure">}} 
+
+7. Allow the oil to reach 350 degrees again and repeat with the remaining chicken. 
+8. In a heavy-bottomed pan or [wok](https://amzn.to/3rAkyDH), heat the canola oil, Arbol chilies, and Sichuan chilies until they begin to sputter. 
+9. Next, add the garlic, ginger, sugar, and Shaoxing wine. Cook for about 3 minutes, stirring regularly. 
+
+{{< figure src="/images/sfc8.jpeg" class="instructionFigure">}} 
+
+{{< figure src="/images/sfc9.jpeg" class="instructionFigure">}} 
+
+10. Add the reserved fried chicken to the mixture and toss to combine. 
+11. Garnish with scallions and serve with jasmine rice. 
+
+{{< figure src="/images/sfc10.jpeg" class="instructionFigure">}} 
 
 ---- 
 
