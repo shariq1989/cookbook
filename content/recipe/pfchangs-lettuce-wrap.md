@@ -128,13 +128,13 @@ You sure can. First, allow the meat to cool completely. Then, add it to a freeze
 
 2. In a [skillet](https://amzn.to/3xyWEtj), warm sesame oil over medium heat and add the ground beef. Break up the meat with a [meat chopper](https://amzn.to/38BSlBY) until finely minced. Cook until beef browns for about 8-10 minutes.   
 
-{{< figure src="/images/letw2.jpeg" class="instructionFigure">}}
+{{< figure src="/images/letw3.jpeg" class="instructionFigure">}}
 
 
 3. While the meat is cooking, add the onion and carrots to the beef. Cook until the onions soften, about 5 minutes. 
 4. Add the garlic, ginger, scallion whites, soy sauce, white wine vinegar, and sriracha into a small bowl. Stir the mixture into the beef, along with the homemade hoisin.
 
-{{< figure src="/images/letw2.jpeg" class="instructionFigure">}}
+{{< figure src="/images/letw4.jpeg" class="instructionFigure">}}
 
 5. Cover the mixture with a lid and simmer for about 5 minutes. 
 6. Remove the lid, lower the heat, and allow the beef mixture to reduce for about 2-5 minutes. 
