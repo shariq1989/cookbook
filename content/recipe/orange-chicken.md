@@ -6,7 +6,7 @@ tags = [
     "dinner",
     
 ]
-#thumbnail= "images/orangechicken.jpg "
+thumbnail= "images/orangechicken.jpeg"
 +++
 
 Servings: 4-5 <!--more-->
@@ -110,6 +110,41 @@ Yes, replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2
 #### Can I freeze orange chicken?
 
 You sure can. If you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate. Freeze the sauce and chicken separately in a freezer-safe bag or containers. When you’re ready to eat, let it defrost in the fridge overnight. To serve, reheat the chicken in the oven and warm the sauce in a pan. Toss the chicken in the sauce, and enjoy. 
+
+----
+
+### Instructions: Step-by-Step
+
+For the Orange Chicken: 
+
+1. In a mixing bowl, combine the ingredients for the marinade: rice wine vinegar, sugar, egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir the mixture until the sugar fully dissolves. Add the chicken to the bowl, stir to coat, and cover. Let the chicken marinate in the fridge for 30 minutes.
+
+{{< figure src="/images/oc1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/oc2.jpeg" class="instructionFigure">}}
+
+2. Meanwhile, set the wire racks into the rimmed baking sheets.
+3. In another mixing bowl, combine the corn starch and flour.
+4. Remove the marinated chicken and leave it to drain in a colander for about 1-2 minutes. Discard the marinade. 
+5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess corn starch and transfer them to one of the prepared racks. Repeat with the remaining chicken.
+6. In a [dutch oven](https://amzn.to/3qK1Llq), over medium heat, warm the oil to 375 degrees. Add half the coated chicken in a single layer and cook until both sides turn a light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other wire rack.
+
+{{< figure src="/images/oc3.jpeg" class="instructionFigure">}}
+
+7. Allow the oil to reach 375 degrees again and repeat with the remaining chicken. 
+
+For the Sauce: 
+
+1. Prepare a heavy-bottomed pan or wok with oil and add ginger paste and garlic. Cook for 10 seconds, until aromatic
+
+{{< figure src="/images/oc4.jpeg" class="instructionFigure">}}
+
+2. Next, add rice wine vinegar, fresh orange juice, sesame oil, soy sauce, sugar, white vinegar, red chili flakes, and orange zest. Allow the mixture to simmer for 5 minutes. 
+3. Reduce the heat and stir in the corn starch (1 tbsp), then add the reserved fried chicken to the mixture. Stir to combine. 
+
+{{< figure src="/images/oc5.jpeg" class="instructionFigure">}}
+
+4.Garnish with toasted sesame seeds and serve with jasmine rice. 
 
 ----
 
