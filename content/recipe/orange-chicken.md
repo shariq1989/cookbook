@@ -1,9 +1,9 @@
 +++
 title = "Panda Express Orange Chicken Copycat"
 date = "2020-12-06"
-description = ""
+description = "On the occasion that I go out of town without my family, my husband and children have a little tradition of getting Panda Express, which they eat as leftovers the entire time I am away. It's quite smart actually. Because of this delightful custom, my kids often ask when I plan to leave them with baba again. Needless to say, I felt compelled to make myself irreplaceable, hence this recipe. Now mama brings Panda Express to them. I hope you enjoy this orange chicken recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
     
 ]
 #thumbnail= "images/orangechicken.jpg "
@@ -11,9 +11,9 @@ tags = [
 
 Servings: 4-5 <!--more-->
 
-Preparation Time: 45 minutes 
+Prep Time: 45 minutes 
 
-Cooking Time: 40 minutes
+Cook Time: 40 minutes
 
 Cuisine: Chinese, American
 
@@ -30,7 +30,7 @@ For the Marinade:
 * 2 large Eggs Whites, lightly beaten
 * 1 tsp [Sesame Oil](https://amzn.to/3b72o2v)
 * 2 tbsp Soy Sauce
-* 2 tbsp White Vinegar
+* 2 tbsp Distilled White Vinegar
 * 1 tbsp Orange Zest 
 
 For the Fried Chicken:
@@ -49,39 +49,36 @@ For the Sauce:
 * 1 tsp [Sesame Oil](https://amzn.to/3b72o2v)
 * 3 tbsp Soy Sauce
 * 1/2 cup Sugar
-* 2 tbsp White Vinegar
-* Orange Zest 
+* 2 tbsp Distilled White Vinegar
+* Orange Zest, to taste 
 * 1/2 tsp Red Chili Flakes
 * 1 tbsp Corn Starch
 * 1 tsp Toasted Sesame Seeds 
 
 #### Instructions 
 
-For the Chicken: 
+For the Orange Chicken: 
 
-1. In a large bowl, combine the ingredients for the marinade: rice wine vinegar, sugar, egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir the mixture until the sugar fully dissolves. Add the chicken to the bowl, stir to coat, and cover. Let the chicken marinate in the refrigerator for 30 minutes.
+1. In a mixing bowl, combine the ingredients for the marinade: rice wine vinegar, sugar, egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir the mixture until the sugar fully dissolves. Add the chicken to the bowl, stir to coat, and cover. Let the chicken marinate in the fridge for 30 minutes.
 2. Meanwhile, set the wire racks into the rimmed baking sheets.
-3. In another large bowl, mix the corn starch and flour.
-4. Remove the marinated chicken and leave it to drain in a colander for about 1-2 minutes.
+3. In another mixing bowl, combine the corn starch and flour.
+4. Remove the marinated chicken and leave it to drain in a colander for about 1-2 minutes. Discard the marinade. 
 5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess corn starch and transfer them to one of the prepared racks. Repeat with the remaining chicken.
-6. In a large dutch oven, over medium heat, warm the oil to 375 degrees. Add half the coated chicken in a single layer and cook until both sides turn a light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other wire rack.
+6. In a [dutch oven](https://amzn.to/3qK1Llq), over medium heat, warm the oil to 375 degrees. Add half the coated chicken in a single layer and cook until both sides turn a light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other wire rack.
 7. Allow the oil to reach 375 degrees again and repeat with the remaining chicken. 
 
 For the Sauce: 
 
-1. Prepare a heavy-bottomed pan with oil and add the ginger paste and garlic. Cook for 10 seconds, until aromatic
-2. Next, add rice wine vinegar, fresh orange juice, sesame oil, soy sauce, sugar, white vinegar, red chili flakes, and orange zest. Allow the mixture to simmer for about 5 minutes. 
-3. Reduce the heat and stir in the corn starch (1 tbsp), then add the fried chicken to the mixture. Stir to combine. If you plan to freeze leftovers, keep the chicken and sauce separate. Instead, add the chicken to the individual plates and pour the sauce overtop. Stir to combine on each plate. 
-
-To Serve: 
-
-Garnish with toasted sesame seeds and serve the orange chicken with jasmine rice. 
+1. Prepare a heavy-bottomed pan or wok with oil and add ginger paste and garlic. Cook for 10 seconds, until aromatic
+2. Next, add rice wine vinegar, fresh orange juice, sesame oil, soy sauce, sugar, white vinegar, red chili flakes, and orange zest. Allow the mixture to simmer for 5 minutes. 
+3. Reduce the heat and stir in the corn starch (1 tbsp), then add the reserved fried chicken to the mixture. Stir to combine. 
+4.Garnish with toasted sesame seeds and serve with jasmine rice. 
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
-On the occasion that I go out of town without my family, my husband and children have a little tradition of getting Panda Express, which they will continue to eat as leftovers the entire time I am away. Because of this delightful custom, the kids regularly ask me when I plan to leave them alone with baba. Needless-to-say, I felt compelled to make myself irreplaceable, hence this recipe. Now mama can bring Panda Express to them. 
+On the occasion that I go out of town without my family, my husband and children have a little tradition of getting Panda Express, which they eat as leftovers the entire time I am away. It's quite smart actually. Because of this delightful custom, my kids often ask when I plan to leave them with baba again. Needless to say, I felt compelled to make myself irreplaceable, hence this recipe. Now mama brings Panda Express to them. I hope you enjoy this orange chicken recipe our family loves. 
 
 #### Where does orange chicken originate?
 
@@ -97,14 +94,14 @@ Orange chicken is famous in the United States, thanks in large part to Panda Exp
 
 #### What equipment do I need to make this recipe?
 
-* 2 Large bowls
+* 2 Mixing bowls
 * 2 Rimmed baking sheets 
 * 2 Wire racks 
 * A colander
 * A [dutch oven](https://amzn.to/3qK1Llq)
 * A [food thermometer](https://amzn.to/38BMn44) 
 * A slotted spoon 
-* A heavy-bottomed pan 
+* A heavy-bottomed pan or wok
 
 #### Can I make this recipe gluten-free?
 
@@ -112,6 +109,13 @@ Yes, replace the all-purpose flour with [chickpea flour](https://amzn.to/30F0Vf2
 
 #### Can I freeze orange chicken?
 
-Yes, if you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate. Freeze the sauce and chicken separately in a freezer-safe bag or containers. When you’re ready to eat, let it defrost in the fridge overnight. To serve, reheat the chicken in the oven and warm the sauce in a pan. Toss the chicken in the sauce, and enjoy. 
+You sure can. If you plan to freeze the orange chicken, be sure to keep the chicken and sauce separate. Freeze the sauce and chicken separately in a freezer-safe bag or containers. When you’re ready to eat, let it defrost in the fridge overnight. To serve, reheat the chicken in the oven and warm the sauce in a pan. Toss the chicken in the sauce, and enjoy. 
 
 ----
+
+I hope you enjoy this orange chicken recipe. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Ground Beef Taco]({{< ref "beef-taco" >}})
+* [Roasted Kielbasa and Potatoes]({{< ref "kielbasa-potatoes" >}})
