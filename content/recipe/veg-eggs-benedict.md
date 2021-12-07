@@ -7,7 +7,7 @@ tags = [
     "vegetarian",
     "low carb"
 ]
-thumbnail= "images/vegeggsbenedict.jpg"
+thumbnail= "images/vegetarianeggsbenedict.jpeg"
 +++
 
 Servings: 2-3 <!--more-->
@@ -121,16 +121,34 @@ Going out for breakfast with my family and friends is at the top of my favorite 
 
 How to Poach an Egg: 
 
-1. Crack an egg into a small [sieve](https://amzn.to/31d0Q5K) over the same bowl with the egg whites from the hollandaise sauce. Do this to remove the excess egg white. Then, place the eggs into a [ramekin](https://amzn.to/3jTAxYH).
+1. Crack an egg into a small [sieve](https://amzn.to/31d0Q5K) over the a bowl. Do this to remove the excess egg white. Then, place the eggs into a [ramekin](https://amzn.to/3jTAxYH).
+
+{{< figure src="/images/poach1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/poach2.jpeg" class="instructionFigure">}}
+
 2. Bring a [sauce pan](https://amzn.to/3nQrTLL) of water, 4 inches deep, to a boil.
 3. Stir the vinegar into the water and swirl the pot. While the water is moving, add the eggs and cook for 3 minutes.
+
+{{< figure src="/images/poach3.jpeg" class="instructionFigure">}}
+
 4. While the eggs are cooking, set a [trivet](https://amzn.to/3w7fneK) over the boiling water and place the reserved hollandaise mixture onto the trivet. Continue whisking the hollandaise sauce while eggs cook below.  
+
+{{< figure src="/images/hol3.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/hol4.jpeg" class="instructionFigure">}}
 
 For the Hollandaise Sauce:
 
 1. In a [microwave-safe dish](https://amzn.to/3GGi0cg), microwave the butter. 
 2. Once hot, slowly whisk the egg yolks into the butter until emulsified. 
+
+{{< figure src="/images/hol1.jpeg" class="instructionFigure">}}
+
 3. Next, add the lemon juice, salt, and cayenne powder. 
+
+{{< figure src="/images/hol2.jpeg" class="instructionFigure">}}
+
 4. Set aside. 
 
 For the  Greens: 
@@ -140,7 +158,8 @@ For the  Greens:
 3. In a small bowl, toss the arugula and spinach with the remaining avocado oil. 
 4. Add the greens to the saute pan and cook until they become wilted for about 3 minutes. 
 5. Before removing from heat, stir in the salt and red chili flakes until combined. 
-6. Plate the greens and top with sliced avocado. 
+
+{{< figure src="/images/vegben1.jpeg" class="instructionFigure">}}
 
 To Serve: 
 
