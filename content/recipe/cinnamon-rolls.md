@@ -95,7 +95,7 @@ Nothing beats a warm batch of gooey cinnamon rolls. During the first Covid lockd
 
 #### I don't have buttermilk, what can I do? 
  
-You can easily make buttermilk for your baked goods at home with just one simple step. Using the milk of your choice, add distilled white vinegar or lemon juice to your milk. I prefer lemon juice. The ratio I use is 1 cup of milk to 1 tablespoon of lemon juice. 
+You can easily make buttermilk for your baked goods at home with just one simple step. Using the milk of your choice, add distilled white vinegar or lemon juice to your milk. I prefer lemon juice. The ratio I use is 1 cup of milk to 1 tablespoon of lemon juice. This is the perfect substitute for buttermilk. 
  
 #### What equipment do I need to make this recipe?
 
@@ -141,7 +141,7 @@ I do not recommend freezing already baked rolls unless you bake them and leave t
 
 6. Prepare a [baking dish](https://amzn.to/3r23qTr) and then line it with the rolls. 
 
-{{< figure src="/images/cr8(1).jpeg" class="instructionFigure">}}
+{{< figure src="/images/cr8 (1).jpeg" class="instructionFigure">}}
 
 7. Brush the tops of the cinnamon rolls with the melted butter and bake for 17 minutes. 
 
@@ -167,4 +167,3 @@ Other recipes from The Jamil Ghar:
 * [Double Chocolate Low Carb Muffin]({{< ref "chocolate-lowcarb-muffins" >}})
 * [High Elevation Chocolate Chip Cookies]({{< ref "he-chocolatechip-cookie" >}})
 * [High Elevation Nutella and Peanut Butter Cookies]({{< ref "he-nutella-cookies" >}})
-
