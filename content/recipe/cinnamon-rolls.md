@@ -1,18 +1,18 @@
 +++
-title = " Easy No Yeast Cinnamon Rolls"
-date = "2020-01-18"
-description = "Nothing beats a warm batch of gooey cinnamon rolls. During the first Covid lockdown, we found ourselves craving a little bit of comfort. There was one problem; we couldn't find yeast anywhere. We had to find a way to make cinnamon rolls with no yeast, and they had to be yummy. These easy peasy cinnamon rolls deliver all the goodness of traditional cinnamon rolls without prepping and proofing a yeast dough. By omitting yeast from the recipe and replacing it with baking powder, the preparation time is cut in half, meaning you get cinnamon rolls to the table even faster. By including baking powder, we created a nice buttermilk cinnamon roll we spread with frosting with no cream cheese. We hope you enjoy these no yeast cinnamon rolls our family loves."
+title = " Easy No Yeast Cinnamon Rolls with Icing"
+date = "2021-12-07"
+description = "Nothing beats a warm batch of gooey cinnamon rolls. During the first Covid lockdown, we found ourselves craving a little bit of comfort. There was one problem; we couldn't find yeast anywhere. We had to find a way to make cinnamon rolls with no yeast, and they had to be yummy. These easy peasy cinnamon rolls deliver all the goodness of traditional cinnamon rolls without prepping and proofing a yeast dough. By omitting yeast from the recipe and replacing it with baking powder, the preparation time is cut in half, meaning you get cinnamon rolls to the table even faster. By including baking powder, we created a nice buttermilk cinnamon roll we spread with icing with no cream cheese. We hope you enjoy these no yeast cinnamon rolls our family loves."
 tags = [
     "dessert",
     "vegetarian",
     "breakfast"
 ]
-thumbnail= "images/nycinnamonroll.jpeg"
+thumbnail= "images/cinnamonroll.jpeg"
 +++
 
 Servings: 10 <!--more-->
 
-Preparation Time: 30 minutes
+Prep Time: 30 minutes
 
 Cook Time: 30 minutes
 
@@ -42,11 +42,11 @@ For the Cinnamon Rolls:
 * 1 1/4 cup Buttermilk 
 * 5 tbsp Butter, melted
 
-For the Frosting:
+For the Icing:
 
 * 1 cup Powdered Sugar 
 * 3 tbsp Butter, softened
-* 1 tsp Vanilla
+* 1 tsp Vanilla Extract
 * 1 tbsp Milk 
 
 #### Instructions for Quick and Easy No Yeast Cinnamon Rolls 
@@ -89,10 +89,14 @@ Nothing beats a warm batch of gooey cinnamon rolls. During the first Covid lockd
 
 * Powdered Sugar 
 
-* Vanilla 
+* Vanilla Extract
 
 * Milk 
 
+#### I don't have buttermilk, what can I do? 
+ 
+You can easily make buttermilk for your baked goods at home with just one simple step. Using the milk of your choice, add distilled white vinegar or lemon juice to your milk. I prefer lemon juice. The ratio I use is 1 cup of milk to 1 tablespoon of lemon juice. 
+ 
 #### What equipment do I need to make this recipe?
 
 * 3 small bowls
@@ -108,6 +112,50 @@ If somehow you end up with leftovers, the cinnamon rolls keep at room temperatur
 #### Can I freeze cinnamon rolls?
 
 I do not recommend freezing already baked rolls unless you bake them and leave the frosting off. I will often make two batches; I bake one and then freeze the other rolls for quick baking the next time around. To freeze the rolls, gather them together, wrap them tightly in plastic wrap, and then place them into a freezer-safe bag. The rolls will keep for up to 2 months. When you're ready to eat, let them defrost in the fridge overnight. Prepare the icing, warm your cinnamon rolls in the oven according to the baking instructions, and enjoy. 
+
+---- 
+
+### Instructions: Step-by-Step
+
+1. Pre-heat the oven to 425 degrees
+2. Combine the ingredients for the filling in a small bowl. Mix well and set aside. 
+
+{{< figure src="/images/cr1.jpeg" class="instructionFigure">}}
+
+3. In a [mixing bowl](https://amzn.to/3188xKT), add all of the dry ingredients for the cinnamon rolls: [flour](https://amzn.to/3aet0yB), sugar, baking powder, baking soda, and salt. Set aside. 
+4. Whisk the buttermilk, 5 tbsp melted butter, and vanilla together in a separate [mixing bowl](https://amzn.to/3188xKT) and pour the mixture into the middle of the reserved dry ingredients. Combine the ingredients until a dough forms. Do not overmix. Knead the dough and then form a smooth ball. Cover the bowl with plastic wrap and let it sit at room temperature for 30 minutes. 
+
+{{< figure src="/images/cr2.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cr3.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cr4.jpeg" class="instructionFigure">}}
+
+5. On a lightly floured surface, roll the ball into a rectangle. Cover it with the reserved filling mixture, leaving room on all four sides of the dough, about 1/4 of an inch. Sprinkle lightly with cinnamon and roll the dough into a tube. Slightly trim the ends and cut them into even slices, about 10. 
+
+{{< figure src="/images/cr5.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cr6.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cr7.jpeg" class="instructionFigure">}}
+
+6. Prepare a [baking dish](https://amzn.to/3r23qTr) and then line it with the rolls. 
+
+{{< figure src="/images/cr8(1).jpeg" class="instructionFigure">}}
+
+7. Brush the tops of the cinnamon rolls with the melted butter and bake for 17 minutes. 
+
+{{< figure src="/images/cr9.jpeg" class="instructionFigure">}}
+
+8. While the rolls are baking, let's make the icing. Using a [hand mixer](https://amzn.to/2OXaeEn), blend the softened butter, and add the vanilla. Next, slowly add the powdered sugar and blend until smooth. Next, whisk in the milk. Set aside. 
+
+{{< figure src="/images/cr8.jpeg" class="instructionFigure">}}
+
+9.  Retrieve the cinnamon rolls from the oven, allow them to cool for 5-10 minutes and then drizzle them with the frosting.
+
+{{< figure src="/images/cr10.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/cr11.jpeg" class="instructionFigure">}}
 
 ---- 
 
