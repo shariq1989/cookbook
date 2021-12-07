@@ -129,5 +129,5 @@ I hope you enjoy this no-bake granola bar recipe. If you try it, be sure to let 
 
 Other recipes from The Jamil Ghar:
 
-* [Double Chocolate Low Carb Muffins]({{< ref "chocolate-lowcarb-muffinss" >}})
+* [Double Chocolate Low Carb Muffins]({{< ref "chocolate-lowcarb-muffins" >}})
 * [Almond Flour Pancakes]({{< ref "almond-pancake" >}})
