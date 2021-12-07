@@ -1,7 +1,7 @@
 +++
 title = "Tandoori Grilled Chicken - Tandoori Murgh"
 date = "2021-10-31"
-description = "We love get-togethers with family and friends, and this tandoori chicken recipe is a perfect addition to any cookout, picnic, or backyard gathering. My recipe will teach you how to make tandoori chicken at home in two easy ways: grilled tandoori chicken or baked tandoori chicken, whichever you prefer. Enjoy this recipe our family loves."
+description = "We love get-togethers with family and friends, and this tandoori chicken recipe or tikka is a perfect addition to any cookout, picnic, or backyard gathering. My recipe will teach you how to make tandoori chicken at home in two easy ways: grilled tandoori chicken or baked tandoori chicken, whichever you prefer. Enjoy this recipe our family loves."
 tags = [
     "entree",
     "low carb",
@@ -69,13 +69,13 @@ Cuisine: Pakistani, Indian
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Meal 
 
-We love get-togethers with family and friends, and this tandoori chicken recipe is a perfect addition to any cookout, picnic, or backyard gathering. My recipe will teach you how to make tandoori chicken at home in two easy ways: grilled tandoori chicken or baked tandoori chicken, whichever you prefer. Enjoy this recipe our family loves.
+We love get-togethers with family and friends, and this tandoori chicken recipe or tikka is a perfect addition to any cookout, picnic, or backyard gathering. My recipe will teach you how to make tandoori chicken at home in two easy ways: grilled tandoori chicken or baked tandoori chicken, whichever you prefer. Enjoy this recipe our family loves.
 
-#### What main ingredients do I need for this meal?
+#### What main ingredients are needed for this meal?
 
-* Chicken: I prefer to use drumsticks and thighs. 
+* Chicken: I use chicken drumsticks and thighs. 
 
 * Tandoori Chicken Masala: I enjoy the marinade in this recipe, but you can also use a store-bought [tandoori masala](https://amzn.to/3BrMAT0); be sure to add yogurt, lemon juice, olive oil, garlic paste, ginger paste, and onion to flavor the marinade and tenderize the chicken. 
 
@@ -93,20 +93,20 @@ We love get-togethers with family and friends, and this tandoori chicken recipe 
 * A [wire rack](https://amzn.to/3mp5wxK)
 * A [Food Thermometer](https://amzn.to/3wGlMxX) 
 
-#### What to serve with tandoori chicken: 
+#### What do I serve with tandoori chicken? 
 
 * Naan
 * Long-grained basmati rice 
 * Fresh salad 
 * Pulao 
 
-####  Can I freeze tandoori chicken?
+#### Can I freeze tandoori chicken?
 
-Yes. Allow the chicken to cool completely, and then add it to a freezer-safe container or bag. The chicken will freeze for up to 4 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm the chicken in the oven or microwave. 
+You sure can. First, allow the chicken to cool completely, and then add it to a freezer-safe container or bag. The chicken will freeze for up to 4 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm the chicken in the oven or microwave. 
 
 ---- 
 
-### GRILL INSTRUCTIONS: STEP-BY-STEP 
+### Grill Instructions: Step-by-Step 
 
 1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala](({{< ref "garam-masala" >}}/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
 
@@ -133,7 +133,7 @@ Yes. Allow the chicken to cool completely, and then add it to a freezer-safe con
 
 ----
 
-I hope you enjoy this homemade tandoori chicken recipe. If you try it, be sure to let us know what you think!
+I hope you enjoy my homemade tandoori chicken recipe. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
 
@@ -141,4 +141,3 @@ Other recipes from The Jamil Ghar:
 * [Chana Masala]({{< ref "channa-masala" >}})
 * [Karahi Gosht]({{< ref "gosht-karahi" >}}) 
 * [Moong Dal]({{< ref "moong-dal" >}})
-
