@@ -11,11 +11,13 @@ thumbnail= "images/beefandchickpea.jpeg"
 
 Servings: 6-8 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 1 hour, 45 minutes 
+Cook Time: 1 hour, 45 minutes 
 
 Cuisine: Moroccan 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
