@@ -2,15 +2,19 @@
 title = "Healthy Almond Flour Pancakes"
 date = "2021-06-18"
 description = "These almond flour pancakes have saved me so much time and preparation. Before this, I would make pancakes for my children and a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference. And because the main ingredient for the pancakes is almond flour, they keep you and your family full much longer. This particular recipe serves two to three people. I usually double or triple the recipe and freeze them to enjoy as a quick breakfast in the future. Enjoy these fluffy almond flour pancakes our family loves."
-tags = ["breakfast","low carb","keto",]
+tags = ["breakfast",
+        "low carb",
+        "keto",
+]
+
 thumbnail= "images/almondflourpancakes.jpeg"
 +++
 
 Servings: 2-3, 3-inch Pancakes <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 10 minutes 
+Cook Time: 10 minutes 
 
 Cuisine: American 
 
@@ -18,7 +22,7 @@ Cuisine: American
 
 ### How to Make Almond Flour Pancakes 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1⅓ cup [Almond Flour](https://amzn.to/3F38Qpi), blanched
 * 1 tsp Baking Powder
@@ -28,7 +32,7 @@ Cuisine: American
 * 2 Large Eggs
 * 1 tsp [Vanilla Extract](https://amzn.to/313NuIU)
   
-#### INSTRUCTIONS
+#### Instructions
 
 1. In a [mixing bowl](https://amzn.to/3FUghPc), mix the dry ingredients. Set aside. 
 2. In a small bowl, whisk the almond milk, eggs, and vanilla.
@@ -39,11 +43,11 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE PANCAKES
+### About the Pancakes
 
 These almond flour pancakes have saved me so much time and preparation. Before this, I would make pancakes for my children and a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference. And because the main ingredient for the pancakes is almond flour, they keep you and your family full much longer. This particular recipe serves two to three people. I usually double or triple the recipe and freeze them to enjoy as a quick breakfast in the future. Enjoy these fluffy almond flour pancakes our family loves.
 
-#### What main ingredients do I need for this meal?
+#### What main ingredients are needed for this meal?
 
 * [Almond Flour](https://amzn.to/3F38Qpi): For best results and fluffy pancakes, I recommend using blanched almond flour.
 
@@ -65,7 +69,7 @@ These almond flour pancakes have saved me so much time and preparation. Before t
 * A small bowl 
 * A [non-stick skillet](https://amzn.to/3xy2Mkd) or [griddle](https://amzn.to/3vFthD9) 
 
-#### What do I do if the batter isn't coming out right? 
+#### What if my batter isn't coming out right? 
 
 If it looks as though the batter is coming out too thick, add more almond milk until it reaches desired consistency. If the batter is too thin, sprinkle more almond flour. 
 
@@ -77,7 +81,7 @@ Of course. To make almond flour pancakes with no eggs, simply use flax seed, chi
 
 Yes, first allow the pancakes to cool completely, and then add them to a freezer-safe container or bag. Pancakes will freeze for 3 months, but I doubt you can wait that long. When you’re ready to eat, remove the pancakes from the freezer. Some of the pancakes may have stuck together. Usually, I can pry them apart and warm them in the microwave for a quick breakfast. You could also reheat them in the oven at 350 degrees. 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. In a [mixing bowl](https://amzn.to/3FUghPc), mix the dry ingredients. Set aside. 
 2. In a small bowl, whisk the almond milk, eggs, and vanilla.
