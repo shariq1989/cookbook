@@ -5,8 +5,8 @@ description = "Chili Con Carne means chili with meat and is made of tender beef,
 tags = [
     "dinner",
     "instant pot",
-    "slow cooker",
     "low carb",
+    "soup"
    
 ]
 thumbnail= "images/chiliconcarne.jpeg"
@@ -17,6 +17,8 @@ Servings: 8 <!--more-->
 Cook Time: 45 minutes
 
 Cuisine: Mexican, American
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -92,7 +94,7 @@ For the Garnish:
 
 {{< end_recipe >}}
 
-### About the Meal 
+### About the Chili  
 
 My husband is a self-proclaimed chili-hater, and he absolutely loves this recipe! Chili Con Carne means 'chili with meat' and is made of tender beef, beans, and a variety of chilies for maximum flavor. Our authentic chili con carne recipe is easily prepared in the Instant Pot, dutch oven, or slow cooker. We hope you enjoy the best chili con carne recipe and one that our family loves.
 
