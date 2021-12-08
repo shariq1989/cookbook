@@ -19,6 +19,8 @@ Cool Time: 20 minutes
 
 Cuisine: American
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Pumpkin Bars 
