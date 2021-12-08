@@ -3,7 +3,9 @@ title = "Morrocan-Spiced Butternut Squash"
 date = "2021-05-11"
 description = "I hope you enjoy this tasty butternut squash recipe."
 tags = [
-    "side dish",
+    "side",
+    "vegetarian",
+    "vegan"
  
 ]
 thumbnail= "images/moroccanbutternutsquash.jpg"
@@ -16,6 +18,8 @@ Preparation Time: 10 minutes
 Cooking Time: 40 minutes 
 
 Cuisine: American
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -44,9 +48,9 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Side 
 
-#### What ingredients are needed for this meal?
+#### What ingredients are needed to make Morrocan butternut squash?
 
 * Butternut Squash: I use fresh butternut squash here, but you can also use frozen for convenience sake. Using frozen does change the texture some.   
 
