@@ -3,7 +3,8 @@ title = "Pakistani Karahi Murgh - Pakistani Chicken Karahi"
 date = "2021-10-10"
 description = "Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chillies. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
+    "low carb" 
   
 ]
 thumbnail= "images/chicken_karahi.jpeg"
@@ -14,11 +15,13 @@ aliases = [
 
 Servings: 3-4 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 30 minutes 
+Cook Time: 30 minutes 
 
 Cuisine: Pakistani, Indian 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -51,7 +54,7 @@ Cuisine: Pakistani, Indian
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 Karahi is a Pakistani dish that gets its name from the wok-like pan it is made in. The traditional karahi was cooked over an open flame, low and slow, but the true beauty of a good karahi is in its rich tomato base and fragrant toppings like cilantro, ginger, and green chillies. There are so many variations of karahi, so I hope you enjoy this quick and simple chicken karahi or chicken kadai recipe our family loves. 
 
