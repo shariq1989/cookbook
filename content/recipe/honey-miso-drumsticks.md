@@ -3,7 +3,8 @@ title = "Honey and Miso Baked Chicken Drumsticks"
 date = "2021-05-12"
 description = "Who doesn't love a crispy chicken drumstick? The glaze is sweet, smoky, and savory, and you will love the umami created by the miso. This recipe is oven-baked, and all you need is one sheet pan and less than an hour to make it. I hope you enjoy this honey and miso baked chicken drumstick recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
+    "quick meal"
   
 ]
 thumbnail= "images/honeybakeddrumsticks.jpg"
@@ -11,13 +12,15 @@ thumbnail= "images/honeybakeddrumsticks.jpg"
 
 Servings: 10 drumsticks  <!--more-->
 
-Preparation Time: 10 minutes
+Prep Time: 10 minutes
 
-Cooking Time: 40 minutes
+Cook Time: 40 minutes
 
 Marinating Time: 1 - 8 hours 
 
 Cuisine: American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -49,7 +52,7 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 Who doesn't love a crispy chicken drumstick? The glaze is sweet, smoky, and savory, and you will love the umami created by the miso. This recipe is oven-baked, and all you need is one sheet pan and less than an hour to make it. I hope you enjoy this honey and miso baked chicken drumstick recipe our family loves. 
 
