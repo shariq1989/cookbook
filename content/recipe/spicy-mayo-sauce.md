@@ -16,6 +16,8 @@ Prep Time: 5 minutes
 
 Cuisine: American 
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Spicy Mayo Sauce 
