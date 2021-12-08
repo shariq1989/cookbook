@@ -3,7 +3,7 @@ title = "Pesto, Spinach, and Cheese Stuffed Shells"
 date = "2020-12-01"
 description = "Stuffed shells find their origin in Sicily, but they remain popular worldwide. For this recipe, we chose to stray from the traditional stuffed shell made in marinara sauce in favor of shells stuffed to the brim with ricotta cheese and spinach and topped with basil pesto and pine nuts. I appreciate the classic stuffed shells, but this version is tasty if you wanted to try something new. I hope you enjoy these stuffed shells our family loves."
 tags = [
-    "entree",
+    "dinner",
     "vegetarian"
 ]
 #thumbnail= "images/StuffedShells.jpg "
@@ -11,9 +11,11 @@ tags = [
 
 Servings: 5 <!--more-->
 
-Cooking Time: 1 hour 
+Cook Time: 1 hour 
 
 Cuisine: Sicilian 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -49,11 +51,11 @@ Cuisine: Sicilian
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 Where do stuffed shells originate? Stuffed shells find their origin in Sicily, but they remain popular worldwide. For this recipe, we chose to stray from the traditional stuffed shell made in marinara sauce in favor of shells stuffed to the brim with ricotta cheese and spinach and topped with basil pesto and pine nuts. I appreciate the classic stuffed shells, but this version is tasty if you wanted to try something new. I hope you enjoy these stuffed shells our family loves. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Jumbo Pasta Shells: Be sure to cook the shells, al dente, according to the package. I suggest cooking them a little less to ensure they hold up during the stuffing and baking process.  
 
