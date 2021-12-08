@@ -16,6 +16,8 @@ Cook Time: 50 minutes
 
 Cuisine: American 
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Southwest Spaghetti Squash 
