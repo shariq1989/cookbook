@@ -4,7 +4,7 @@ date = "2021-07-13"
 description = " I hope you enjoy this Chinese eggplant with spicy Szechuan sauce our family loves."
 tags = [
     "side",
-    "entree",
+    "dinner",
     "vegetarian",
 ]
 thumbnail= "images/spicygarliceggplant.jpeg"
@@ -12,9 +12,9 @@ thumbnail= "images/spicygarliceggplant.jpeg"
 
 Servings: 4 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 20 minutes 
+CookTime: 20 minutes 
 
 Cuisine: Sichuan, Chinese
 
@@ -22,7 +22,7 @@ Cuisine: Sichuan, Chinese
 
 ### How to Make Yuxiang Eggplant
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Yuxiang Sauce: 
 
@@ -45,7 +45,7 @@ For the Dish:
 * 3-5 [Arbol Chillis](https://amzn.to/3EggxI6), dried 
 * 4 Scallions, thinly sliced
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. In a small bowl, whisk together the ingredients for the sauce. Set aside. 
 2. Cut the eggplant into 1-inch pieces and place them into a [mixing bowl](https://amzn.to/3xSlFQo). Toss with salt and let them sit for about 10 minutes. 
@@ -59,9 +59,9 @@ For the Dish:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Yuxiang Sauce: I use soy sauce, oyster sauce, brown sugar, rice wine vinegar, Shaoxing wine, amd sesame oil to create the sauce for this dish. 
 
