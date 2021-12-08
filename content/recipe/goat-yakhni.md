@@ -22,6 +22,8 @@ Cook Time: 1 hour, 10 minutes
 
 Cuisine: Indian, Pakistani  
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Goat Yakhni 
