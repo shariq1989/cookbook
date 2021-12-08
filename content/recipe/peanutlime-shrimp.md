@@ -3,7 +3,9 @@ title = "Peanut and Lime Shrimp"
 date = "2021-10-06"
 description = "We love this healthy and fresh peanut and lime shrim, made up of pan-seared shrimp with peanuts, black pepper, and lime. The crunch from the peanuts, the warmth of the spices, and the zest of the lime will leave you craving more. I hope you enjoy this meal our family loves."
 tags = [
-    "entree",
+    "dinner",
+    "low carb",
+    "quick meal"
   
 ]
 thumbnail= "images/peanutlimeshrimp.jpeg"
@@ -16,6 +18,8 @@ Preparation Time: 10 minutes
 Cooking Time: 20 minutes
 
 Cuisine: American
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -53,7 +57,7 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Meal 
 
 We love this healthy and fresh peanut and lime shrim, made up of pan-seared shrimp with peanuts, black pepper, and lime. The crunch from the peanuts, the warmth of the spices, and the zest of the lime will leave you craving more. I hope you enjoy this meal our family loves.
 
