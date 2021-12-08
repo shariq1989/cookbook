@@ -3,22 +3,24 @@ title = "Restaurant-Style Mexican Rice"
 date = "2021-03-20"
 description = "I hope you enjoy this estaurant-Style Mexican Rice our family loves. "
 tags = [
-    "side dish",
+    "side",
     "vegan",
     "vegetarian",
     "instant pot",
-    "Mexican"
+    
 ]
 #thumbnail= "images/MexicanRice.jpg"
 +++
 
 Servings: 6-8 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 30 minutes 
+CookTime: 30 minutes 
 
 Cuisine: Mexican 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -63,7 +65,7 @@ Cuisine: Mexican
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Rice 
 
 #### What main ingredients are needed for this meal?
 
