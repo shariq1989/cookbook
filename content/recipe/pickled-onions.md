@@ -103,5 +103,5 @@ Pair these pickled onions with other recipes from The Jamil Ghar:
 
 * [Chorizo Breakfast Burrito]({{< ref "chorizo-burrito" >}})
 * [Mississippi Roast]({{< ref "mississippi-roast" >}}) 
-* [Summer Salad Miz]({{< ref "summer-salad-mix" >}}) 
+* [Summer Salad Mix]({{< ref "summer-salad-mix" >}}) 
 * [Carnitas]({{< ref "carnitas" >}})
