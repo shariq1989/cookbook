@@ -17,6 +17,8 @@ Cook Time: 1 hour, 15 minutes
 
 Cuisine: American, Italian
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make a Zuppa Toscana Copycat
