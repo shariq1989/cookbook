@@ -3,9 +3,10 @@ title = "Instant Pot Moong Dal - Yellow Lentil Soup"
 date = "2021-03-06"
 description = "Moong dal is one of many Indian comfort foods. Growing up, my husband, Shariq ate this meal regularly throughout the week, and in his own words- he hated it. Funny how things change when we become adults because this is now one of the meals Shariq asks me to make for him regularly. I hope you enjoy this Instant Pot moong dal recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
     "vegetarian", 
     "instant pot", 
+    "vegan"
     
 ]
 #thumbnail= "images/MoongDal.jpg"
@@ -16,11 +17,13 @@ aliases = [
 
 Servings: 8 <!--more-->
 
-Preparation Time: 10 minutes
+Prep Time: 10 minutes
 
-Cooking Time: 50 minutes 
+Cook Time: 50 minutes 
 
 Cuisine: Indian, Pakistani
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -64,7 +67,7 @@ For the Dal:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Meal 
 
 Moong dal is one of many Indian comfort foods. Growing up, my husband, Shariq ate this meal regularly throughout the week, and in his own words- he hated it. Funny how things change when we become adults because this is now one of the meals Shariq asks me to make for him regularly. I hope you enjoy this Instant Pot moong dal recipe our family loves. 
 
