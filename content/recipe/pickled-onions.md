@@ -13,9 +13,11 @@ thumbnail= "images/pickledonion.jpg"
 
 Servings: 4 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooling Time: 30 minutes 
+Cool Time: 30 minutes 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
