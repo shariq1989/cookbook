@@ -5,7 +5,6 @@ description = "Cauliflower mash makes for a tasty low-carb alternative to mashed
 tags = [
     "side",
     "vegetarian",
-    "keto",
     "low carb"
     
 ]
@@ -14,11 +13,13 @@ thumbnail= "images/caul_mash.jpeg"
 
 Servings: 4 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 10 minutes 
+Cook Time: 10 minutes 
 
 Cuisine: American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -32,7 +33,6 @@ Cuisine: American
 * 1/2- 1 cup Parmesan Cheese
 * Kosher Salt, to taste 
 * Black Pepper, coarse ground, to taste
-
   
 #### Cauliflower Mash Stove-Top Instructions 
 
@@ -48,7 +48,7 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Side
 
 Cauliflower mash makes for a tasty low-carb alternative to mashed potatoes but it is a delicious side in its own right. This cauli mash recipe is easy to make and the perfect side dish for any main entree. Enjoy the best cauliflower mash recipe our family returns to again and again. 
 
