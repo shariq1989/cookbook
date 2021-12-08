@@ -3,7 +3,7 @@ title = "Singapore Noodles - Singapore Mei Fun"
 date = "2021-03-23"
 description = "Singapore noodles are another dish our family tried at a restaurant and decided we needed to learn how to make it at home. I am proud of this recipe because of how similar it is to what I ordered in the Chinese restaurant. The main difference is that traditional Singapore noodles include Chinese fried pork. I didn't include that since this dish is packed full of shrimp and vegetables. If your goal is to make a more traditional or authentic version of Singapore noodles, you will want to incorporate fried pork."
 tags = [
-    "entree",
+    "dinner",
     
 ]
 thumbnail= "images/SingNoods.jpg"
@@ -11,9 +11,9 @@ thumbnail= "images/SingNoods.jpg"
 
 Servings: 4-6 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 1 hour 
+Cook Time: 1 hour 
 
 Cuisine: Cantonese, American
 
@@ -21,7 +21,7 @@ Cuisine: Cantonese, American
 
 ### How to Make Singapore Noodles
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * ¼ lb. Shrimp, shelled, deveined, and rinsed under cold water
 * 1 bundle [Rice Noodles](https://amzn.to/3dWFNsr)
@@ -41,7 +41,7 @@ Cuisine: Cantonese, American
 * 2 Scallions, greens thinly sliced, to garnish
 * 2 tsp [Toasted Sesame Oil](https://amzn.to/2OXcBaE)
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Pat the shrimp dry and place them into a [mixing bowl](https://amzn.to/3oblMmW). Add 1 tsp canola oil and 1/2 tsp fish sauce. Mix well and refrigerate for 30 minutes. 
 2. Place the rice-stick noodles into another [mixing bowl](https://amzn.to/3oblMmW) and cover them with boiling water. Let the noodles stand for 5 minutes. Put the rice noodles into a [colander](https://amzn.to/3rnJiio) and rinse with cold running water before draining. Using [kitchen shears](https://amzn.to/3I4oySV), cut the bundle of noodles in half.
@@ -55,7 +55,7 @@ Cuisine: Cantonese, American
 
 {{< start_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Meal 
 
 Singapore noodles are another dish our family tried at a restaurant and decided we needed to learn how to make it at home. I am proud of this recipe because of how similar it is to what I ordered in the Chinese restaurant. The main difference is that traditional Singapore noodles include Chinese fried pork. I didn't include that since this dish is packed full of shrimp and vegetables. If your goal is to make a more traditional or authentic version of Singapore noodles, you will want to incorporate fried pork. 
 
@@ -63,7 +63,7 @@ Singapore noodles are another dish our family tried at a restaurant and decided 
 
 It's not entirely clear where Singapore noodles began. Many sources trace it back to Hong Kong, despite the name. Regardless, I love how the flavors in Singaporean noodles are heavily-influenced by so many different people-groups: Cantonese, British, Indo-Chinese, and American. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Shrimp: I ate Singapore noodles for the first time in a Chinese restaurant, and they served it with shrimp, and so do I. 
 
