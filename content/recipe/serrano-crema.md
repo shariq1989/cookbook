@@ -50,7 +50,7 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 
 Serrano crema is my take on the authentic and spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible. I hope you enjoy this delicious sauce our family loves. 
 
-#### #### What ingredients are needed for this meal? 
+#### #### What ingredients are needed for serrano crema? 
 
 * Serrano Chili: I love serrano chilies, though they create a spicy serrano crema that may be too hot for some. If you want a more mild sauce, I suggest using jalapenos instead. Remove the membrane and seeds before dicing; this lowers the spice level as well. 
 
