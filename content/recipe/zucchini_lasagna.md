@@ -1,10 +1,9 @@
 +++
 title = "Zucchini Lasagna"
 date = "2021-03-14"
-description = ""
+description = "Zucchini lasagna is a fresh take on classic comfort food. It’s loaded with veggies, but still has all the rich flavor and texture of a traditional lasagna. This is the perfect easy, weeknight meal for the whole family to enjoy. Zucchini Lasagna is low fat, gluten-free, low-carb, and keto-friendly. I hope you enjoy this tasty zucchini lasagna our family loves."
 tags = [
-    "entree",
-    "instant pot",
+    "dinner",
     "low carb",
     
 ]
@@ -13,9 +12,9 @@ thumbnail= "images/zucchinilasagna.jpg"
 
 Servings: 8 <!--more-->
 
-Preparation Time: 10 minutes
+Prep Time: 10 minutes
 
-Cooking Time: 1 hour 20 minutes
+Cook Time: 1 hour 20 minutes
 
 Cuisine: American
 
@@ -54,11 +53,11 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Meal 
 
 Zucchini lasagna is a fresh take on classic comfort food. It’s loaded with veggies, but still has all the rich flavor and texture of a traditional lasagna. This is the perfect easy, weeknight meal for the whole family to enjoy. Zucchini Lasagna is low fat, gluten-free, low-carb, and keto-friendly. I hope you enjoy this tasty zucchini lasagna our family loves. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Zucchini: Since moisture can be an issue due to the zucchinis, follow my instructions for preparing them. If not, you will end up with zucchini soup. I only know this because I have done it. Don't get me wrong, the soup was delicious, but it wasn't really what we were going for that night. 
 
@@ -107,3 +106,10 @@ Zucchini Lasagna is a delicious low-carb alternative, and it can easily fit your
 You sure can. First, allow the dish to cool completely and then add it to a freezer-safe container. The zucchini lasagna can freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, bake it uncovered in the oven at 375 degrees for 30 minutes. 
 
 ---- 
+
+I hope you enjoy this recipe for zucchini lasagna. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [P.F. Changs Lettuce Wraps]({{< ref "pfchangs-lettuce-wrap" >}})
+* [Peruvian Roasted Chicken]({{< ref "peruvian-chicken" >}})
