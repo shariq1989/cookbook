@@ -1,7 +1,7 @@
 +++
 title = "Sheet Pan Kielbasa, Potatoes, and Peppers"
 date = "2021-02-15"
-description = "In college, my sister and I were roommates and living on a budgets. To make great-tasting meals we had to get creative; this was before Pinterest afterall. Out of our boredom and budget, this recipe was made. This recipe is for sheet-pan baked kielbasa, potatoes, peppers. It can be cooked in the oven or on the stove-top. Kielbasa, potatos, and peppers is the ultimate weeknight meal, especially since it is cooked all in one place and done in 30 minutes."
+description = "In college, my sister and I were roommates and living on a budgets. To make great-tasting meals we had to get creative; this was before Pinterest afterall. Out of our boredom and budget, this recipe was made. This recipe is for sheet-pan baked kielbasa, potatoes, peppers. It can be cooked in the oven or on the stove-top. Kielbasa, potatoes, and peppers is the ultimate weeknight meal, especially since it is cooked all in one place and done in 30 minutes."
 tags = [
     "dinner",
     "quick meal",
@@ -17,6 +17,8 @@ Prep Time: 10 minutes
 Cook Time: 30 minutes 
 
 Cuisine: Polish 
+
+By: [Tressa](https://www.jamilghar.com/about/) 
 
 {{< start_recipe >}}
 
@@ -49,7 +51,7 @@ Cuisine: Polish
 
 ### About the Meal 
 
-In college, my sister and I were roommates and living on a budgets. To make great-tasting meals we had to get creative; this was before Pinterest afterall. Out of our boredom and budget, this recipe was made. This recipe is for sheet-pan baked kielbasa, potatoes, peppers. It can be cooked in the oven or on the stove-top. Kielbasa, potatos, and peppers is the ultimate weeknight meal, especially since it is cooked all in one place and done in 30 minutes.
+In college, my sister and I were roommates and living on a budgets. To make great-tasting meals we had to get creative; this was before Pinterest afterall. Out of our boredom and budget, this recipe was made. This recipe is for sheet-pan baked kielbasa, potatoes, peppers. It can be cooked in the oven or on the stove-top. Kielbasa, potatoes, and peppers is the ultimate weeknight meal, especially since it is cooked all in one place and done in 30 minutes.
 
 #### What ingredients are needed for this meal?
 
