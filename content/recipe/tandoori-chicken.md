@@ -23,6 +23,8 @@ Cook Time:
 
 Cuisine: Pakistani, Indian 
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Tandoori Chicken 
