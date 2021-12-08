@@ -10,11 +10,13 @@ thumbnail= "images/jerkchickenfricassee.jpeg"
 
 Servings: 6 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 50 minutes 
+Cook Time: 50 minutes 
 
 Cuisine: Caribbean
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 Adapted From: [Milkstreet](https://www.177milkstreet.com/recipes/jamaican-chicken-fricassee)
  
@@ -63,9 +65,9 @@ For the Fricassee:
 
 {{< end_recipe >}}
 
-### ABOUT THIS MEAL 
+### About the Meal 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Jerk Seasoning: I use a homemade combination of spices, but you could also go the store-bought route with [Coleman's](https://amzn.to/3G0yuuP). If you decide to make the seasoning homemade, it will last for 2 months in a sealed mason jar. 
 
