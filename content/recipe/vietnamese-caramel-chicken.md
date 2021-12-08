@@ -12,9 +12,9 @@ thumbnail= "images/vietnamesecaramelchicken.jpeg"
 
 Servings: 3-5 <!--more-->
 
-Preparation Time: 10 minutes
+Prep Time: 10 minutes
 
-Cooking Time: 35 minutes
+Cook Time: 35 minutes
 
 Cuisine: Vietnamese
 
