@@ -1,7 +1,7 @@
 +++
 title = "Bhuna Gosht - Pan Fried Goat"
 date = "2021-03-26"
-description = ""
+description = "Bhuna gosht is a popular dish in Pakistan and India. Bhuna Gosht often refers to a thick, dry curry made with either goat or lamb, slow-cooked in whole spices. The curry reduces during the cooking process, leaving behind a highly concentrated and flavorful masala. Our whole family loves this authentic Pakistani bhuna hua gosht recipe."
 tags = [
     "dinner",
     "instant pot",
@@ -85,7 +85,7 @@ For the Whole Spices:
 
 ### About the Meal 
 
-Bhuna gosht is a popular dish in Pakistan and India. Bhuna Gosht often refers to a thick, dry curry made with either goat or lamb, slow-cooked in whole spices. The curry reduces during the cooking process, leaving behind a highly concentrated and flavorful masala.Our whole family loves this authentic Pakistani bhuna hua gosht recipe. 
+Bhuna gosht is a popular dish in Pakistan and India. Bhuna Gosht often refers to a thick, dry curry made with either goat or lamb, slow-cooked in whole spices. The curry reduces during the cooking process, leaving behind a highly concentrated and flavorful masala. Our whole family loves this authentic Pakistani bhuna hua gosht recipe. 
 
 #### What ingredients are needed for this meal?
 
