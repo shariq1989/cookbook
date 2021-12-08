@@ -11,11 +11,15 @@ thumbnail= "images/orangechicken.jpeg"
 
 Servings: 4-5 <!--more-->
 
-Prep Time: 45 minutes 
+Prep Time: 10 minutes 
+
+Marinating Time: 30 minutes 
 
 Cook Time: 40 minutes
 
 Cuisine: Chinese, American
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
