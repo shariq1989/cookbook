@@ -19,11 +19,13 @@ Cooking Time: 20 minutes
 
 Cuisine: Thai
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Thai Red Curry 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 -4 oz [Thai Red Curry Paste](https://amzn.to/2NmwVBf), the whole can for spicy, 1/2 can for mild
 * 1/2 tsp Ginger Paste
