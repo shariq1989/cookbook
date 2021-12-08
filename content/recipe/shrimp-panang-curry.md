@@ -21,6 +21,8 @@ Cook Time: 20 minutes
 
 Cuisine: Thai 
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Thai Panang Curry with Shrimp 
