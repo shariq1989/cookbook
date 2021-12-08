@@ -11,11 +11,13 @@ thumbnail= "images/groundbeeftaco.jpg"
 
 Servings: 8 <!--more-->
 
-Preparation Time: 20 minutes
+Prep Time: 20 minutes
 
-Cooking Time: 20 minutes
+Cook Time: 20 minutes
 
 Cuisine: Mexican, American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -61,7 +63,7 @@ For the Tacos:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Tacos
 
 My family didn’t have money growing up, and we rotated a few meals throughout the week. One dish I always looked forward to my mom making was ground beef tacos. I must have passed this joy onto my son because this is his most requested meal. He is the reason I decided to post this recipe; he very genuinely told me the other day, “Mama, people need to know how to make this meal so they can feed it to their kids.”  
 
