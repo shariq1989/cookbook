@@ -11,11 +11,11 @@ thumbnail= "images/pumpkinbars.jpeg"
 
 Servings: 5 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 25 minutes
+Cook Time: 25 minutes
 
-Cooling Time: 20 minutes 
+Cool Time: 20 minutes 
 
 Cuisine: American
 
@@ -61,11 +61,11 @@ For the Cream Cheese Frosting:
 
 {{< end_recipe >}}
 
-### ABOUT THE DESSERT 
+### About the Dessert 
 
 Let it be known- I am not a fan of anything pumpkin, including dessert. However, a few Christmases ago, our sweet neighbor delivered the best pumpkin bars for our family to enjoy. To my surprise and that of my husband, I gave them a try. I am so glad that I did. She lured me in with the cream cheese frosting, but the whole bar was absolutely delicious. This easy pumpkin bar recipe is an ode to my sweet neighbor, Marilyn. I hope you enjoy this to-die-for pumpkin bar recipe as much as I did.
 
-#### What ingredients are needed for this dessert? 
+#### What ingredients are needed to make pumpkin bars? 
 
 * All-Purpose Flour
 
