@@ -6,7 +6,7 @@ description = "Serrano crema is my take on the authentic, spicy Peruvian green s
 tags = [
     "vegan",
     "vegetarian",
-    "keto",
+    "sauce",
     "low carb",
 ]
 thumbnail= "images/serranocrema.jpeg"
@@ -17,7 +17,7 @@ aliases = [
 
 Servings: 10 <!--more-->
 
-Preparation Time: 15 minutes
+Prep Time: 15 minutes
 
 Cuisine: Peruvian
 
@@ -46,7 +46,7 @@ Adapted: [Serious Eats](https://www.seriouseats.com/recipes/2017/07/peruvian-sty
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Sauce 
 
 Serrano crema is my take on the authentic and spicy Peruvian green sauce called Aji Verde. You know the one I am talking about; it's the bright green sauce served alongside the roasted chicken in Peruvian restaurants, and it is absolutely incredible. I hope you enjoy this delicious sauce our family loves. 
 
@@ -88,7 +88,7 @@ It can be, and it's so tasty. I realize serrano chilies may be too hot for some.
 
 ----
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Add all of the serrano crema ingredients to a [food processor](https://amzn.to/3vE4gs7) or [blender](https://amzn.to/2RqFDQM). Blend until smooth. 
 2. Taste and season with salt and pepper to serve. 
