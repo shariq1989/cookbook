@@ -3,7 +3,9 @@ title = "Easy Pickled Red Onion"
 date = "2020-12-21"
 description = "Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red onions from pungent and crunchy to an irresistibly tangy topping with this recipe for quick pickled red onions."
 tags = [
-    "side dish",
+    "vegetarian",
+    "vegan",
+    "side"
    
 ]
 thumbnail= "images/pickledonion.jpg"
@@ -38,7 +40,7 @@ Cooling Time: 30 minutes
 
 {{< end_recipe >}}
 
-### ABOUT THE SIDE 
+### About the Pickled Onions  
 
 Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red onions from pungent and crunchy to an irresistibly tangy topping with this recipe for quick pickled red onions.
 
@@ -71,7 +73,7 @@ Use pickled onions to dress up all kinds of dishes, like tacos or burritos; they
 
 ---- 
 
-### InstructionsL Step-by-Step
+### Instructions: Step-by-Step
 
  1. Slice the onions thinly and pack them into the bottom of a [glass jar](https://amzn.to/3ETyuvT). Set aside. 
  
