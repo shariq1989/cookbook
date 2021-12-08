@@ -19,6 +19,8 @@ Cook Time: 1 hour, 20 minutes
 
 Cuisine: Mexican
 
+By: [Tressa](https://www.jamilghar.com/about/)
+6
 {{< start_recipe >}}
 
 ### How to Make Pozole Rojo 
