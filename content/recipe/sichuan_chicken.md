@@ -17,6 +17,8 @@ Cook Time: 40 minutes
 
 Cuisine: Chinese, Sichuan  
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Sichuan Fried Chicken
