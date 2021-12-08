@@ -18,6 +18,8 @@ Cook Time: 1 hour, 15 minutes
 
 Cuisine: American, Cajun 
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Shrimo Etouffee 
@@ -113,7 +115,7 @@ For the Etoufee:
 
 ----
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 For the Shrimp Broth: 
 
