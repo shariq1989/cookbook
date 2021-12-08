@@ -4,7 +4,7 @@ title = "Saffron Rice"
 date = "2021-02-28"
 description = "Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. I hope you enjoy this saffron rice dish our family loves."
 tags = [
-    "side dish",
+    "side",
     "vegan",
     "vegetarian"
     
@@ -19,6 +19,8 @@ Prep Time: 30 minutes
 Cook Time: 30 minutes 
 
 Cuisine: Persian 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
