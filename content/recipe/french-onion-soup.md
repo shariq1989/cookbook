@@ -6,7 +6,7 @@ tags = [
     "soup",
     "instant pot",
     "vegetarian", 
-    "entree"
+    "dinner"
     
 ]
 #thumbnail= "images/FrenchOnion.jpg "
@@ -14,11 +14,13 @@ tags = [
 
 Servings: 4 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 1 hour 
+Cook Time: 1 hour 
 
 Cuisine: French 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 Adapted from: [Serious Eats](https://www.seriouseats.com/pressure-cooker-french-onion-soup-recipe), J. Kenji Lopez-Alt
 
@@ -64,7 +66,7 @@ To Serve:
 
 {{< end_recipe >}}
 
-#### ABOUT THE MEAL
+#### About the Soup
 
 French onion soup is a timeless classic and happens to be on the list of my favorite comfort foods. It's the perfect meal for those chilly days and makes you want to curl up with a warm bowl of this soup. Our French onion soup recipe is easy to make and can be made in the [Instant Pot](https://amzn.to/3qfNYCZ) or stove-top. It stays true to traditional French onion soup and can be vegetarian with a few modifications. I hope you enjoy this tasty French onion soup our family loves.
 
