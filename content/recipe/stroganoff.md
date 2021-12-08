@@ -22,6 +22,8 @@ Cook Times:
 
 Cuisine: American 
 
+By: [Shariq + Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Beef Stroganoff 
