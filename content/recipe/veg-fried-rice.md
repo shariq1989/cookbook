@@ -17,6 +17,8 @@ Cook Time: 10 minutes
 
 Cuisine: Chinese, American  
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Vegetable Stir-Fried Rice 
