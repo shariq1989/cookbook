@@ -4,7 +4,7 @@ date = "2021-09-25"
 description = "Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill create the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks."
 tags = [
     "soup",
-    "entree",
+    "dinner",
     "instant pot",
 ]
 thumbnail= "images/georgianchickensoup.jpeg"
@@ -15,11 +15,13 @@ aliases = [
 
 Servings: 6-8 <!--more-->
 
-Preparation Time: 30 minutes 
+Prep Time: 30 minutes 
 
-Cooking Time: 1 hour, 20 minutes
+CookTime: 1 hour, 20 minutes
 
 Cuisine: Georgian
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 Adapted from: [Milk Street](https://wskg.org/episodes/milk-street-suppers-ep-106/), by Chris Kimball
 
@@ -103,7 +105,7 @@ For the Soup:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Soup
 
 Who else loves a good chicken soup? Whether the onset of fall or a seasonal cold, having a go-to chicken soup is pretty necessary at this point. If I had to choose only one, this soup would be mine. Like other Georgian dishes, the addition of lemon and fresh dill create the tartness of the chikhirtma, which is balanced by the creaminess of the egg yolks.
 
