@@ -23,6 +23,8 @@ Cook Time: 30 minutes
 
 Cuisine: Chinese, American
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 #### How to Make Sesame Tofu and Mushroom Stir-Fry 
