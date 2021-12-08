@@ -14,6 +14,8 @@ Servings: 6 <!--more-->
 
 Prep Time: 10 minutes 
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make a Summer Salad Mix 
