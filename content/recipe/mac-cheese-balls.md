@@ -1,7 +1,7 @@
 +++
 title = "Fried Mac and Cheese Balls"
 date = "2020-12-04"
-description = ""
+description = "Ever get bored making the same thing over and over again? During quarantine, the kids most certainly did. We decided to give mac and cheese balls a try and came up with this yummy meal. The kids and I hope you enjoy it as much as we did."
 tags = [
     "appetizer",
     "vegetarian"
@@ -12,11 +12,15 @@ tags = [
 
 Servings: 10-12 <!--more-->
 
-Preparation Time: 20 minutes
+Prep Time: 20 minutes
 
-Cooking Time: 24 hours
+Chill Time: 24 hours
+
+Cook Time: 10 minutes 
 
 Cuisine: American
+
+[Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -50,9 +54,9 @@ For the Sriracha Aioli:
 8. Serve with Sriracha aioli. 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Mac and Cheese Balls 
 
-Ever get bored making the same thing over and over again? During quarantine, the kids most certainly did. We decided to give mac and cheese balls a try and came up with this yummy meal. The kids and I hope you enjoy it. 
+Ever get bored making the same thing over and over again? During quarantine, the kids most certainly did. We decided to give mac and cheese balls a try and came up with this yummy meal. The kids and I hope you enjoy it as much as we did. 
 
 #### What ingredients are needed for this meal? 
 
