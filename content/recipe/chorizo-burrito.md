@@ -1,20 +1,23 @@
 +++
 title = "Chorizo Breakfast Burrito"
 date = "2020-01-19"
-description = ""  
+description = "Ihis is the best chorizo breakfast burrito and it'S easy to make. The burrito is made up of chorizo, eggs, and potato. I hope you enjoy this chorizo breakfast burrito as much as my family does. "  
 tags = [
     "breakfast",
+    "quick meals"
 ]
 thumbnail= "images/ChorizoBurrito.jpeg"
 +++
 
 Servings: 5 Burritos <!--more-->
 
-Preparation Time: 5 minutes 
+Prep Time: 5 minutes 
 
-Cooking Time: 15 minutes 
+Cook Time: 15 minutes 
 
 Cuisine: Mexican, American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -46,7 +49,7 @@ Cuisine: Mexican, American
 
 {{< end_recipe >}}
 
-### About the Meal 
+### About the Burritos 
 
 Ihis is the best chorizo breakfast burrito and it'S easy to make. The burrito is made up of chorizo, eggs, and potato. I hope you enjoy this chorizo breakfast burrito as much as my family does. 
 
