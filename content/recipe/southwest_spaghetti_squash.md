@@ -1,7 +1,7 @@
 +++
 title = "Southwest Spaghetti Squash"
 date = "2021-03-12"
-description = ""
+description = "Enjoy this Southwest spaghetti squash our family loves."
 tags = [
     "entree",
 ]
@@ -10,9 +10,9 @@ tags = [
 
 Servings: 6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 50 minutes 
+Cook Time: 50 minutes 
 
 Cuisine: American 
 
@@ -20,7 +20,7 @@ Cuisine: American
 
 ### How to Make Southwest Spaghetti Squash 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Baked Spaghetti Squash: 
 
@@ -52,7 +52,7 @@ For the Topping:
 * Serrano Chilis, thinly sliced 
 * Sour Cream 
   
-#### INSTRUCTIONS
+#### Instructions
 
 For the Baked Spaghetti Squash: 
 
@@ -74,9 +74,9 @@ For the Southwest Filling:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
-#### What main ingredients do I need for this meal?
+#### What main ingredients are needed for this meal?
 
 * Spaghetti Squash: This recipe calls for a medium spaghetti squash.  
 * Olive Oil 
@@ -99,6 +99,8 @@ For the Southwest Filling:
 
 You sure can. First, allow the squash to cool completely, and then add it to a freezer-safe container or bag. To prevent freezer burn, be sure to remove any excess air. Spaghetti squash will freeze for 7-8 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it on the stove and prepare your sides.
 
+---- 
+
 ### INSTRUCTIONS: STEP-BY-STEP 
 
 For the Baked Spaghetti Squash: 
@@ -118,9 +120,10 @@ For the Southwest Filling:
 6. Combine the reserved meat mixture with the squash in the bowl, and return the mixture to the squash casing or another baking dish. 
 7. Cover the mixture with cheese and bake for another 10 minutes. 
 8. Garnish with cilantro, cabbage, onion, chillies, or sour cream; serve with a side salad, cilantro lime rice, or [Mexican rice]({{< ref "mexican-rice" >}}). 
+
 ----
 
-I hope you enjoy this recipe for Southwest Spaghetti Squash. If you try it, be sure to let us know what you think!
+I hope you enjoy this recipe for Southwest spaghetti squash. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
 * [Pazole Rojo]({{< ref "pozole-rojo" >}}) 
