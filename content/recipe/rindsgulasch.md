@@ -20,6 +20,8 @@ Cook Time: Instant Pot - 1 hour, 30 minutes
 
 Cuisine: Austrian
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash), Christopher Kimball
 
 {{< start_recipe >}}
