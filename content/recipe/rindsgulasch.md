@@ -13,9 +13,9 @@ thumbnail= "images/rindsgulasch-01.jpeg"
 
 Servings: 6<!--more-->
 
-Preparation Time: 15 minutes
+Prep Time: 15 minutes
 
-Cooking Time: Instant Pot - 1 hour, 30 minutes 
+Cook Time: Instant Pot - 1 hour, 30 minutes 
 
 Cuisine: Austrian
 
