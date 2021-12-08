@@ -5,9 +5,8 @@ title = "Pan-Seared Blackened Mahi-Mahi with Mango Salsa"
 date = "2021-07-02"
 description = "If you're looking for a healthy fish meal that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet on high heat. I garnish my mahi-mahi with fresh mango salsa, making for a perfect meal. I hope you enjoy the best-blackened mahi-mahi recipe we make in our home on the regular! "
 tags = [
-    "entree",
+    "dinner",
     "low carb",
-    "keto"
     
 ]
 thumbnail= "images/blackenedmahimango.jpeg"
@@ -18,11 +17,13 @@ aliases = [
 
 Servings: 4-5 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 30 minutes 
+Cook Time: 30 minutes 
 
 Cuisine: American, Cajun 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -60,11 +61,11 @@ For the Blackened Mahi Mahi Seasoning:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 If you're looking for a healthy seafood meal that doesn't taste too fishy, mahi-mahi is the one for you. The fish is flavored with warm spices and butter to create a tasty, blackened crust- perfected by cooking in the cast-iron skillet over high heat. I garnish my mahi-mahi with fresh [mango salsa]({{< ref "mango-salsa" >}}). I hope you enjoy the best-blackened mahi-mahi recipe our family loves. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Mahi-Mahi: I often use the frozen fish filets from Costco, but you can use fresh fish if you have access to it. Mahi-mahi is versatile and cooks well, but keep in mind; this is a lean fish. Be careful not to overcook it, or it will dry out. 
 
