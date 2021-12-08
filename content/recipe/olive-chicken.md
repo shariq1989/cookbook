@@ -3,20 +3,21 @@ title = "Baked Chicken with Olive Dressing"
 date = "2021-04-19"
 description = "This recipe is inspired by Alison Roman’s, Vinegar Chicken with Crushed Olive Dressing; this is an easy weeknight meal and roasts in under 1 hour."
 tags = [
-    "entree",
+    "dinner",
     "low carb",
-    "keto",
 ]
 thumbnail= "images/bakedchickenolivedressing.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 40 minutes
+CookTime: 40 minutes
 
 Cuisine: Mediterranean
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 Adapted from: [New York Times](https://cooking.nytimes.com/recipes/1020486-vinegar-chicken-with-crushed-olive-dressing), Alison Roman
 
@@ -48,7 +49,7 @@ Adapted from: [New York Times](https://cooking.nytimes.com/recipes/1020486-vineg
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 This recipe is inspired by Alison Roman’s "Vinegar Chicken with Crushed Olive Dressing;" this is an easy weeknight meal and roasts in under 1 hour.
 
