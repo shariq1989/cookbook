@@ -3,8 +3,7 @@ title = "Joojeh Kebab - Grilled Chicken Kebab"
 date = "2021-02-28"
 description = "After eating at a Persian restaurant for our daughter's first birthday in 2019, we attempted to make a joojeh kebab recipe that would do their dish justice. While we will never reach their level of expertise and precision, our version of the popular dish is absolutely delicious. I hope you enjoy this joojeh kebab recipe our family enjoys again and again. "
 tags = [
-    "entree",
-    "keto",
+    "dinner",
     "low carb",
     
 ]
@@ -18,6 +17,8 @@ Cook Time: 15 minutes
 Marinating Time: 24 hours
 
 Cuisine: Persian 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -63,7 +64,7 @@ For the Kebab:
 
 {{< end_recipe >}}
 
-#### ABOUT THE MEAL
+#### About the Meal 
 
 After eating at a Persian restaurant for our daughter's first birthday in 2019, we attempted to make a joojeh kebab recipe that would do their dish justice. While we will never reach their level of expertise and precision, our version of the popular dish is absolutely delicious. I hope you enjoy this joojeh kebab recipe our family enjoys again and again. 
 
