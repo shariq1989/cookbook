@@ -5,7 +5,6 @@ description = "TThis savory tofu and mushroom stir-fry is the perfect vegetarian
 tags = [
     "dinner",
     "low carb",
-    "keto",
     "vegetarian",
     "vegan", 
     "quick meal"
@@ -18,9 +17,9 @@ aliases = [
 
 Servings: 4 <!--more-->
 
-Preparation Time: 10 minutes
+Prep Time: 10 minutes
 
-Cooking Time: 30 minutes
+Cook Time: 30 minutes
 
 Cuisine: Chinese, American
 
