@@ -18,6 +18,8 @@ Cook Time: 20 minutes
 
 Cuisine: Korean 
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Tteokbokki
