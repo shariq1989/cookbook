@@ -5,7 +5,6 @@ description = "We love get-togethers with family and friends, and these BBQ chic
 tags = [
     "dinner",
     "low carb",
-    "keto",
     
 ]
 #thumbnail= "images/BBQDrumsticks.jpg"
@@ -14,6 +13,8 @@ tags = [
 Servings: 4 <!--more-->
 
 Cuisine: American
+
+By: [Tressa](https://www.jamilghar.com/about/) 
 
 {{< start_recipe >}}
 
