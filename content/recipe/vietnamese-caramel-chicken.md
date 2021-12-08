@@ -18,6 +18,8 @@ Cook Time: 35 minutes
 
 Cuisine: Vietnamese
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 Adapted from: [Milkstreet](https://www.177milkstreet.com/recipes/vietnamese-caramel-chicken)
 
 {{< start_recipe >}}
