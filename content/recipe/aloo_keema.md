@@ -13,11 +13,13 @@ thumbnail= "images/alookeema.jpeg"
 
 Servings: 6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 30 minutes 
+CookTime: 30 minutes 
 
 Cuisine: Pakistani, Indian 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
