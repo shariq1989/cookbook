@@ -3,7 +3,7 @@ title = "Gang Garee Gai - Thai Yellow Curry with Chicken"
 date = "2021-09-29"
 description = "This quick and easy Yellow Thai Curry is made with chicken and fresh vegetables and is ready in under 30 minutes. The yellow curry paste, or Nam prik gaeng karee, is a main ingredient and flavors the curry with a sweet and mild taste and the perfect bit of spice. We hope you enjoy the best yellow curry recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
    
 ]
 thumbnail= "images/thaiyellowcurry.jpeg"
@@ -11,9 +11,9 @@ thumbnail= "images/thaiyellowcurry.jpeg"
 
 Servings: 6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 20 minutes
+CookTime: 20 minutes
 
 Cuisine: Thai 
 
@@ -21,7 +21,7 @@ Cuisine: Thai
 
 ### How to Make Yellow Chicken Curry 
 
-#### INGREDIENTS 
+#### Ingredients
 
 * 1 tbsp [Coconut Oil](https://amzn.to/3w8pmjZ)
 * 1 - 4 oz can [Sour Yellow Curry Paste](https://amzn.to/2XUUbLX)
@@ -35,7 +35,7 @@ Cuisine: Thai
 * 3 Garlic Cloves, minced
 * 1-inch piece Fresh Ginger, minced 
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. In a [heavy-bottomed pan](https://amzn.to/3kQSCYw), warm the [coconut oil](https://amzn.to/3w8pmjZ) and [curry paste](https://amzn.to/2XUUbLX) over low heat until aromatic, about 2 minutes. 
 2. Next, add 1/3 of the [coconut milk](https://amzn.to/3uukipb) and stir to incorporate. 
@@ -47,7 +47,7 @@ Cuisine: Thai
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 This quick and easy Yellow Thai Curry is made with chicken and fresh vegetables and is ready in under 30 minutes. The yellow curry paste, or nam prik gaeng karee, is a main ingredient and flavors the curry with a sweet and mild taste and the perfect bit of spice. We hope you enjoy the best Thai yellow curry recipe our family loves.
 
@@ -61,7 +61,7 @@ This quick and easy Yellow Thai Curry is made with chicken and fresh vegetables 
 
 * Yellow Curry Paste: The best yellow Thai curry paste out there is [Maesri Yellow Curry Paste](https://amzn.to/2XUUbLX). [Mae Ploy Yellow Curry Paste](https://amzn.to/2Y0tx4C) is a solid alternative. 
 
-#### What equipment do I need to make this recipe?
+#### What equipment is needed to make this recipe?
 
 * A [heavy-bottomed pan](https://amzn.to/3kQSCYw) 
 
@@ -71,7 +71,7 @@ You sure can. First, allow the curry to cool completely. Then, add it to a freez
 
 ----
 
-I hope you enjoy this Yellow Thai Curry recipe. If you try it, be sure to let us know what you think!
+I hope you enjoy this yellow Thai curry recipe. If you try it, be sure to let us know what you think!
 
 Other Thai recipes from The Jamil Ghar:
 
