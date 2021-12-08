@@ -4,6 +4,8 @@ date = "2021-11-07"
 description = "You may be wondering why we call this dish 'bachelor beef stroganoff'. It's a funny story with an endearing memory for our family. Long before our kiddos, when Shariq and I were engaged, we did the whole long-distance thing. He lived in Colorado with his roommate, and I was still in Arizona. To make their food stretch, the two bachelors alternated making batch meals. His roommate's specialty was meatballs, and Shariq made traditional beef stroganoff. I adjusted a few of the ingredients, as the original was even more simple, but this dish makes for a great weekday meal. Use your crockpot for a slow cooker beef stroganoff or make it on the stove-top. Either way, I hope you enjoy this recipe our family loves."
 tags = [
     "dinner",
+    "quick meal",
+    "soup"
 
 ]
 thumbnail= "images/bachelorstroganoff.jpeg"
