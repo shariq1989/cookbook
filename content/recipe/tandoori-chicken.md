@@ -3,9 +3,8 @@ title = "Tandoori Grilled Chicken - Tandoori Murgh"
 date = "2021-10-31"
 description = "We love get-togethers with family and friends, and this tandoori chicken recipe or tikka is a perfect addition to any cookout, picnic, or backyard gathering. My recipe will teach you how to make tandoori chicken at home in two easy ways: grilled tandoori chicken or baked tandoori chicken, whichever you prefer. Enjoy this recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
     "low carb",
-    "keto",
    
 ]
 
@@ -16,7 +15,7 @@ Servings: 4 <!--more-->
 
 Marination Time: 6 -24 hours 
 
-Preparation Time: 20 minutes 
+Prep Time: 20 minutes 
 
 Cook Time:
 * Grill - 1 hour and 20 minutes 
@@ -28,7 +27,7 @@ Cuisine: Pakistani, Indian
 
 ### How to Make Tandoori Chicken 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 tbsp Olive Oil 
 * 1 tsp Kosher Salt
@@ -45,7 +44,7 @@ Cuisine: Pakistani, Indian
 * 1/2 Red onion, roughly chopped, plus sliced onion to garnish
 * 8 Chicken Thighs, Drumsticks, Chicken quarters, skin-on, and bone-in 
 
-#### TANDOORI CHICKEN IN THE OVEN 
+#### Tandoori Chicken in the Oven  
 
 1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala]({{< ref "garam-masala" >}}/), red food powder, yogurt, lemon juice, garlic, and ginger paste until smooth. 
 2. Make 1-2 small slits in each chicken piece, and then toss them in the tandoori chicken marinade, along with the chopped onion, until coated. Cover and marinate in the fridge for at least 6 hours, but preferably 24 hours. 
@@ -54,7 +53,7 @@ Cuisine: Pakistani, Indian
 5. Let the chicken rest for about 5 minutes before serving. 
 6. To serve, garnish the chicken with cilantro, red onion, lemon wedges, and [chutney]({{< ref "cilantro-cucumber-chutney" >}}). 
 
-#### TANDOORI CHICKEN ON THE GRILL 
+#### Tandoori Chicken on the Grill 
 
 1. In a [blender](https://amzn.to/3GwEcFS) or [food processor](https://amzn.to/3Cs5k6e), mix olive oil, salt, garlic powder, turmeric, cayenne powder, paprika, [garam masala]({{< ref "garam-masala" >}}/), red food powder, yogurt, lemon juice, and garlic and ginger paste until smooth. 
 2. Make 1-2 small slits in each chicken piece, and then toss them in the tandoori chicken marinade, along with the chopped onion, until coated. Cover and marinate in the fridge for at least 6 hours, but preferably 24 hours.
