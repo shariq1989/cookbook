@@ -1,7 +1,7 @@
 +++
 title = "Spicy Garlic Eggplant - Yuxiang Eggplant"
 date = "2021-07-13"
-description = " I hope you enjoy this Chinese eggplant with spicy Szechuan sauce our family loves."
+description = " I hope you enjoy this Chinese eggplant with spicy Sichuan sauce our family loves."
 tags = [
     "side",
     "dinner",
@@ -17,6 +17,8 @@ Prep Time: 15 minutes
 CookTime: 20 minutes 
 
 Cuisine: Sichuan, Chinese
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
