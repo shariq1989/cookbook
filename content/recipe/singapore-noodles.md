@@ -17,6 +17,8 @@ Cook Time: 1 hour
 
 Cuisine: Cantonese, American
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Singapore Noodles
