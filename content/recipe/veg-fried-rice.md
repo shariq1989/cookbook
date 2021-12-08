@@ -85,5 +85,5 @@ I hope you enjoy this recipe for vegetable stir-fried rice. If you try it, be su
 
 Other recipes from The Jamil Ghar:
 
-* [Sesame Tofu and Mushroom Stir-Fry]({{< ref "sesame-tofu-mushrooms" >}})
+* [Sesame Tofu and Mushroom Stir-Fry]({{< ref "sesame-tofu-mushroom" >}})
 * [Channa Masala]({{< ref "channa-masala" >}})
