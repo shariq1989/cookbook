@@ -1,23 +1,26 @@
 +++
-title = "Goa Red Lentil Soup - oa Masoor Dal"
+title = "Goa Red Lentil Soup - Goa Masoor Dal"
 date = "2021-03-17"
 description = "Goa is a coastal city and happens to be the smallest state in India. The food they make is unique to their region. Goan cuisine is well known for its balance of sweet and spicy, and its inclusion of coconut and seafood in many of their dishes. I hope you enjoy this Goa masoor dal recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
     "vegetarian",
     "instant pot",
-    "vegan"
+    "vegan", 
+    "soup"
 ]
 thumbnail= "images/goamasoordal.jpeg"
 +++
 
 Servings: 6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 1 hour 
+Cook Time: 1 hour 
 
 Cuisine: Goan
+
+By: [Tressa](https://www.jamilghar.com/about/) 
 
 Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-with-coconut-milk-and-spinach-durotherm)
 
@@ -45,6 +48,7 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 * Lime Wedges, to garnish
 
 #### Stove-Top Instructions
+
 1. Gather 1 cup of masoor dal. Rinse it in a [colander](https://amzn.to/3pbS1kS) and set it aside. 
 2. In a [saute pan](https://amzn.to/3lcbe51), add the coconut oil and onion. Cook on low heat until the onions brown and caramelize. 
 3. Once the onions caramelize, add the garlic, ginger, chilies, and kosher salt. Allow the mixture to cook for about 1 minute. 
@@ -69,7 +73,7 @@ Adapted: [Milk Street](https://www.177milkstreet.com/recipes/red-lentil-soup-wit
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Meal 
 
 Goa is a coastal city and happens to be the smallest state in India. The food they make is unique to their region; Goan cuisine is well known for its balance of sweet and spicy, and its inclusion of coconut and seafood in many of their dishes. I hope you enjoy this Goa masoor dal recipe our family loves.
 
