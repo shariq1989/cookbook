@@ -5,14 +5,15 @@ description = "There are way too many versions of this Olive Garden favorite flo
 tags = [
     "entree",
     "low carb",
+    "soup"
 ]
 thumbnail= "images/zuppatoscana.jpeg"
 +++
 Servings: 4-6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 1 hour, 15 minutes
+Cook Time: 1 hour, 15 minutes
 
 Cuisine: American, Italian
 
@@ -77,7 +78,7 @@ There are way too many versions of this favorite Olive Garden soup floating arou
 
 * Garlic 
 
-* [Chicken Better than Bouillon]
+* [Chicken Better than Bouillon](https://amzn.to/38081yU)
 
 * Potatoes: I use red, Yukon, or a combination of the two.
 
