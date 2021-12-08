@@ -4,6 +4,7 @@ date = "2021-06-02"
 description = "I hope you enjoy this mango salsa our family loves."
 tags = [
     "side",
+    "sauce"
     
 ]
 thumbnail= "images/mangosalsa.jpeg"
@@ -11,9 +12,11 @@ thumbnail= "images/mangosalsa.jpeg"
 
 Servings: 6 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cuisine: American 
+Cuisine: American
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -39,7 +42,7 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE SALSA
+### About the Salsa 
 
 #### What ingredients are needed for this meal?
 
