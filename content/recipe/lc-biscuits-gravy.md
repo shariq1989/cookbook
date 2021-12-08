@@ -3,8 +3,7 @@ title = "Low Carb Biscuits and Gravy"
 date = "2021-05-02"
 description = "My mama was a server in a mom-and-pop diner in Arizona for as long as I can remember. One thing the diner did well is biscuits and gravy. I often crave biscuits and gravy, maybe more for the memory than the meal itself, but I always struggle with the carb load of regular biscuits and gravy. This dilemma became the starting point for this delicious breakfast recipe you see today. My biscuit and gravy recipe is easy to make and low carb, if that's your thing. The biscuits are buttery and flaky and served with creamy sausage gravy, just like those you would eat in your favorite diner or grandma's house. Make them to serve or double the recipe to have some to freeze for later. I hope you enjoy this biscuit and gravy recipe our family loves."
 tags = [
-    "entree",
-    "keto",
+    "breakfast",
     "low carb"
 ]
 #thumbnail= "images/biscuitsandgravy.jpg"
@@ -12,11 +11,13 @@ tags = [
 
 Servings: 10 Biscuits <!--more-->
 
-Preparation Time: 10 minutes
+Prep Time: 10 minutes
 
-Cooking Time: 20 minutes
+Cook Time: 20 minutes
 
 Cuisine: American
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -65,7 +66,7 @@ For the Gravy:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Biscuits and Gravy
 
 My mama was a server in a mom-and-pop diner in Arizona for as long as I can remember. One thing the diner did well is biscuits and gravy. I often crave biscuits and gravy, maybe more for the memory than the meal itself, but I always struggle with the carb load of regular biscuits and gravy. This dilemma became the starting point for this delicious breakfast recipe you see today. My biscuit and gravy recipe is easy to make and low carb, if that's your thing. The biscuits are buttery and flaky and served with creamy sausage gravy, just like those you would eat in your favorite diner or grandma's house. Make them to serve or double the recipe to have some to freeze for later. I hope you enjoy this biscuit and gravy recipe our family loves. 
 
