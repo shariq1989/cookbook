@@ -3,8 +3,7 @@ title = "Buffalo Chicken-Crust Pizza"
 date = "2021-04-17"
 description = ""
 tags = [
-    "entree",
-    "keto",
+    "dinner",
     "low carb",
 ]
 #thumbnail= "images/buffalochickencrustedpizza.jpeg"
@@ -12,11 +11,13 @@ tags = [
 
 Servings: 2 <!--more-->
 
-Preparation Time: 10 minutes
+Prep Time: 10 minutes
 
-Cooking Time: 30 minutes
+Cook Time: 30 minutes
 
 Cuisine: American
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 Original Recipe: "[Keto Made Easy](https://amzn.to/3xNq0o1)", Megha Barot and Matt Gaedke
 
@@ -60,11 +61,11 @@ For the Topping:
 
 {{< end_recipe >}} 
 
-### ABOUT THE MEAL
+### About the Meal 
 
 This is an original recipe from the "Keto Made Easy" cookbook. Since trying their recipe, I have adapted it to add so many ingredients and variations of pizza.
 
-#### What ingredients do I need for this meal? 
+#### What ingredients are needed to make this meal? 
 
 * [Franks Buffalo Sauce](https://amzn.to/3uW71Vq)
 
@@ -106,7 +107,7 @@ I calculated one serving of buffalo chicken pizza to make it easy for you.
 
 Store the leftovers in a sealed container for 3 days. Reheat the pizza in the oven to 250 degrees. 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Pre-heat the oven to 350 degrees and line a [rimmed baking sheet](https://amzn.to/3yY84WM) with parchment paper. 
 2. In a small bowl, mix hot sauce, butter, and vinegar. Warm it in the microwave for 2 minutes. Be sure to cover the bowl to avoid sputtering. Once warmed, whisk the mixture together and set it aside.
