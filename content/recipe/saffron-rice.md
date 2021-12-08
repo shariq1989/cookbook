@@ -14,9 +14,9 @@ tags = [
 
 Servings: 5 <!--more-->
 
-Preparation Time: 30 minutes 
+Prep Time: 30 minutes 
 
-Cooking Time: 30 minutes 
+Cook Time: 30 minutes 
 
 Cuisine: Persian 
 
@@ -58,11 +58,11 @@ Cuisine: Persian
 
 {{< end_recipe >}}
 
-### ABOUT THE RICE  
+### About the Rice 
 
 Saffron is a luxury spice commonly used in Persian, Indian, Mediterranean, and Middle Eastern cuisine. I hope you enjoy this rice dish our family loves.
 
-#### What ingredients are needed for this meal?
+#### What ingredients are needed for this rice?
 
 * Long Grained Basmati Rice: You can use other long-grained rice, but I recommend using basmati. The key to a quality rice dish is taking the time to soak it; the longer, the better. By taking this step, your rice will have the length and luxury of a good saffron rice. 
 
