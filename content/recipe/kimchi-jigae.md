@@ -4,10 +4,11 @@ title = "Easy Tofu Kimchi Jjigae - Tofu Kimchi Stew"
 date = "2021-03-20"
 description = "Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup (whichever name you choose to call it), is quickly becoming a favorite in our home. This is due to its flexible ingredients and how easy it is to make. This kimchi tofu soup is rich and flavorful and can be made on the stove-top or in an Instant Pot."
 tags = [
-    "entree",
+    "dinner",
     "instant pot",
     "vegetarian",
-    "vegan"
+    "vegan",
+    "soup"
 ]
 thumbnail= "images/kimchijjigae1.jpeg"
 aliases = [
@@ -17,11 +18,13 @@ aliases = [
 
 Servings: 2 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 30 minutes 
+Cook Time: 30 minutes 
 
 Cuisine: Korean
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -32,7 +35,7 @@ Cuisine: Korean
 For the Broth: 
 
 * 3-4 cups Water
-* 2 tbsp [Fish Sauce](https://amzn.to/3uYz9IW)
+* 2 tbsp [Fish Sauce](https://amzn.to/3uYz9IW) or Marmite
 * 1 tbsp [Beef](https://amzn.to/3oM8L3W) or [Vegetable](https://amzn.to/3Atsuay) Better than Bouillon 
 * 1/2 tsp Soy Sauce 
 * 1 tsp [Gochochang](https://amzn.to/2NHrNZ3)
@@ -78,7 +81,7 @@ Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup (whichever name you ch
 
 #### What are the main kimchi jjigae ingredients?
 
-* [Fish Sauce](https://amzn.to/3uYz9IW)
+* [Fish Sauce](https://amzn.to/3uYz9IW) or Marmite 
 
 * [Beef](https://amzn.to/3oM8L3W) or [Vegetable](https://amzn.to/3Atsuay) Better than Bouillon 
 
