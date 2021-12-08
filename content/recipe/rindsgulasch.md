@@ -5,7 +5,8 @@ date = "2021-04-06"
 description = "Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch."
 tags = [
     "instant pot",
-    "entree",
+    "dinner",
+    "soup"
    
 ]
 thumbnail= "images/rindsgulasch-01.jpeg"
