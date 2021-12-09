@@ -1,5 +1,5 @@
 +++
-title = "Buffalo Chicken-Crust Pizza"
+title = "Buffalo Chicken Crust Pizza Recipe"
 date = "2021-04-17"
 description = ""
 tags = [
