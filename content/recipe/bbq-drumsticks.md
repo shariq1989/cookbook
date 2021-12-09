@@ -1,5 +1,5 @@
 +++
-title = "BBQ Chicken Drumsticks"
+title = " The Best BBQ Chicken Drumstick Recipe"
 date = "2021-04-12"
 description = "We love get-togethers with family and friends, and these BBQ chicken drumsticks are a perfect addition to any cookout, picnic, or backyard gathering. I prepare them with a homemade rub, and they are made in the oven or on the grill for moist and juicy drumsticks every time. I hope you enjoy this recipe for BBQ chicken drumsticks."
 tags = [
