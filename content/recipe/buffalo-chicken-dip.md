@@ -42,7 +42,7 @@ By [Tressa](https://www.jamilghar.com/about/)
 4. Garnish with scallions and extra bleu cheese, and then make our [corn tortilla chips]({{< ref "corn-tortilla-chips" >}}) to serve.
 
 {{< end_recipe >}}
-)
+
 ### About the Dip  
 
 This buffalo chicken dip came to me through friends; shout out to the Dant family for this incredible dish. It is tried and true and a hit for game days, parties, and get-togethers. This dip is easily made in 30 minutes and requires only 6 ingredients. Enjoy this buffalo chicken dip our family loves with tortilla chips, vegetables, pitas, or a baguette.
