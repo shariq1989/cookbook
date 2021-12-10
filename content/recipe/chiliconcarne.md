@@ -14,8 +14,6 @@ thumbnail= "images/chiliconcarne.jpeg"
 
 Servings: 8 <!--more-->
 
-Cook Time: 45 minutes
-
 Cuisine: Mexican, American
 
 By: [Tressa](https://www.jamilghar.com/about/)
