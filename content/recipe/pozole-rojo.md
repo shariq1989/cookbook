@@ -3,8 +3,9 @@ title = " Instant Pot Mexican Stew - Instant Pot Pozole Rojo"
 date = "2020-01-29"
 description = "Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chillies that flavor the broth. I hope you enjoy this pozole recipe our family loves."
 tags = [
-    "entree",
+    "dinner",
     "instant pot",
+    "soup"
     
 ]
 #thumbnail= "images/Pasole.jpg"
@@ -12,12 +13,14 @@ tags = [
 
 Servings: 8 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 1 hour, 20 minutes 
+Cook Time: 1 hour, 20 minutes 
 
 Cuisine: Mexican
 
+By: [Tressa](https://www.jamilghar.com/about/)
+6
 {{< start_recipe >}}
 
 ### How to Make Pozole Rojo 

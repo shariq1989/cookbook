@@ -5,7 +5,6 @@ description = "It's midweek, and you need a quick and easy meal; reach for this 
 tags = [
     "dinner",
     "instant pot",
-    "keto",
     "low carb"
 ]
 thumbnail= "images/MississippiRoast.jpg"
@@ -13,11 +12,13 @@ thumbnail= "images/MississippiRoast.jpg"
 
 Servings: 6-8 <!--more-->
 
-Preparation Time: 10 minutes  
+Prep Time: 10 minutes  
 
-Cooking Time: 1 hour, 20 minutes 
+Cook: 1 hour, 20 minutes 
 
 Cuisine: American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 

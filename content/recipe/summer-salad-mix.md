@@ -12,20 +12,22 @@ thumbnail= "images/PXL_20210430_213630274.MP.jpg"
 
 Servings: 6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
 ### How to Make a Summer Salad Mix 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1/2 Green Cabbage, thin strips 
 * 1/2 Red Onion, thinly sliced 
 * 1 cup Cilantro, coarsely chopped
 * 2 cup Arugula 
   
-#### INSTRUCTIONS
+#### Instructions
 
 1. Slice the halved cabbage into quarters. From there, slice the cabbage into thin strips and place them into a [mixing bowl](https://amzn.to/31fxunn).
 2. Thinly slice the halved onion, and then cut them in half once again. Add it to the bowl. 
@@ -34,9 +36,9 @@ Preparation Time: 10 minutes
 
 {{< end_recipe >}}
 
-### ABOUT THE SALAD
+### About the Salad 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Cabbage 
 
@@ -49,3 +51,13 @@ Preparation Time: 10 minutes
 #### What equipment do I need to make this recipe?
 
 * A [mixing bowl](https://amzn.to/31fxunn)
+
+---- 
+
+I hope you enjoy this summer salad mix. If you try it, be sure to let us know what you think!
+
+Pair this salad with other recipes from The Jamil Ghar:
+
+* [Tandoori Chicken]({{< ref "tandoori-chicken" >}})
+* [Peruvian Chicken]({{< ref "peruvian-chicken" >}})
+* [Blackened Mahi Mahi]({{< ref "black-mahimahi" >}})

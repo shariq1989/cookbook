@@ -12,11 +12,13 @@ thumbnail= "images/braisedshortribs.jpeg"
 
 Servings: 4-6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 3 hours, 20 minutes 
+Cook Time: 3 hours, 20 minutes 
 
 Cuisine: American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -54,7 +56,7 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 #### What ingredients do I need for this meal?
 

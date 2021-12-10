@@ -18,9 +18,11 @@ Cook Time: 1 hour
 
 Cuisine: American
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
-#### INGREDIENTS
+#### Ingredients
 
 * 2 cups Flour, All-Purpose 
 * 1/2 cup White Sugar, Granulated 
@@ -33,7 +35,7 @@ Cuisine: American
 * 3 Eggs 
 * 6 tbsp Milk 
 
-#### INSTRUCTIONS 
+#### Instructions 
 
 1. Mix the dry ingredients together in a [mixing bowl](https://amzn.to/3rczKGV). Set aside. 
 2. In another [bowl](https://amzn.to/3rczKGV), add the softened butter and mash it with a fork until it is broken down. 
@@ -47,11 +49,11 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE BREAD 
+### About the Bread 
 
 A moist and delicious baked banana bread recipe that our family loves, especially the kids. It is easy to make, and there is no need for a mixer!
 
-#### What main ingredients do I need for this bread?
+#### What main ingredients are needed for this bread?
 
 * All-Purpose Flour
 
@@ -91,7 +93,7 @@ A moist and delicious baked banana bread recipe that our family loves, especiall
 
 To keep your banana bread moist, allow it to cool completely and then wrap it in a layer of plastic. Next, store it in a Ziploc bag or a container with a tight-fitting lid. It will last on the counter for up to 3 days. 
 
-#### Can I freeze the banana bread?
+#### Can I freeze banana bread?
 
 You sure can. First, allow the banana bread to cool completely and then wrap it in plastic wrap, followed by foil. The banana bread will freeze for up to 2 months. When you're ready to eat, let it defrost at room temperature, and enjoy! 
 

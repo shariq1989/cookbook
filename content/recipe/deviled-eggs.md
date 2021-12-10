@@ -15,6 +15,8 @@ Servings: 12 Deviled Eggs <!--more-->
 
 Prep Time: 20 minutes 
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Deviled Eggs 
@@ -39,9 +41,11 @@ Prep Time: 20 minutes
 
 {{< end_recipe >}}
 
-### About the Appetizer 
+### About the Deviled Eggs  
 
 Deviled eggs are a perfect appetizer for gatherings and get-togethers. Whether it's for a birthday, barbeque, Easter picnic, Thanksgiving, or another holiday, you are likely to find this dish somewhere on the table. All you need to make the best-deviled eggs recipe our family loves is mayonnaise, mustard, paprika, and just a spill of pickle juice.
+
+#### What ingredients are needed for this meal?
 
 * Eggs 
 

@@ -5,7 +5,8 @@ date = "2021-04-06"
 description = "Gulasch or goulash originated in Hungary. Today, it has evolved into unique dishes from all over the world. This particular recipe is for an Austrian beef goulash or Austrian beef stew. It is flavored traditionally with caraway and paprika, and the beef is cooked until it is tender. The result of this recipe is the dark, smooth, and flavorful gravy you expect from rindsgulasch."
 tags = [
     "instant pot",
-    "entree",
+    "dinner",
+    "soup"
    
 ]
 thumbnail= "images/rindsgulasch-01.jpeg"
@@ -13,13 +14,13 @@ thumbnail= "images/rindsgulasch-01.jpeg"
 
 Servings: 6<!--more-->
 
-Preparation Time: 15 minutes
+Prep Time: 15 minutes
 
-Cooking Time: Instant Pot - 1 hour, 30 minutes 
+Cook Time: Instant Pot - 1 hour, 30 minutes 
 
 Cuisine: Austrian
 
-Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash), Christopher Kimball
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -158,11 +159,9 @@ Note: Freeze the goulash separately and then prepare fresh noodles when you're r
 
 I hope you enjoy our Austrian beef stew with paprika and caraway recipe. If you try it, be sure to let us know what you think!
 
-Other stew recipes from The Jamil Ghar:
+Other recipes from The Jamil Ghar:
 
 * [Beef and Barley Stew]({{< ref "beef-barley-stew" >}})
 * [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}})
 * [Chicken Kedjenou]({{< ref "kedjenou" >}})
 * [Georgian Chicken Soup]({{< ref "georgian-soup" >}})
-
-This original recipe can be found at [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash)

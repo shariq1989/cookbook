@@ -3,7 +3,7 @@ title = "Peruvian-Style Roasted Chicken - Pollo A La Brasa"
 date = "2021-05-03"
 description = "This Peruvian chicken recipe is butterflied and roasted whole in the oven. We serve this chicken with our take on the delicious Peruvian green sauce called serrano crema. You can also replicate this recipe using chicken thighs and legs as well. I used a whole, butterflied, or spatchcocked chicken for this recipe because, in my opinion, that is the tastiest and most effective way to make a chicken. Spatchcocking a chicken describes cutting the backbone out of the chicken and flattening it; this allows the chicken to roast evenly. For the Peruvian chicken marinade, I use a combination of cumin, paprika, kosher salt, black pepper, garlic, distilled white vinegar, and olive oil. If you're concerned about carbohydrates Peruvian, chicken is a perfect keto or low-carb meal. The best part is that Peruvian roasted chicken is made in the oven using a rimmed baking sheet and a wire rack, and it only takes 45 minutes to cook. I hope you enjoy this Peruvian roasted chicken recipe our family loves. "
 tags = [
-    "entree",
+    "dinner",
     "low carb",
     "keto"
 ]
@@ -18,6 +18,8 @@ Preparation Time: 20 minutes
 Cooking Time: 35-45 minutes 
 
 Cuisine: Peruvian
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 Adapted from: [The Food Lab](https://amzn.to/3f41x4R) by Kenji Lopez-Alt
 

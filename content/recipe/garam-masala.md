@@ -3,18 +3,20 @@ title = "Pakistani Garam Masala"
 date = "2021-03-12"
 description = "Garam Masala, in English, means 'hot spice'. It is the main ingredient in many Pakistani and Indian dishes. Garam Masala doesn't carry the name 'hot spice' because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. While you can buy garam masala in stores, most Bengali, Indian, and Pakistani homes have a family-treasured garam masala recipe. While the exact spices and their measurements differ from home to home, the process for making garam masala is always the same. Begin by measuring the fresh, whole spices, toast them in a pan, grind them finely, and preserve them for many meals to come in an air-tight container. Garam masala is an essential ingredient for most Pakistani and Indian recipes; it can easily alter the flavor of what you're making. Finding the right combination of spices is crucial. In this garam masala recipe, I use green cardamom, black cardamom, a broken down cinnamon stick, black cloves, cumin seeds, coriander seeds, nutmeg, mace, and bay leaves. Other spices used to make garam masala include: peppercorns, star anise, dried ginger, asafoetida powder, caraway seeds, and fenugreek. The only equipment you need to make garam masala at home is a skillet and a spice grinder or a mortar and pestle. Once ground, store the garam masala in an air-tight glass jar, like a mason jar. It will last for about 4-6 weeks. I hope you enjoy this authentic garam masala recipe we use in our home often."
 tags = [
-    "spice blends",
+    "spice",
 ]
 thumbnail= "images/pakistanigarammasala.jpeg"
 +++
 
 Servings: 1 cup <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 5 minutes 
+Cook Time: 5 minutes 
 
 Cuisine: Pakistani 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -40,7 +42,7 @@ Cuisine: Pakistani
 
 {{< end_recipe >}}
 
-### About the Spice 
+### About the Spice Blend  
 
 Garam Masala, in English, means "hot spice." It is the main ingredient in many Pakistani and Indian dishes. Garam Masala doesn't carry the name 'hot spice' because it is spicy, but more so because of the warming spices used and the process of toasting the spices before grinding them. 
 

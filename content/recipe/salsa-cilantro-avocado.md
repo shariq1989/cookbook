@@ -3,7 +3,7 @@ title = "The Best Homemade Salsa with Cilantro and Avocado"
 date = "2021-05-05"
 description = "Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family (including our littles) loves."
 tags = [
-    "side",
+    "sauce",
     "vegan",
     "vegetarian",
 ]
@@ -12,9 +12,11 @@ thumbnail= "images/salsacilantroavocado.jpeg"
 
 Servings: 10 <!--more-->
 
-Preparation Time: 20 minutes 
+Prep Time: 20 minutes 
 
 Cuisine: Mexican 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -45,11 +47,11 @@ Cuisine: Mexican
 
 {{< end_recipe >}}
 
-### ABOUT THE SIDE
+### About the Salsa
 
 Skip going to the store and make your own chunky salsa at home. This homemade salsa is packed full of your favorites like tomatoes, onion, garlic, jalapenos, and cilantro. I hope you enjoy this fresh salsa recipe our family (including our littles) loves.
 
-#### What ingredients are needed for this meal?
+#### What ingredients are needed for this salsa?
 
 * Roma Tomatoes: Romas work well for making salsa; they hold up well and have fewer seeds than other types of tomatoes; this makes the salsa less watery, which is what we're going for with this salsa. 
 

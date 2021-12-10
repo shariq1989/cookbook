@@ -6,7 +6,6 @@ tags = [
     "breakfast",
     "dessert",
     "low carb",
-    "keto",
     "vegetarian"
    
 ]
@@ -15,11 +14,13 @@ thumbnail= "images/doublechocolatelcmuffins.jpeg"
 
 Servings: 8 muffins <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 25 minutes 
+Cook Time: 25 minutes 
 
 Cuisine: American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -52,7 +53,7 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MUFFINS
+### About the Muffins
 
 #### What ingredients are needed for these muffins?
 

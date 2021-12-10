@@ -3,7 +3,8 @@ title = "High Elevation Nutella and Peanut Butter Cookies"
 date = "2021-03-11"
 description = "I have always loved cooking and baking, but I haven't always been great at it- especially baking. Back in the day, I wanted so badly to bake something people wanted to eat, but my attempts always ended with barely edible creations. Then something incredible happened, the invention of Pinterest. While searching one day, I stumbled upon a Nutella cookie recipe; I was determined to master it. My poor mom and sisters ate cookies for a week straight as I experimented with their recipe to transform it into something tasty. Finally, with a few adjustments for higher elevation (I didn't realize this was the issue for far too long) and the addition of peanut butter, this recipe was born. I hope you enjoy these Nutella and Peanute Butter cookies our family loves."
 tags = [
-    "cookies",
+    "dessert",
+    "vegetarian"
  
 ]
 thumbnail= "images/PButterandNutellaCookie-01.jpeg"
@@ -12,11 +13,13 @@ thumbnail= "images/PButterandNutellaCookie-01.jpeg"
 
 Servings: 3 Dozen <!--more-->
 
-Preparation Time: 20 minutes
+Prep Time: 20 minutes
 
-Cooking Time: 10 minutes 
+Cook Time: 10 minutes 
 
 Cuisine: American  
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -48,11 +51,11 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THESE COOKIES   
+### About the Cookies  
 
 I have always loved cooking and baking, but I haven't always been great at it- especially baking. Back in the day, I wanted so badly to bake something people wanted to eat, but my attempts always ended with barely edible creations. Then something incredible happened, the invention of Pinterest. While searching one day, I stumbled upon a Nutella cookie recipe; I was determined to master it. My poor mom and sisters ate cookies for a week straight as I experimented with their recipe to transform it into something tasty. Finally, with a few adjustments for higher elevation (I didn't realize this was the issue for far too long) and the addition of peanut butter, this recipe was born. I hope you enjoy these Nutella and Peanute Butter cookies our family loves.
 
-#### What ingredients are needed for this meal?
+#### What ingredients are needed for these cookies?
 
 * White Sugar 
 

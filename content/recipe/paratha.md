@@ -3,14 +3,12 @@ title = "Paratha"
 date = "2021-04-16"
 description = "Parathas are a staple in most Pakistani and Indian homes, and with good reason; they are tasty and pair well with most dishes! Parathas are unleavened bread made by layering and rolling dough that cooks until golden brown. Parathas are eaten at any time of day, breakfast, lunch, or dinner. In our home, we love fresh parathas with our breakfast; we enjoy them with eggs and achar. I hope you enjoy this paratha recipe as much as our family does."
 tags = [
-    "entree",
+    "side",
     "vegetarian",
 ]
 
 thumbnail= "images/paratha.jpg"
 +++
-
-By: Tressa 
 
 Servings:  4 <!--more-->
 
@@ -19,6 +17,8 @@ Prep Time: 40 minutes
 CooK Time: 15 minutes 
 
 Cuisine: Indian, Pakistani 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 

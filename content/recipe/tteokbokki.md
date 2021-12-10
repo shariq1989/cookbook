@@ -3,18 +3,22 @@ title = "Spicy Korean Rice Cakes - Tteokbokki"
 date = "2021-04-16"
 description = "This recipe teaches how to make Tteokbokki, also called Ddukbokki, Ddeokbokki, or Dukbokki; this dish is a popular Korean street food, and not only is it delicious, it's a comfort food that can easily be made at home. My experience with tteokbokki began several years ago; Shariq and I were with international students from Malaysia and Burma in a small Korean restaurant in Arizona. It was my first time eating Korean food, and we ordered family-style. I fell in love with Korean food that day, but especially a spicy dish with a texture I had never experienced before in my life. I should have had the foresight to ask them the name of the dish, but of course, I did not. Instead, I went for years in search of the tasty meal I tried that day. Here it is folks, tteokbokki, which I have eaten countless times now, and I am still a fan."
 tags = [
-    "entree",
+    "dinner",
+    "vegan",
+    "vegetarian"
 ]
 thumbnail= "images/tk2.jpg"
 +++
 
 Servings: 3-4 <!--more-->
 
-Preparation Time: 10 minutes
+Prep Time: 10 minutes
 
-Cooking Time: 20 minutes 
+Cook Time: 20 minutes 
 
 Cuisine: Korean 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -42,13 +46,13 @@ Cuisine: Korean
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Dish 
 
 This recipe teaches how to make Tteokbokki, also called Ddukbokki, Ddeokbokki, or Dukbokki; this dish is a popular Korean street food, and not only is it delicious, it's a comfort food that can easily be made at home.
 
 My experience with tteokbokki began several years ago; Shariq and I were with friends from Malaysia and Burma in a small Korean restaurant in Arizona. It was my first time eating Korean food, and we ordered family-style. I fell in love with Korean food that day, but especially a spicy dish with a texture that sticks in your minds. I should have had the foresight to ask them the name of the dish, but of course, I did not. Instead, I went for years in search of this tasty meal. Here it is folks, tteokbokki, which I have eaten countless times now, and I am still a fan. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * [Fish Sauce](https://amzn.to/32UtmKn): Traditionally, dried anchovies and kelp are used to make the Tteokbokki broth, but since fish sauce is a staple in our home, I use that to flavor the broth and create umami instead.
 
@@ -79,6 +83,8 @@ Of course, reduce the amount of Gochuchang used to 2 tbsp and Gochugaro to 1 tsp
 #### What can I add to Tteokbokki? 
 
 There are so many ways to dress up Tteokbokki. Many people enjoy adding fish cakes, boiled eggs, ramen, and vegetables like cabbage and carrots. 
+
+---- 
 
 ### Instructions: Step-by-Step
 

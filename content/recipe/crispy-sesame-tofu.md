@@ -3,7 +3,7 @@ title = "Vegan Crispy Sesame Tofu with Coconut Chili Dressing"
 date = "2021-03-26"
 description = "If you like tofu, enjoy this nutty and sweet dish created originally by Nik Sharma. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. I cook the tofu in a frying pan, but you could also bake the crispy sesame tofu in the oven or air fryer if you prefer."
 tags = [
-    "entree",
+    "dinner",
     "vegan",
     "vegetarian",
 ]
@@ -12,9 +12,11 @@ thumbnail= "images/crispysesametofu.jpeg"
 
 Servings: 4-5 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 30 minutes
+Cook Time: 30 minutes
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 Adapted from: [NYT Cooking](https://cooking.nytimes.com/recipes/1021982-sesame-tofu-with-coconut-lime-dressing-and-spinach), Nik Sharma 
 
@@ -68,7 +70,7 @@ For the Frying:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Tofu
 
 If you like tofu, enjoy this nutty and sweet tofu created by Nik Sharma. This vegan, black and white sesame-crusted tofu is the perfect blend of sweet and savory. I cook the tofu in a frying pan, but it could also be baked in an oven or air fryer if you prefer.
 

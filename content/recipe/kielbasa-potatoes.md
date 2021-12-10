@@ -1,10 +1,10 @@
 +++
-title = "Roasted Kielbasa and Potatoes"
+title = "Sheet Pan Kielbasa, Potatoes, and Peppers"
 date = "2021-02-15"
-description = "This recipe is for sheet-pan baked or fried kielbasa, potatoes, peppers. It can be cooked in the oven or in a skillet."
+description = "In college, my sister and I were roommates and living on a budgets. To make great-tasting meals we had to get creative; this was before Pinterest afterall. Out of our boredom and budget, this recipe was made. This recipe is for sheet-pan baked kielbasa, potatoes, peppers. It can be cooked in the oven or on the stove-top. Kielbasa, potatoes, and peppers is the ultimate weeknight meal, especially since it is cooked all in one place and done in 30 minutes."
 tags = [
-    "entree",
-    "sheet pan",
+    "dinner",
+    "quick meal",
     "low carb"
 ]
 thumbnail= "images/keilbasapotatoes.jpeg"
@@ -12,15 +12,17 @@ thumbnail= "images/keilbasapotatoes.jpeg"
 
 Servings: 5 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 30 minutes 
+Cook Time: 30 minutes 
 
 Cuisine: Polish 
 
+By: [Tressa](https://www.jamilghar.com/about/) 
+
 {{< start_recipe >}}
 
-### How to Make Roasted Kielbasa and Potatoes 
+### How to Make Sheet Pan Kielbasa, Potatoes, and Peppers 
 
 #### Ingredients 
 
@@ -34,26 +36,28 @@ Cuisine: Polish
 #### Stove-Top Instructions
 
 1. Preheat a [skillet](https://amzn.to/3lfBGLa) over medium-high heat.
-2. Add the kielbasa to the heated pan. Stir regularly to prevent burning or sticking.
-3. Once the kielbasa is cooked and heated through, set it aside. 
+2. Add the kielbasa to the heated [pan](https://amzn.to/3lfBGLa). Stir regularly to prevent burning.
+3. Once the kielbasa is cooked through, set it aside. 
 4. In the same [skillet](https://amzn.to/3lfBGLa), add the potatoes, season with salt and parsely, and then cook on medium heat for about 10-15 minutes. 
 5. Next, add the peppers and reduce to low heat. Cook for another 10 minutes, and then return the kielbasa to the pan. 
 
 #### Oven Instructions 
 
 1. Preheat the oven to 400 degrees and prepare a [rimmed baking sheet](https://amzn.to/3I126tD). 
-2. Slice the potatoes, keilbasa, and peppers. Spread the potatoes and keilbasa onto the [baking sheet](https://amzn.to/3I126tD). Season the potatoes with salt and parsely and set the peppers aside. 
-3. Bake for 15 minutes, add the peppers and mix everything on the pan together, spreading around the oil from the keilbasa. Bake for another 10-15 minutes. 
+2. Spread the keilbasa and potatoes onto the [baking sheet](https://amzn.to/3I126tD). Season the potatoes with salt and parsely. Set the peppers aside. 
+3. Bake for 15 minutes, then add the peppers and mix everything on the pan together, spreading around the oil from the keilbasa. Bake for another 10-15 minutes. 
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Meal 
 
-#### What ingredients do I need for this meal?
+In college, my sister and I were roommates and living on a budgets. To make great-tasting meals we had to get creative; this was before Pinterest afterall. Out of our boredom and budget, this recipe was made. This recipe is for sheet-pan baked kielbasa, potatoes, peppers. It can be cooked in the oven or on the stove-top. Kielbasa, potatoes, and peppers is the ultimate weeknight meal, especially since it is cooked all in one place and done in 30 minutes.
+
+#### What ingredients are needed for this meal?
 
 * Red or Yukon God Potatoes: Use red or yukon gold potatoes, or a combination of the two. You can easily substitute whatever potatoes you have on hand. Just be sure to cut the potatoes into about one-inch pieces so they roast at the same pace as the other ingredients. 
 
-* Kielbasa
+* Kielbasa: I use kielbasa for this recipe, but get creative. You could easily substitute italian sausage, andouille, chicken sausage, or chorizo and end up with a tasty meal. 
 
 * Yellow Bell Pepper
 
@@ -67,4 +71,16 @@ Cuisine: Polish
 
 * A [rimmed baking sheet](https://amzn.to/3I126tD) or [skillet](https://amzn.to/3lfBGLa)
 
+#### What can I pair the kielbasa and veggies with? 
+
+With a meal like this you can simply eat it as is or serve it over rice, in a corn tortilla, or over a bed of rice. This meal is so flexible that it's really up to you. 
+
 ---- 
+
+I hope you enjoy this recipe for sheet pan kielbasa and veggies. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [BBQ Drumsticks]({{< ref "bbq-drumsticks" >}})
+* [Olive Garden Zuppa Toscana Copycat]({{< ref "zuppa_toscana" >}})
+* [Braised Short Ribs]({{< ref "braised-short-ribs ">}})

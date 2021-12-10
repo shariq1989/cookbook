@@ -1,9 +1,9 @@
 +++
 title = "Thai Panang Curry with Shrimp"
 date = "2021-06-19"
-description = "This Panang curry recipe is a perfect quick, weeknight meal. It is a great combination of creamy, tangy, and sweet, and excellent alongside some perfectly steamed rice. This recipe is customizable and can easily fit a vegetarian or vegan lifestyle."
+description = "This shrimp panang curry recipe is a perfect quick, weeknight meal. It is a great combination of creamy, tangy, and sweet, and excellent alongside some perfectly steamed rice. This recipe is customizable and can easily fit a vegetarian or vegan lifestyle."
 tags = [
-    "entree",
+    "dinner",
     "quick meals",
 ]
 
@@ -15,17 +15,19 @@ aliases = [
 
 Servings: 3-4 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 20 minutes 
+Cook Time: 20 minutes 
 
 Cuisine: Thai 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
 ### How to Make Thai Panang Curry with Shrimp 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 2 lbs Jumbo Shrimp 
 * 1 -4 oz [Panang Curry Paste](https://amzn.to/3wLObSf), whole can for spicy, 1/2 can for mild
@@ -39,7 +41,7 @@ Cuisine: Thai
 * 1 tbsp [Fish Sauce](https://amzn.to/3d3z0vF)
 * Thai Basil, for garnish
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. In a [mixing bowl](https://amzn.to/3xJ7f54), defrost the shrimp. De-vein and remove the tails. Set aside. 
 2. In a [Dutch oven](https://amzn.to/2UeXCLz) or a heavy-bottomed pan like a [wok](https://amzn.to/3cQualy), warm the Panang curry paste and coconut oil until fragrant, about 2 minutes.
@@ -52,11 +54,11 @@ Cuisine: Thai
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Meal 
 
 This Panang curry recipe is the perfect quick and easy weeknight meal. The flavor is creamy, tangy, and sweet, and it is excellent alongside some perfectly cooked rice. This recipe is completely customizable and can easily fit a vegetarian or vegan diet with a few omissions.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Jumbo Shrimp: I used jumbo shrimp for this recipe, but you can use extra-large or colossal shrimp if you want something more filling. 
 
@@ -85,7 +87,9 @@ This Panang curry recipe is the perfect quick and easy weeknight meal. The flavo
 * A large bowl
 * A [dutch oven](https://amzn.to/2UeXCLz) or heavy-bottomed pan like a [wok]((https://amzn.to/3cQualy) 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+----
+
+### Instructions: Step-by-Step
 
 1. In a large bowl, defrost the shrimp. De-vein and remove the tails. Set aside. 
 2. In a [dutch oven](https://amzn.to/2UeXCLz) or a heavy-bottomed pan like a [wok](https://amzn.to/3cQualy), warm the Panang curry paste and coconut oil until fragrant, about 2 minutes.

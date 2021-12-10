@@ -18,6 +18,8 @@ Cook Time: 40 minutes
 
 Cuisine: Indian
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Butter Chicken 
@@ -89,7 +91,7 @@ For the Curry:
 
 {{< end_recipe >}}
 
-#### About the Meal 
+#### About the Chicken 
 
 Butter chicken originated in Dehli, and it quickly grew in popularity throughout the rest of the world. It makes sense; butter chicken introduces all the flavor and spices of Indian cooking in one dish. For that reason, I often make this meal for guests who have never tasted Indian food before. My creamy, homemade butter chicken recipe can be made in the Instant Pot or the stove-top and tastes just like your favorite restaurant. I hope you enjoy this butter chicken dish our family loves. 
 
@@ -117,7 +119,7 @@ Butter chicken originated in Dehli, and it quickly grew in popularity throughout
 
 * Garlic 
 
-* Thai Green Chillis
+* Thai Green Chilis
 
 * Garam Masala: India is a vast country with varying sub-cultures. As a result, Indian food differs from region to region. The same is true of spices as well. Garam masala is a necessary ingredient for butter chicken;  but, each garam masala blend differs based on origin and the family making it. For this reason, I suggest making your garam masala, so you can control the amount of each spice used in the mixture and cater it specifically to your preferences. Here is the [garam masala]({{< ref "garam-masala" >}}/) our family uses. If you choose to go the store-bought route, I suggest [Rani](https://amzn.to/3eqFSFa), Spice House, or Penzey's garam masala. 
 

@@ -3,7 +3,7 @@ title = "No-Bake Paleo Granola Bars"
 date = "2021-04-30"
 description = "Our no-bake paleo granola bars are chewy, crunchy, sweet, and salty. They are easy to make, and you can make extra to prep for the rest of the week. They are the perfect addition to any paleo, grain-free, or gluten-free way of eating. These granola bars are a favorite in our home, and kid-approved."
 tags = [
-    "snack",
+    "side",
     "vegetarian",
     "vegan",
     "low carb"
@@ -16,6 +16,10 @@ Servings: 8-10 Granola Bars  <!--more-->
 Prep Time: 10 minutes 
 
 Chill Time: 1 hour 
+
+Cuisine: American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 

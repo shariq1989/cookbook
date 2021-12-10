@@ -12,9 +12,11 @@ thumbnail= "images/belgiumwaffle.jpeg"
 
 Servings: 4 Waffles <!--more-->
 
-Preparation Time: 30 minutes
+Prep Time: 30 minutes
 
-Cooking Time: 10 minutes
+Cook Time: 10 minutes
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -41,11 +43,11 @@ Cooking Time: 10 minutes
 
 {{< start_recipe >}}
 
-### ABOUT THE WAFFLES 
+### About the Waffles 
 
 An alternate title for this recipe could be 'Birthday Waffles' since birthdays are really the only time we bust out this recipe. Either way, these waffles are delicious! They have a light, fluffy inside to compliment the crispy outside. The best part about these waffles, in my opinion, is how easy they are to make, and they are ready in just a few minutes with ingredients found in your pantry.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * All-Purpose Flour 
 

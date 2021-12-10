@@ -3,20 +3,22 @@ title = "Homemade Guacamole"
 date = "2020-01-29"
 description = "For a super easy guacamole on the go, all you really need is a few ripe avocados and a little salt; everything else is extra, but oh so tasty. Enjoy this fresh guacamole recipe our whole family loves."
 tags = [
-    "keto",
+    "side",
     "low carb",
     "vegetarian",
     "vegan",
-    "dip"
+    "sauce"
 ]
 thumbnail= "images/guacamole.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
 Cuisine: Mexican
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 

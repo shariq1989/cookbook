@@ -3,7 +3,9 @@ title = "Easy Pickled Red Onion"
 date = "2020-12-21"
 description = "Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red onions from pungent and crunchy to an irresistibly tangy topping with this recipe for quick pickled red onions."
 tags = [
-    "side dish",
+    "vegetarian",
+    "vegan",
+    "side"
    
 ]
 thumbnail= "images/pickledonion.jpg"
@@ -11,9 +13,11 @@ thumbnail= "images/pickledonion.jpg"
 
 Servings: 4 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooling Time: 30 minutes 
+Cool Time: 30 minutes 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -38,7 +42,7 @@ Cooling Time: 30 minutes
 
 {{< end_recipe >}}
 
-### ABOUT THE SIDE 
+### About the Pickled Onions  
 
 Want to spice up your salad, sandwich, taco, or burger? Transform your raw, red onions from pungent and crunchy to an irresistibly tangy topping with this recipe for quick pickled red onions.
 
@@ -71,7 +75,7 @@ Use pickled onions to dress up all kinds of dishes, like tacos or burritos; they
 
 ---- 
 
-### InstructionsL Step-by-Step
+### Instructions: Step-by-Step
 
  1. Slice the onions thinly and pack them into the bottom of a [glass jar](https://amzn.to/3ETyuvT). Set aside. 
  
@@ -101,5 +105,5 @@ Pair these pickled onions with other recipes from The Jamil Ghar:
 
 * [Chorizo Breakfast Burrito]({{< ref "chorizo-burrito" >}})
 * [Mississippi Roast]({{< ref "mississippi-roast" >}}) 
-* [Summer Salad Miz]({{< ref "summer-salad-mix" >}}) 
+* [Summer Salad Mix]({{< ref "summer-salad-mix" >}}) 
 * [Carnitas]({{< ref "carnitas" >}})

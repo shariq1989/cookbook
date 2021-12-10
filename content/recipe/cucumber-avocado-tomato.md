@@ -1,12 +1,11 @@
 +++
 title = "Cucumber, Avocado, and Tomato Salad with Lime"
 date = "2021-05-03"
-description = "This salad is full of herbs, juicy tomato, crisp cucumber, and creamy avocado. The addition of olive oil and lime makes for a perfect light salad or side dish to any meal."
+description = "This salad is full of herbs, juicy tomato, crisp cucumber, and creamy avocado. The addition of olive oil and lime makes for a perfect light salad or side dish to any meal.I hope you enjoy this recipe for cucumber, avocado, and tomato salad with lime. as much as we do."
 tags = [
-    "sides",
+    "side",
     "vegan",
     "vegetarian", 
-    "keto", 
     "low carb"
     
 ]
@@ -15,9 +14,11 @@ thumbnail= "images/cucumberavocadotomatosalad.jpeg"
 
 Servings: 6 <!--more-->
 
-Preparation Time: 15 minutes
+Prep Time: 15 minutes
 
 Cuisine: American
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -43,9 +44,9 @@ Cuisine: American
  
 {{< end_recipe >}}
 
-### ABOUT THE SALAD 
+### About the Salad 
 
-This salad is full of herbs, juicy tomato, crisp cucumber, and creamy avocado. The addition of olive oil and lime lends flavor to this perfect light salad or side dish for any meal. 
+This salad is full of herbs, juicy tomato, crisp cucumber, and creamy avocado. The addition of olive oil and lime makes for a perfect light salad or side dish to any meal.I hope you enjoy this recipe for cucumber, avocado, and tomato salad with lime. as much as we do
 
 #### What ingredients are needed for this meal?
 

@@ -3,10 +3,9 @@ title = "Thai Red Curry with Chicken"
 date = "2021-02-08"
 description = "I hope you enjoy this Thai red curry our family loves."
 tags = [
-    "entree",
+    "dinner",
     "instant pot",
     "low carb",
-    "keto",
    
 ]
 #thumbnail= "images/ThaiRedCurry.jpg"
@@ -20,11 +19,13 @@ Cooking Time: 20 minutes
 
 Cuisine: Thai
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Thai Red Curry 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 -4 oz [Thai Red Curry Paste](https://amzn.to/2NmwVBf), the whole can for spicy, 1/2 can for mild
 * 1/2 tsp Ginger Paste
@@ -37,7 +38,7 @@ Cuisine: Thai
 * 1/2 cup Mushrooms of your choice, quartered
 * Thai Basil, for garnish 
 
-#### STOVE-TOP INSTRUCTIONS 
+#### Stove-Top Instructions 
 
 1. Warm the red curry paste and ginger paste in a heavy-bottomed [pan](https://amzn.to/3of37Xc) over medium heat until fragrant, about 2 minutes.
 2. Add the onions and chicken to the heavy-bottomed [pan](https://amzn.to/3of37Xc), and stir to coat. Fry for 3-5 minutes, then add bell peppers and zucchini, saute for another minute.
@@ -45,7 +46,7 @@ Cuisine: Thai
 4. Reduce the heat to a light simmer and add the remaining coconut milk and fish sauce, along with the mushrooms. Allow the mixture to cook for 10 minutes. The curry should thicken, and the vegetables will reach a crisp-tenderness. If the curry does not thicken, add 2 tbsp cold water and stir to mix.
 5. Garnish with Thai basil leaves and serve with jasmine rice.
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instant Pot Instructions 
 
 1. Warm the red curry paste and ginger paste in an [Instant Pot](https://amzn.to/2QR1gcY) on saute mode until fragrant, about 2 minutes.
 2. Add the onions and chicken, stir to coat. Fry for 3-5 minutes, then add bell peppers and zucchini, saute for another minute.
@@ -56,9 +57,9 @@ Cuisine: Thai
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Thai Red Curry Paste: We searched for the best Thai curry paste over and over. [Maesri](https://amzn.to/2NmwVBf) comes out the winner every time! It is also one of the few Thai curry pastes that also happen to be vegetarian and vegan-friendly. 
 

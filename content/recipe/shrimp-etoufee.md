@@ -4,7 +4,7 @@ title = "Shrimp Etoufee"
 date = "2021-05-02"
 description = ""
 tags = [
-    "entree",
+    "dinner",
    
 ]
 thumbnail= "images/shrimpetouffee.jpeg"
@@ -12,17 +12,19 @@ thumbnail= "images/shrimpetouffee.jpeg"
 
 Servings: 4-6 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 1 hour, 15 minutes 
+Cook Time: 1 hour, 15 minutes 
 
 Cuisine: American, Cajun 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
 ### How to Make Shrimo Etouffee 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Cajun or Creole Seasoning: 
 
@@ -57,7 +59,7 @@ For the Etouffee:
 * 2 lbs Jumbo Shrimp, peeled and deveined, shells reserved 
 * Kosher Salt, to taste 
   
-#### INSTRUCTIONS
+#### Instructions
 
 For the Shrimp Broth: 
 
@@ -77,9 +79,9 @@ For the Etoufee:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Butter 
 
@@ -113,7 +115,7 @@ For the Etoufee:
 
 ----
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 For the Shrimp Broth: 
 

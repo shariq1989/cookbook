@@ -13,11 +13,13 @@ thumbnail= "images/lettucewraps.jpeg"
 
 Servings: 4-6 <!--more-->
 
-Preparation Time: 15 minutes 
+Prep Time: 15 minutes 
 
-Cooking Time: 20 minutes 
+Cook Time: 20 minutes 
 
 Cuisine: American, Chinese 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 

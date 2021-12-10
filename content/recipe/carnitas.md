@@ -3,7 +3,7 @@ title = "Instant Pot Carnitas - Pork Braised Tacos"
 date = "2021-03-20"
 description = "Carnitas, or 'little meat,' is a popular Mexican dish of braised pork shoulder that is later pulled apart and then crisped up. This carnitas recipe makes for the perfect street taco- the juicy, shredded pork, and the crispy, flavorful edges, all made in the comfort of your own home."
 tags = [
-    "entree",
+    "dinner",
     "instant pot",
 ]
 
@@ -12,11 +12,13 @@ thumbnail= "images/carnitas.jpeg"
 
 Servings: 10-12 <!--more-->
 
-Preparation Time: 20-30 minutes 
+Prep Time: 20-30 minutes 
 
-Cooking Time: 1 hour, 30 minutes 
+Cook Time: 1 hour, 30 minutes 
 
 Cuisine: Mexican 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -64,7 +66,7 @@ To Serve:
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL 
+### About the Tacos 
 
 Carnitas, or "little meat," is a popular Mexican dish of braised pork shoulder that is later pulled apart and then crisped up. This carnitas recipe makes for the perfect street taco- the juicy, shredded pork, and the crispy, flavorful edges, all made in the comfort of your own home. 
 

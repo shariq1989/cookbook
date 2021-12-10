@@ -1,5 +1,5 @@
 +++
-title = " Pakistani Aloo Keema- Minced Beef and Potato"
+title = " Pakistani Aloo Keema Recipe- Ground Beef and Potato"
 date = "2021-11-29"
 description = "Keema or qeema is a Pakistani and Indian dish made of minced meat, onions, garlic, tomatoes, spices, and herbs. Keema usually refers to ground beef, lamb, or chicken, cooked with a combination of peas, potatoes, cashew, methi leaves, ginger, garlic, chilies, and onions.  Our keema recipe combines ground beef, potatoes, onion, ginger, Thai green chilies, Roma tomatoes, cilantro, and serrano chilies; it is seasoned with Laziza Keema Masala. While keema may not appeal the way other Indian or Pakistani dishes, it is a familiar comfort food our family loves."
 tags = [
@@ -13,11 +13,13 @@ thumbnail= "images/alookeema.jpeg"
 
 Servings: 6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 30 minutes 
+CookTime: 30 minutes 
 
 Cuisine: Pakistani, Indian 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 

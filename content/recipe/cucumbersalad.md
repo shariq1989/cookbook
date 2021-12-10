@@ -3,9 +3,8 @@ title = "Japanese Cucumber Salad - Sunomono"
 date = "2021-02-07"
 description = ""
 tags = [
-    "side dish",
+    "side",
     "low carb",
-    "keto",
     "vegetarian",
     "vegan",
 ]
@@ -17,6 +16,8 @@ Servings: 2-3 <!--more-->
 Preparation Time: 10 minutes 
 
 Cuisine: Japanese 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -41,9 +42,9 @@ Cuisine: Japanese
 
 {{< end_recipe >}}
 
-### ABOUT THE SALAD 
+### About the Salad
 
-#### What ingredients are needed for this meal?
+#### What ingredients are needed to make this dish?
 
 * Kosher Salt 
 

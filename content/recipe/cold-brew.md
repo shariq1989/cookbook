@@ -10,6 +10,8 @@ thumbnail= "images/classiccoldbrew.jpeg"
 
 Servings: About 12 <!--more-->
 
+By: [Tressa](https://www.jamilghar.com/about/)
+
 {{< start_recipe >}}
 
 ### How to Make Cold Brew Coffee Using the Toddy 
@@ -52,7 +54,7 @@ For Classic Cold Brew:
 
 {{< end_recipe >}}
 
-### ABOUT COLD BREW 
+### About Cold Brew 
 
 About 3 years ago my husband and I had a sit-down about my iced coffee obsession. Hello Dutch Bro's and Starbucks Cold Brew with Cascara Cold Foam, am I right? That conversation ended with the purchase of a new Cold Brew [Toddy](https://amzn.to/3CMQ03P). My life has changed for the better since that moment. I have also successfully convinced many of my friends to purchase a [Toddy](https://amzn.to/3CMQ03P) of their own. Like me, I hope you experience the joy the comes with a quick cold brew coffee made right in your own home.
 

@@ -3,20 +3,21 @@ title = "Vegetable Stir-Fried Rice"
 date = "2021-06-20"
 description = "Need a late-night snack or meal your kids will love? Try this easy to make vegetable stir-fried rice. It includes white rice, onions, peas, carrots, garlic, and scrambled eggs. You can make it from scratch or use leftover rice for an even more convenient meal on a busy night."
 tags = [
-    "entree",
-    "side",
-    "quick meals"
+    "dinner",
+    "quick meals",
 ]
 #thumbnail= "images/friedrice.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
 
-Preparation Time: 20 minutes 
+Prep Time: 20 minutes 
 
-Cooking Time: 10 minutes 
+Cook Time: 10 minutes 
 
 Cuisine: Chinese, American  
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -45,11 +46,11 @@ Cuisine: Chinese, American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 Need a late-night snack or meal your kids will love? Try this easy to make vegetable stir-fried rice. It includes white rice, onions, peas, carrots, garlic, and scrambled eggs. You can make it from scratch or use leftover rice for an even more convenient meal on a busy night.
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Sesame Oil: To be honest, this is my favorite addition to fried rice. I love to add a little at the end because it tastes amazing and smells delicious. 
 
@@ -80,25 +81,9 @@ You sure can. First, allow the rice to cool completely, and then add it to a fre
 
 ---- 
 
-### Instructions: Step-by-Step
+I hope you enjoy this recipe for vegetable stir-fried rice. If you try it, be sure to let us know what you think!
 
-1. In a [sauce pan](https://amzn.to/3EgfFTK), follow the instructions for cooking your white rice on the stove-top. Once cooked, allow the rice to cool, and then place it in the fridge to chill before using it. You can also used leftover white rice for this dish. 
+Other recipes from The Jamil Ghar:
 
-{{< figure src="/images/fr1.jpg" class="instructionFigure">}}
-
-2. Heat 2 tsp of sesame oil in a [saute pan](https://amzn.to/3ARQwxm) or [wok](https://amzn.to/3cS6RI4) on medium-high heat. 
-3. Add the onions and garlic and cook until the onions become translucent and soften. Then, add the peas and carrots and cook for another 2-3 minutes.
-
-{{< figure src="/images/fr2.jpg" class="instructionFigure">}}
-
-4. Move the vegetables to one side of the pan and add 1/2 tsp of butter. Cook until melted, and then add the reserved egg mixture. Let the egg cook undisturbed for 30 seconds, and gently push the eggs from one side of the [pan](https://amzn.to/3cS6RI4) to the other, incorporating the eggs with the vegetables. 
-
-{{< figure src="/images/fr3.jpg" class="instructionFigure">}}
-
-5. Increase the temperature to high and add the reserved chilled rice, the remaining 1 tbsp butter, soy sauce, and oyster sauce; stir to combine. Allow the rice to cook with the rest of the ingredients for 3-5 minutes, stirring occasionally. 
-
-{{< figure src="/images/fr4.jpg" class="instructionFigure">}}
-
-6. Off heat, stir in the remaining sesame oil to serve. 
-
----- 
+* [Sesame Tofu and Mushroom Stir-Fry]({{< ref "sesame-tofu-mushroom" >}})
+* [Channa Masala]({{< ref "channa-masala" >}})

@@ -11,9 +11,9 @@ thumbnail="images/highelevationcookies-01.jpeg"
 
 Servings: 2 1/2 Dozen <!--more-->
 
-Preparation Time: 20 minutes
+Prep Time: 20 minutes
 
-Cooking Time: 10-14 minutes
+Cook Time: 10-14 minutes
 
 {{< start_recipe >}}
 
@@ -45,7 +45,7 @@ Cooking Time: 10-14 minutes
 
 {{< end_recipe >}}
 
-### ABOUT THE COOKIES 
+### About the Cookies
 
 I’ve always loved cooking and baking, but I haven’t always been great at it- especially baking. With the success of my [nutella cookies]({{< ref "he-nutella-cookies" >}}), I was on a mission to bake the perfect chocolate chip cookie. Well, here it is, folks. I hope you enjoy these chocolate chip cookies our family loves, with specific instructions for high elevation.  
 
@@ -79,7 +79,7 @@ Butter: I use two sticks of butter in this recipe, and what I am about to tell y
 
 You sure can. Roll the dough into one large ball and place it into a freezer-safe bag. Clear any air out of the bag before securing it. The cookie dough will keep for three months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, follow the baking instructions in this recipe.
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. In a [mixing bowl](https://amzn.to/3D2NC8M), combine the softened butter, sugar, and brown sugar and stir until fully combined. 
 

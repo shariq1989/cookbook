@@ -3,21 +3,24 @@ title = "Hamburger Vegetable Soup"
 date = "2021-11-13"
 description = "You will love this homemade vegetable soup with ground beef. It's packed with hearty vegetables, like onions, carrots, potatoes, leeks, cabbage, and peas, but feel free to use what you have on hand. This soup can easily be made on the stove-top or in the Instant Pot and is great for a quick and easy weeknight meal. I hope you enjoy this easy hamburger vegetable soup our family loves."
 tags = [
-    "entree",
-    "instant pot"
+    "dinner",
+    "instant pot",
+    "soup" 
 ]
 thumbnail= "images/beef_vegetable_soup.jpeg"
 +++
 
 Servings: 6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time:
+Cook Time:
 * Stove- 40 minutes 
 * [Instant Pot](https://amzn.to/3oosTap)- 20 minutes
 
 Cuisine: American 
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
@@ -66,7 +69,7 @@ Cuisine: American
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Soup 
 
 You will love this homemade vegetable soup with ground beef. It's packed with hearty vegetables, like onions, carrots, potatoes, leeks, cabbage, and peas, but feel free to use what you have on hand. This soup can easily be made on the stove-top or in the Instant Pot and is great for a quick and easy weeknight meal. I hope you enjoy this easy hamburger vegetable soup our family loves.
 

@@ -11,17 +11,19 @@ thumbnail= "images/spagetti.jpeg"
 
 Servings: 4-6 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 30 minutes
+Cook Time: 30 minutes
 
 Cuisine: American, Italian
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
 ### How to Make Spaghetti Sauce 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 * 1 tsp Olive Oil 
 * 1 medium Yellow Onion, chopped 
@@ -41,7 +43,7 @@ Cuisine: American, Italian
 * 1/2 tbsp Soy Sauce 
 * 1/4 cup Fresh Basil, julienne, for garnish 
 
-#### INSTRUCTIONS
+#### Instructions
 
 1. Warm 1 tbsp of olive oil in a [saute pan](https://amzn.to/3gFYnWP) over medium heat. 
 2. Add the onions and garlic and cook until the onions become translucent and soften. 
@@ -53,11 +55,11 @@ Cuisine: American, Italian
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Meal 
 
 If you're looking for an easy weeknight spaghetti sauce, using ingredients you have in your pantry, be sure to try this recipe. This sauce is a dinner staple in our family. Even my husband, who dislikes tomatoes, raves about this spaghetti sauce. It could have something to do with a few of the secret ingredients I use; whatever it is, I hope you enjoy this spaghetti sauce our family loves. 
 
-#### What ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
 * Ground Beef: I use ground beef most often, but you could also use ground turkey or a combination of the two. 
 
@@ -83,7 +85,7 @@ You sure can. In fact, it is encouraged. I often make this recipe in bulk so I c
 
 ---- 
 
-### INSTRUCTIONS: STEP-BY-STEP 
+### Instructions: Step-by-Step
 
 1. Warm 1 tbsp of olive oil in a [saute pan](https://amzn.to/3gFYnWP) over medium heat. 
 2. Add the onions and garlic and cook until the onions become translucent and soften. 

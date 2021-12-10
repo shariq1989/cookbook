@@ -3,21 +3,22 @@ title = "Homemade Corn Tortilla Chips"
 date = "2021-05-05"
 description = "Have you ever eaten chips in a restaurant and wondered why they are so much better than store-bought chips? We've got you covered; these made-from-scratch corn tortillas taste just like what you would get in a restaurant. Seriously, if forced to eat one food for the rest of my life, chips and salsa would be it, specifically with these chips. They are a favorite in our home, and it's not just of mine; our children love them also. Enjoy these tortilla chips from corn tortillas with our homemade salsa with cilantro and avocado or guacamole. You could also make dessert nachos dusted with sugar and cinnamon and topped with fruit and whipped cream. Other topping variations include Tajin and lime zest. Should you have leftovers, tortilla chips store well in a paper bag or an airtight container on your countertop. They will last for up to one week, but I highly recommend eating them the same day for the best results."
 tags = [
-    "side dish",
+    "side",
     "vegan",
     "vegetarian",
-    "snack"
 ]
 thumbnail= "images/homemadecornchips.jpg"
 +++
 
 Servings: About 5 Dozen Chips <!--more-->
 
-Preparation Time: 5 minutes
+Prep Time: 5 minutes
 
-Cooking Time: 25 minutes
+Cook Time: 25 minutes
 
 Cuisine: Mexican
+
+By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
