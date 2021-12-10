@@ -14,7 +14,7 @@ We're Shariq and Tressa, the husband and wife team behind The Jamil Ghar. We liv
 
 Shariq was born and raised in Karachi, Pakistan; I hail from a small town named after a Bullfrog in Utah. Don't bother checking; it's likely not on a map. The two of us were born worlds away and share very little in common in terms of upbringing. Yet, our appreciation for food and our delight in meals shared with others translates to all cultures and people. While as humans, we are known more for our differences than what we have in common, we are firm believers that there isn’t much that couldn’t be solved or understood through conversation around a good meal. We may not be able to physically invite you into our home to share a meal and hear about your life and the food you love, but we hope that through the recipes and stories we share, this big world will feel a bit smaller and more familiar.  
 
-### ABOUT OUR NAME 
+#### Why The Jamil Ghar? 
 
 In our little corner of the internet we go by "The Jamil Ghar." Jamil is our last name and it means beautiful in its language of origin, Arabic. Ghar is an Urdu word that means home. and it means home. And that is exactly what we hope to represent, a beautiful home. It's not cleanliness that makes a home beautiful, nor the addition of nice things. Rather, beautiful homes are comprised by the coming together of people under one roof. Like a good recipe needs a balance of flavor, a beautiful home needs it all too. So join us, as you are, in The Jamil Ghar. It's beautiful with you in it. 
 
