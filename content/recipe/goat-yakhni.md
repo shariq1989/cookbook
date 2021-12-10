@@ -70,7 +70,7 @@ For the Yakhni Masala:
 
 ### About the Soup 
 
-Mutton yakhni soup or yakni is a Pakistani and Indian-style bone broth made with fresh, whole spices and herbs. I wasn't keen on yakhni when my mother-in-law first offered to make it for me. I was pregnant and had been hospitalized twice due to sickness and dehydration. I couldn't keep down food, and everything made me nauseous. I finally gave in and let her make it for me, and I am forever grateful. It ended up being a soup I ate daily throughout my pregnancy. My mother-in-law would make it in large batches and freeze the rest for me when she would visit. Even now, there are few things more comforting than a steaming bowl of yakhni topped with fresh ginger, cilantro, and lemon wedges. Like me, I hope you enjoy this yakhni soup recipe our family loves.
+In Urdu and Hindi, Yakhni means broth. Mutton yakhni soup or yakni is a Pakistani and Indian-style bone broth made with fresh, whole spices and herbs. I wasn't keen on yakhni when my mother-in-law first offered to make it for me. I was pregnant and had been hospitalized twice due to sickness and dehydration. I couldn't keep down food, and everything made me nauseous. I finally gave in and let her make it for me, and I am forever grateful. It ended up being a soup I ate daily throughout my pregnancy. My mother-in-law would make it in large batches and freeze the rest for me when she would visit. Even now, there are few things more comforting than a steaming bowl of yakhni topped with fresh ginger, cilantro, and lemon wedges. Like me, I hope you enjoy this yakhni soup recipe our family loves.
 
 #### What ingredients are needed for this meal?
 
@@ -86,7 +86,7 @@ Mutton yakhni soup or yakni is a Pakistani and Indian-style bone broth made with
 
 * Cinnamon Stick 
 
-* Goat or Mutton: The purpose of yakhni is to consume the nutrients from bone-in meat. I prefer using goat with the meat and bones intact because we re-purpose the meat to make a separate dish, called yakhni pulao. Essentially, we get two meals out of one each time we make it.
+* Goat or Mutton: The purpose of yakhni is to consume the nutrients from bone-in meat. I prefer using goat with the meat and bones intact because we re-purpose the meat to make our mutton yakhni pulao recipe. Essentially, we get two meals out of one each time we make it.
 
 * Kosher Salt 
 
@@ -127,7 +127,7 @@ You sure can. As I mentioned, my mother-in-law often made multiple batches of ya
 
 ----
 
-I hope you love this recipe for goat bone broth. If you try it, be sure to let us know what you think!
+I hope you love this mutton yakhni recipe. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
 
