@@ -22,8 +22,6 @@ Cuisine: Austrian
 
 By: [Tressa](https://www.jamilghar.com/about/)
 
-Adapted from: [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash), Christopher Kimball
-
 {{< start_recipe >}}
 
 ### How to make Rindsgulasch 
@@ -161,11 +159,9 @@ Note: Freeze the goulash separately and then prepare fresh noodles when you're r
 
 I hope you enjoy our Austrian beef stew with paprika and caraway recipe. If you try it, be sure to let us know what you think!
 
-Other stew recipes from The Jamil Ghar:
+Other recipes from The Jamil Ghar:
 
 * [Beef and Barley Stew]({{< ref "beef-barley-stew" >}})
 * [Beef and Chickpea Stew]({{< ref "beef-chickpea-stew" >}})
 * [Chicken Kedjenou]({{< ref "kedjenou" >}})
 * [Georgian Chicken Soup]({{< ref "georgian-soup" >}})
-
-This original recipe can be found at [Milk Street](https://www.177milkstreet.com/recipes/austrian-beef-stew-with-paprika-and-caraway-goulash)
