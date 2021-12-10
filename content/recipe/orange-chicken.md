@@ -63,20 +63,20 @@ For the Sauce:
 
 For the Orange Chicken: 
 
-1. In a mixing bowl, combine the ingredients for the marinade: rice wine vinegar, sugar, egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir the mixture until the sugar fully dissolves. Add the chicken to the bowl, stir to coat, and cover. Let the chicken marinate in the fridge for 30 minutes.
-2. Meanwhile, set the wire racks into the rimmed baking sheets.
-3. In another mixing bowl, combine the corn starch and flour.
-4. Remove the marinated chicken and leave it to drain in a colander for about 1-2 minutes. Discard the marinade. 
-5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess corn starch and transfer them to one of the prepared racks. Repeat with the remaining chicken.
-6. In a [dutch oven](https://amzn.to/3qK1Llq), over medium heat, warm the oil to 375 degrees. Add half the coated chicken in a single layer and cook until both sides turn a light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other wire rack.
+1. In a [mixing bowl](https://amzn.to/3ICiIby), combine the ingredients for the marinade: rice wine vinegar, sugar, egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir until sugar fully dissolves. Add the chicken to the [bowl](https://amzn.to/3ICiIby), stir to coat, and cover. Let the chicken marinate in the fridge for 30 minutes.
+2. Meanwhile, set the [wire racks](https://amzn.to/3oGIkfj) into the [rimmed baking sheets](https://amzn.to/3rSodNt).
+3. In another [mixing bowl](https://amzn.to/3ICiIby), combine corn starch and flour.
+4. Remove the marinated chicken and leave it to drain in a [colander](https://amzn.to/3lRred8) for about 1-2 minutes. Discard the marinade. 
+5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess corn starch and transfer them to one of the prepared [racks](https://amzn.to/3oGIkfj). Repeat with the remaining chicken.
+6. In a [dutch oven](https://amzn.to/3qK1Llq), over medium heat, warm the oil to 375 degrees. Add half the coated chicken in a single layer and cook until both sides turn a light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other [wire rack](https://amzn.to/3oGIkfj).
 7. Allow the oil to reach 375 degrees again and repeat with the remaining chicken. 
 
 For the Sauce: 
 
-1. Prepare a heavy-bottomed pan or wok with oil and add ginger paste and garlic. Cook for 10 seconds, until aromatic
+1. Prepare a [heavy-bottomed pan](https://amzn.to/3lQUIb1) or [wok](https://amzn.to/30cWhZb) with oil and add ginger paste and garlic. Cook for 10 seconds, until aromatic.
 2. Next, add rice wine vinegar, fresh orange juice, sesame oil, soy sauce, sugar, white vinegar, red chili flakes, and orange zest. Allow the mixture to simmer for 5 minutes. 
 3. Reduce the heat and stir in the corn starch (1 tbsp), then add the reserved fried chicken to the mixture. Stir to combine. 
-4.Garnish with toasted sesame seeds and serve with jasmine rice. 
+4. Garnish with toasted sesame seeds and serve with jasmine rice. 
 
 {{< end_recipe >}}
 
@@ -98,14 +98,14 @@ Orange chicken is famous in the United States, thanks in large part to Panda Exp
 
 #### What equipment do I need to make this recipe?
 
-* 2 Mixing bowls
-* 2 Rimmed baking sheets 
-* 2 Wire racks 
-* A colander
+* 2 [mixing bowls](https://amzn.to/3ICiIby)
+* 2 [rimmed baking sheets](https://amzn.to/3rSodNt)
+* 2 [wire racks](https://amzn.to/3oGIkfj)
+* A [colander](https://amzn.to/3lRred8)
 * A [dutch oven](https://amzn.to/3qK1Llq)
 * A [food thermometer](https://amzn.to/38BMn44) 
 * A slotted spoon 
-* A heavy-bottomed pan or wok
+* A [heavy-bottomed pan](https://amzn.to/3lQUIb1) or [wok](https://amzn.to/30cWhZb)
 
 #### Can I make this recipe gluten-free?
 
@@ -121,25 +121,28 @@ You sure can. If you plan to freeze the orange chicken, be sure to keep the chic
 
 For the Orange Chicken: 
 
-1. In a mixing bowl, combine the ingredients for the marinade: rice wine vinegar, sugar, egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir the mixture until the sugar fully dissolves. Add the chicken to the bowl, stir to coat, and cover. Let the chicken marinate in the fridge for 30 minutes.
+1. In a [mixing bowl](https://amzn.to/3ICiIby), combine the ingredients for the marinade: rice wine vinegar, sugar, egg whites, sesame oil, soy sauce, white vinegar, and orange zest. Stir until sugar fully dissolves. Add the chicken to the [bowl](https://amzn.to/3ICiIby), stir to coat, and cover. Let the chicken marinate in the fridge for 30 minutes.
 
 {{< figure src="/images/oc1.jpeg" class="instructionFigure">}}
 
 {{< figure src="/images/oc2.jpeg" class="instructionFigure">}}
 
-2. Meanwhile, set the wire racks into the rimmed baking sheets.
-3. In another mixing bowl, combine the corn starch and flour.
-4. Remove the marinated chicken and leave it to drain in a colander for about 1-2 minutes. Discard the marinade. 
-5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess corn starch and transfer them to one of the prepared racks. Repeat with the remaining chicken.
-6. In a [dutch oven](https://amzn.to/3qK1Llq), over medium heat, warm the oil to 375 degrees. Add half the coated chicken in a single layer and cook until both sides turn a light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other wire rack.
+2. Meanwhile, set the [wire racks](https://amzn.to/3oGIkfj) into the [rimmed baking sheets](https://amzn.to/3rSodNt).
+3. In another [mixing bowl](https://amzn.to/3ICiIby), combine corn starch and flour.
+4. Remove the marinated chicken and leave it to drain in a [colander](https://amzn.to/3lRred8) for about 1-2 minutes. Discard the marinade. 
+5. Add 1/3 of the chicken to the cornstarch mixture. Toss to coat and press the pieces into the mix. Shake each piece to remove any excess corn starch and transfer them to one of the prepared [racks](https://amzn.to/3oGIkfj). Repeat with the remaining chicken.
 
-{{< figure src="/images/oc3.jpeg" class="instructionFigure">}}
+{{< figure src="/images/sfc4.jpeg" class="instructionFigure">}}
+
+6. In a [dutch oven](https://amzn.to/3qK1Llq), over medium heat, warm the oil to 375 degrees. Add half the coated chicken in a single layer and cook until both sides turn a light brown, about 3-7 minutes. Using a slotted spoon, transfer the chicken to the other [wire rack](https://amzn.to/3oGIkfj).
+
+{{< figure src="/images/sfc5.jpeg" class="instructionFigure">}}
 
 7. Allow the oil to reach 375 degrees again and repeat with the remaining chicken. 
 
 For the Sauce: 
 
-1. Prepare a heavy-bottomed pan or wok with oil and add ginger paste and garlic. Cook for 10 seconds, until aromatic
+1. Prepare a [heavy-bottomed pan](https://amzn.to/3lQUIb1) or [wok](https://amzn.to/30cWhZb) with oil and add ginger paste and garlic. Cook for 10 seconds, until aromatic.
 
 {{< figure src="/images/oc4.jpeg" class="instructionFigure">}}
 
@@ -148,7 +151,7 @@ For the Sauce:
 
 {{< figure src="/images/oc5.jpeg" class="instructionFigure">}}
 
-4.Garnish with toasted sesame seeds and serve with jasmine rice. 
+4. Garnish with toasted sesame seeds and serve with jasmine rice. 
 
 ----
 
