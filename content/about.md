@@ -27,5 +27,5 @@ We hope you find joy in the meals our family loves. Get in touch with us by chec
 ---- 
 
 #### DID YOU MAKE A RECIPE FROM THE JAMIL GHAR? 
-I love getting feedback on my recipes and hear about the conversations around your dinner table. 
-Tag me on Instagram @thejamilghar
+
+I love getting feedback on my recipes and hearing about the conversations around your dinner table. Tag me on Instagram @thejamilghar
