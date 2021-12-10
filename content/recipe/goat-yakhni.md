@@ -133,4 +133,4 @@ Other recipes from The Jamil Ghar:
 
 * [Chicken Karahi]({{< ref "chicken-karahi" >}})
 * [Bhuna Gosht]({{< ref "bhuna-gosht" >}})
-* [Aloo Keema]({{< ref "aloo-keema" >}})
+* [Aloo Keema]({{< ref "aloo_keema" >}})
