@@ -1,11 +1,9 @@
 +++
 title = "Keema Masala"
 date = "2021-12-01"
-description = " "
+description = "I hope you enjoy this tasty keema masala."
 tags = [
     "spice",
-    "low carb",
-    "keto"
 ]
 
 #thumbnail= "images/peruvianroastedchicken.jpeg"
@@ -27,16 +25,11 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 #### Ingredients 
 
- Whole Spices: 
-
 * 4 Black Cloves 
 * 1 Cinnamon Stick, broken up
 * 4 Green Cardamom
 * 1 tsp Black Peppercorns
 * 2 tsp Cumin Seed 
-
-For the Keema Masala: 
-
 * 1/2 tsp Turmeric 
 * 2 tsp Kashmiri Chili Powder
 * 2 tsp Coriander Powder
