@@ -5,9 +5,10 @@ description = "After eating at a Persian restaurant for our daughter's first bir
 tags = [
     "dinner",
     "low carb",
+    "global"
     
 ]
-#thumbnail= "images/joojehkabon.jpg"
+thumbnail= "images/joojehkabob.jpeg"
 +++
 
 Servings: 3-4 <!--more-->
