@@ -3,16 +3,17 @@ title = "Beef and Barley Stew"
 date = "2021-02-16"
 description = ""
 tags = [
-    "entree",
+    "dinner",
     "instant pot",
+    "soup"
   
 ]
-#thumbnail= "images/BeefandBarley.jpg "
+thumbnail= "images/beefandbarley.jpeg "
 +++
 
 Servings: 6-8 <!--more-->
 
-Adapted from: [Serious Eats](https://www.seriouseats.com/beef-barley-soup-recipe), Daniel Gritzer
+By:[Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
