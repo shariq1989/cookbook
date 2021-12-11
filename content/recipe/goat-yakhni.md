@@ -34,13 +34,13 @@ For the Yakhni Soup:
 
 * 1 tbsp [Ghee](https://amzn.to/3vmpBaf)
 * 1 Yellow Onion, diced 
-* 3-5 Garlic Cloves, minced
-* Fresh Ginger, 1-inch piece, julienne, plus more to garnish  
-* 1 Thai Green Chili, slit lengthwise
+* 6 Garlic Cloves, crushed 
+* Fresh Ginger, 2-inch piece, crushed, plus more to garnish  
+* 2-3 Thai Green Chili, slit lengthwise
 * 1 Cinnamon Stick 
 * 1 lb Goat, washed and cut into 1-inch pieces, skinless and bone-in, plus extra bones if you have them 
 * 4 cup Water 
-* 1 tsp Kosher Salt 
+* 1 tbsp Kosher Salt 
 * 1 lemon, thinly sliced, to garnish
 * Cilantro, chopped, to garnish 
 
@@ -48,23 +48,23 @@ For the Yakhni Masala:
 
 * 3 [Black Cardamom](https://amzn.to/3E3UAvQ), lightly crushed 
 * 2 [Green Cardamom](https://amzn.to/3o9eWyl)
-* 3 Black Cloves 
+* 6 Black Cloves 
 * 1 tbsp [Cumin Seeds](https://amzn.to/3cXRhKH) 
 * 1 tsp [Coriander Seeds](https://amzn.to/3o16wcb)
+* 1 tsp Fennel
 * 1 [Star Anise](https://amzn.to/3I4ayZ6)
 * 2 Bay Leaves 
 
 #### Instructions
 
-1. In the [Instant Pot](https://amzn.to/3qLtTEw), warm ghee on saute mode. Next, add the onions and cook until they become translucent and soften. 
+1. In the [Instant Pot](https://amzn.to/3qLtTEw), warm ghee on saute mode. Add the onion and fry until onions become soft and tranlucent. 
 2. While the onions are cooking, add the whole spices to a [spice infuser](https://amzn.to/38zcQ2w). Set aside. 
 3. Add the garlic, ginger, green chili, and cinnamon stick to the [Instant Pot](https://amzn.to/3qLtTEw) and let it cook until aromatic. 
-4. Next, rinse the goat and bones before adding them to the [pot](https://amzn.to/3qLtTEw) and frying them on saute mode for about 1 minute. 
-5. Add the water and salt and stir to combine. 
-6. Lastly, add the spice infuser to the [Instant Pot](https://amzn.to/3qLtTEw), secure the lid, and cook on manual high pressure for 1 hour with quick release. 
-7. Using a [colander](https://amzn.to/3xB30Zg), pour the yakhni into a [mixing bowl](https://amzn.to/3E5SPy0). Toss the cinnamon stick, the spices inside the spice infuser, and any ingredients left behind in the straining process. 
-8. You will have tender goat pieces after making the soup; I reserve them separately to make a favorite of our family- a meal called yakhni pulao. If you decide to go that route, reserve 1 cup of the yakhni broth along with it. Do not store the broth in the same dish as the goat. 
-9. To serve, add the broth to a bowl or mug, garnish with extra ginger, cilantro, and lemon wedges. Enjoy!  
+4. Next, rinse the goat and bones before adding them to the [pot](https://amzn.to/3qLtTEw) and fry on saute mode for about 1 minute. 
+5. Add the water and salt. Stir to combine. 
+6. Lastly, add the spice infuser to the [Instant Pot](https://amzn.to/3qLtTEw), secure the lid, and cook on manual high pressure for 40 minutes with quick release. 
+7. You will have tender goat pieces after making the soup; I reserve them separately to make a favorite of our family- a meal called yakhni pulao. If you decide to go that route, reserve 1 cup of the yakhni broth along with it. Do not store the broth in the same dish as the goat. 
+8. To serve, add the broth to a bowl or mug, garnish with extra ginger, cilantro, and lemon wedges. Enjoy!  
 
 {{< end_recipe >}}
 
