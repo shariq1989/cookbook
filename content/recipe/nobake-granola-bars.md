@@ -8,12 +8,12 @@ tags = [
     "vegan",
     "low carb"
 ]
-thumbnail= "images/paleogranolabar.jpg"
+thumbnail= "images/paleogranolabar.jpeg"
 +++
 
 Servings: 8-10 Granola Bars  <!--more-->
 
-Prep Time: 10 minutes 
+Prep Time: 15 minutes 
 
 Chill Time: 1 hour 
 
@@ -102,34 +102,39 @@ Use maple syrup to flavor the bars in place of honey.
 
 1. Place the cashews and almonds in a [food processor](https://amzn.to/32jLA7Q) and pulse a few times to break them up. You don't want to over-mix and create a flour-like texture.
 
-{{< figure src="/images/gb1.jpg" class="instructionFigure">}}
+{{< figure src="/images/palb1.jpeg" class="instructionFigure">}}
 
 2. Fill a small bowl with warm water and add the craisins. Let them sit for about 5 minutes until they soften and rehydrate. 
 3. Move the mixture from the [food processor](https://amzn.to/32jLA7Q) to a [mixing bowl](https://amzn.to/3CFijkm) and stir in chia seeds, flax seeds, coconut flakes, soaked craisins, and ground cinnamon until combined. Set aside. 
 
-{{< figure src="/images/bg2.jpg" class="instructionFigure">}}
+{{< figure src="/images/palb5.jpeg" class="instructionFigure">}}
 
-{{< figure src="/images/gb3.jpg" class="instructionFigure">}}
+{{< figure src="/images/palb6.jpeg" class="instructionFigure">}}
 
 4. In a [saute pan](https://amzn.to/3nC6gjK), warm coconut oil and then whisk in the honey and almond butter until smooth. Off heat, stir in the vanilla extract. 
+
+{{< figure src="/images/palb7.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/palb8.jpeg" class="instructionFigure">}}
+
 5. Pour the wet ingredients over the dry ingredients and combine the two using a [silicone spatula](https://amzn.to/3ctiG77). Then gently fold in the chocolate chips.
 
-{{< figure src="/images/gb4.jpg" class="instructionFigure">}}
+{{< figure src="/images/palb9.jpeg" class="instructionFigure">}}
 
 6. Line a [baking pan](https://amzn.to/3FA9RVk) with parchment paper. It's helpful if the parchment paper comes up and over the sides for easy removal later on.
 7. Transfer the mixture to the pan and pack it down using a spatula or another piece of parchment paper. You want it packed tight so that the bars have a better chance of staying together once you have sliced them. 
 
-{{< figure src="/images/gb5.jpg" class="instructionFigure">}}
+{{< figure src="/images/palb10.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/palb11.jpeg" class="instructionFigure">}}
 
 8. Cover the pan with plastic wrap and set it in the freezer for 1 hour.
 9. Remove the pan from the freezer and grab opposing ends of the parchment paper to remove the bars. Transfer them to a cutting board.
 10. Use a sharp knife to cut the mixture into bars. You can do squares or rods, whichever you prefer. 
 
-{{< figure src="/images/gb.jpg" class="instructionFigure">}}
-
 ---- 
 
-I hope you enjoy this no-bake granola bar recipe. If you try it, be sure to let us know what you think!
+I hope you enjoy my no-bake granola bar recipe. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
 
