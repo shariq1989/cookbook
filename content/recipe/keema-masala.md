@@ -42,6 +42,8 @@ For the Keema Masala:
 * 2 tsp Coriander Powder
 * 1 tsp Salt
 
+{{< end_recipe >}}
+
 ### About the Keema Masala 
 
 #### What equipment do I need to make this recipe?
