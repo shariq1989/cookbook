@@ -29,12 +29,12 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 * 1/2 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
 * 1 lb Ground Beef, finely minced 
-* 3-4 small Red or Yukon Gold Potatoes, finely chopped 
+* 3-4 small Red or Yukon Gold Potatoes, diced 
 * 1/2 Yellow Onion, finely chopped 
-* 1-inch piece Ginger, peeled and finely minced, plus more for garnish
+* 1-inch piece Ginger, peeled and finely minced, plus more to garnish
 * 1-2 Thai Green Chilies, slit lengthwise 
-* 1 medium Roma Tomato, pureed 
-* 1/2 package [Laziza Keema Masala](https://amzn.to/3ESn2kQ)
+* 2 medium Roma Tomato, pureed 
+* 1/2 package [Laziza Keema Masala](https://amzn.to/3ESn2kQ) or [Homemade Keema Masala](keema-masala)
 * 1/2 cup Cilantro, chopped
 * 1 Serrano Chili, finely sliced, to garnish
 * Salt, to taste 
@@ -42,11 +42,11 @@ By: [Tressa](https://www.jamilghar.com/about/)
 #### Instructions 
 
 1. Warm ghee over medium heat in a [heavy-bottomed pan](https://amzn.to/3EXs3ZG).  
-2. Add diced potatoes. Cook until they become golden brown, about 15 minutes. Set them aside.
-3. In the same pan, fry the onions, garlic, ginger, and chilies until the onions become translucent and soften, about 5 minutes. 
-4. Add the keema masala, stir to coat, and continue cooking for another minute.
-5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned, about 8 minutes. 
-6. Add the tomato puree to the pan and increase the heat until it comes to a boil. Reduce the heat and simmer for another 10 minutes, adjust the heat accordingly. 
+2. Add the potatoes and cook until they become golden brown for about 15 minutes. Set aside.
+3. In the same [pan](https://amzn.to/3EXs3ZG), fry the onions, garlic, ginger, and chilies until the onions become translucent and soften, about 5 minutes. 
+4. Stir in the keema masala, and continue cooking for another minute.
+5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned for about 8 minutes. 
+6. Add the tomato puree to the [pan](https://amzn.to/3EXs3ZG) and increase the heat until it comes to a boil. Reduce the heat and simmer for another 10 minutes.
 7. Stir in the reserved potatoes, 1/2 cup cilantro, and salt. 
 8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha]({{< ref "paratha" >}}), besan ki roti, chapati, or naan. 
 
@@ -60,7 +60,7 @@ Keema, qeema, or kheema, depending on who you ask, is a Pakistani and Indian dis
 
 * [Ghee](https://amzn.to/2ZkJkrW) 
 
-* Ground Beef: In Urdu, the word "keema" means minced. In this case, we are making beef keema or minced beef. As such, be sure to take the time to break up the meat. You can do this with a spatula, but I highly recommend using a [meat chopper](https://amzn.to/2OoDZhv), plus they are pretty satisfying to use.
+* Ground Beef: In Urdu, "keema" means minced. As such, take the time to break up the meat. You can do this using a spatula, but I highly recommend using a [meat chopper](https://amzn.to/2OoDZhv). Plus, they are pretty satisfying to use.'
 
 * Red or Yukon Gold Potatoes
 
@@ -68,15 +68,13 @@ Keema, qeema, or kheema, depending on who you ask, is a Pakistani and Indian dis
 
 * Ginger 
 
-* Thai Green Chillies 
+* Thai Green Chilies 
 
 * Roma Tomato 
 
-* [Laziza Keema Masala](https://amzn.to/3ESn2kQ): I am usually a fan of homemade masala, but since keema is the perfect weeknight meal, so it's all about ease of execution. 
+* Keema Masala: I am normally one to choose homemade masala over anything else, but when it comes to keema I often use [Laziza Keema Masala](https://amzn.to/3ESn2kQ) simply out of convience and because it's really tasty. If you're in a pinch, make keema masala at home using this [recipe](keema-masala). 
 
 * Cilantro 
-
-* Serrano Chillies 
 
 #### What equipment do I need to make this recipe?
 
@@ -104,17 +102,17 @@ You sure can. First, allow the qeema to cool completely, and then add it to a fr
 ### Instructions: Step-by-Step
 
 1. Warm ghee over medium heat in a [heavy-bottomed pan](https://amzn.to/3EXs3ZG).  
-2. Add diced potatoes. Cook until they become golden brown, about 15 minutes. Set aside.
+2. Add the potatoes and cook until they become golden brown for about 15 minutes. Set aside.
 
 {{< figure src="/images/ak1.jpeg" class="instructionFigure">}}
 
-3. In the same pan, fry the onions, garlic, ginger, and chilies until the onions become translucent and soften, about 5 minutes. 
+3. In the same [pan](https://amzn.to/3EXs3ZG), fry the onions, garlic, ginger, and chilies until the onions become translucent and soften, about 5 minutes. 
 
 {{< figure src="/images/ak2.jpeg" class="instructionFigure">}}
 
-4. Add the keema Masala, stir to coat, and continue cooking for another minute.
-5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned, about 8 minutes. 
-6. Add the tomato puree to the pan and increase the heat until it comes to a boil. Reduce the heat and simmer for another 10 minutes, adjust the heat accordingly. 
+4. Stir in the keema masala, and continue cooking for another minute.
+5. Next, add the ground beef, breaking it up with a [meat chopper](https://amzn.to/2OoDZhv) until finely minced. Continue cooking until the beef is fully browned for about 8 minutes. 
+6. Add the tomato puree to the [pan](https://amzn.to/3EXs3ZG) and increase the heat until it comes to a boil. Reduce the heat and simmer for another 10 minutes.
 
 {{< figure src="/images/ak4.jpeg" class="instructionFigure">}}
 
@@ -124,7 +122,7 @@ You sure can. First, allow the qeema to cool completely, and then add it to a fr
 
 {{< figure src="/images/ak5.jpeg" class="instructionFigure">}}
 
-8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha]({{< ref "paratha" >}}), or naan. 
+8. Garnish with ginger and serrano chili slices and serve with long-grain basmati rice, [paratha]({{< ref "paratha" >}}), besan ki roti, chapati, or naan. 
 
 {{< figure src="/images/ak6.jpeg" class="instructionFigure">}}
 
