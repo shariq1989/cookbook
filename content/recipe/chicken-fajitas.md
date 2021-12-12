@@ -1,7 +1,7 @@
 +++
 title = "Sheet-Pan Chicken Fajitas"
-date = "2021-12-11"
-description = " "
+date = "2020-12-11"
+description = "I hope you enjoy this recipe for chicken fajitas our family loves."
 tags = [
     "dinner",
     "low carb",
@@ -55,7 +55,6 @@ By: [Tressa](https://www.jamilghar.com/about/)
 {{< end_recipe >}}
 
 ### About the Meal 
-
 
 #### What ingredients are needed to make this dish?
 
