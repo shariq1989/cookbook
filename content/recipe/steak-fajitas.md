@@ -1,7 +1,7 @@
 +++
 title = "Sheet-Pan Steak Fajitas"
 date = "2021-12-11"
-description = " "
+description = "I hope you enjoy this recipe for steak fajitas our family loves."
 tags = [
     "dinner",
     "low carb",
