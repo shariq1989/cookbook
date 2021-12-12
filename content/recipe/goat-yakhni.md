@@ -129,8 +129,6 @@ You sure can. As I mentioned, my mother-in-law often made multiple batches of ya
 
 ### Instructions: Step-by-Step
 
-{{< figure src="/images/perurc1.jpeg" class="instructionFigure">}}
-
 1. In the [Instant Pot](https://amzn.to/3qLtTEw), warm ghee on saute mode. Add the onion and fry until onions become soft and tranlucent. 
 2. While the onions are cooking, add the whole spices to a [spice infuser](https://amzn.to/38zcQ2w). Set aside. 
 
