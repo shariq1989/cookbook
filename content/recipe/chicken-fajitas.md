@@ -9,7 +9,7 @@ tags = [
     "quick meal"
 ]
 
-#thumbnail= "images/steakfajitas2.jpeg"
+thumbnail= "images/chickenfajitas.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -97,27 +97,18 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 1. Preheat the oven to 425 degrees. 
 2. In a small bowl, combine red chili powder, smoked paprika, oregano, cumin, and salt. Set aside. 
-
-{{< figure src="/images/sf2.jpeg" class="instructionFigure">}}
-
 3. Add chicken, bell pepper, onion, avocado oil, garlic, and lime juice to a [mixing bowl](https://amzn.to/3GyRC3c), and incorporate well. Pour the reserved spice mixture over the top, and stir to combine. 
 
-{{< figure src="/images/sf1.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cf1.jpeg" class="instructionFigure">}}
 
-{{< figure src="/images/sf3.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cf2.jpeg" class="instructionFigure">}}
 
 4. Spread the seasoned mixture onto a [rimmed baking sheet](https://amzn.to/339IQqI). Bake for 15 minutes. 
-
-{{< figure src="/images/sf4.jpeg" class="instructionFigure">}}
-
 5. Remove the fajitas from the oven and lightly season with liquid smoke, to taste. Stir and return the [baking sheet](https://amzn.to/339IQqI) to the oven for another 10 minutes. 
-
-{{< figure src="/images/sf15.jpeg" class="instructionFigure">}}
-
 6. If you enjoy a little char on your fajitas (because I do), broil for 3-5 minutes to finish. 
 7. Garnish your fajitas with sour cream, [guacamole]({{< ref "guacamole" >}}), shredded cheese, and fresh lime. Serve with corn or flour tortillas, and complete the meal with our favorite [Mexican rice]({{< ref "Mexican-rice" >}}) recipe. 
 
-{{< figure src="/images/steakfajitas.jpeg" class="instructionFigure">}}
+{{< figure src="/images/cf3.jpeg" class="instructionFigure">}}
 
 ---- 
 
