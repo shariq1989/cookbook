@@ -49,7 +49,7 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 These almond flour pancakes have saved me so much time and preparation. Before this, I would make pancakes for my children and a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference. And because the main ingredient for the pancakes is almond flour, they keep you and your family full much longer. This particular recipe serves two to three people. I usually double or triple the recipe and freeze them to enjoy as a quick breakfast in the future. Enjoy these fluffy almond flour pancakes our family loves.
 
-#### What main ingredients are needed for this meal?
+#### What ingredients are needed for this meal?
 
 * [Almond Flour](https://amzn.to/3F38Qpi): For best results and fluffy pancakes, I recommend using blanched almond flour.
 
@@ -83,6 +83,8 @@ Of course. To make almond flour pancakes with no eggs, simply use flax seed, chi
 
 Yes, first allow the pancakes to cool completely, and then add them to a freezer-safe container or bag. Pancakes will freeze for 3 months, but I doubt you can wait that long. When you’re ready to eat, remove the pancakes from the freezer. Some of the pancakes may have stuck together. Usually, I can pry them apart and warm them in the microwave for a quick breakfast. You could also reheat them in the oven at 350 degrees. 
 
+---- 
+
 ### Instructions: Step-by-Step
 
 1. In a [mixing bowl](https://amzn.to/3FUghPc), mix the dry ingredients. Set aside. 
@@ -111,3 +113,5 @@ I hope you enjoy this easy almond flour pancake recipe. If you try it, be sure t
 Other recipes from The Jamil Ghar:
 
 * [Double Chocolate Low Carb Muffins]({{< ref "chocolate-lowcarb-muffins" >}})
+* [Low Carb Biscuits and Gravy]({{< ref "lc-biscuits-gravy" >}})
+* [No-Bake Paleo Bars]({{< ref "nobake-granola-barss" >}})
