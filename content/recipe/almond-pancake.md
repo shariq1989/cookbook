@@ -114,4 +114,4 @@ Other recipes from The Jamil Ghar:
 
 * [Double Chocolate Low Carb Muffins]({{< ref "chocolate-lowcarb-muffins" >}})
 * [Low Carb Biscuits and Gravy]({{< ref "lc-biscuits-gravy" >}})
-* [No-Bake Paleo Bars]({{< ref "nobake-granola-barss" >}})
+* [No-Bake Paleo Bars]({{< ref "nobake-granola-bars" >}})
