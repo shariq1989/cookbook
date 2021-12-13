@@ -9,11 +9,9 @@ tags = [
 #thumbnail= "images/peruvianroastedchicken.jpeg"
 +++
 
-Servings: 1 cup <!--more-->
+Servings: 1/2 cup <!--more-->
 
-Prep Time: 20 minutes 
-
-Cook Time: 35-45 minutes 
+Prep Time: 5 minutes 
 
 Cuisine: Indian, Pakistani
 
@@ -21,23 +19,29 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 {{< start_recipe >}}
 
-### How to Keema Masala
+### How to Make Keema Masala
 
 #### Ingredients 
 
-* 4 Black Cloves 
 * 1 Cinnamon Stick, broken up
 * 4 Green Cardamom
-* 1 tsp Black Peppercorns
 * 2 tsp Cumin Seed 
 * 1/2 tsp Turmeric 
 * 2 tsp Kashmiri Chili Powder
 * 2 tsp Coriander Powder
-* 1 tsp Salt
+* 2 tsp Salt
+* 1/2 Black Cloves 
+* 1 tsp Black Peppercorns
+
+#### Instructions 
+
+1. Add the broken-up cinnamon stick, green cardamom, and cumin seed to a [spice grinder](https://amzn.to/3IHB2QE) or [mortar and pestle](https://amzn.to/3EMjPDc). Grind to a fine powder. 
+2. In a small bowl, combine the ground spices with the rest of the ingredients. Leave the cloves and peppercorns whole for the keema masala. 
 
 {{< end_recipe >}}
 
-### About the Keema Masala 
+
+### About Keema Masala 
 
 #### What equipment do I need to make this recipe?
 
