@@ -6,7 +6,7 @@ tags = [
     "spice",
 ]
 
-#thumbnail= "images/peruvianroastedchicken.jpeg"
+thumbnail= "images/keemamasala.jpeg"
 +++
 
 Servings: 1/2 cup <!--more-->
@@ -59,6 +59,22 @@ To make keema, we often reach for Laziza keema masala. If we run out and we're i
 * Veg Keema 
 * Soya Keema 
 * Green Keema 
+
+---- 
+
+### Instructions: Step-by-Step
+
+{{< figure src="/images/keemas1.jpeg" class="instructionFigure">}}
+
+1. Add the broken-up cinnamon stick, green cardamom, and cumin seed to a [spice grinder](https://amzn.to/3IHB2QE) or [mortar and pestle](https://amzn.to/3EMjPDc). Grind to a fine powder. 
+
+{{< figure src="/images/keemas2.jpeg" class="instructionFigure">}}
+
+2. In a small bowl, combine the ground spices with the rest of the ingredients. Leave the cloves and peppercorns whole for the keema masala. 
+
+{{< figure src="/images/keemas3.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/keemas4.jpeg" class="instructionFigure">}}
 
 ---- 
 
