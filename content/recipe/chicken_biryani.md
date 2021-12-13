@@ -3,8 +3,10 @@ title = "Instant Pot Chicken Biryani"
 date = "2021-03-04"
 description = "If you are craving biryani and don't have time to make it, try this quick and easy recipe. Traditionally, biryani is an intricate dish made with beautiful layers of meat or vegetables and rice. This chicken biryani recipe is easy to make and has all the traditional Pakistani and Indian flavors that come to mind when you think of biryani. It has all the flavor and brightness of the popular dish, but cuts the preparation and cooking time in half. You can make this recipe on the stove-top or in the Instant Pot."
 tags = [
-    "entree",
-    "instant pot"
+    "dinner",
+    "instant pot",
+    "quick meal", 
+    "global"
   
 ]
 thumbnail= "images/chickenbiryani.jpeg"
@@ -25,7 +27,7 @@ Cuisine: Indian, Pakistani
 
 ### How to Make Instant Pot Chicken Biriyani 
 
-#### INGREDIENTS 
+#### Ingredients 
 
 For the Paste:
 
@@ -52,22 +54,23 @@ For the Biryani:
 * 3 cup Long-Grain Basmati Rice, pre-soaked and divided. 
 * 2-3 Thai Green Chilis, to garnish  
 
-#### INSTANT POT INSTRUCTIONS 
+#### Instructions 
 
-1. Mix the ingredients for the paste in a large bowl. Stir in the chicken and coat evenly. Refrigerate for at least 30 minutes. 
+1. Combine the ingredients for the paste in a mixing bowl. Stir in the chicken and coat evenly. Refrigerate for at least 30 minutes. 
 2. Wash the rice until water runs clear and then soak it in water for 20 minutes. 
-3. Warm 2 tbsp of ghee in an [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the onion and cook until they brown and caramelize. Remove half of the onion and set aside for garnish. Then add the cumin seeds, green cardamom, and star anise, cook for 30 seconds. 
-4. Add the chicken and all of the remaining paste to [Instant Pot](https://amzn.to/3qfNYCZ). Fry the mixture for 3 minutes. 
-5. Next, add the remaining ghee and bay leaves. Secure the lid and cook on manual high pressure for 4 minutes with a quick release. 
-6. Drain the rice and add 1 cup to a rice cooker to cook separately. Add the remaining 2 cups of rice, salt, and 2 cups of water to the [Instant Pot](https://amzn.to/3qfNYCZ) with the meat mixture. Secure the lid and cook on manual high pressure for 8 minutes with a quick release. 
-7. To serve, set out a large serving bowl or plate and layer the biryani mixture from the [Instant Pot](https://amzn.to/3qfNYCZ). onto the bottom, followed by a layer of the plain rice from the rice cooker. You can add rice coloring to the plain rice for brightness if you choose. Repeat this process until the ingredients are gone. 
-8. Garnish with reserved fried onion, fresh cilantro, and Thai chilies. Serve with [raita](https://www.jamilghar.com/recipe/raita/), and enjoy.
+3. Warm 2 tbsp of ghee in the [Instant Pot](https://amzn.to/3qfNYCZ) on saute mode. Add the onion and cook until they brown and caramelize. Remove half of the onion and set aside. 
+4. Next, add the cumin seeds, green cardamom, and star anise, cook until aromatic. 
+5. Add the chicken and all of the remaining paste to [Instant Pot](https://amzn.to/3qfNYCZ). Fry the mixture for about 3 minutes. 
+6. Stir in the remaining ghee and add the bay leaves. Secure the lid and cook on manual high pressure for 4 minutes with quick release. 
+7. Drain the rice and add 1 cup to a rice cooker or sauce pan to cook separately. Add the remaining 2 cups of rice, salt, and 2 cups of water to the [Instant Pot](https://amzn.to/3qfNYCZ) with the meat mixture. Secure the lid and cook on manual high pressure for 8 minutes with quick release. 
+8. To plate, set out a large serving bowl or plate and layer the biryani mixture from the [Instant Pot](https://amzn.to/3qfNYCZ). onto the bottom, followed by a layer of the plain rice from the rice cooker, and then a layer of the reserved fried onions. You can add food coloring to the plain rice for brightness if you choose. Repeat this process with the remaining ingredients. 
+9. Top with more fried onion, fresh cilantro, and green chilies. Serve with [raita](https://www.jamilghar.com/recipe/raita/), and enjoy.
 
 {{< end_recipe >}}
 
-### ABOUT THE MEAL
+### About the Biryani 
 
-If you are craving biryani and don't have time to make it, try this quick and easy recipe. Traditionally, biryani is an intricate dish made with beautiful layers of meat or vegetables and rice. This chicken biryani recipe is easy to make but has all the traditional Pakistani and Indian flavors that come to mind when you think of biryani. It has all the flavor and brightness of the popular dish, but it cuts the preparation and cooking time in half. You can make this recipe on the stove-top or in the Instant Pot. 
+If you are craving biryani and don't have time to make it, try this quick and easy recipe. Traditionally, biryani is an intricate dish made with beautiful layers of meat or vegetables and rice. This chicken biryani recipe is easy to make, and has all the traditional Pakistani and Indian flavors associated with biryani- all the flavor and brightness of the popular dish, but this recipe cuts the preparation and cooking time in half.  
 
 #### Where does biryani originate? 
 
@@ -81,8 +84,30 @@ Like many well-known Indian dishes, biryani varies from region to region. Intere
 * Cutchi Biryani 
 * Among others...
 
-#### What main ingredients do I need for this meal?
+#### What ingredients are needed for this meal?
 
+* 1/2 cup Full-Fat Yogurt 
+* 2 tbsp Lemon Juice
+* 2 tsp [Garam Masala](https://www.jamilghar.com/recipe/pakistani_garam_masala/) 
+* 1 tbsp [Kashmiri Chili Powder](https://amzn.to/3jP2lMC)
+* 1/2 tsp [Turmeric](https://amzn.to/3trObVj)
+* 2 tsp Kosher Salt 
+* 1 tbsp Laziza or Shan [Karahi Masala](https://amzn.to/2MYzcmx)
+* 2 tbsp Garlic and Ginger Paste 
+* 1/4 cup Cilantro, chopped, plus more for garnish
+* 2 lb Chicken Thighs and Legs, bone-in and skinless 
+
+For the Biryani: 
+
+* 3 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
+* 2 Red Onion, thinly sliced, divided
+* 2 Bay Leaves
+* 1 tbsp Cumin Seeds
+* 5 [Green Cardomom](https://amzn.to/3vBa5aw)
+* 1 [Star Anise](https://amzn.to/3eOVFhc)
+* 2 tsp Kosher Salt 
+* 3 cup Long-Grain Basmati Rice, pre-soaked and divided. 
+* 2-3 Thai Green Chilis, to garnish  
 * Long-Grained Basmati Rice: Use [Authentic Basmati Rice](https://amzn.to/3cuai6I), or [Daawat Traditional Basmati Rice](https://amzn.to/2PSJxRL). The key to a quality rice dish is taking the time to soak it in water beforehand; the longer, the better. By taking this step, your rice will have the length and luxury you want from good biryani.
 
 * Biryani Masala: I chose to make a quick and easy biryani masala using a combination of Kashmiri chili powder, garam masala, turmeric, salt, and Laziza Karahi Masala. You can also use a pre-made biryani masala like [Shan](https://amzn.to/3cGWNk9) to make the recipe even more manageable. 
