@@ -6,7 +6,7 @@ tags = [
     "dinner",
     
 ]
-thumbnail= "images/SingNoods.jpg"
+thumbnail= "images/singaporenoodles.jpeg"
 +++
 
 Servings: 4-6 <!--more-->
@@ -144,4 +144,10 @@ It's not entirely clear where Singapore noodles began. Many sources trace it bac
 
 {{< figure src="/images/sing7.jpg" class="instructionFigure">}}
 
-----
+{{< figure src="/images/SingNoods.jpg" class="instructionFigure">}}
+
+
+---- 
+
+I hope you enjoy this recipe for Singapore noodles. If you try it, be sure to let us know what you think!
+
