@@ -5,10 +5,11 @@ description = "Authentic Mexican pozole rojo is a rich stew often made with pork
 tags = [
     "dinner",
     "instant pot",
-    "soup"
+    "soup",
+    "global"
     
 ]
-#thumbnail= "images/Pasole.jpg"
+thumbnail= "images/pazole.jpeg"
 +++
 
 Servings: 8 <!--more-->
@@ -20,7 +21,7 @@ Cook Time: 1 hour, 20 minutes
 Cuisine: Mexican
 
 By: [Tressa](https://www.jamilghar.com/about/)
-6
+
 {{< start_recipe >}}
 
 ### How to Make Pozole Rojo 
@@ -64,7 +65,7 @@ For the Garnish:
 
 {{< end_recipe >}}
 
-#### About the Meal 
+#### About the Pozole Rojo 
 
 Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a variety of chillies that flavor the broth. I hope you enjoy this pozole recipe our family loves.
 
@@ -96,7 +97,7 @@ Authentic Mexican pozole rojo is a rich stew often made with pork, hominy, and a
 
 * An [Instant Pot](https://amzn.to/3taIo6v)
 
-#### Can I make a vegetarian Pozole? Vegan Pozole?
+#### Can I make a vegetarian pozole? Vegan pozole?
 
 I make pozole for most of our holiday meals, and I often prepare this pozole recipe with hominy as the main ingredient since my sister is a vegetarian. Here are some adjustments you can make to this recipe to make it vegetarian and vegan-friendly. 
 
