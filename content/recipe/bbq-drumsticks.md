@@ -5,9 +5,10 @@ description = "We love get-togethers with family and friends, and these BBQ chic
 tags = [
     "dinner",
     "low carb",
+    "quick meal"
     
 ]
-#thumbnail= "images/BBQDrumsticks.jpg"
+thumbnail= "images/bbqdrumsticks.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -103,6 +104,36 @@ For the BBQ Sauce- 2 tbsp:
 #### Can I freeze chicken drumsticks?
 
 You sure can. First, allow the drumsticks to cool completely. Then, wrap them in foil, and add them to a freezer-safe container or bag. The BBQ drumsticks will freeze for up to 3 months. When you’re ready to eat, let them defrost in the fridge overnight. To serve, warm them in the oven. 
+
+---- 
+
+### Instructions: Step-by-Step
+
+1. In a [mixing bowl](https://amzn.to/3o4ml1T), add the spices for the rub and massage them into the drumsticks. Cover the bowl and marinate them in the fridge for 6 hours.
+
+{{< figure src="/images/bbqc1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/bbqc2.jpeg" class="instructionFigure">}}
+
+2. Preheat the oven to 400 degrees and then set a [wire rack](https://amzn.to/3AQLn8k) into a [rimmed baking sheet](https://amzn.to/3COm9rS); line the drumsticks onto it.
+
+{{< figure src="/images/bbqc3.jpeg" class="instructionFigure">}}
+
+3. Cook for 25-30 minutes, flipping the drumsticks halfway through.
+
+{{< figure src="/images/bbqc4.jpeg" class="instructionFigure">}}
+
+4. Brush them with bbq sauce and cook them for 3 minutes, sauce side down. 
+
+{{< figure src="/images/bbqc6.jpeg" class="instructionFigure">}}
+
+5. Brush the other side with bbq sauce, and cook for another 2 minutes.  
+
+{{< figure src="/images/bbqc7.jpeg" class="instructionFigure">}}
+
+6. Remove the drumsticks from heat and let them rest for about 5 minutes before serving.
+
+{{< figure src="/images/bbqc8.jpeg" class="instructionFigure">}}
 
 ----
 
