@@ -8,7 +8,7 @@ tags = [
     "side"
    
 ]
-thumbnail= "images/pickledonion.jpg"
+thumbnail= "images/pickledonion.jpeg"
 +++
 
 Servings: 4 <!--more-->
@@ -79,29 +79,31 @@ Use pickled onions to dress up all kinds of dishes, like tacos or burritos; they
 
  1. Slice the onions thinly and pack them into the bottom of a [glass jar](https://amzn.to/3ETyuvT). Set aside. 
  
- {{< figure src="/images/po1.jpg" class="instructionFigure">}}
+{{< figure src="/images/pico3.jpeg" class="instructionFigure">}}
  
  2. In a saucepan, add the water, distilled vinegar, apple cider vinegar, salt, and honey. Whisk the ingredients together and bring them to a simmer over medium heat. 
  
- {{< figure src="/images/po2.jpg" class="instructionFigure">}}
+{{< figure src="/images/pico1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/pico2.jpeg" class="instructionFigure">}}
  
  3. Place the [glass jar](https://amzn.to/3ETyuvT) in a sink and carefully pour the mixture over the onions.
  
- {{< figure src="/images/po3.jpg" class="instructionFigure">}}
+{{< figure src="/images/pico5.jpeg" class="instructionFigure">}}
  
  4. Use a spoon to press the onions down to remove any bubbles. 
 
-{{< figure src="/images/po4.jpg" class="instructionFigure">}}
+{{< figure src="/images/pico4.jpeg" class="instructionFigure">}}
 
  5. Allow the onions to cool for about 30 minutes before serving. 
 
-{{< figure src="/images/po5.jpg" class="instructionFigure">}}
+{{< figure src="/images/pico6.jpeg" class="instructionFigure">}}
 
 ----
 
 I hope you enjoy this pickled onion recipe. If you try it, be sure to let us know what you think!
 
-Pair these pickled onions with other recipes from The Jamil Ghar:
+Pair our pickled onions with other recipes from The Jamil Ghar:
 
 * [Chorizo Breakfast Burrito]({{< ref "chorizo-burrito" >}})
 * [Mississippi Roast]({{< ref "mississippi-roast" >}}) 
