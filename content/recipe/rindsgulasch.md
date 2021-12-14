@@ -9,7 +9,7 @@ tags = [
     "soup"
    
 ]
-thumbnail= "images/rindsgulasch-01.jpeg"
+thumbnail= "images/rindsgulasch.jpeg"
 +++
 
 Servings: 6<!--more-->
@@ -129,31 +129,31 @@ Note: Freeze the goulash separately and then prepare fresh noodles when you're r
 
 1. In a small bowl, mix 1 tbsp sweet paprika, salt, and pepper. Season the meat with the mixture, stir to coat, and set it aside. 
 
-{{< figure src="/images/rgl1.jpg" class="instructionFigure">}}
+{{< figure src="/images/rgl1.jpeg" class="instructionFigure">}}
 
 2. In an [Instant Pot](https://amzn.to/3qfNYCZ), melt the butter on saute mode. Add the onion and cook until onions become translucent and soften. 
 
-{{< figure src="/images/rgl2.jpg" class="instructionFigure">}}
+{{< figure src="/images/rgl2.jpeg" class="instructionFigure">}}
 
 3. Stir in the caraway seeds and garlic. Then, add the hot paprika and the remaining 5 tbsp of sweet paprika. Cook until fragrant, about 30 seconds. 
 
-{{< figure src="/images/rgl4.jpg" class="instructionFigure">}}
+{{< figure src="/images/rgl3.jpeg" class="instructionFigure">}}
 
 4. Slowly whisk in the water, [Better than Boullion](https://amzn.to/3qUFukL), and tomato paste while allowing it to simmer. 
 
-{{< figure src="/images/rgl5.jpg" class="instructionFigure">}}
+{{< figure src="/images/rgl4.jpeg" class="instructionFigure">}}
 
 5. Add the beef and bay leaves. Secure the lid on the Instant Pot and cook on manual high pressure for 60 minutes with a 20-minute natural release. This cooking time is for high elevation. You can reduce the cooking time for lower elevation. Stir, and let stand for 5-10 minutes. 
 
-{{< figure src="/images/rgl6.jpg" class="instructionFigure">}}
+{{< figure src="/images/rgl5.jpeg" class="instructionFigure">}}
 
 6. Add the fresh dill and stir in the apple cider vinegar. 
 
-{{< figure src="/images/rgl7.jpg" class="instructionFigure">}}
+{{< figure src="/images/rgl6.jpeg" class="instructionFigure">}}
 
 7. Taste and season with salt and pepper, and garnish with sour cream. Serve with egg noodles. 
 
-{{< figure src="/images/rgl8.jpg" class="instructionFigure">}}
+{{< figure src="/images/rgl7.jpeg" class="instructionFigure">}}
 
 ---- 
 
