@@ -8,7 +8,7 @@ tags = [
     "kid friendly"
   
 ]
-#thumbnail= "images/macballs.jpg"
+thumbnail= "images/macball.jpeg"
 +++
 
 Servings: 10-12 <!--more-->
@@ -31,7 +31,7 @@ Cuisine: American
 
 For the Mac and Cheese Balls: 
 
-* 2 Boxes of Macaroni and Cheese, cooked accordingly, and chilled overnight
+* 1 Box of Macaroni and Cheese, cooked accordingly, and chilled overnight
 * 2 cups [Panko Mix](https://amzn.to/3pPj9GP) 
 * 1/2 tsp Garlic Powder 
 * 1/4 tsp Cayenne Powder
@@ -54,6 +54,7 @@ For the Sriracha Aioli:
 6. Dip the mac and cheese balls into the egg mixture and then roll in the panko, creating a solid crust. Repeat until each one of the balls are coated. 
 7. Heat the oil in a [Dutch oven](https://amzn.to/3IgoUFP) until it reaches 350 degrees. Working in batches, fry 3 cheese balls at a time for 3-4 minutes each until golden. Move to the [wire rack](https://amzn.to/3DiW6ce) to drain and cool before serving. 
 8. Serve with Sriracha aioli. 
+
 {{< end_recipe >}}
 
 ### About the Mac and Cheese Balls 
@@ -101,6 +102,35 @@ Do you ever get bored making the same meal over and over? This scenario describe
 #### What other ways can I cook mac and cheese balls? 
 
 If you don't want deep-fried mac and cheese balls, you can bake them in the oven for 2-25 minutes at 350 degrees until golden brown and flipping halfway through. Another option is to make mac and cheese bites in the air fryer. Settle the balls into the tray and cook for 10 minutes at 360 degrees. 
+
+---- 
+
+### Instructions: Step-by-Step
+
+1. Cook the macaroni and cheese according to the package, and then refrigerate for 24 hours.
+
+{{< figure src="/images/mball1.jpeg" class="instructionFigure">}}
+
+2. Prepare a [wire rack](https://amzn.to/3DiW6ce) over a [rimmed baking sheet](https://amzn.to/3ogWGCW) covered with aluminum foil. 
+3. Scoop about 2 tablespoons of macaroni and cheese into your palm and shape it into a 2-inch ball. Set aside and repeat until the mixture is gone. 
+
+{{< figure src="/images/mball2.jpeg" class="instructionFigure">}}
+
+4. On a plate, combine the panko, garlic powder, cayenne powder, and chili flakes. 
+5. Whisk the eggs in a small bowl until smooth. 
+6. Dip the mac and cheese balls into the egg mixture and then roll in the panko, creating a solid crust. Repeat until each one of the balls are coated. 
+
+{{< figure src="/images/mball5.jpeg" class="instructionFigure">}}
+
+7. Heat the oil in a [Dutch oven](https://amzn.to/3IgoUFP) until it reaches 350 degrees. Working in batches, fry 3 cheese balls at a time for 3-4 minutes each until golden. Move to the [wire rack](https://amzn.to/3DiW6ce) to drain and cool before serving. 
+
+{{< figure src="/images/mball6.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/mball7.jpeg" class="instructionFigure">}}
+
+8. Serve with Sriracha aioli. 
+
+{{< figure src="/images/mball8.jpeg" class="instructionFigure">}}
 
 ---- 
 
