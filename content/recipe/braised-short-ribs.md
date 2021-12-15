@@ -7,7 +7,9 @@ tags = [
    
 ]
 thumbnail= "images/braisedshortribs.jpeg"
-
+aliases = [
+"braised_short_ribs"
+]
 +++
 
 Servings: 4-6 <!--more-->

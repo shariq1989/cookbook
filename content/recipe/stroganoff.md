@@ -9,6 +9,9 @@ tags = [
 
 ]
 thumbnail= "images/bachelorstroganoff.jpeg"
+aliases = [
+"bachelor_stroganoff"
+]
 +++
 
 Servings: 6-8 <!--more-->

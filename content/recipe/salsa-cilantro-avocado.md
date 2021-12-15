@@ -8,6 +8,9 @@ tags = [
     "vegetarian",
 ]
 thumbnail= "images/salsacilantroavocado.jpeg"
+aliases = [
+"salsa_cilantro_avocado"
+]
 +++
 
 Servings: 10 <!--more-->

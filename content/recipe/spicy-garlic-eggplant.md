@@ -8,6 +8,9 @@ tags = [
     "vegetarian",
 ]
 thumbnail= "images/spicygarliceggplant.jpeg"
+aliases = [
+"spicy_garlic_eggplant"
+]
 +++
 
 Servings: 4 <!--more-->

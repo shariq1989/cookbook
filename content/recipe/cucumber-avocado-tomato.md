@@ -10,6 +10,9 @@ tags = [
     
 ]
 thumbnail= "images/cucumberavocadotomatosalad.jpeg"
+aliases = [
+"cucumber_avo_tom_salad"
+]
 +++
 
 Servings: 6 <!--more-->

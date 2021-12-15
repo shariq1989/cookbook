@@ -9,6 +9,9 @@ tags = [
   
 ]
 thumbnail= "images/peanutlimeshrimp.jpeg"
+aliases = [
+"peanut_lime_shrimp"
+]
 +++
 
 Servings: 4 <!--more-->

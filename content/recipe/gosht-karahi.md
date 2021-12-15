@@ -8,6 +8,9 @@ tags = [
   
 ]
 thumbnail= "images/karahigosht.jpg"
+aliases = [
+"gosht_karahi"
+]
 +++
 
 Servings: 3-4 <!--more-->

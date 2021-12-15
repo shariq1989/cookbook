@@ -8,6 +8,9 @@ tags = [
     "vegetarian",
 ]
 thumbnail= "images/homemadecornchips.jpg"
+aliases = [
+"homemade_corn_tortilla_chips"
+]
 +++
 
 Servings: About 5 Dozen Chips <!--more-->

@@ -7,6 +7,9 @@ tags = [
     "instant pot"
 ]
 thumbnail= "images/beefandchickpea.jpeg"
+aliases = [
+"beef_chickpea_stew"
+]
 +++
 
 Servings: 6-8 <!--more-->

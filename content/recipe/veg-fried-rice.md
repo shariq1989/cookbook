@@ -7,6 +7,9 @@ tags = [
     "quick meals",
 ]
 #thumbnail= "images/friedrice.jpeg"
+aliases = [
+"stir_fried_rice"
+]
 +++
 
 Servings: 4-6 <!--more-->

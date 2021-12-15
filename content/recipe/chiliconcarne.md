@@ -10,6 +10,9 @@ tags = [
    
 ]
 thumbnail= "images/chiliconcarne.jpeg"
+aliases = [
+"chili_con_carne"
+]
 +++
 
 Servings: 8 <!--more-->

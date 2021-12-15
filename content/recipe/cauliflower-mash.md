@@ -9,6 +9,9 @@ tags = [
     
 ]
 thumbnail= "images/caul_mash.jpeg"
+aliases = [
+"cauliflower_mash"
+]
 +++
 
 Servings: 4 <!--more-->

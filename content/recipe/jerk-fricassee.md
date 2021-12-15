@@ -6,6 +6,9 @@ tags = [
     "entree",
 ]
 thumbnail= "images/jerkchickenfricassee.jpeg"
+aliases = [
+"jerk_chicken_fricassee"
+]
 +++
 
 Servings: 6 <!--more-->

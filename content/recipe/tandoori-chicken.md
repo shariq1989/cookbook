@@ -9,6 +9,9 @@ tags = [
 ]
 
 thumbnail= "images/tandoorichicken.jpeg"
+aliases = [
+"tandoori_chicken"
+]
 +++
 
 Servings: 4 <!--more-->

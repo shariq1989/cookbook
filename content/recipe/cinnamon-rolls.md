@@ -8,6 +8,9 @@ tags = [
     "breakfast"
 ]
 thumbnail= "images/cinnamonroll.jpeg"
+aliases = [
+"cinnamon_rolls"
+]
 +++
 
 Servings: 10 <!--more-->

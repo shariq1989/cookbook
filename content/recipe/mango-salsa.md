@@ -8,6 +8,9 @@ tags = [
     
 ]
 thumbnail= "images/mangosalsa.jpeg"
+aliases = [
+"mango_salsa"
+]
 +++
 
 Servings: 6 <!--more-->
