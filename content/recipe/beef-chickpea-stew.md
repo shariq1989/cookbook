@@ -1,9 +1,9 @@
 +++
-title = "Beef and Chickpea Stew"
+title = "Morrocan Beef and Chickpea Stew Recipe"
 date = "2021-11-22"
-description = "This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The development of this recipe came about by a happy mistake. Have you ever taken stock of your pantry and refrigerator and pretended you were on the show Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that is how this recipe came to be. I originally made it with chuck roast before deciding to use short rib instead. I also fine-tuned the dish with a few tasty additions along the way. We hope you enjoy this stew our family loves."
+description = " Have you ever taken stock of your pantry or fridge and pretended you were on Chopped? No? Me neither. Okay, maybe that is a thing I do, but in any case, that's how this recipe came to be. I originally made the stew with chuck roast before deciding on short rib; I also fine-tuned the dish with a few tasty additions along the way to make our Moroccan-inspired beef and chickpea stew. It is protein rich, with layers and layers of flavor that recapture the warm spices and savory dishes Morrocco is known for. In the end, I hope you enjoy this satisfying stew our family loves."
 tags = [
-    "entree",
+    "dinner",
     "instant pot"
 ]
 thumbnail= "images/beefandchickpea.jpeg"
@@ -14,7 +14,7 @@ aliases = [
 
 Servings: 6-8 <!--more-->
 
-Prep Time: 15 minutes 
+Prep Time: 20 minutes 
 
 Cook Time: 1 hour, 45 minutes 
 
@@ -31,7 +31,7 @@ By: [Tressa](https://www.jamilghar.com/about/)
 * 1 tbsp [Sweet Paprika](https://amzn.to/30GYLeZ)
 * 1/2 tsp [Turmeric](https://amzn.to/3kXm5Qg)
 * 2 tbsp Cumin, ground
-* 1 tsp Green Cardamom, ground
+* 1 tsp Green Cardamom, ground, green casting removed
 * 1 tsp Cinnamon, ground
 * Kosher Salt, to taste 
 * Black Pepper, coarse ground, to taste
@@ -46,30 +46,20 @@ By: [Tressa](https://www.jamilghar.com/about/)
 * 1 cup Baby Carrots
 * 1- 15½ oz can of Chickpeas, drained and rinsed
 * 3 cup Baby Spinach
-* 2 tbsp Lemon Juice, about 2 lemons 
+* 2 tbsp Lemon Juice and Zest, about 2 lemons 
 * Plain Yogurt, for garnish
   
-#### Stove-Top Instructions 
+#### Instructions 
 
-1. Mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside. 
+1. Combine the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the remaining spices. Set aside. 
 2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
-3. In a [dutch oven](https://amzn.to/3DIlKbp), over medium-high heat, melt the butter. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
-4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring the pot to a boil over high heat, then add the beef, and garlic head, cut side down. 
-5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat as necessary to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
-6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Use a whisk to blend. 
+3. In a [dutch oven](https://amzn.to/3DIlKbp), over medium-high heat, melt butter. Add onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+4. Add tomato paste, marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring the pot to a boil over high heat, then add the beef, and garlic head, cut side down. 
+5. Cover, leaving the lid slightly ajar, and reduce heat to medium-low. Simmer for 1 hour, adjusting the heat to maintain a gentle bubble. Add the carrots and continue to simmer, partially covered for another 30 minutes. 
+6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves, and then whisk to blend. 
 7. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
-8. Add the lemon juice, season with salt and pepper, and garnish with yogurt. 
-
-#### Instant Pot Instructions 
-
-1. Mix the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside.  2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
-2. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
-3. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down. 
-4. Secure the lid and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 50 minutes with a quick release.  
-5. Add the carrots, secure the lid, and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 3 minutes with a quick release. 
-6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Use a whisk to blend. 
-7. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
-8. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
+8. Add the lemon juice, lemon zest, and season with salt and pepper. Garnish with yogurt. 
+9. Serve with a steaming side of couscous, marinated kalamata olives, and enjoy!
 
 {{< end_recipe >}}
 
@@ -81,7 +71,7 @@ This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The devel
 
 * Warm Spices: I use sweet paprika, turmeric, cumin, green cardamom, and cinnamon to flavor the dish. 
 
-* Boneless Short Rib: Short rib tenderizes well and has a rich flavor. 
+* Boneless Short Rib: Short rib tenderizes well and has a rich flavor. Other options for meat are chuckroast, lamb, or goat, which are all amazing variantions to this soup.  
 
 * Garlic 
 
@@ -89,7 +79,7 @@ This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The devel
 
 * Tomato Paste 
 
-* [Marmite](https://amzn.to/3cjVzes) 
+* [Marmite](https://amzn.to/3cjVzes): Marmite has a distinct flavor profile, think soy sauce, but as a paste (kind of), and I absolutely love adding it to soups and stews like this one. 
 
 * Beef [Better Than Bouillon](https://amzn.to/3HERalr) 
 
@@ -106,23 +96,46 @@ This Moroccan-inspired beef and chickpea stew is flavorful and hearty. The devel
 * A small bowl 
 * A [dutch oven](https://amzn.to/38xuVO8) or [Instant Pot](https://amzn.to/3rRWIjZ)
 
-#### Is this stew vegetarian? Is it Vegan?
+#### Can I make beef and chickpea stew in the Instant Pot? 
 
-One of the main ingredients of this stew is beef, so the answer to that question would appear to be no. However, with a few modifications, you can easily create a delicious vegetarian and vegan stew. 
+For the Instant Pot:  
 
-* Vegetarian: Use potatoes instead of beef or double the chickpeas and then use [Vegetable Better Than Bouillon](https://amzn.to/3nHa7vJ) as a substitute.
+1. Combine paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the remaining spices. Set aside.  
+2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
+3. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt butter on saute mode. Add onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+4. Add tomato paste, marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down. 
+5. Secure the lid and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 50 minutes with a quick release.  
+6. Add the carrots, secure the lid, and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 3 minutes with a quick release. 
+7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves, and then a whisk to blend. 
+8. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
+9. Add the lemon juice, lemon zest, season the stew with salt and pepper, and garnish with yogurt. 
+10. Serve with a steaming side of couscous, marinated kalamata olives, and enjoy!
 
-* Vegan: Use potatoes instead of beef or double the chickpeas. You can replace the butter with your favorite vegan butter and then use [Vegetable Better Than Bouillon](https://amzn.to/3nHa7vJ) as a substitute. 
+#### Can I make a vegetarian version of this stew? Could I make it Vegan?
 
-#### Can I freeze beef and chickpea stew? 
+With a few modifications, you can easily create a delicious vegetarian and vegan stew using a similiar flavor profile. 
+
+* Vegetarian: Use potatoes instead of beef or double the chickpeas, and use [Vegetable Better Than Bouillon](https://amzn.to/3nHa7vJ) as a substitute.
+
+* Vegan: Use potatoes instead of beef or double the chickpeas. You can replace the butter with your favorite vegan butter and then use [Vegetable Better Than Bouillon](https://amzn.to/3nHa7vJ) instead. 
+
+#### What sides pair well with Morrocan beef stew with chickpeas? 
+
+I love this stew with couscous and marinated kalamata olives. You could also pair it with aromatic basmati rice, sweet potatoes, or butternut squash.
+
+#### What toppings go on this stew? 
+
+I enjoy the creaminess of using plain yogurt to garnish, but you could top the stew with cilantro, golden raisens, or fresh mint. I think any one or a combination of these toppings would be incredibly tasty. 
+
+#### Can I freeze stew? 
 
 You sure can. First, allow the dish to cool completely, and then add the stew to a freezer-safe container or bag. It will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm on the stovetop, and enjoy! 
 
 ----
 
-### Instant Pot Instructions: Step-by-Step 
+### Instructions: Step-by-Step 
 
-1. Mix the paprika, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the rest of the spice mixture. Set aside.
+1. Combine the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the remaining spices. Set aside.
 
 {{< figure src="/images/bandc1.jpg" class="instructionFigure">}}
 
@@ -132,11 +145,11 @@ You sure can. First, allow the dish to cool completely, and then add the stew to
 
 {{< figure src="/images/bandc3.jpg" class="instructionFigure">}}
 
-3. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt the butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
+3. In an [Instant Pot](https://amzn.to/3rRWIjZ), melt butter on saute mode. Add the onion and cook until they are translucent and soften, about 5 to 8 minutes. 
 
 {{< figure src="/images/bandc4.jpg" class="instructionFigure">}}
 
-4. Add the tomato paste, marmite, and reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down.  
+4. Add tomato paste, marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water and bring to a boil on saute mode, then add the beef, and garlic head, cut side down.  
 
 {{< figure src="/images/bandc5.jpg" class="instructionFigure">}}
 
@@ -144,7 +157,7 @@ You sure can. First, allow the dish to cool completely, and then add the stew to
 
 6. Add the carrots, secure the lid, and set the [Instant Pot](https://amzn.to/3rRWIjZ) to manual low pressure for 3 minutes with a quick release. 
 
-7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Use a whisk to blend. 
+7. Using tongs, remove the garlic head and squeeze over the stew to release the cloves, and then whisk to blend. 
 
 {{< figure src="/images/bandc6.jpg" class="instructionFigure">}}
 
@@ -152,9 +165,11 @@ You sure can. First, allow the dish to cool completely, and then add the stew to
 
 {{< figure src="/images/bandc7.jpg" class="instructionFigure">}}
 
-9. Add the lemon juice, season the stew with salt and pepper, and garnish with yogurt. 
+9. Add the lemon juice, lemon zest, season the stew with salt and pepper, and garnish with yogurt. 
 
 {{< figure src="/images/bandc8.jpg" class="instructionFigure">}}
+
+10. Serve with a steaming side of couscous, marinated kalamata olives, and enjoy!
 
 ----
 
