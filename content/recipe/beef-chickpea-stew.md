@@ -111,6 +111,22 @@ For the Instant Pot:
 9. Add the lemon juice, lemon zest, season the stew with salt and pepper, and garnish with yogurt. 
 10. Serve with a steaming side of couscous, marinated kalamata olives, and enjoy!
 
+
+#### Can I make beef and chickpea stew in the slow cooker? 
+
+For the Crockpot:  
+
+1. Combine the paprika, turmeric, cumin, cardamom, cinnamon, 2 tsp salt, and 1 tsp pepper in a small bowl. Reserve half of the spice mixture and massage the beef with the remaining spices. Set aside. 
+2. Cut off and discard the top third of the garlic head, leaving the head intact. Set aside. 
+3. In a [crockpot](https://amzn.to/3DTsjXW), warm butter until melted. Then, add onion and cook until they begin to soften. 
+4. Add tomato paste, Marmite, and the reserved spice mixture. Cook for 1 minute, stirring constantly. Add the water, beef, and garlic head, cut side down. 
+5. Cover the [crockpot](https://amzn.to/3DTsjXW), Set the slow cooker to low and cook for 7 1/2 hours.
+6. Add the carrots and continue cooking on low for another 30 minutes. 
+6. Using tongs, remove the garlic head and squeeze over the stew to release the cloves. Whisk to blend. 
+7. Stir in the chickpeas and spinach. Cook until spinach wilts, about 5 minutes. 
+8. Add the lemon juice, lemon zest, and season with salt and pepper. Garnish with yogurt. 
+9. Serve with a steaming side of couscous, marinated kalamata olives, and enjoy!
+
 #### Can I make a vegetarian version of this stew? Could I make it Vegan?
 
 With a few modifications, you can easily create a delicious vegetarian or vegan stew using a similar flavor profile to this one. 
@@ -173,7 +189,7 @@ You sure can. First, allow the dish to cool completely, and then add the stew to
 
 ----
 
-I hope you enjoy this recipe for beef and chickpea stew. If you try it, be sure to let us know what you think!
+I hope you enjoy this recipe Morrocan beef stew with chickpeas. If you try it, be sure to let us know what you think!
 
 Other soups and stews from The Jamil Ghar:
 * [Chili Con Carne]({{< ref "chiliconcarne" >}})
