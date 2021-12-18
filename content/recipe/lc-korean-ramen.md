@@ -1,7 +1,8 @@
+
 +++
 title = "Low Carb Korean Ramen"
-date = "2021-12-15"
-description = " "
+date = "2021-12-17"
+description = "A hot steaming bowl of Korean ramen noodles will always be something I crave. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, korean ramen is something you can still enjoy."
 tags = [
     "dinner",
     "low carb",
@@ -11,7 +12,7 @@ tags = [
     "quick meal"
 ]
 
-#thumbnail= "images/peruvianroastedchicken.jpeg"
+thumbnail= "images/lckoreanramen.jpeg"
 +++
 
 Servings: 2-3 <!--more-->
@@ -30,42 +31,43 @@ Cuisine: Korean
 
 * 4 Eggs 
 * 5 cups Water 
-* 1 tablespoon Beef Better Than Bouillion 
+* 1 tablespoon [Beef Better Than Bouillion](https://amzn.to/3F7a5nd)
 * 1 tablespoon Distilled White Vinegar 
 * 2 tablespoons Soy Sauce 
-* 2 teaspoons Sesame Oil 
-* 2 tablespoons Kimchi, cabbage and juice
-* 3 tablespoons gochujang 
-* 2 teaspoons gochugaru 
+* 2 teaspoons [Sesame Oil](https://amzn.to/3mh5jvX)
+* 2 tablespoons Kimchi, cabbage, and juice
+* 3 tablespoons [Gochujang](https://amzn.to/3skzFl0)
+* 2 teaspoons [Gochugaru](https://amzn.to/3shgJno)
 * 4 Garlic Cloves, minced 
-* 1 tablespoons Ginger Paste 
-* 1 cup Shittake Mushrooms, dried 
+* 1 tablespoon [Ginger Paste](https://amzn.to/33JERox) 
+* 1 cup [Shittake Mushrooms](https://amzn.to/3q9PS9U), dried 
 * 1 package Silken Tofu, broken into pieces 
 * 1 package Shirataki Noodles, angel hair, washed and rinsed
 * 1 bundle of Scallions, greens, thinly sliced, to garnish 
-
 
 #### Instructions 
 
 How to Poach an Egg:
 
-1. Crack an egg into a small sieve over a bowl to remove the excess egg white. Then, place the eggs into a ramekin.
-2. In a sauce pan bring the water to a boil.
+1. Crack an egg into a small [sieve](https://amzn.to/3EaOHMq) over a bowl to remove the excess egg white. Then, place the eggs into a [ramekin](https://amzn.to/33FrBRG).
+2. In a [saucepan](https://amzn.to/3mbpQly), bring the water to a boil.
 3. Stir the vinegar into the water and swirl the water using a whisk. While the water is moving, add the eggs and cook for 3 minutes.
-4. Remove the eggs and set aside. 
+4. Remove the eggs and set them aside. 
 
 For the Ramen: 
 
-1. In the same sauce pan, add the remaining ingredients apart from the tofu, noodles, and scallions. 
-2. Over medium heat maintain a gentle simmer for 15 minutes to maximize flavor. 
-3. Add the tofu and cook for another 3 minutes. 
-4. While the tofu is cooking, was and rinse the noodles. 
+1. In the same [saucepan](https://amzn.to/3mbpQly), leave the water from poaching the eggs, and add the remaining ingredients apart from tofu, noodles, and scallions. 
+2. Over medium heat, maintain a gentle simmer for 15 minutes to maximize flavor. 
+3. Add tofu and cook for another 3 minutes. 
+4. While the tofu is cooking, wash and rinse the noodles. 
 5. Stir the noodles into the ramen and cook for another minute. 
-6. To serve, garnish with scallion greens and top with the reserved poached eggs. 
+6. To serve, garnish with scallion greens and top with the reserved poached eggs. Enjoy!
 
 {{< end_recipe >}}
 
 ### About the Ramen 
+
+A hot steaming bowl of Korean ramen noodles will always be something I crave. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, korean ramen is something you can still enjoy. 
 
 #### What ingredients are needed to make this dish?
 
@@ -73,25 +75,25 @@ For the Ramen:
 
 * Water 
 
-* Beef Better Than Bouillion 
+* [Beef Better Than Bouillion](https://amzn.to/3F7a5nd)
 
 * Distilled White Vinegar 
 
 * Soy Sauce 
 
-* Sesame Oil 
+* [Sesame Oil](https://amzn.to/3mh5jvX)
 
 * Kimchi
 
-* Gochujang 
+* [Gochujang](https://amzn.to/3skzFl0) or Red Pepper Paste 
 
-* Gochugaru 
+* [Gochugaru](https://amzn.to/3shgJno) or Korean Red Pepper Flakes 
 
 * Garlic 
 
-* Ginger Paste 
+* [Ginger Paste](https://amzn.to/33JERox)
 
-* Shittake Mushrooms
+* [Shittake Mushrooms](https://amzn.to/3q9PS9U)
 
 * Silken Tofu
 
@@ -101,8 +103,8 @@ For the Ramen:
 
 #### What equipment do I need to make this recipe?
 
-* A sieve 
-* A ramekin 
+* A [sieve](https://amzn.to/3EaOHMq) 
+* A [ramekin](https://amzn.to/33FrBRG)
 * A saucepan 
 * A whisk 
 
@@ -110,8 +112,36 @@ For the Ramen:
 
 ### Instructions: Step-by-Step
 
-{{< figure src="/images/perurc1.jpeg" class="instructionFigure">}}
+How to Poach an Egg:
 
+1. Crack an egg into a small sieve over a bowl to remove the excess egg white. Then, place the eggs into a [ramekin](https://amzn.to/33FrBRG).
+2. In a saucepan, bring the water to a boil.
+3. Stir the vinegar into the water and swirl the water using a whisk. While the water is moving, add the eggs and cook for 3 minutes.
+4. Remove the eggs and set them aside. 
+
+For the Ramen: 
+
+1. In the same saucepan, leave the water, and add the remaining ingredients apart from tofu, noodles, and scallions. 
+
+{{< figure src="/images/lcram1.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/lcram2.jpeg" class="instructionFigure">}}
+
+2. Over medium heat, maintain a gentle simmer for 15 minutes to maximize flavor. 
+3. Add tofu and cook for another 3 minutes. 
+
+{{< figure src="/images/lcram3.jpeg" class="instructionFigure">}}
+
+4. While the tofu is cooking, wash and rinse the noodles. 
+5. Stir the noodles into the ramen and cook for another minute. 
+
+{{< figure src="/images/lcram4.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/lcram5.jpeg" class="instructionFigure">}}
+
+6. To serve, garnish with scallion greens and top with the reserved poached eggs. Enjoy!
+
+{{< figure src="/images/lcram6.jpeg" class="instructionFigure">}}
 
 ---- 
 
