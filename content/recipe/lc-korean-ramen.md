@@ -1,7 +1,7 @@
 
 
 +++
-title = "Low Carb Korean Ramen Noodles"
+title = "Low Carb Korean Spicy Ramen Noodles"
 date = "2021-12-17"
 description = "A hot steaming bowl of Korean ramen noodles will always be something I crave. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, Korean ramen is something you can still enjoy."
 tags = [
@@ -68,7 +68,7 @@ For the Ramen:
 
 ### About the Ramen Noodles 
 
-A hot steaming bowl of Korean ramen noodles will always be something I crave. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, Korean ramen is something you can still enjoy. 
+Craving Korean instant ramen? Same here! A hot steaming bowl of Korean ramen noodles will always be something I want to make. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, Korean ramen is a meal you can still enjoy. 
 
 #### What ingredients are needed to make this dish?
 
@@ -150,7 +150,7 @@ For the Ramen:
 
 ---- 
 
-I hope you enjoy this recipe for low-carb Korean ramen. If you try it, be sure to let us know what you think!
+I hope you enjoy our low carb ramen noodle recipe. If you try it, be sure to let us know what you think!
 
 Other recipes from The Jamil Ghar:
 
