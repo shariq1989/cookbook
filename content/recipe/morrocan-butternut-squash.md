@@ -1,9 +1,7 @@
-
-
 +++
 title = "Morrocan-Spiced Butternut Squash"
 date = "2021-05-11"
-description = "I hope you enjoy this tasty butternut squash recipe our family loves."
+description = "Butternut squash seasoned with ras el hanout is the perfect side dish to enjoy during the colder months. You can eat our Morrocan-spiced butternut squash on its own for a filling lunch, complement your main dish with a healthy side, or add it to the table for your next Thanksgiving or Christmas meal. Whatever you choose to do with it, I hope you enjoy this tasty butternut squash recipe our family loves."
 tags = [
     "side",
     "vegetarian",
@@ -40,10 +38,10 @@ By: [Tressa](https://www.jamilghar.com/about/)
   
 #### Instructions 
 
-1. Preheat the oven to 400 degrees and prepare a [rimmed baking sheet](https://amzn.to/3uG5Mdg). 
+1. Preheat the oven to 450 degrees and prepare a [rimmed baking sheet](https://amzn.to/3uG5Mdg). 
 2. Line the [baking sheet](https://amzn.to/3uG5Mdg) with squash and onion. 
 3. Drizzle generously with olive oil and season with ras el hanout, salt, and pepper. Use a spatula to distribute the oil and spices. 
-4. Bake for 20 minutes. Stir the butternut squash, and bake for another 20 minutes. 
+4. Bake for 15 minutes. Stir the butternut squash, and bake for another 15 minutes. 
 5. Allow the squash to cool for about 10 minutes, and then move it to a serving dish. 
 6. Fold in the green apple and garnish with fresh parsley to serve. 
 
@@ -51,21 +49,23 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 ### About the Butternut Squash  
 
+Butternut squash seasoned with ras el hanout is the perfect side dish to enjoy during the colder months. You can eat our Morrocan-spiced butternut squash on its own for a filling lunch, complement your main dish with a healthy side, or add it to the table for your next Thanksgiving or Christmas meal. Whatever you choose to do with it, I hope you enjoy this tasty butternut squash recipe our family loves.
+
 #### What ingredients are needed to make Morrocan butternut squash?
 
-* Butternut Squash: I use fresh butternut squash here, but you can also use frozen for convenience sake. Using frozen does change the texture quite a bit.   
+* Butternut Squash: I use fresh butternut squash here, but you can use frozen for convenience sake. Using frozen butternut squash changes the texture quite a bit, and honestly, I am not a fan. I prefer the way fresh butternut squash crisps up in the oven.   
 
 * Red Onion
 
 * Olive Oil 
 
-* [Ras El Hanout](https://amzn.to/3I2sGmj): I love the way ras el hanout balances the sweetness of the butternut squash. Like many spice blends, it differs from region to region, so no two blends are the same. 
+* [Ras El Hanout](https://amzn.to/3I2sGmj): The warm, aromatic spices of ras el hanout balance the sweetness of the butternut squash. Like many spice blends, it differs from region to region, so no two blends are the same. 
 
 * Kosher Salt 
 
 * Black Pepper
 
-* Green Apple: I don't know about you, but I am not a fan of butternut squash texture on its own; this is why I prefer to add green apples. They add texture and tartness to an already sweet dish.
+* Green Apple: You will love the texture and tartness of the green apples in this side dish. 
 
 * Fresh Parsely 
 
