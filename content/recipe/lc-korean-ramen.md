@@ -56,10 +56,10 @@ How to Poach an Egg:
 
 For the Ramen: 
 
-1. In the same [saucepan](https://amzn.to/3mbpQly), leave the water from poaching the eggs, and add the remaining ingredients apart from tofu, noodles, and scallions. 
+1. In the same [saucepan](https://amzn.to/3mbpQly), using the water from poaching the eggs, add the remaining ingredients apart from tofu, noodles, and scallions. 
 2. Over medium heat, maintain a gentle simmer for 15 minutes to maximize flavor. 
 3. Add tofu and cook for another 3 minutes. 
-4. While the tofu is cooking, wash and rinse the noodles. 
+4. While the tofu is cooking, wash and rinse the shirataki noodles. 
 5. Stir the noodles into the ramen and cook for another minute. 
 6. To serve, garnish with scallion greens and top with the reserved poached eggs. Enjoy!
 
@@ -83,17 +83,17 @@ A hot steaming bowl of Korean ramen noodles will always be something I crave. It
 
 * [Sesame Oil](https://amzn.to/3mh5jvX)
 
-* Kimchi
+* Kimchi: Guess what? Kimchi is not just a side dish in banchan; it is often the main ingredient for many recipes. When using kimchi for stew, be sure that it is fermented and sour. I read somewhere that the older the kimchi, the better; I discovered this is true in my cooking as well.
 
-* [Gochujang](https://amzn.to/3skzFl0) or Red Pepper Paste 
+* [Gochujang](https://amzn.to/3skzFl0) or Korean Red Pepper Paste: This is a staple in Korean cooking and refers to a paste comprised of red chili flakes, sticky rice, fermented soybean paste, and salt.
 
-* [Gochugaru](https://amzn.to/3shgJno) or Korean Red Pepper Flakes 
+* [Gochugaru](https://amzn.to/3shgJno) or Korean Red Pepper Powder: This spice is another staple of Korean cuisine made of deseeded chili peppers.
 
 * Garlic 
 
 * [Ginger Paste](https://amzn.to/33JERox)
 
-* [Shiitake Mushrooms](https://amzn.to/3q9PS9U)
+* [Shiitake Mushrooms](https://amzn.to/3q9PS9U): Use fresh or dried shitake mushrooms, whichever you prefer. I suggest using dried mushrooms in this recipe because as they re-hydrate in the water, mushrooms add a nuttiness to the broth.
 
 * Silken Tofu
 
@@ -105,7 +105,7 @@ A hot steaming bowl of Korean ramen noodles will always be something I crave. It
 
 * A [sieve](https://amzn.to/3EaOHMq) 
 * A [ramekin](https://amzn.to/33FrBRG)
-* A saucepan 
+* A [saucepan](https://amzn.to/3mbpQly) 
 * A whisk 
 
 ---- 
@@ -114,14 +114,14 @@ A hot steaming bowl of Korean ramen noodles will always be something I crave. It
 
 How to Poach an Egg:
 
-1. Crack an egg into a small sieve over a bowl to remove the excess egg white. Then, place the eggs into a [ramekin](https://amzn.to/33FrBRG).
-2. In a saucepan, bring the water to a boil.
+1. Crack an egg into a small [sieve](https://amzn.to/3EaOHMq) over a bowl to remove the excess egg white. Then, place the eggs into a [ramekin](https://amzn.to/33FrBRG).
+2. In a [saucepan](https://amzn.to/3mbpQly), bring the water to a boil.
 3. Stir the vinegar into the water and swirl the water using a whisk. While the water is moving, add the eggs and cook for 3 minutes.
 4. Remove the eggs and set them aside. 
 
 For the Ramen: 
 
-1. In the same saucepan, leave the water, and add the remaining ingredients apart from tofu, noodles, and scallions. 
+1. In the same [saucepan](https://amzn.to/3mbpQly), using the water from poaching the eggs, add the remaining ingredients apart from tofu, noodles, and scallions. 
 
 {{< figure src="/images/lcram1.jpeg" class="instructionFigure">}}
 
@@ -132,7 +132,7 @@ For the Ramen:
 
 {{< figure src="/images/lcram3.jpeg" class="instructionFigure">}}
 
-4. While the tofu is cooking, wash and rinse the noodles. 
+4. While the tofu is cooking, wash and rinse the shirataki noodles. 
 5. Stir the noodles into the ramen and cook for another minute. 
 
 {{< figure src="/images/lcram4.jpeg" class="instructionFigure">}}
