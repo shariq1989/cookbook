@@ -27,13 +27,13 @@ By: [Tressa](https://www.jamilghar.com/about/)
 * 2 cups Flour, All-Purpose 
 * 1/2 cup White Sugar, Granulated 
 * 1/2 cup Brown Sugar
-* 1 tsp Baking Soda
-* 1 tsp Baking Powder
-* 1 tsp Cinnamon  
+* 1 teaspoon Baking Soda
+* 1 teaspoon Baking Powder
+* 1 teaspoon Cinnamon  
 * 1 stick Butter, softened 
 * 3-4 small Bananas, peeled and cut into chunks 
 * 3 Eggs 
-* 6 tbsp Milk 
+* 6 tablespoon Milk 
 
 #### Instructions 
 
@@ -75,7 +75,7 @@ A moist and delicious baked banana bread recipe that our family loves, especiall
 
 * 2 [mixing bowl](https://amzn.to/3rczKGV)
 * A [spatula](https://amzn.to/3E0CF9b)
-* 2- 9x5 [loaf pans](https://amzn.to/3lhGhv0)
+* 2 - 9x5 [loaf pans](https://amzn.to/3lhGhv0)
 
 #### What can I add to my banana bread?
 
@@ -89,7 +89,7 @@ A moist and delicious baked banana bread recipe that our family loves, especiall
 * Dried Fruit: Cranberries, Raisins, apricots
 * Pumpkin Puree 
 
-#### How should I store banana bread? 
+#### How should I store my banana bread? 
 
 To keep your banana bread moist, allow it to cool completely and then wrap it in a layer of plastic. Next, store it in a Ziploc bag or a container with a tight-fitting lid. It will last on the counter for up to 3 days. 
 
