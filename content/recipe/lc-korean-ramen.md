@@ -1,8 +1,9 @@
 
+
 +++
-title = "Low Carb Korean Ramen"
+title = "Low Carb Korean Ramen Noodles"
 date = "2021-12-17"
-description = "A hot steaming bowl of Korean ramen noodles will always be something I crave. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, korean ramen is something you can still enjoy."
+description = "A hot steaming bowl of Korean ramen noodles will always be something I crave. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, Korean ramen is something you can still enjoy."
 tags = [
     "dinner",
     "low carb",
@@ -25,14 +26,14 @@ Cuisine: Korean
 
 {{< start_recipe >}}
 
-### How to Make Low-Carb Korean Ramen 
+### How to Make Low-Carb Korean Ramen Noodles 
 
 #### Ingredients 
 
 * 4 Eggs 
 * 5 cups Water 
+* 1 teaspoon Distilled White Vinegar 
 * 1 tablespoon [Beef Better Than Bouillion](https://amzn.to/3F7a5nd)
-* 1 tablespoon Distilled White Vinegar 
 * 2 tablespoons Soy Sauce 
 * 2 teaspoons [Sesame Oil](https://amzn.to/3mh5jvX)
 * 2 tablespoons Kimchi, cabbage, and juice
@@ -42,7 +43,7 @@ Cuisine: Korean
 * 1 tablespoon [Ginger Paste](https://amzn.to/33JERox) 
 * 1 cup [Shiitake Mushrooms](https://amzn.to/3q9PS9U), dried 
 * 1 package Silken Tofu, broken into pieces 
-* 1 package Shirataki Noodles, angel hair, washed and rinsed
+* 1 package [Shirataki Noodles](https://amzn.to/3mhTV33), angel hair, washed and rinsed
 * 1 bundle of Scallions, greens, thinly sliced, to garnish 
 
 #### Instructions 
@@ -65,31 +66,29 @@ For the Ramen:
 
 {{< end_recipe >}}
 
-### About the Ramen 
+### About the Ramen Noodles 
 
-A hot steaming bowl of Korean ramen noodles will always be something I crave. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, korean ramen is something you can still enjoy. 
+A hot steaming bowl of Korean ramen noodles will always be something I crave. It was certainly something I missed when I began considering my carbs more carefully. Thankfully with this recipe, Korean ramen is something you can still enjoy. 
 
 #### What ingredients are needed to make this dish?
 
-* Eggs 
-
-* Water 
-
-* [Beef Better Than Bouillion](https://amzn.to/3F7a5nd)
+* Eggs: Poached eggs are a perfect addition to this already tasty ramen. You could also use hard or soft-boiled eggs if you prefer. 
 
 * Distilled White Vinegar 
 
-* Soy Sauce 
+* [Beef Better Than Bouillion](https://amzn.to/3F7a5nd): I use Better Than Bouillion in place of beef stock for this recipe. It's flavorful, easy, and something I always keep in my pantry. 
 
-* [Sesame Oil](https://amzn.to/3mh5jvX)
+* Soy Sauce: Made of fermented soybeans, soy sauce lends saltiness and umami to the dish. For a gluten-free option, use [Tamari](https://amzn.to/32eu8RU). For a soy-free option, [coconut amino acid](https://amzn.to/3p2PISt) is a great alternative. 
 
-* Kimchi: Guess what? Kimchi is not just a side dish in banchan; it is often the main ingredient for many recipes. When using kimchi for stew, be sure that it is fermented and sour. I read somewhere that the older the kimchi, the better; I discovered this is true in my cooking as well.
+* [Sesame Oil](https://amzn.to/3mh5jvX): Sesame oil adds texture and nuttiness to the ramen. 
+
+* Kimchi: Guess what? Kimchi is not just a side dish in banchan; it is often the main ingredient for many recipes. When using kimchi for soups or stew, be sure that it is fermented and sour. I read somewhere that the older the kimchi, the better.
 
 * [Gochujang](https://amzn.to/3skzFl0) or Korean Red Pepper Paste: This is a staple in Korean cooking and refers to a paste comprised of red chili flakes, sticky rice, fermented soybean paste, and salt.
 
 * [Gochugaru](https://amzn.to/3shgJno) or Korean Red Pepper Powder: This spice is another staple of Korean cuisine made of deseeded chili peppers.
 
-* Garlic 
+* Garlic: I suggest using four cloves, but don't my recipe tell you how much garlic to add- go for it.
 
 * [Ginger Paste](https://amzn.to/33JERox)
 
@@ -97,9 +96,9 @@ A hot steaming bowl of Korean ramen noodles will always be something I crave. It
 
 * Silken Tofu
 
-* Shirataki Noodles
+* [Shirataki Noodles](https://amzn.to/3mhTV33): I know what you might be thinking- what are shirataki noodles and where can I find them? Invented in Japan, shirataki noodles are made of konjac yam. I have been able to find them in my local grocery stores recently. If not, check your local Asian markets or health food stores. These noodles have a gelatinous texture, and while they have no taste of their own, they absorb the flavors in the dish. 
 
-* Scallions 
+* Scallions: Scallions or green onions add a nice peppery finish to the ramen. 
 
 #### What equipment do I need to make this recipe?
 
@@ -107,6 +106,12 @@ A hot steaming bowl of Korean ramen noodles will always be something I crave. It
 * A [ramekin](https://amzn.to/33FrBRG)
 * A [saucepan](https://amzn.to/3mbpQly) 
 * A whisk 
+
+#### Cooking tips for using shirataki noodles: 
+
+1. Choose the Right Brand: I was not a fan of shirataki noodles for a long time, even if they made some of my favorite meals possible on a low-carb diet. It was something about the texture and smell I couldn't get over. What I have come to find out is that brand matters. House Foods is by far the best-tasting brand out there, and they have a variety of noodles, making them versatile. For this recipe, I suggest using the [angel hair](https://amzn.to/3mhTV33) shirataki noodles as they resemble ramen most accurately.  
+
+2. Prepare your Noodles: Please, please, please, do not add the noodles straight into your ramen! For best results, drain the liquid from the packaging. Next, soak them in water for 15-10 minutes, then rinse, rinse, rinse. Now you're ready to add them to your dish. 
 
 ---- 
 
