@@ -38,7 +38,7 @@ For the Broth:
 * 2 tablespoon [Fish Sauce](https://amzn.to/3uYz9IW) or [Marmite](https://amzn.to/3s7odt0)
 * 1 tablespoon [Beef](https://amzn.to/3oM8L3W) or [Vegetable](https://amzn.to/3Atsuay) Better than Bouillon 
 * 1/2 teaspoon Soy Sauce 
-* 1 teaspoon [Gochochang](https://amzn.to/2NHrNZ3)
+* 1 teaspoon [Gochujang](https://amzn.to/2NHrNZ3)
 * 1 cup [Shitake Mushrooms](https://amzn.to/3I0K0YN), dried, optional 
 
 For the Jjigae: 
@@ -55,7 +55,7 @@ For the Jjigae:
 
 #### Stove-Top Instructions
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add water, fish sauce, soy sauce, gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add water, fish sauce, soy sauce, gochujang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste using gochugaru, 2 teaspoon sesame oil, and ground black pepper. Set aside. 
 3. In a [Dutch oven](https://amzn.to/3lC91Pi) or [earthenware pot](https://amzn.to/3soWXDL), saute the kimchi until it becomes soft. Set it aside. 
 4. In the same [pot]((https://amzn.to/3lC91Pi)), warm 1 tablespoon sesame oil over medium heat. Then add onion, garlic, and scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
@@ -65,7 +65,7 @@ For the Jjigae:
 
 #### Instant Pot Instructions
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, gochujang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 2. While the stock is cooking, make a paste using gochugaru, 2 teaspoons sesame oil, and ground black pepper. Set aside. 
 3. In an [Instant Pot](https://amzn.to/3DpZGSo), cook kimchi using the saute mode until it becomes soft. Set it aside. 
 4. Back in the [Instant Pot](https://amzn.to/3DpZGSo), warm 1 tablespoon sesame oil over medium heat. Then add onion, garlic, and scallion whites. Cook until onions become translucent and soften for about 8 minutes. 
@@ -87,7 +87,7 @@ Kimchi jjigae, kimchi chigae, kimchi stew, or kimchi soup, whatever name you giv
 
 * Soy Sauce 
 
-* [Gochochang](https://amzn.to/2NHrNZ3) or Korean Red Pepper Paste: This is a staple in Korean cooking and refers to a paste comprised of red chili flakes, sticky rice, fermented soybean paste, and salt. 
+* [Gochujang](https://amzn.to/2NHrNZ3) or Korean Red Pepper Paste: This is a staple in Korean cooking and refers to a paste comprised of red chili flakes, sticky rice, fermented soybean paste, and salt. 
 
 * [Shitake Mushrooms](https://amzn.to/3I0K0YN): Use fresh or dried shitake mushrooms, whichever you prefer. I suggest using dried mushrooms in this recipe because as they re-hydrate in the water, mushrooms add a nuttiness to the broth. 
 
@@ -134,7 +134,7 @@ You sure can. Before freezing, remove the tofu from the dish. It doesn't reheat 
 
 ### Instructions: Step-by-Step
 
-1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, Gochochang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
+1. In a [saucepan](https://amzn.to/3oKaYN7), add the water, fish sauce, soy sauce, gochujang, and Better than Bouillon. If you're adding dried mushrooms to the dish, you can also add them during this step. Cover and cook for 10-15 minutes over medium heat, adjusting the temperature to maintain a gentle simmer. 
 
 {{< figure src="/images/korean1.jpg" class="instructionFigure">}}
 
