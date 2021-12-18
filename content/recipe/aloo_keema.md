@@ -27,7 +27,7 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 #### Ingredients  
 
-* 1/2 tbsp [Ghee](https://amzn.to/2ZkJkrW) 
+* 1/2 tablespoon [Ghee](https://amzn.to/2ZkJkrW) 
 * 1 lb Ground Beef, finely minced 
 * 3-4 small Red or Yukon Gold Potatoes, diced 
 * 1/2 Yellow Onion, finely chopped 
