@@ -1,21 +1,23 @@
+
+
 +++
 title = "Morrocan-Spiced Butternut Squash"
 date = "2021-05-11"
-description = "I hope you enjoy this tasty butternut squash recipe."
+description = "I hope you enjoy this tasty butternut squash recipe our family loves."
 tags = [
     "side",
     "vegetarian",
     "vegan"
  
 ]
-thumbnail= "images/moroccanbutternutsquash.jpg"
+thumbnail= "images/raselhanoutbutternut.jpeg"
 +++
 
 Servings: 4 <!--more-->
 
-Preparation Time: 10 minutes 
+Prep Time: 10 minutes 
 
-Cooking Time: 40 minutes 
+Cook Time: 40 minutes 
 
 Cuisine: American
 
@@ -28,39 +30,36 @@ By: [Tressa](https://www.jamilghar.com/about/)
 #### Ingredients  
 
 * 1 large Butternut Squash, peeled and seeded, cut into 1-inch pieces
-* 1 cup Brussel Sprouts, halved
-* 1/2 Red Onion, thinly sliced 
-* 3 tbsp Olive Oil 
-* 2 tbsp [Ras El Hanout](https://amzn.to/3I2sGmj) 
-* 2 tsp Kosher Salt 
-* 1 tsp Black Pepper, coarse ground 
+* 1/2 Red Onion, coarsely chopped 
+* 3 tablespoons Olive Oil 
+* 2 tablespoons [Ras El Hanout](https://amzn.to/3I2sGmj) 
+* 2 teaspoons Kosher Salt 
+* 1 teaspoon Black Pepper, coarse ground 
 * 1 Green Apple, small diced  
 * Fresh Parsely, finely chopped, to garnish 
   
 #### Instructions 
 
 1. Preheat the oven to 400 degrees and prepare a [rimmed baking sheet](https://amzn.to/3uG5Mdg). 
-2. Line the [baking sheet](https://amzn.to/3uG5Mdg) with the squash, brussel sprouts, and onions to the pan. 
-3. Drizzle generously with olive oil and season the vegetables with ras el hanout, salt, and pepper. Use a spatula to distribute the oil and spices. 
+2. Line the [baking sheet](https://amzn.to/3uG5Mdg) with squash and onion. 
+3. Drizzle generously with olive oil and season with ras el hanout, salt, and pepper. Use a spatula to distribute the oil and spices. 
 4. Bake for 20 minutes. Stir the butternut squash, and bake for another 20 minutes. 
-5. Allow the squash to cool, and then move it to a serving dish. 
+5. Allow the squash to cool for about 10 minutes, and then move it to a serving dish. 
 6. Fold in the green apple and garnish with fresh parsley to serve. 
 
 {{< end_recipe >}}
 
-### About the Side 
+### About the Butternut Squash  
 
 #### What ingredients are needed to make Morrocan butternut squash?
 
-* Butternut Squash: I use fresh butternut squash here, but you can also use frozen for convenience sake. Using frozen does change the texture some.   
-
-* Brussel Sprouts
+* Butternut Squash: I use fresh butternut squash here, but you can also use frozen for convenience sake. Using frozen does change the texture quite a bit.   
 
 * Red Onion
 
 * Olive Oil 
 
-* [Ras El Hanout](https://amzn.to/3I2sGmj): I love how ras el hanout compliments the sweetness of the butternut squash. Like many spice blends, it differs from region to region, and there is no specific combination of spices that make up the spice blend. 
+* [Ras El Hanout](https://amzn.to/3I2sGmj): I love the way ras el hanout balances the sweetness of the butternut squash. Like many spice blends, it differs from region to region, so no two blends are the same. 
 
 * Kosher Salt 
 
@@ -80,6 +79,44 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 #### Can I freeze baked butternut squash?
 
-Yes you can; lay the leftover butternut in a single layer on a baking sheet and place them in the freezer until frozen through. Then, place the squash in a freezer-safe container or bag; the butternut squash will freeze for up to 3 months. When you’re ready to eat, let it defrost in the fridge overnight. To serve, warm it in the oven. The texture will have changed some due to the freezing process, but the flavor will still be there. 
+Yes, you can. Lay the leftover butternut in a single layer on a baking sheet and place them in the freezer until frozen. Then, place the squash in a freezer-safe container or bag; the butternut squash will freeze for up to 3 months. When you’re ready to eat, defrost in the fridge overnight. To serve, warm it in the oven. The texture will have changed in the freezing process, but the flavor will still be there. 
+
+---- 
+
+### Instructions: Step-by-Step
+
+1. Preheat the oven to 400 degrees and prepare a [rimmed baking sheet](https://amzn.to/3uG5Mdg). 
+2. Line the [baking sheet](https://amzn.to/3uG5Mdg) with butternut squash and onion. 
+
+{{< figure src="/images/rasbut1.jpeg" class="instructionFigure">}}
+
+3. Drizzle generously with olive oil and season with ras el hanout, salt, and pepper. Use a spatula to distribute the oil and spices. 
+
+{{< figure src="/images/rasbut2.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/rasbut3.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/rasbut4.jpeg" class="instructionFigure">}}
+
+4. Bake for 20 minutes. Stir the butternut squash, and bake for another 20 minutes. 
+
+{{< figure src="/images/rasbut5.jpeg" class="instructionFigure">}}
+
+5. Allow the squash to cool for about 10 minutes, and then move it to a serving dish. 
+
+{{< figure src="/images/rasbut6.jpeg" class="instructionFigure">}}
+
+6. Fold in the green apple and garnish with fresh parsley to serve. 
+
+{{< figure src="/images/rasbut7.jpeg" class="instructionFigure">}}
+
+{{< figure src="/images/rasbut8.jpeg" class="instructionFigure">}}
 
 ----
+
+I hope you enjoy this recipe for Morrocan-inspired butternut squash. If you try it, be sure to let us know what you think!
+
+Other recipes from The Jamil Ghar:
+
+* [Honey and Miso Baked Drumsticks]({{< ref "honey-miso-drumsticks" >}})
+* [Summer Salad Mix]({{< ref "summer-salad-mix" >}})
