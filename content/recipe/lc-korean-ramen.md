@@ -40,7 +40,7 @@ Cuisine: Korean
 * 2 teaspoons [Gochugaru](https://amzn.to/3shgJno)
 * 4 Garlic Cloves, minced 
 * 1 tablespoon [Ginger Paste](https://amzn.to/33JERox) 
-* 1 cup [Shittake Mushrooms](https://amzn.to/3q9PS9U), dried 
+* 1 cup [Shiitake Mushrooms](https://amzn.to/3q9PS9U), dried 
 * 1 package Silken Tofu, broken into pieces 
 * 1 package Shirataki Noodles, angel hair, washed and rinsed
 * 1 bundle of Scallions, greens, thinly sliced, to garnish 
@@ -93,7 +93,7 @@ A hot steaming bowl of Korean ramen noodles will always be something I crave. It
 
 * [Ginger Paste](https://amzn.to/33JERox)
 
-* [Shittake Mushrooms](https://amzn.to/3q9PS9U)
+* [Shiitake Mushrooms](https://amzn.to/3q9PS9U)
 
 * Silken Tofu
 
