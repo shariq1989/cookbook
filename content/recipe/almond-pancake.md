@@ -1,5 +1,5 @@
 +++
-title = "Low Carb and Keto Almond Flour Pancakes"
+title = "Low Carb Almond Flour Pancakes"
 date = "2021-06-18"
 description = "These almond flour pancakes have saved me so much time and preparation. Before this, I would make pancakes for my children and a separate batter for myself. Since I switched to this recipe for the whole family, my children did not notice the difference. And because the main ingredient for the pancakes is almond flour, they keep you and your family full much longer. This particular recipe serves two to three people. I usually double or triple the recipe and freeze them to enjoy as a quick breakfast in the future. Enjoy these fluffy almond flour pancakes our family loves."
 tags = ["breakfast",
@@ -27,12 +27,12 @@ By: [Tressa](https://www.jamilghar.com/about/)
 #### Ingredients 
 
 * 1⅓ cup [Almond Flour](https://amzn.to/3F38Qpi), blanched
-* 1 tsp Baking Powder
-* ¼ tsp Sea Salt
-* 1/2 tsp Cinnamon 
+* 1 teaspoon Baking Powder
+* ¼ teaspoon Sea Salt
+* 1/2 teaspoon Cinnamon 
 * ¼ cup Unsweetened Almond Milk
 * 2 Large Eggs
-* 1 tsp [Vanilla Extract](https://amzn.to/313NuIU)
+* 1 teaspoon [Vanilla Extract](https://amzn.to/313NuIU)
   
 #### Instructions
 
