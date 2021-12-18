@@ -25,13 +25,13 @@ By: [Tressa](https://www.jamilghar.com/about/)
 
 For the BBQ Rub: 
 
-* 2 tbsp Brown Sugar
-* 1 tbsp Paprika
-* 1 tbsp Red Chili Powder
-* 2 tsp Garlic Powder
-* 1/2 tsp Kosher Salt
-* 1/2 tsp Pepper
-* 1/4 tsp Cayenne Pepper
+* 2 tablespoon Brown Sugar
+* 1 tablespoon Paprika
+* 1 tablespoon Red Chili Powder
+* 2 teaspoon Garlic Powder
+* 1/2 teaspoon Kosher Salt
+* 1/2 teaspoon Pepper
+* 1/4 teaspoon Cayenne Pepper
 
 For the BBQ Chicken: 
 
@@ -78,7 +78,6 @@ We love get-togethers with family and friends, and these BBQ chicken drumsticks 
 
 * BBQ Sauce: I am sure there are many tasty BBQ sauces out there I don't know about, but our family go-to is [Sweet Baby Ray's](https://amzn.to/2NsxauJ). This brand is always delicious, and they offer [sugar-free](https://amzn.to/2MYvhWR), which makes everyone in the family happy. 
 
-
 #### What equipment do I need to make this recipe?
 
 * A [mixing bowl](https://amzn.to/3o4ml1T) 
@@ -89,9 +88,9 @@ We love get-togethers with family and friends, and these BBQ chicken drumsticks 
 
 #### Are BBQ chicken drumsticks keto? Are BBQ Chicken Drumsticks low-carb?
 
-They are!! Use sugar-free [bbq sauce](https://amzn.to/2MYvhWR) of your choice and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS) brown sugar replacement. I calculated the macros for one serving of the BBQ drumsticks to make it easy for you. The serving size is two drumsticks. 
+They are!! Use sugar-free [bbq sauce](https://amzn.to/2MYvhWR) of your choice and replace the brown sugar in the rub with [Swerve](https://amzn.to/39rvQQS). I calculated the macros for one serving of the BBQ drumsticks to make it easy for you. The serving size for this meal is two drumsticks. 
 
-For the Drumsticks with Rub (Swerve replacement included): 
+For the Drumsticks with Rub (Swerve Included): 
 
 * CARBS– 1 Net Carb
 * PROTEIN– 55g
